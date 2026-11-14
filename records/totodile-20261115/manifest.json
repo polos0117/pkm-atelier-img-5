@@ -1,0 +1,69 @@
+{
+  "card": "리아코",
+  "selected_candidate": 1,
+  "style": "anime_25d_gloss",
+  "images": [
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual1.webp",
+      "sha256": "6a63efc8db1ca5e47f82d6d18d0a02b0cd761050150770bc310b22651868861c",
+      "bytes": 319502
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual10.webp",
+      "sha256": "d0445d77b44f0034b0d3facd22196cef795f5ebb4cbe4248d3f4bb9d34deaeb7",
+      "bytes": 210372
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual2.webp",
+      "sha256": "53f734cb77fbb7b61d121fdbd359b553c2d76bd5ce6938bfdc2667785ffd32b0",
+      "bytes": 252662
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual3.webp",
+      "sha256": "7c0d19466fac6bd662dc7663f7bdfce37466a554c5e51a511f31308d315dd5c8",
+      "bytes": 180684
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual4.webp",
+      "sha256": "4c28727009281fe53cd403eaa65db627bd394551a15d57cbfa7a30941247c0fb",
+      "bytes": 242832
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual5.webp",
+      "sha256": "f4b10438c666fe2ecf16a0f91ee46c6c2aca2093d5c07c60ba45b5c19f480f51",
+      "bytes": 195414
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual6.webp",
+      "sha256": "2e7f370dc3ad799816dbbc3661ad4028e53e9a10037e115dfd3a89d16769e00f",
+      "bytes": 352674
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual7.webp",
+      "sha256": "fbe0cc8ad5f1d129d534c25f99a1c51c5cca6e4d4f28229d6a41f5690063261e",
+      "bytes": 340584
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual8.webp",
+      "sha256": "655f68838ed436d08e72770ee76f99e7b275003e2167021ad7f642018482f6dd",
+      "bytes": 320268
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual9.webp",
+      "sha256": "f82d4eb2469347ceee236cd4e84c9dab709fa562a81f32e4c6becd952ea2ac2f",
+      "bytes": 277598
+    },
+    {
+      "path": "img/리아코_anime_25d_gloss_f_casual90.webp",
+      "sha256": "769fda8ae2a84b827efa0063b0f6826d2ff99489962dd077768c9b2f4080b97c",
+      "bytes": 297160
+    },
+    {
+      "path": "img/리아코_light_anime_25d_gloss_f.webp",
+      "sha256": "300ddc0727c567bff44565296c7fd4c619e9df8b45d47b99548b69d241084fae",
+      "bytes": 400196
+    }
+  ],
+  "qa": "qa.json",
+  "reference": "리아코_light_anime_25d_gloss_f.webp"
+}

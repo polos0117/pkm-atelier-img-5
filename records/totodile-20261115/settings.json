@@ -1,0 +1,191 @@
+{
+  "version": 4,
+  "card": "리아코",
+  "no": 158,
+  "style": "anime_25d_gloss",
+  "plan": "/workspace/scratch/dcb3d375ba3c/totodile-pack/PLAN.json",
+  "note": "고칠 수 있는 칸만 있다. 자리마다 고정인 것(출력·인물 기준·장갑 폼·폭주 기준·첨부)은 tools/prompt-pack.cjs 가 정한다. 다 쓰면 build.",
+  "slots": {
+    "light": {
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "faceDesignOn": true,
+      "params": {
+        "body type": "an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy"
+      },
+      "scene": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "frame": "",
+        "lens": "",
+        "aspect": "2:3",
+        "camera": "",
+        "scene": "",
+        "outfit": "",
+        "custom": "",
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        }
+      },
+      "exposure": "",
+      "exposure_why": "",
+      "mecha": {
+        "set": {
+          "silhouette": "tail_unit"
+        },
+        "fx": [
+          {
+            "key": "hand",
+            "type": "water"
+          },
+          {
+            "key": "seams",
+            "type": "water"
+          },
+          {
+            "key": "ground",
+            "type": "water"
+          }
+        ]
+      },
+      "mecha_auto": {
+        "set": {
+          "silhouette": "tail_unit"
+        },
+        "fx": [
+          {
+            "key": "hand",
+            "type": "water"
+          },
+          {
+            "key": "seams",
+            "type": "water"
+          },
+          {
+            "key": "ground",
+            "type": "water"
+          }
+        ]
+      },
+      "mecha_recent": [
+        "heavy_assault"
+      ],
+      "mecha_why": ""
+    },
+    "casual1": {
+      "scene": "Her one companion is a small Eevee sheltering on the covered porch.",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {
+        "scene": "The partner scene needs an explicit companion species; Eevee has fur suitable for the planned brushing activity."
+      },
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual2": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual3": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual4": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual5": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual6": {
+      "scene": "",
+      "outfit": "A fitted saffron silk faille handkerchief-hem skort romper with an asymmetric keyhole halter bodice, open shoulders, a triangular waist opening and secure short opaque lower panels, with flat leather sandals.",
+      "camera": "",
+      "custom": "",
+      "why": {
+        "outfit": "The planned free-outfit slot requires a design absent from the catalog; this asymmetric skort romper retains the planned dock-platform moment."
+      },
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual7": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual8": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual9": {
+      "scene": "",
+      "outfit": "",
+      "camera": "",
+      "custom": "",
+      "why": {},
+      "exposure": "",
+      "exposure_why": "",
+      "situ": ""
+    },
+    "casual10": {
+      "scene": "",
+      "outfit": "An opaque dove grey and silver athletic one-piece swimsuit with a high neckline, broad shoulder straps, full torso coverage and secure full-coverage lower panels.",
+      "camera": "",
+      "custom": "",
+      "why": {
+        "outfit": "The bikini version returned no image twice. Change to a covered athletic swimsuit for a non-graphic swimming scene while preserving the planned bath-hall setting."
+      },
+      "exposure": "low",
+      "exposure_why": "No output at bold or moderate; requests 1ae72ed9-7cc3-4445-b87b-80743cb90f9a and ddda45e2-803b-4f08-803d-ae35f6e0fdd4 were blocked. Use a covered, non-graphic swimwear alternative.",
+      "situ": ""
+    }
+  }
+}

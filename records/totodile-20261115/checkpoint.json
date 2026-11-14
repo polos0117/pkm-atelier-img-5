@@ -1,0 +1,74 @@
+{
+  "status": "completed_ready_to_publish",
+  "card": "리아코",
+  "style": "anime_25d_gloss",
+  "source_repository": "/workspace/shared-git/pkm-atelier.git",
+  "worktree": "/workspace/scratch/dcb3d375ba3c/totodile",
+  "branch": "work/totodile-20261115",
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/dcb3d375ba3c/generated_images/exec-985651b7-3e79-4e2f-906b-202e72dd2a60.png",
+      "sha256": "ef2b8a352d402f9b737a55671bc44060f3def313efe4c47fd7cdd69204a4af89",
+      "design": "standard",
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴 코와 턱의 부드러운 음영, 피부 그라데이션과 선택적 광택 확인"
+      }
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/dcb3d375ba3c/generated_images/exec-6b209397-1ee1-4a23-8947-d108cb6e0d47.png",
+      "sha256": "995a194411bb48a050244362fde2c3961f58a530e26eae440f2109405e445069",
+      "design": "standard",
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴 코와 턱의 부드러운 음영, 피부 그라데이션과 선택적 광택 확인"
+      }
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/dcb3d375ba3c/generated_images/exec-9d4b1c12-25fc-4b11-9431-53c0656520d3.png",
+      "sha256": "0fbf53d05e358d523f0b1407f694793cfb7438a45c9a2aafdfe0e51e819167aa",
+      "design": "gpt_free",
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴 코와 턱의 부드러운 음영, 피부 그라데이션과 선택적 광택 확인"
+      }
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/dcb3d375ba3c/generated_images/exec-fc703903-7f57-4388-a440-8c493f0c2b64.png",
+      "sha256": "8a8c79e0c055a7a783742753ef4a03e6a76e27e43fa7f328555f80e715dfe45e",
+      "design": "gpt_free",
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴 코와 턱의 부드러운 음영, 피부 그라데이션과 선택적 광택 확인"
+      }
+    }
+  ],
+  "authorization": "After user selection, generate casual images and commit and normal push to main. No force push or deletion.",
+  "selection": 1,
+  "selected_candidate": 1,
+  "completed_slots": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "regenerated_completed_images": false,
+  "blocked_without_output": {
+    "casual10": [
+      "1ae72ed9-7cc3-4445-b87b-80743cb90f9a",
+      "ddda45e2-803b-4f08-803d-ae35f6e0fdd4"
+    ]
+  }
+}
