@@ -1,0 +1,206 @@
+[
+  {
+    "card": "브케인",
+    "slot": "light",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "d0493193d7be95050f9c06a6e14670fe14a4773ed8b701aa3dd1a97be8106885",
+    "webp_sha256": "171603fbaed738ef75f881bf14a9f87c803586032291ffddbd72b53671fb1997",
+    "reference": null,
+    "submitted_sha256": "2726e563bd85e08afc7037bef81162866d1d69250746c51b2ffff1ebca438cc7",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual1",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "ebac9e157a250a4e20c4472c2753ed96cbe8b1992a3b01ad6ee3b2eff48d2768",
+    "webp_sha256": "aab413bd736ee8c42386279aa97f8225e7a7f8da4c33eac1b61c0f6289e04ad2",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "ee6961f772af4ee79fa64a0d74d0b265f90f0f59754ae118bb75ca0cc411bec8",
+    "submitted_same": false
+  },
+  {
+    "card": "브케인",
+    "slot": "casual3",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "8822da51318ccda7843ac874d2c5071e40616dea95ac837875d37bf1379b1044",
+    "webp_sha256": "65cf8864aab0cdf7dd5064e63fd0d814c633c6b7f6371c5a6777052d7541543d",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "8702fc19aee70bc0bfb165685f79eedb146d5bb943d9cdfa20a3cf53eb485b9f",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual4",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "368290c3abde2819a0286e62f8fad9550177c7d99112204691516d5588e8a2fd",
+    "webp_sha256": "6ae1dbdf9ec82b73b0b413b031d190fbc8f5bdc25683549d6787c628044e7276",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "f2975ebb3c27bf154f17ba2ddc58ac474fcf1ab57bee1c8449698bb1409cf50e",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual5",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "4ce9f5e8561d64b7e0de665619aa48c318485eeac0dfb39dcb029e843b45a2f2",
+    "webp_sha256": "6a85fb2425de40237c9302c56943ae5974b72bbe8d9b937f11e29e75cc904d67",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "277f6d80d7bea8e2531c6c5860457a6ac84787d05c7144871c504eccee4d7050",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual7",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "7b144faadcd5e63ade3554670c9f847b52775439433e644aff31b2ba8f656b54",
+    "webp_sha256": "c1e2f4c49a4ca9bd3494a7569b3cad9e668572fcdbecad69b084c4531d62465c",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "e32d22c10c5efd02bfe8681018e9a24c46856ec424eddcce509b779017dbe8ef",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual8",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "8ae6329fc0d31f73312cbddf9499e3503001daab4b68d3d8ee2fa882812766cb",
+    "webp_sha256": "0d93b436f81dc2163e02502986dd0d198337989e34f4eed4c172328c421ac68f",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "23b6d6cc4b8f91897eec049f4ae03e017c6437ed2e45e27a157413e4de0040f2",
+    "submitted_same": false
+  },
+  {
+    "card": "브케인",
+    "slot": "casual9",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "2dd27e6f68fab5b2495908b6211b4e83e436aa8bc9773bfc41adcc56a86491fb",
+    "webp_sha256": "f50a7e5c31eac4c6e26aaec4a00256669c722fd990af85804d04c63ccc883af3",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "bacd96ae9c7e75ecc314fbb3cb13f05e86315a9a59c48c3dfc60ace31bf83e47",
+    "submitted_same": false
+  },
+  {
+    "card": "브케인",
+    "slot": "casual10",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "be790ca63c87089d0038fe638423e53fd3722af1340ca4d39fd8e1d83aea0930",
+    "webp_sha256": "93a6065ed65b3be4014e3dc519612a9e3bc22cbe6aaf808435cd58c455a10325",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "719a60db59573230968427c2cddd6464818f33944e30eb580975aeff4409e162",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual90",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "ec1dec17d2aeef2e28d66ec82bc44c35345996c08ce7518329938cc802206a97",
+    "webp_sha256": "ac5c4ddc7e74bd82318d5a0c5604fbfc8bf39cc16c2cd8b4e15f1a6c7d8c0d06",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "f6990c6e71a5fcef534c5dfcd512af0de7532a97c89abae52295b5df9f56077c",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual2",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "4f046be059e629194a5c06b1986ac80bc7034dd2d64b779a59753deba9338cb8",
+    "webp_sha256": "c09cf8e94eaa01574aa0eb941b85044b355e9ef82781c4f16334561af8dfd227",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "01ae84e71be72d6bccda694bb841e2945cc99d40df347090af27d08d002ca4b7",
+    "submitted_same": true
+  },
+  {
+    "card": "브케인",
+    "slot": "casual6",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "브케인_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "source_sha256": "a54b65546c666cec2a8464ffe890bea445877094185edc7499a0eee6269dd8a9",
+    "webp_sha256": "e70965abbd67ec40a212d86fe96ba77a9f18d7a79b499f4985341bfe674214a0",
+    "reference": "브케인_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "cdaaa9de0fda37bf22db008af446e3e2f2deea1ddd40950bd0bbc8793a27f692",
+    "submitted_same": true
+  }
+]

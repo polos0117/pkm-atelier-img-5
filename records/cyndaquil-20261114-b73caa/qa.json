@@ -1,0 +1,290 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Open glove hand has five digits, closed glove fingers overlap.",
+      "overlay_checked": false,
+      "note": "Full standing armored figure; one open hand carries a fire orb, other hand loosely closed. Both legs and boots complete."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": null
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both grips naturally partially occlude fingertips.",
+      "overlay_checked": false,
+      "note": "Seated at outdoor cinema in snowfall; both forearms connect to shoulders and hands hold the chestnut bag; two bent legs and boots visible."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop",
+      "hands": "Both earcup grips have partially hidden fingers; no detached hands.",
+      "overlay_checked": false,
+      "note": "Harbour close portrait wearing grey crochet swim top and headphones; both arms rise naturally from shoulders to earcups. Lower body outside crop."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two palms on counter; fingers distinct and naturally overlapping in perspective.",
+      "overlay_checked": false,
+      "note": "At roller-rink counter in blue flight-attendant costume and skates; two arms reach separately to the counter, two legs and skates visible."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop",
+      "hands": "No hands in crop.",
+      "overlay_checked": false,
+      "note": "Museum portrait in olive strapless bodice; both shoulders and upper arms continue beyond lower frame. Hands and legs outside crop."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Relaxed hands show five-digit silhouettes; some fingers overlap.",
+      "overlay_checked": false,
+      "note": "Beach surf in mint lingerie and open silk robe; two arms hang at sides, wrists connect naturally, two thighs visible."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two relaxed hands at sides, five-digit silhouettes, far fingers partly occluded.",
+      "overlay_checked": false,
+      "note": "Arcade hall in bone-pattern black fitted catsuit and rose headband; one arm on each side, legs naturally bent and both heels on floor."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration. Costume neckline and bust rendering are stronger than planned; recorded without regeneration."
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop",
+      "hands": "Hands and legs outside close crop.",
+      "overlay_checked": false,
+      "note": "Footbath pavilion close portrait in ivory satin; two shoulders and upper arms run outside frame, no floating limbs."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two relaxed hands with five-digit silhouettes, some overlap at distance.",
+      "overlay_checked": false,
+      "note": "Berry market in coral romper; full standing figure with two arms naturally down, both feet visible."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Lantern grip partially hides fingertips; resting hand has five digits.",
+      "overlay_checked": false,
+      "note": "Riverside lantern festival, kneeling on one knee; one raised arm supports lantern handle, other hand rests on raised knee."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both relaxed hands show five fingers.",
+      "overlay_checked": false,
+      "note": "Bus shelter costume scene, kneeling pose; two arms connect naturally, hands rest separately on thighs."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both five-finger grips wrap around peel handle with some occlusion.",
+      "overlay_checked": false,
+      "note": "Pizza apprentice at brick oven; two forearms extend to separate grips on pizza peel, shoulders and legs join naturally."
+    },
+    "identity": {
+      "result": "match",
+      "evidence": "Dark violet short swept flame-tipped hair with orange-yellow ends, golden eyes and same compact adult anime face retained from selected original."
+    },
+    "exposure": {
+      "result": "match",
+      "evidence": "Observed outfit and exposed shoulders, waist or legs retained; no additional covering added during processing."
+    },
+    "generation": {
+      "design": "project",
+      "reference": "selected mecha candidate 1"
+    },
+    "note": "Generated result retained without exposure-censorship regeneration."
+  }
+}

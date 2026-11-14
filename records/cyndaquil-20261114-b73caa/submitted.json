@@ -1,0 +1,62 @@
+{
+  "light": {
+    "submitted_sha256": "2726e563bd85e08afc7037bef81162866d1d69250746c51b2ffff1ebca438cc7",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual1": {
+    "submitted_sha256": "ee6961f772af4ee79fa64a0d74d0b265f90f0f59754ae118bb75ca0cc411bec8",
+    "same": false,
+    "reason": "required free scene or free outfit design from pack brief"
+  },
+  "casual3": {
+    "submitted_sha256": "8702fc19aee70bc0bfb165685f79eedb146d5bb943d9cdfa20a3cf53eb485b9f",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual4": {
+    "submitted_sha256": "f2975ebb3c27bf154f17ba2ddc58ac474fcf1ab57bee1c8449698bb1409cf50e",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual5": {
+    "submitted_sha256": "277f6d80d7bea8e2531c6c5860457a6ac84787d05c7144871c504eccee4d7050",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual7": {
+    "submitted_sha256": "e32d22c10c5efd02bfe8681018e9a24c46856ec424eddcce509b779017dbe8ef",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual8": {
+    "submitted_sha256": "23b6d6cc4b8f91897eec049f4ae03e017c6437ed2e45e27a157413e4de0040f2",
+    "same": false,
+    "reason": "required free scene or free outfit design from pack brief"
+  },
+  "casual9": {
+    "submitted_sha256": "bacd96ae9c7e75ecc314fbb3cb13f05e86315a9a59c48c3dfc60ace31bf83e47",
+    "same": false,
+    "reason": "required free scene or free outfit design from pack brief"
+  },
+  "casual10": {
+    "submitted_sha256": "719a60db59573230968427c2cddd6464818f33944e30eb580975aeff4409e162",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual90": {
+    "submitted_sha256": "f6990c6e71a5fcef534c5dfcd512af0de7532a97c89abae52295b5df9f56077c",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual2": {
+    "submitted_sha256": "01ae84e71be72d6bccda694bb841e2945cc99d40df347090af27d08d002ca4b7",
+    "same": true,
+    "reason": "exact pack"
+  },
+  "casual6": {
+    "submitted_sha256": "cdaaa9de0fda37bf22db008af446e3e2f2deea1ddd40950bd0bbc8793a27f692",
+    "same": true,
+    "reason": "exact pack"
+  }
+}

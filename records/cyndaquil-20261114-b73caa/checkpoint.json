@@ -1,0 +1,9 @@
+{
+  "status": "ready_to_publish",
+  "selected_candidate": 1,
+  "count": 12,
+  "style": "anime_25d_gloss",
+  "source_hashes": "manifest.json",
+  "qa": "qa.json",
+  "remote_target": "polos0117/pkm-atelier-img-5 main"
+}

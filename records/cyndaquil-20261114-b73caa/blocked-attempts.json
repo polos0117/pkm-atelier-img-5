@@ -1,0 +1,19 @@
+{
+  "original_casual2": [
+    "92a94da3-1bd7-4a9e-b6c2-606f7ad80a61",
+    "f369096a-6ece-4b70-bfef-36e401c44108",
+    "3bd59e1d-9f8c-4030-8136-6042bd107896",
+    "bfaab847-7f68-4daa-b66f-5a5161310a82"
+  ],
+  "original_casual6": [
+    "94c95970-da18-4587-b8e8-9cc420a29cb5",
+    "a69ec517-2997-49bc-8734-4e211b4b3a39",
+    "d39c81a0-f885-4d99-a568-e8499d5339af",
+    "60c93a27-8d80-4db0-b2e6-2da4849bfbb9"
+  ],
+  "replanned_casual6": [
+    "59c136a5-e692-40dc-86e7-a2f7faefad15",
+    "69957044-6e20-4755-8478-46dc99bc9d57"
+  ],
+  "note": "All listed attempts returned no image. Final replan succeeded; no returned image was regenerated for exposure reasons."
+}
