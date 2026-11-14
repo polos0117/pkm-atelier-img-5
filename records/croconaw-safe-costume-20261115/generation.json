@@ -1,0 +1,18 @@
+{
+  "card": "엘리게이",
+  "slot": "casual10",
+  "style": "anime_25d_gloss",
+  "authorization": "User approved a new fully clothed costume with a natural standing full-body composition; one generation, no unlimited retries.",
+  "reference": "/workspace/scratch/d3b821791f01/candidates/croconaw-mecha-1.png",
+  "prompt_sha256": "fb1bd1a74867ee145fe7b564dea8484fe285c584c4e62ad2f5b676bdfebce18b",
+  "status": "generated",
+  "previous_blocked_output_retained": true,
+  "original_sha256": "6db5a041d452a6cdf701ebae508ebfc2c55f2fe9ff8ad8cadf77f1f114651bd1",
+  "file": "엘리게이_anime_25d_gloss_f_casual10.webp",
+  "webp_sha256": "494c5793c58b8d92db57e06f107bd2028f447b8cea4e7368687b21afb05bd372",
+  "size": [
+    1024,
+    1536
+  ],
+  "generated": 1
+}
