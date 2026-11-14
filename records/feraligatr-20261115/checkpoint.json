@@ -1,0 +1,13 @@
+{
+  "card": "장크로다일",
+  "no": 160,
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "light_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589",
+  "outputs": 12,
+  "casuals": 11,
+  "reservation_commit": "12d6864701aebec6fd326912828ca9efc2f55ffd",
+  "status": "ready_to_publish",
+  "originals": "PNG originals retained in generation session only; not uploaded to Git",
+  "comparison": "latest twelve character settings and live session reservations"
+}

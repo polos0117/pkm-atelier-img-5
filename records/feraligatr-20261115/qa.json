@@ -1,0 +1,278 @@
+{
+  "light": {
+    "file": "장크로다일_light_anime_25d_gloss_f.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "경장 원본: 양팔·양다리 연결. 열린 장갑 손과 반쯤 쥔 손, 쥔 쪽 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual1": {
+    "file": "장크로다일_anime_25d_gloss_f_casual1.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "망원경을 두 손으로 받침. 두 팔의 어깨·팔꿈치·손목 연결 확인, 쥔 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "gpt_free",
+      "free_prompt": "casual1-submitted.txt"
+    }
+  },
+  "casual2": {
+    "file": "장크로다일_anime_25d_gloss_f_casual2.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "열매를 든 손과 아래로 내려간 반대 팔 연결. 열매를 집은 손가락 일부 가려짐. 동료 1마리는 계획의 동료 장면.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual3": {
+    "file": "장크로다일_anime_25d_gloss_f_casual3.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "스마트폰을 든 팔이 화면 앞쪽 어깨로 이어짐. 반대 팔은 어깨에서 프레임 밖으로 이어짐. 휴대폰에 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual4": {
+    "file": "장크로다일_anime_25d_gloss_f_casual4.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "머리를 만지는 팔이 어깨로 이어짐. 반대 팔은 프레임 밖. 머리카락과 겹친 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual5": {
+    "file": "장크로다일_anime_25d_gloss_f_casual5.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "소품 든 팔과 아래로 내린 팔, 두 다리·신발 확인. 소품 손의 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual6": {
+    "file": "장크로다일_anime_25d_gloss_f_casual6.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "손 흔드는 팔 연결, 열린 손가락 다섯 확인. 반대 팔이 어깨에서 프레임 아래로 이어짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual7": {
+    "file": "장크로다일_anime_25d_gloss_f_casual7.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "벽에 기대 선 자세: 두 팔·두 다리 연결, 한쪽 무릎 굽힘. 장갑과 꼬리는 코스튬 요소.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual8": {
+    "file": "장크로다일_anime_25d_gloss_f_casual8.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "한쪽 무릎 세운 앉은 자세. 한 손은 무릎, 다른 손은 지면. 팔·다리 연결 확인. 접지 손 일부 손가락 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  },
+  "casual9": {
+    "file": "장크로다일_anime_25d_gloss_f_casual9.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "귤과 껍질을 잡는 두 팔이 각각 어깨로 연결. 손가락 일부는 물체에 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "gpt_free",
+      "free_prompt": "casual9-submitted.txt"
+    }
+  },
+  "casual10": {
+    "file": "장크로다일_anime_25d_gloss_f_casual10.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "각각 밧줄 하나를 잡는 두 손. 두 팔·앉은 두 다리 연결. 밧줄과 겹친 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "gpt_free",
+      "free_prompt": "casual10-submitted.txt"
+    }
+  },
+  "casual90": {
+    "file": "장크로다일_anime_25d_gloss_f_casual90.webp",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·입술·턱의 그라데이션 음영, 가는 윤곽선, 가닥 머리와 재질별 반사. 피부의 매끈한 하이라이트."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "루어 든 손이 팔·어깨로 이어짐. 반대 팔은 프레임 밖으로 자연스럽게 이어짐. 쥔 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "프레임 밖 또는 가려진 부위는 판단하지 않음. 눈으로 보이는 팔·손·다리 연결을 검토."
+    },
+    "notes": [
+      "일부 컷에 원본의 붉은 머리 장식이 남음; 보존. 노출검열 사유 재생성 없음."
+    ],
+    "generation": {
+      "design": "generator",
+      "free_prompt": null
+    }
+  }
+}

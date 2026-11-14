@@ -1,0 +1,158 @@
+[
+  {
+    "slot": "light",
+    "number": 0,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-5c92a07f-aa26-4072-b23b-e71ab6390af2.png",
+    "source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589",
+    "file": "장크로다일_light_anime_25d_gloss_f.webp",
+    "webp_sha256": "b3260c7149d0d172b6005ca0c7cf5fd88d45851ed7e13efb5c02a84aa8ca2515",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 368444
+  },
+  {
+    "slot": "casual1",
+    "number": 1,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-e8d1aaf2-db17-4487-a361-da1b8fa8f7a5.png",
+    "source_sha256": "cb32937c07530c7543901d06470e83592f192fc14c4b5e060677bcea36ac8d4e",
+    "file": "장크로다일_anime_25d_gloss_f_casual1.webp",
+    "webp_sha256": "697f13ccba3a7bc466485e08f2c7af4b8f3163b7cf7a828a0a4783527ba93bed",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 250620
+  },
+  {
+    "slot": "casual2",
+    "number": 2,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-8d2f0ee8-7f18-4276-8bfd-480d2ed5fe5f.png",
+    "source_sha256": "6fbbe2d839b0e322b56f526e654450c1a794aa1d67c70fdedae9de5099100e5f",
+    "file": "장크로다일_anime_25d_gloss_f_casual2.webp",
+    "webp_sha256": "bdf9cb28eefc01509a7ff630e3d26b260b8809b31b7ec186985ad1d524ae29b8",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 220416
+  },
+  {
+    "slot": "casual3",
+    "number": 3,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-ad4bff84-a5fa-44c5-b3dc-34630130f560.png",
+    "source_sha256": "b9833ade43aac821b99b352727f9d410eb6caca450ce5382058bd2a3d8be4210",
+    "file": "장크로다일_anime_25d_gloss_f_casual3.webp",
+    "webp_sha256": "6930f503e8213b7fda0626ec46e479a2eb9edb51d80d1ee48062be989b321491",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 270340
+  },
+  {
+    "slot": "casual4",
+    "number": 4,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-de58adeb-70c1-4844-9a28-844badcd5dd7.png",
+    "source_sha256": "de96de9bd759908aa0654eee318eb6b9f2e01bc58c4c138747d758f39b10cafd",
+    "file": "장크로다일_anime_25d_gloss_f_casual4.webp",
+    "webp_sha256": "5256ec1d505aa1cc2a80e9bbec73f586c36d7d3724b1c2ddbaceef1239588dd6",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 197196
+  },
+  {
+    "slot": "casual5",
+    "number": 5,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-5d7a0e62-6003-44ae-ad2a-627f9733525f.png",
+    "source_sha256": "7ec684ef67ff01242bce96cea67d4a19edcbac5e7fbfdcdce21064157a847dc6",
+    "file": "장크로다일_anime_25d_gloss_f_casual5.webp",
+    "webp_sha256": "ee418e8c4039747817cfc408fb9813f2816de03779c1face25ad27abe373204a",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 338530
+  },
+  {
+    "slot": "casual6",
+    "number": 6,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-d845ff55-61b2-45d1-b604-de8036255650.png",
+    "source_sha256": "c994731cf97346e689a625811155be7d9ad721d3458e9006b645d0f245b46af8",
+    "file": "장크로다일_anime_25d_gloss_f_casual6.webp",
+    "webp_sha256": "e8e7608f49f4f6c6503f60215ec47b533f78397389e669902547e8c9e51abed3",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 324100
+  },
+  {
+    "slot": "casual7",
+    "number": 7,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-96c8297f-c477-49ca-896f-1db12803e55d.png",
+    "source_sha256": "8370983a81fe02eee8f9e6b54b279b452079287a277b7264a003d19abaf46980",
+    "file": "장크로다일_anime_25d_gloss_f_casual7.webp",
+    "webp_sha256": "2c0668345241c38f1d3350ad906cf46d02fa9519f92da1a616a5123b7cdb382a",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 367860
+  },
+  {
+    "slot": "casual8",
+    "number": 8,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-b2b7bdcf-fd28-4bbe-8f24-5af97c4bac87.png",
+    "source_sha256": "0f835926f0aba83c11ac1d355649c9fda1bd4b78d76437e53d518f98b7591dc9",
+    "file": "장크로다일_anime_25d_gloss_f_casual8.webp",
+    "webp_sha256": "99743668d90680a0e6fdf9ca655b66d5fcbc2eae333cfc6663a95959560ae7c0",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 265834
+  },
+  {
+    "slot": "casual9",
+    "number": 9,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-d82cd12f-2a94-4876-bdec-1abb276fae1d.png",
+    "source_sha256": "28f7f742acd3ee1ebb698a1debf0db7bfbb4023e56b279fe309f54a9d9fcbc66",
+    "file": "장크로다일_anime_25d_gloss_f_casual9.webp",
+    "webp_sha256": "71a0929e56074e49ef86340d055c3a305af624c5f76ea90f6275eeb85b9bda8f",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 281490
+  },
+  {
+    "slot": "casual10",
+    "number": 10,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-56959e60-164c-4cda-89e4-ed4cf9e761de.png",
+    "source_sha256": "4072b0456f8b948429edc08df4f66a3837acabd1a5d547f2b842eeeefc729ce5",
+    "file": "장크로다일_anime_25d_gloss_f_casual10.webp",
+    "webp_sha256": "57b3d5420e7aed1a945550bce3e2b612ee25b38708c7022e15bb3316295a79fc",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 310610
+  },
+  {
+    "slot": "casual90",
+    "number": 90,
+    "source": "/workspace/scratch/82bb46999416/generated_images/exec-d067fe6c-31e9-45d5-9782-8830010603f5.png",
+    "source_sha256": "ba45e01b02b529abd66b39731833306ab550475b0a4a3e49162538567fc98b96",
+    "file": "장크로다일_anime_25d_gloss_f_casual90.webp",
+    "webp_sha256": "2ecf222651ff8b24510345bb2866cadee212323bf107f5f27d6beb1f6a64bfd0",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 302466
+  }
+]

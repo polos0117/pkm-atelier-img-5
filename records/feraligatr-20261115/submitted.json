@@ -1,0 +1,74 @@
+{
+  "light": {
+    "submitted_sha256": "d44cbdcd58286c5d8dbfb12cc5316a4438f7b2f4dbee6c5d7005527e1e6cea5f",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": null
+  },
+  "casual1": {
+    "submitted_sha256": "94eca9cfe95a1c433b3ff4ee44587da493b37bfee0641c6ba536e512458e03db",
+    "submitted_same": false,
+    "reason": "free outfit/scene design explicitly permitted by generated brief",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual2": {
+    "submitted_sha256": "c4b7756cf2277769efdd5f66201655acdb7a0744b73fc89c8779ddb894e45b09",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual3": {
+    "submitted_sha256": "8f940c8c9f37efdf314f7d5e80c60d508d7c33510238295cbaf7b644acb639bc",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual4": {
+    "submitted_sha256": "033b37cfa9caca89048706722ec1f87ce6d0747178b53101b12e6414d13ffcc8",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual5": {
+    "submitted_sha256": "a24144841da2a0c1448fde41f09af3703634c6b1aadd1d2183656372d556063f",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual6": {
+    "submitted_sha256": "bf4b94a1e8aebefafafb97a77495cb1e7444f22b4e680bee3100191016e445f3",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual7": {
+    "submitted_sha256": "e50c7352d71de4166602f83709fd010512add6c5144d3a7ea99efe8a8b570d5a",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual8": {
+    "submitted_sha256": "8365b4cb899687599a8dcdccf9d8bc388452e65cb37a6958dffbff78e855d0e7",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual9": {
+    "submitted_sha256": "7558765621ba256aa11eec2d3931aecbf27382e6406e58e9eee9aebf0df477ad",
+    "submitted_same": false,
+    "reason": "free outfit/scene design explicitly permitted by generated brief",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual10": {
+    "submitted_sha256": "5414136011430b9a91c4858004862f9b063787996d59333bfcea4d99b04f8825",
+    "submitted_same": false,
+    "reason": "free outfit/scene design explicitly permitted by generated brief",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  },
+  "casual90": {
+    "submitted_sha256": "587ff139efcd2a6763913c53434eb039556e29ef962c88a49ca0248dc12aa592",
+    "submitted_same": true,
+    "reason": "verbatim generated prompt",
+    "reference_source_sha256": "2f0ea9204759d40047545d2f54bbf74ec1fa4d64e57fc4d269f10536a9d0a589"
+  }
+}
