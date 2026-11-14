@@ -1,0 +1,128 @@
+{
+ "casual1": [
+  {
+   "slot": "casual1",
+   "at": "2026-11-14T16:14:01.041Z",
+   "prompt_sha256": "1c552eb9539878478608878b0cdfcbba6457a3bdc5250919d2f0767f2eaa59f3",
+   "submitted_sha256": "1c552eb9539878478608878b0cdfcbba6457a3bdc5250919d2f0767f2eaa59f3",
+   "same": true,
+   "prompt_words": 1151,
+   "submitted_words": 1151,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual2": [
+  {
+   "slot": "casual2",
+   "at": "2026-11-14T16:14:01.145Z",
+   "prompt_sha256": "42fdc9bc1a4bc4dc10efb300f113a7451eebcdb1f4bb353ef203143e319e8d18",
+   "submitted_sha256": "42fdc9bc1a4bc4dc10efb300f113a7451eebcdb1f4bb353ef203143e319e8d18",
+   "same": true,
+   "prompt_words": 1179,
+   "submitted_words": 1179,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual3": [
+  {
+   "slot": "casual3",
+   "at": "2026-11-14T16:14:01.237Z",
+   "prompt_sha256": "e2c9bfb05cc56be18944e288ab9dbf33a7c2776417151547a85054dd8e09d400",
+   "submitted_sha256": "e2c9bfb05cc56be18944e288ab9dbf33a7c2776417151547a85054dd8e09d400",
+   "same": true,
+   "prompt_words": 1169,
+   "submitted_words": 1169,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual4": [
+  {
+   "slot": "casual4",
+   "at": "2026-11-14T16:14:01.317Z",
+   "prompt_sha256": "06aa5793d133e70a09dba823f2f1ac3bee446152a1d89a86b2750024f06159b8",
+   "submitted_sha256": "06aa5793d133e70a09dba823f2f1ac3bee446152a1d89a86b2750024f06159b8",
+   "same": true,
+   "prompt_words": 1207,
+   "submitted_words": 1207,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual6": [
+  {
+   "slot": "casual6",
+   "at": "2026-11-14T16:14:01.435Z",
+   "prompt_sha256": "f0dde996506501183b0eb0b1a739a6dbefa6a476c96f18ec8c9c407883f34c63",
+   "submitted_sha256": "f0dde996506501183b0eb0b1a739a6dbefa6a476c96f18ec8c9c407883f34c63",
+   "same": true,
+   "prompt_words": 1196,
+   "submitted_words": 1196,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual7": [
+  {
+   "slot": "casual7",
+   "at": "2026-11-14T16:14:01.513Z",
+   "prompt_sha256": "cdca484579c7554b270dfaf6409692c71f7394a0f742ed9fa00983ee1175af7e",
+   "submitted_sha256": "cdca484579c7554b270dfaf6409692c71f7394a0f742ed9fa00983ee1175af7e",
+   "same": true,
+   "prompt_words": 1138,
+   "submitted_words": 1138,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual9": [
+  {
+   "slot": "casual9",
+   "at": "2026-11-14T16:14:01.590Z",
+   "prompt_sha256": "79849b54f8bf36c92d38c3aba33213ad977970170025249b8979d6dc6af49131",
+   "submitted_sha256": "79849b54f8bf36c92d38c3aba33213ad977970170025249b8979d6dc6af49131",
+   "same": true,
+   "prompt_words": 1106,
+   "submitted_words": 1106,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual10": [
+  {
+   "slot": "casual10",
+   "at": "2026-11-14T16:14:01.664Z",
+   "prompt_sha256": "3a03c1d6185139186255ea59242b7373fca52e6e61acf3927d24f0a9e6a8a66c",
+   "submitted_sha256": "3a03c1d6185139186255ea59242b7373fca52e6e61acf3927d24f0a9e6a8a66c",
+   "same": true,
+   "prompt_words": 1117,
+   "submitted_words": 1117,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual90": [
+  {
+   "slot": "casual90",
+   "at": "2026-11-14T16:14:01.732Z",
+   "prompt_sha256": "4dcdca75920f25ac0bf8ed043a4270d3619277461bea6dd22d59eef4556206c7",
+   "submitted_sha256": "4dcdca75920f25ac0bf8ed043a4270d3619277461bea6dd22d59eef4556206c7",
+   "same": true,
+   "prompt_words": 1083,
+   "submitted_words": 1083,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ]
+}

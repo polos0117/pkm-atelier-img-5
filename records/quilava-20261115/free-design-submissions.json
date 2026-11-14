@@ -1,0 +1,16 @@
+{
+  "casual5": {
+    "generation.design": "gpt_free",
+    "generation.free_prompt": "casual5-free-submitted.txt",
+    "fixed_prefix_and_suffix_identical": true,
+    "submitted_sha256": "440866dde6e32739f1deadcb9b91ee57c1b260e5cefa486ee810c7e03b54a9a1",
+    "why": "Explicit free-scene brief in IMAGE_RULES; only authorized scene-design instructions replaced."
+  },
+  "casual8": {
+    "generation.design": "gpt_free",
+    "generation.free_prompt": "casual8-free-submitted.txt",
+    "fixed_prefix_and_suffix_identical": true,
+    "submitted_sha256": "8bfdc7e5bd32b01da7c62f5a05fdece9dabf5c1a36d7caf3275d53bb13d37e77",
+    "why": "Explicit free-scene brief in IMAGE_RULES; only authorized scene-design instructions replaced."
+  }
+}

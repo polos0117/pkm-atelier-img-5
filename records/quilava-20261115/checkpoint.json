@@ -1,0 +1,191 @@
+{
+  "card": "마그케인",
+  "selected_candidate": 2,
+  "style": "anime_25d_gloss",
+  "status": "generated_qa_complete_pending_publish",
+  "expected_images": 12,
+  "actual_images": 12,
+  "reservation_commit": "93c7f44f1c619f27309b3f5faa5f4b0639cea7d3",
+  "files": [
+    {
+      "card": "마그케인",
+      "slot": "light",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": null,
+      "file": "마그케인_light_anime_25d_gloss_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "03d036db5242499cb5a02b805e31d9a4fff62aae6e045d3fd9e134f4618bf148",
+      "original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual1",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual1.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "0763f6c218b97665563b1adc09e6404b1ed4fe47c088ef7e94fe895225ec23a2",
+      "original_sha256": "b8bacfe1bd660a7a9e0b614d22f5caa87ce57d81650b2ce532c31f7ce23ffd3a"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual2",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual2.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "6605d6cff0ca8c07308f2f4c68ec0dc48726565606a846bb362f6122af472747",
+      "original_sha256": "4b7c7d2100aa77790c7d5c2558ac2d79bac2335b89b427dae77f7ab591d056aa"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual3",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual3.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "7cc10ce3b12302b822797b00a6bdf71b73df816d98c291f742caa702846b7b7f",
+      "original_sha256": "234e6972078abf89329a7cb0fccae002cf17ed6875079bc72b1ac50eba4d0242"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual4",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual4.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "662d55f9bcd6678bc5f0d95d7096f1f913870cd2c2d165a4f39bbf001fa9af69",
+      "original_sha256": "9a9d655a855f45cb67ad58c20af6b845bd3d0194b9b308d5f734cf8087725a3a"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual5",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual5.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "a5761bd3980cbeedeed25fdb76370115cc83b666cc73a8e6c970b00905c28da4",
+      "original_sha256": "9101c706ba12b3602001cd5fec70e00a732a063fd978d79cd3b747deeb0fbc81"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual6",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual6.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "6ff72951c376563d7cc5d88878719fb3969580c7ddf457441db372afd6f0e091",
+      "original_sha256": "d177f561bd7e05821231778df500dff2b8adb405b37abdc2d966bb95aac446b6"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual7",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual7.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "62ec3ad048386bc0bd0f02f142a4691f2e1c3008cdc78f4f5796d4b012434f5d",
+      "original_sha256": "ab9328b3d040aedba33c67015ce6daf3f8d0db801a5cf225827c48d9cd3825fb"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual8",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual8.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "7de3040a377ec7c120d0216429e3b70c5894863aa037b0c1d26ae4f050e95813",
+      "original_sha256": "e9427ec81810a50089ace3dae8973914ad0f18d3bcd51cec85606cd2cb502770"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual9",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual9.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "df6cad5b10d0d4f85f82c3f3d2654237eca8f3b14304ed687a9cf3bd75fcc758",
+      "original_sha256": "66b2a91777277538110b8138479970cf82850a3121f61590819b161a040f70b8"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual10",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual10.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "36d5005840e6142998cf2f28cefc8bfcd8e301820dff788fb5b558355df065f7",
+      "original_sha256": "f8860ec500c610c945251d90f8160c4bb92bb4b8a4deb9e6352335f273eee34a"
+    },
+    {
+      "card": "마그케인",
+      "slot": "casual90",
+      "style": "anime_25d_gloss",
+      "basis": "user selected candidate 2; generator settings and literal prompt",
+      "reference_original_sha256": "2370ec701722df676e5e058940a3f18af0a583eca2428e2fa08d6ff4a6ed1035",
+      "file": "마그케인_anime_25d_gloss_f_casual90.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "74bf301018422ec3d0b12cca6e265d1e9da3fb3637428805d2f861ecedaac15f",
+      "original_sha256": "21eef6386678ba194553cb381e364ac1d5099ff1539f8b28a9f9af6b0bf723b1"
+    }
+  ]
+}
