@@ -1,0 +1,199 @@
+{
+  "card": "엘리게이",
+  "style": "anime_25d_gloss",
+  "reference_candidate": 1,
+  "requested_casuals": 11,
+  "generated_casuals": 10,
+  "blocked": [
+    "casual10"
+  ],
+  "regenerated": 0,
+  "cuts": {
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Both arms connect to shoulders; one hand braced on floor, one on knee, five digits visible with slight overlap. Both folded legs and feet connected. Profile face matches blue eyes and jagged blue hair; swimsuit is camel/chocolate, warm hall."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "match",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Both arms connect to shoulders; one hand braced on floor, one on knee, five digits visible with slight overlap. Both folded legs and feet connected. Profile face matches blue eyes and jagged blue hair; swimsuit is camel/chocolate, warm hall."
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Upper body crop: shoulders and both upper arms connect; wrists and hands leave frame. Nose, cheek and lips retain soft dimensional shading. Ivory cropped bolero and plum waist garment; neckline and shoulders visible, abdomen mostly covered."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "weaker",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Upper body crop: shoulders and both upper arms connect; wrists and hands leave frame. Nose, cheek and lips retain soft dimensional shading. Ivory cropped bolero and plum waist garment; neckline and shoulders visible, abdomen mostly covered."
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Two connected arms; right hand grips screwdriver, left hand steadies device. Fingers partly occluded by tool/grip. Kneeling legs and boots connected. Yellow fitted jacket and padded trousers, workshop table; face in profile."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "weaker",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Two connected arms; right hand grips screwdriver, left hand steadies device. Fingers partly occluded by tool/grip. Kneeling legs and boots connected. Yellow fitted jacket and padded trousers, workshop table; face in profile."
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Right hand grips overhead bell rope, left hand rests on rail; fingers partly occluded by grip, no detached hand. Two full legs and shoes connected. Ivory crop bib and wine short culottes, canal-boat deck, full-body scene."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "match",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Right hand grips overhead bell rope, left hand rests on rail; fingers partly occluded by grip, no detached hand. Two full legs and shoes connected. Ivory crop bib and wine short culottes, canal-boat deck, full-body scene."
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Two arms connected: one hand on hip and one on raised thigh. Five digits visible with overlap on thigh. One foot on step, other on ground; blue floral shirt and denim shorts in campsite."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "match",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Two arms connected: one hand on hip and one on raised thigh. Five digits visible with overlap on thigh. One foot on step, other on ground; blue floral shirt and denim shorts in campsite."
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Walking upper-body crop shows both shoulders, arms and hands near lower frame; no detached hand. Wine costume jacket and fitted top; street bookstall with flowers. Mouth corners softly raised."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "match",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Walking upper-body crop shows both shoulders, arms and hands near lower frame; no detached hand. Wine costume jacket and fitted top; street bookstall with flowers. Mouth corners softly raised."
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Crouching body with two connected forearms resting above knees; visible fingers relaxed, partly overlapping fabric. Grey/silver embroidered boubou and headwrap. Rain appears in the track environment; preserves first output."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "weaker",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Crouching body with two connected forearms resting above knees; visible fingers relaxed, partly overlapping fabric. Grey/silver embroidered boubou and headwrap. Rain appears in the track environment; preserves first output."
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Right hand holds bagel, fingers partly occluded; left hand on napkin with connected forearm and five visible digits. Both knees and sandal-clad feet connected. Saffron halter and cream culottes at bakery counter; slight smile."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "match",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Right hand holds bagel, fingers partly occluded; left hand on napkin with connected forearm and five visible digits. Both knees and sandal-clad feet connected. Saffron halter and cream culottes at bakery counter; slight smile."
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Close torso crop, arms mostly obscured by water and torso framing; visible shoulder and upper arm connect normally, no floating hands. Pink lace over opaque inner layer; water and cabana setting, view mostly rear three-quarter with face turned toward camera."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "match",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Close torso crop, arms mostly obscured by water and torso framing; visible shoulder and upper arm connect normally, no floating hands. Pink lace over opaque inner layer; water and cabana setting, view mostly rear three-quarter with face turned toward camera."
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "Both arms connect to shoulders and wrists; hands naturally clasped, overlapping fingers partly hidden. Legs outside portrait crop. Fishing vest, crop tank and hat, dock, rods, bait cooler and landing net. Face and blue hair consistent."
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended cheek/nose/lip shading and dimensional cloth; face remains an adult anime face consistent with approved reference."
+      },
+      "identity": "match: blue eyes, blue zigzag-spiked hair, face proportions and skin tone",
+      "exposure": {
+        "verdict": "weaker",
+        "note": "First generated output preserved; no regeneration for exposure."
+      },
+      "observation": "Both arms connect to shoulders and wrists; hands naturally clasped, overlapping fingers partly hidden. Legs outside portrait crop. Fishing vest, crop tank and hat, dock, rods, bait cooler and landing net. Face and blue hair consistent."
+    },
+    "casual10": {
+      "status": "moderation_blocked",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 05ffccf2-0df8-435e-b10a-9c2a81d6a50e. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "retry": false,
+      "output": null
+    }
+  }
+}

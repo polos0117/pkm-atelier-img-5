@@ -1,0 +1,74 @@
+{
+  "status": "awaiting_user_selection",
+  "card": "엘리게이",
+  "style": "anime_25d_gloss",
+  "generated": 4,
+  "regenerated": 0,
+  "candidates": {
+    "1": {
+      "path": "/workspace/scratch/d3b821791f01/candidates/croconaw-mecha-1.png",
+      "original_sha256": "bbcd99de778a6e289b68bb9310d13fa4d808deae80ee35a347af0c2f1840d075",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands connected; open fingers visible, closed fists partly occluded; no obvious detached extra limb.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "style_25d": {
+        "判定": "2.5D",
+        "reason": "Painted facial gradients on nose, cheeks and lips, blended skin tones and glossy dimensional armor."
+      }
+    },
+    "2": {
+      "path": "/workspace/scratch/d3b821791f01/candidates/croconaw-mecha-2.png",
+      "original_sha256": "e0147ae8a7331b2a2d8183de11f594fb438d263b0c7c94b14b479460e6705901",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands connected; open fingers visible, closed fists partly occluded; no obvious detached extra limb.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "style_25d": {
+        "判定": "2.5D",
+        "reason": "Painted facial gradients on nose, cheeks and lips, blended skin tones and glossy dimensional armor."
+      }
+    },
+    "3": {
+      "path": "/workspace/scratch/d3b821791f01/candidates/croconaw-mecha-3.png",
+      "original_sha256": "5046b27ce8c9581a8cd562c54a51a35a02dc361584b36072d9d0813361a21635",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands connected; open fingers visible, closed fists partly occluded; no obvious detached extra limb.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "style_25d": {
+        "判定": "2.5D",
+        "reason": "Painted facial gradients on nose, cheeks and lips, blended skin tones and glossy dimensional armor."
+      },
+      "note": "Generated shoulder/thigh openings and arms spread differ from requested coverage/stance; preserved without regeneration."
+    },
+    "4": {
+      "path": "/workspace/scratch/d3b821791f01/candidates/croconaw-mecha-4.png",
+      "original_sha256": "529f6f6e85b8de662e03d3082fa825abcb5c64bfd565f1e742251fc7fcaf06ac",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands connected; open fingers visible, closed fists partly occluded; no obvious detached extra limb.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "style_25d": {
+        "判定": "2.5D",
+        "reason": "Painted facial gradients on nose, cheeks and lips, blended skin tones and glossy dimensional armor."
+      }
+    }
+  }
+}

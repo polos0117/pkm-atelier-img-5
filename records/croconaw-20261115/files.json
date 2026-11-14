@@ -1,0 +1,100 @@
+[
+  {
+    "slot": "light",
+    "original": "/workspace/scratch/d3b821791f01/candidates/croconaw-mecha-1.png",
+    "original_sha256": "bbcd99de778a6e289b68bb9310d13fa4d808deae80ee35a347af0c2f1840d075",
+    "file": "엘리게이_light_anime_25d_gloss_f.webp",
+    "sha256": "a9444aae098c45bc7b8a11630d01a2b1d7360239e1f7b3222e6dd5b83bbf34a1",
+    "size": 350724
+  },
+  {
+    "slot": "casual1",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-18e892b6-e553-46a5-b8bb-c283210bf93a.png",
+    "original_sha256": "21b428133805cb055a33f3bd9b37830621ea2bbec147fc0a48b974dad1aee6c4",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual1.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual1.webp",
+    "sha256": "8c44c83002d744dbe60e8ed7334d4f541c0f0747bdc0146c24ae01979a0d9b59",
+    "size": 250892
+  },
+  {
+    "slot": "casual2",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-a16fe012-90cd-45ae-9f04-5adb25b85925.png",
+    "original_sha256": "51394445abf36e796220be82d8c77c713b970ccc640d3ad2606254876bbc572f",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual2.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual2.webp",
+    "sha256": "f0c517b88b6fce2456a22b34078e799e76fefbb44c5687f74563fb10890c76b7",
+    "size": 230888
+  },
+  {
+    "slot": "casual3",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-f6369887-d46a-4ac4-a96b-f02ce3ad86a9.png",
+    "original_sha256": "732181a175f6ab0695a1d1791fee7cc2f2cb7b6eb2d818bebb896e75ebeac9d6",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual3.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual3.webp",
+    "sha256": "564c9a166bc213e22d59f37de3e2c51eb6744acaf1c2c2084a48f7c361e3450e",
+    "size": 282988
+  },
+  {
+    "slot": "casual4",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-817053d2-a207-4105-8a45-d66abda4bd1a.png",
+    "original_sha256": "d3539ea1185767be2e2214bba6df2f3d3c050148829a2b355fc75f6dd72e4240",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual4.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual4.webp",
+    "sha256": "50bbc1574e0c3a266719dc089ac7ae069a4e3f572a4d25db634ab6886539e798",
+    "size": 332406
+  },
+  {
+    "slot": "casual5",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-bdd19568-6499-4bd0-8d12-ef5362c4909e.png",
+    "original_sha256": "9839892d779fe782e420ab22845e87bd260f58ff653aea98cf96c6ef7de4c7a9",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual5.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual5.webp",
+    "sha256": "2bd330cb43ede9916fc2cab9871b3ae50b9833160787bdd4f97270b2be98e235",
+    "size": 375236
+  },
+  {
+    "slot": "casual6",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-29ccc192-395b-44dd-8fd8-050ed08ea87e.png",
+    "original_sha256": "fd69b7644d12bef4ce60bf40dfb0c367d28074535d069aec8e93a96dfe1c2f51",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual6.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual6.webp",
+    "sha256": "aca7ba71f12284a05fef76273acf2b4f2e71c4eaf3cb70d69733071b34e6705c",
+    "size": 253510
+  },
+  {
+    "slot": "casual7",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-0f875399-9011-43a9-be5c-faa3c2dbe1d6.png",
+    "original_sha256": "12601a928868cd758fc2c093975513c7208b7fa905a12d562970e7aa26fe9eeb",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual7.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual7.webp",
+    "sha256": "ced6be4541a53f1f54f624dab9df529f5cb5b13c682a924be02d2bd44fb0a18e",
+    "size": 393850
+  },
+  {
+    "slot": "casual8",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-ea5c56e5-6754-4337-b35a-e5affc88181e.png",
+    "original_sha256": "7223080dd40c63302c75051501640db29d7790d65c342e6fde64ca8c146512d3",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual8.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual8.webp",
+    "sha256": "9829ad69e292bb0dd064c05dd16e85cd9a858c20a608918d1c51ef354bfab399",
+    "size": 247078
+  },
+  {
+    "slot": "casual9",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-674ddbae-6714-4bb1-9da3-9f64924b10ec.png",
+    "original_sha256": "7d0ea6cb4e7b0dba2ba083c18459c1a4b4817bbf73fd14af02966b4de8f51100",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual9.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual9.webp",
+    "sha256": "4754982802bc2700341522192af4d916ff954a1cb8e5a818e1dd65eb465a1e1f",
+    "size": 311844
+  },
+  {
+    "slot": "casual90",
+    "original": "/workspace/scratch/d3b821791f01/generated_images/exec-7053de98-58e1-4ed5-bfd0-432642a8080f.png",
+    "original_sha256": "2669ecdcd9d3f73d7d9997f111f8a1342647538887e94f7039748f8bf42ec630",
+    "path": "/workspace/scratch/d3b821791f01/pkm-atelier-img-5/img/엘리게이_anime_25d_gloss_f_casual90.webp",
+    "file": "엘리게이_anime_25d_gloss_f_casual90.webp",
+    "sha256": "04a05c99409efa2f6f69a903dc2545850d80803d542e7bb02bba9fd6ef753bd7",
+    "size": 252390
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "card": "엘리게이",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "reference_original_sha256": "bbcd99de778a6e289b68bb9310d13fa4d808deae80ee35a347af0c2f1840d075",
+  "reference_file": "엘리게이_light_anime_25d_gloss_f.webp",
+  "selection": "User selected candidate 1",
+  "design": "project",
+  "face_design": {},
+  "same_reference_for_all_casuals": true,
+  "reservation_commit": "123f4591bbd5f838c6d20f01edebaab4cbefc633",
+  "status": "ready_for_partial_publication",
+  "published_images": 11,
+  "blocked_slot": "casual10",
+  "originals": "session-local only; SHA256 in files.json",
+  "qa": "qa.json",
+  "comparison": "approved candidate1 compared with candidates2–4 and all generated casual outputs"
+}
