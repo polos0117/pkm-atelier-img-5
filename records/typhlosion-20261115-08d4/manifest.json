@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_light_anime_25d_gloss_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "0122686b724165b8775bd22ed1dd188d08e57fa8ac052bf1039d931a2fb22f6d",
+    "webp_sha256": "1c15a3e3943f677801f786c37d3259bed7b327b8691044a8cc307a3cd43a7f88",
+    "submitted_sha256": "a796d52408e1669a3849a20484df5108295b06014ac12f72679c034705100f97",
+    "submitted_same": true,
+    "reference": "text only"
+  },
+  {
+    "slot": "casual1",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual1.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "874bf2240071e99b1a8688348a04c912715505ff1332dd120dc9af4df0454b03",
+    "webp_sha256": "c987a7e7c5039d01a2aaf07a32b96c05902a35e60aa4fd474ae8243748979573",
+    "submitted_sha256": "0cc7df3bfd52ce63a6dec6af4b8a69a11cbdf8501e35c2a669f440faa1e9d77d",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual2",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual2.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "6e22b528caae17025255cea85e55d7d9f67ff1ab1169933bb6a508f2ee3da60e",
+    "webp_sha256": "b6eab1b7a5a97d48532ed2c8160e3117539cf8949b07cd2c824b69efa8e48b9c",
+    "submitted_sha256": "b578c46220d5caab94a5e73277449a80dda84eba3d7230f8dd74af6b720766d5",
+    "submitted_same": false,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual3",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual3.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "0b6277de8bf48a9182491c96339c94949bde4be680a5643dfc08a4f898e9035a",
+    "webp_sha256": "51a0646f47e15d75cdeafa1cc91a6ba5ceeeb405ca6dc7792abf479732a336b2",
+    "submitted_sha256": "eb492d4cc10ad384a13e73592417f1c3995255a522b737f5a6e701032f85d0b4",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual4",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual4.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "4c9c6b11edf1df64030eb6c6ed7bd6097b6edc8453d84bcd56a181e1f82015c5",
+    "webp_sha256": "ffe0f2b1fe343128983d8988add1b5cd5751e9888bdb0337a1976b44f062f1b4",
+    "submitted_sha256": "eac270b9ca66a04814668ee6eb2d72746210957474cf0c1aea5cb96461da5145",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual5",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual5.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "2b6af80859de47f6370b5f743f25e4799a26cb6b3a554b0f6c0c99db3e90f5d6",
+    "webp_sha256": "43ee6106849274e2afb34bbd947ba5be4a0cde2eb809870f06dca8e83758bac6",
+    "submitted_sha256": "623f6afb2553403a901e794f9220f8bf9164be80af2eb7b806079027cc35d905",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual6",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual6.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "dc399b78dd45d8a3b78cea99df1012a9791480040933994c847a9defc5787a96",
+    "webp_sha256": "419ba3a401180a237cc7c8281d51f26fe92755d5b6259160e633d0585244380f",
+    "submitted_sha256": "1ee35eff5931eb6b743355e05f9b3a55c92a28ffa7aac4efec93c9c428bf8fba",
+    "submitted_same": false,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual7",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual7.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "41116e480d964a0256ad796d164b2b8d4b4212876c4938d5c8f8b976827988b7",
+    "webp_sha256": "e2c9a7d42fcad1a54b7bbf6dd3ce68599b330a9b8a79cc3527e2c1905ec124e8",
+    "submitted_sha256": "b0a625acac5e3d8838e11a1a6692eed474e056ecaa0ba1222ec193164713a094",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual8",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual8.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "9f0796578fe08a104512cc8d821ec490e70d7749db65b8e8e509dfd9b2abf3cc",
+    "webp_sha256": "12d7c5fe4366f57bb2b854527300f589ba1ed3758798688f4b70ec613eaadac0",
+    "submitted_sha256": "5c39ddb710dcc4d5171cdc2267d7837ac6a5c539ccc5e31e937bc8f0ae0d9598",
+    "submitted_same": false,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual9",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "09a32168093f2f7aaa146eb2fa00b963ba61e6f5559304db88662d04faf3dc4a",
+    "webp_sha256": "18f6763e0129fc5ac7de7fe27021b211a7693b9c8238a1d6f9d8992dc59bc93c",
+    "submitted_sha256": "4662d5ecf3495795cd18ca974e4ba61377be8c336ab46233be28db2013c950bb",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual10",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "d885c981ef6b4381f0aa2e4cd705d40d4dc2c1b4c4d787983ed8f081441d7343",
+    "webp_sha256": "ceb91bc3be907e601c62efc32d4ec77d02fcf2264622430a036a120e40513de3",
+    "submitted_sha256": "b292d3f3219bb836c8e5bf8ea619442cceaf06814823728bc6f837382f4e8ab6",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual90",
+    "card": "블레이범",
+    "style": "anime_25d_gloss",
+    "file": "블레이범_anime_25d_gloss_f_casual90.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "19bf7b9cb071fe707376c5f33ac23aafe9a372be33f3e567ca1a78c1c92754bb",
+    "webp_sha256": "e6bb94427ff8ed074ddd19d99a8dcf40ba220c28edd09751ac296667fe4b42d8",
+    "submitted_sha256": "1f3983e4f499f4ca9723c72e9c08eaacc4978b2b999bcebd78d4b549038ecd31",
+    "submitted_same": true,
+    "reference": "selected candidate 2"
+  }
+]

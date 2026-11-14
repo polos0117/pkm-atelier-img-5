@@ -1,0 +1,50 @@
+{
+  "card": "블레이범",
+  "style": "anime_25d_gloss",
+  "status": "generated-awaiting-publication",
+  "worktree": "/workspace/scratch/08d4deb3fd11/typhlosion",
+  "candidates": [
+    {
+      "candidate": 1,
+      "design": "atelier",
+      "path": "/workspace/scratch/08d4deb3fd11/generated_images/exec-7c425247-1885-4b8d-8f35-0ad14af5635b.png",
+      "sha256": "98f44007292b1661a94580620659d85a30e59f947b8dd9cff7e400de5f399dd2",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 2,
+      "design": "atelier",
+      "path": "/workspace/scratch/08d4deb3fd11/generated_images/exec-a09be98c-2ff8-4862-acc8-d7f406f35c9a.png",
+      "sha256": "0122686b724165b8775bd22ed1dd188d08e57fa8ac052bf1039d931a2fb22f6d",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 3,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/08d4deb3fd11/generated_images/exec-9fa398bb-ef50-4c8c-a9aa-4c4669ca1b9a.png",
+      "sha256": "83e1dea4c67ccaae805ba35c0c106ab0cd9e01beb46129746a677009fededeaa",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 4,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/08d4deb3fd11/generated_images/exec-0dbd63c1-5398-4d69-8228-6606ac7f7167.png",
+      "sha256": "3bea9a4f5c5558008fbcd2a231f5a6ab1b373e8c9aa338f4a00c4a53b26e1868",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "selected": 2,
+  "registered_count": 12
+}

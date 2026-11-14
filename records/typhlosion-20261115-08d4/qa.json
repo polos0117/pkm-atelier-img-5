@@ -1,0 +1,292 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Upper-thigh openings exceed prompt; user selected candidate 2; retained."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "stronger",
+      "evidence": "Upper-thigh openings exceed prompt; user selected candidate 2; retained."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": "two; close crops hide legs",
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Pink bikini, phone and window-sill; waist crop. Left fingers overlap on sill."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Pink bikini, phone and window-sill; waist crop. Left fingers overlap on sill."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Raised leg and bowl; toes visible; hand on knee and bowl grip are connected."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Raised leg and bowl; toes visible; hand on knee and bowl grip are connected."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "light candidate 2",
+      "tries": 1,
+      "free_prompt": "CHARACTER: the same woman as the attached image — Typhlosion (블레이범) personified, fire type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a hillside observatory guesthouse courtyard at dawn, where she has stepped outside to watch a hot-air balloon being inflated far below, no other people visible.\nActivity: she rests one bare foot on the low stone ledge to stretch her calf after waking, holding a ceramic breakfast bowl in her own left hand at waist height; her right arm extends visibly from her right shoulder to a relaxed hand resting on her raised knee.\nOutfit: an original opaque lingerie-inspired breakfast ensemble: an ivory scalloped petal-cup cropped sleep bustier with broad curved shoulder bridges and a matching high-waisted tulip-panel short culotte; tailored seams, bare midriff, legs and shoulders, secure chest and pelvis coverage, no transparent fabric. This combination is absent from the outfit catalog.\nSituation: lifting her knee for the calf stretch rotates the overlapping culotte petal panels outward by design, briefly revealing more of her upper thigh while the fitted opaque shorts lining stays securely in place, no wardrobe failure.\nComposition: a knee-up three-quarter view, level with her face, her face turned gently toward the viewer; the valley and balloon visible beside her. One flame-shaped hair clasp and a tiny ember-shaped bowl handle subtly recall her source.\nEXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": "two; close crops hide legs",
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Mask on stick; lower hand/legs outside close crop. Traditional outfit reads as red lace cropped bodice; retained deviation."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Mask on stick; lower hand/legs outside close crop. Traditional outfit reads as red lace cropped bodice; retained deviation."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": "two; close crops hide legs",
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Coat and scarf, laughing; right hand reaches face, opposite arm leaves crop naturally."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Coat and scarf, laughing; right hand reaches face, opposite arm leaves crop naturally."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Gloved hands rest on bench, fingers partially overlap; knees together under tights."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Gloved hands rest on bench, fingers partially overlap; knees together under tights."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": "two; close crops hide legs",
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Folded arms join shoulders, one hand partly occluded; reference hair ornament retained."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Folded arms join shoulders, one hand partly occluded; reference hair ornament retained."
+    },
+    "generation": {
+      "design": "gpt_outfit",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Environmental subway shot; hands down at sides; fingers small but connected."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Environmental subway shot; hands down at sides; fingers small but connected."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two hands connected: tossing chestnut and holding paper cone; skort made dark rather than matching sage."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Two hands connected: tossing chestnut and holding paper cone; skort made dark rather than matching sage."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "light candidate 2",
+      "tries": 1,
+      "free_prompt": "CHARACTER: the same woman as the attached image — Typhlosion (블레이범) personified, fire type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a small lakeside ferry landing just after a rain shower, with a covered waiting bench, a still lake and a moored empty ferry in the distance.\nActivity: she pauses while balancing a paper cone of roasted chestnuts on the open palm of her own left hand at waist height. Her right arm bends forward from her right shoulder, the right hand gently tossing a single chestnut a few centimetres above her palm to cool it; both arms remain clearly separate and visible.\nOutfit: an original sage-green sculpted scarf-neck crop blouse with two wide interlocking fabric loops across the bust, a bare waist, open shoulders and a low back, paired with fitted pleated skort shorts whose split outer panels overlap diagonally; fully opaque with secure chest and pelvic coverage. Her outfit has its own colours, no armor. This exact construction is absent from the catalog.\nComposition: full-body standing with her weight on one leg, eye-level camera, body in gentle three-quarter view, her face turned toward the warm chestnut then glancing toward the camera. Clear arm and leg connections. Soft after-rain light, relaxed everyday travel. A small flame-shaped charm hangs from the chestnut cone, and an ember-red heater stands near the empty waiting bench.\nEXPRESSION: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Kneeling, both hands supported on floor; feet and toes overlap naturally. Crop closer than planned."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Kneeling, both hands supported on floor; feet and toes overlap naturally. Crop closer than planned."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Side-lying on yacht; both arms visible supported on cushion; feet slightly intersect image edge."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Side-lying on yacht; both arms visible supported on cushion; feet slightly intersect image edge."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing (exit code 3)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to matching arms; five-finger structure where readable, partial occlusions at grips, folds and distance.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Pizza manager seated holding wooden peel; other hand on knee; source hair tied up as required."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft continuous shading across nose, cheek, lip and chin; skin highlights with finely drawn features match selected reference."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Pizza manager seated holding wooden peel; other hand on knee; source hair tied up as required."
+    },
+    "generation": {
+      "design": "atelier",
+      "reference": "light candidate 2",
+      "tries": 1
+    }
+  }
+}
