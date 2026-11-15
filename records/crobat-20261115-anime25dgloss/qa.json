@@ -1,0 +1,328 @@
+{
+  "light": {
+    "status": "accepted",
+    "reference": null,
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "One adult woman, two connected arms and legs, full-body standing pose; natural finger articulation in fitted gloves."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Selected mecha candidate 1; purple hard-surface armor with mechanical tail, white wind and violet poison effects.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": null
+    }
+  },
+  "casual1": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Wine satin camisole and shorts, open shirt, lantern in right hand, underwater arches; both arms join at shoulders, fingers fold around lantern handle."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Wine satin camisole and shorts, open shirt, lantern in right hand, underwater arches; both arms join at shoulders, fingers fold around lantern handle.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual2": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Coral asymmetric swim top and shorts, both arms extended to their own shoulders; hands partly meet image edges, fingers visible at sides."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Coral asymmetric swim top and shorts, both arms extended to their own shoulders; hands partly meet image edges, fingers visible at sides.",
+    "generation": {
+      "design": "gpt_free",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    },
+    "notes": [
+      "Fingers approach side edges; natural crop preserved."
+    ]
+  },
+  "casual3": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Olive mechanic jumpsuit, canvas tote at shoulder, library shelves; right hand wraps tote strap, left hand hidden in pocket."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Olive mechanic jumpsuit, canvas tote at shoulder, library shelves; right hand wraps tote strap, left hand hidden in pocket.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    },
+    "notes": [
+      "Jumpsuit sleeves rest around upper arms; accepted clothing detail."
+    ]
+  },
+  "casual4": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Ivory satin ghost fashion and translucent outer veil, face close-up and V sign with connected near forearm; far hand outside crop."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Ivory satin ghost fashion and translucent outer veil, face close-up and V sign with connected near forearm; far hand outside crop.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual5": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Ivory red-piped playsuit, seated on dock, both arms visibly bend toward ball and cloth; some fingers hidden by ball."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Ivory red-piped playsuit, seated on dock, both arms visibly bend toward ball and cloth; some fingers hidden by ball.",
+    "generation": {
+      "design": "gpt_free",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual6": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Cinnamon tailored playsuit, night-train supper; right hand steadies soup cup, left holds rice ball; both forearms connected."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Cinnamon tailored playsuit, night-train supper; right hand steadies soup cup, left holds rice ball; both forearms connected.",
+    "generation": {
+      "design": "gpt_free",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual7": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Purple Crobat bodysuit costume and wing decorations, leaning on wall with one bent leg; both gloves join wrists and forearms."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Purple Crobat bodysuit costume and wing decorations, leaning on wall with one bent leg; both gloves join wrists and forearms.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual8": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Black sari in park, crouching beside Crobat companion; near hand rolls ball, far arm reaches ground support, natural bent knee."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Black sari in park, crouching beside Crobat companion; near hand rolls ball, far arm reaches ground support, natural bent knee.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual9": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Golden draped outfit, close face and shoulder portrait, hand tucks hair behind ear, far hand outside frame."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Golden draped outfit, close face and shoulder portrait, hand tucks hair behind ear, far hand outside frame.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    },
+    "notes": [
+      "Head turns more toward camera than planned profile, and crop extends below collarbones; accepted framing difference."
+    ]
+  },
+  "casual10": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Silver ring bikini, seated at washing basin edge; both arms descend naturally to supporting hands beside hips."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Silver ring bikini, seated at washing basin edge; both arms descend naturally to supporting hands beside hips.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640"
+    }
+  },
+  "casual90": {
+    "status": "accepted",
+    "reference": "light",
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheek, lips and chin; coloured subtle edges; glossy shoulder and skin highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed; visually inspected",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five-finger natural structure where visible; grips, overlapping hands and cropped digits are not fully countable. No visible extra hand or limb.",
+      "evidence": "Sommelier waistcoat over white tied shirt, waist-up cellar scene; both hands clasp with fingers naturally overlapping and both forearms attached."
+    },
+    "exposure": {
+      "judgment": "match",
+      "evidence": "Chest and pelvis covered; visible bare skin follows outfit design."
+    },
+    "scene_evidence": "Sommelier waistcoat over white tied shirt, waist-up cellar scene; both hands clasp with fingers naturally overlapping and both forearms attached.",
+    "generation": {
+      "design": "planned",
+      "tool": "image_gen",
+      "reference_image_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640",
+      "own": {
+        "level": "bold",
+        "tries": 1,
+        "blocked": []
+      }
+    }
+  }
+}

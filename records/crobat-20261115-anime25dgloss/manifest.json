@@ -1,0 +1,82 @@
+{
+  "card": "크로뱃",
+  "no": 169,
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "outputs": [
+    {
+      "slot": "light",
+      "file": "크로뱃_light_anime_25d_gloss_f.webp",
+      "source_sha256": "b38cdac692985d22e0131634aae2a2330362cb20865a048f2861d9a756a65640",
+      "webp_sha256": "ecb50686be251c6f6b9faad1d15012ecc55abe24ae0ef984a709af8f68acfe9a"
+    },
+    {
+      "slot": "casual1",
+      "file": "크로뱃_anime_25d_gloss_f_casual1.webp",
+      "source_sha256": "5c9f283fd96e5d26aa93cf13cdee5aa9eef3e7b87f4b030ae62c687a63a7313a",
+      "webp_sha256": "d352a27c53355ebb2417190f6b5f6af69ad9e04cccfde63aeffd49646fa6581a"
+    },
+    {
+      "slot": "casual2",
+      "file": "크로뱃_anime_25d_gloss_f_casual2.webp",
+      "source_sha256": "4a7f387d0a0a760fe415759e7051fa158cc0309350e30df7ae8cf42c8b1bccd2",
+      "webp_sha256": "1b9cc6e6bc4b85782a4be6f0f35b617257465531b9f1afa1b33f8a8910ae8d03"
+    },
+    {
+      "slot": "casual3",
+      "file": "크로뱃_anime_25d_gloss_f_casual3.webp",
+      "source_sha256": "24770d8c50b9f8b0c5274c7557aa00a1646356f837e1a7c315ff17d584536966",
+      "webp_sha256": "4df26bf9d4df89b6936f95ea325e482b403b0cfca0b7c85a5a741bf1ac9615c1"
+    },
+    {
+      "slot": "casual4",
+      "file": "크로뱃_anime_25d_gloss_f_casual4.webp",
+      "source_sha256": "1e4aea2fd7f7afaf0fb5bec9a7ed4cbf532af41411e1ad3bb7eb6b87f318d10f",
+      "webp_sha256": "bc194d5f110bccee8a979f3c7eac79d9d383de5e48081c1c73b922d3609f3a3e"
+    },
+    {
+      "slot": "casual5",
+      "file": "크로뱃_anime_25d_gloss_f_casual5.webp",
+      "source_sha256": "8f12fc343ff04406ae3fbf45a28eb1d75f39fa5cc01cd6ad3365f0fc5c38bcb6",
+      "webp_sha256": "5cf0f057b17cb294cda6479d6e730bec03eea96f493f50a3c5d886e6f52e029c"
+    },
+    {
+      "slot": "casual6",
+      "file": "크로뱃_anime_25d_gloss_f_casual6.webp",
+      "source_sha256": "109e9800caad9b362bcb21a1922f3ca1956caac76e62ddb73c4d333c25cda7de",
+      "webp_sha256": "659340707e04a9cea37533d5cd35be348dc670f6bff86414caf37c1d5d21720b"
+    },
+    {
+      "slot": "casual7",
+      "file": "크로뱃_anime_25d_gloss_f_casual7.webp",
+      "source_sha256": "151dc1f0feed0b62e34177fe4f3d4cf90f572f9bf0ed19a9f8a9484cd01c4bf9",
+      "webp_sha256": "43d7d6743b00203578f81a9775400e0f0ce2914d44797ec3453ffce91c5ebdaf"
+    },
+    {
+      "slot": "casual8",
+      "file": "크로뱃_anime_25d_gloss_f_casual8.webp",
+      "source_sha256": "69022535880bc75b1610c551dd258c1590eec38c7ecf25e4025371e63952c7e7",
+      "webp_sha256": "7b29d0ae79f29d51ecc596678cad534fdef3e7a51fcd28a4a20cad2e409a48dc"
+    },
+    {
+      "slot": "casual9",
+      "file": "크로뱃_anime_25d_gloss_f_casual9.webp",
+      "source_sha256": "15b37fb3d966a93d61170d25da5d7231a69e93325bc1441042da634c1e15d904",
+      "webp_sha256": "4b497fe93ca32c057829940ee2db7343d3ae13819401ecacf3d716fc4fdd4356"
+    },
+    {
+      "slot": "casual10",
+      "file": "크로뱃_anime_25d_gloss_f_casual10.webp",
+      "source_sha256": "baff1641a7c19de992cc28cadff00205e96f8619f0de2f2fed22291057657e28",
+      "webp_sha256": "86f79355d0e1a2979ceac2b8aadc510d2818abd4a9b806f7dfba57e25b91afb2"
+    },
+    {
+      "slot": "casual90",
+      "file": "크로뱃_anime_25d_gloss_f_casual90.webp",
+      "source_sha256": "7cb59a15719f66a54a56c62e995caf88cc1ca0d6db99d98b50275e9bd3652f08",
+      "webp_sha256": "e03c0bd09fb4d5b37f27c9aed34c481eca78216c539c38780e2ca5dcbc9a60b7"
+    }
+  ],
+  "reference_policy": "Every casual image references the selected original mecha image directly.",
+  "selected_prompt_sha256": "7a41c4c8b4052ee0f0f43c52ca61674e75d87edc662ef46a43915a7e72e59ef3"
+}
