@@ -1,0 +1,158 @@
+{
+  "light": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Two arms and two legs connected; both gloved hands visible with overlapping fingers; mechanical wing binders are equipment.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Two arms and two legs connected; both gloved hands visible with overlapping fingers; mechanical wing binders are equipment."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual1": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Crouching by waterfall, two forearms meet relaxed hands on knees; folded legs connected.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Crouching by waterfall, two forearms meet relaxed hands on knees; folded legs connected."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual3": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Both arms reach the table with connected wrists and hands; full standing legs visible.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Both arms reach the table with connected wrists and hands; full standing legs visible."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual5": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Two arms and hands down at the sides, knees cropped; fingers relaxed.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Two arms and hands down at the sides, knees cropped; fingers relaxed."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual6": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Seated on sauna bench, one hand on thigh and other braces bench; two crossed legs visible.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Seated on sauna bench, one hand on thigh and other braces bench; two crossed legs visible."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual7": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Close crop excludes hands and lower legs; two shoulders and upper arms connected, no floating hands.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Close crop excludes hands and lower legs; two shoulders and upper arms connected, no floating hands."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual8": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Raised phone hand connects to forearm; other arm outside crop, lower body cropped. Phone is modern despite requested 1999 era; retained as a recorded mismatch.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Raised phone hand connects to forearm; other arm outside crop, lower body cropped. Phone is modern despite requested 1999 era; retained as a recorded mismatch."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual9": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Seated costume; one hand grips bouquet with occluded fingers, other rests on lap; two crossed legs connected.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Seated costume; one hand grips bouquet with occluded fingers, other rests on lap; two crossed legs connected."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual90": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Clockmaker at bench seated; near hand rests on knee, far hand partially occluded; crossed legs connected.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review",
+      "issue": "ok",
+      "hands": "Visible hands connected; gripping and cropped fingers cannot all be counted reliably.",
+      "evidence": "Clockmaker at bench seated; near hand rests on knee, far hand partially occluded; crossed legs connected."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "reason": "Kept returned output without exposure-based regeneration."
+    }
+  },
+  "casual2": {
+    "accepted": false,
+    "status": "blocked_no_image",
+    "request_id": "d85e7335-5edf-4a61-8d45-5b8500c2e9d6",
+    "attempts": 1,
+    "reason": "moderation_blocked at output; no result returned; no retry"
+  },
+  "casual4": {
+    "accepted": false,
+    "status": "blocked_no_image",
+    "request_id": "21a33482-58d6-4ac0-886a-f9c57bea8202",
+    "attempts": 1,
+    "reason": "moderation_blocked at output; no result returned; no retry"
+  },
+  "casual10": {
+    "accepted": false,
+    "status": "blocked_no_image",
+    "request_id": "39cdfc9a-b18d-4f32-94f3-f855a23749d9",
+    "attempts": 1,
+    "reason": "moderation_blocked at output; no result returned; no retry"
+  }
+}
