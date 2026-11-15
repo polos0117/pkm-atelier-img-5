@@ -1,0 +1,170 @@
+[
+  {
+    "slot": "light",
+    "file": "전룡_light_anime_25d_gloss_f.webp",
+    "source_original_sha256": "cb9ad73b0d53031954f3224d5d7a60e3fbaac87c325637d4b3239cea2d5ce492",
+    "webp_sha256": "e475a691929a51f027da81cc3d98381fde3a8c16eba8f969cf0415f19f3e141b",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": null,
+    "submitted_sha256": "4bba9c24afcd291f91cce1590de72c5faacbc42dfb1b16309c6c2856762e6f58",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual1",
+    "file": "전룡_anime_25d_gloss_f_casual1.webp",
+    "source_original_sha256": "0cc11c73f450435f8927bf2302bc8aab80e15672cd18a2755bf9d1a3fee14a27",
+    "webp_sha256": "830c67eda89a1a17eda463d6128a25842042b3a417c2024ca9bcdb432b18094a",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "d3681d1776913fcfbc5aceec3a0b94b13d74ce5d929bc6015f7766ab34a5e272",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual2",
+    "file": "전룡_anime_25d_gloss_f_casual2.webp",
+    "source_original_sha256": "fa00bdaf66c8452e77362dc24837a26f07e09058d8a45c8b0f48c53932cde8cb",
+    "webp_sha256": "34e97beb73f7f9ba743f6122df4b6569c2e3558929990ef1c99bf0aa5e2e8892",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "6cb31ce134837d1713f2f11be0fa8075b20d67d9c96edb1c94ccfc46b975e51a",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual3",
+    "file": "전룡_anime_25d_gloss_f_casual3.webp",
+    "source_original_sha256": "ea356248fb010379cf06acc06c154ee54a17b1ef0a251d5700dbc75d82c375e2",
+    "webp_sha256": "420be093fd13154d4255acebc0a81094153416cc65d429eb1cde90e227aab3dd",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "c17236c7d140c1765e5ef55428636ff0e65b62f9b3a5386822ed98a58f654de4",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual4",
+    "file": "전룡_anime_25d_gloss_f_casual4.webp",
+    "source_original_sha256": "ab955a905746fcf3da320743e05dbf40a6c7f0c8afa1ac94961de6e84cf3b1d2",
+    "webp_sha256": "4f60b48bed263c762e90c2c925d29f170f87289b487513995a6492057ac79883",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "cad9e0e5fec0759606bfcb04664ba61decd36a74cab555a15780cb94e03d7491",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual5",
+    "file": "전룡_anime_25d_gloss_f_casual5.webp",
+    "source_original_sha256": "66da1035f1c9049fc08fc677d3827a09662d68fbddf650130b37985716ab544e",
+    "webp_sha256": "1c3a44322f2354f00d96f5dce2125371bed3addf42bc8208f0653801df65ca4f",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "f7d01d2b1f97c33492f24a4a597efe2ad61188672a22d9e48712f78bf8227af1",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual6",
+    "file": "전룡_anime_25d_gloss_f_casual6.webp",
+    "source_original_sha256": "5af8cd758d5f48961bbdf883fddb11f42518d28477c68f1435f694b1237eac51",
+    "webp_sha256": "4e431c8181bd0fdbadd89de8bcc5596cb67bdca8f56a34a0c5fdd77aebf24adb",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "9d4dbdece0489d8edffee319258f85de1c17efcf2968eb7725122f82f2415c52",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual7",
+    "file": "전룡_anime_25d_gloss_f_casual7.webp",
+    "source_original_sha256": "8ea755514a5edd086ffbcbeabd73fbba9deef5a8afbcaae3ba50b49a33028d7a",
+    "webp_sha256": "11a137c9d8472be47d7191376796102c9ea780c9de27367ee9334b6ecfdfbab2",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "cc676fc30814faa8222c5cddf8786bd18b6fe44cbdbf030c0636b87d8cb07cb7",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual8",
+    "file": "전룡_anime_25d_gloss_f_casual8.webp",
+    "source_original_sha256": "5067486d3578a01370006be847c4e5ffc255479d259ccdb5e88c36599a03df7e",
+    "webp_sha256": "66e88bb298e5a1ed22896d4df0270432d32eccfee34fe9d75d35ed9a4d4cb8f4",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "976d7aa6ddb8fb3b8733831398b68ba7fcddeb2d1d3a6ce5fe8d4c3d28429e3f",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual9",
+    "file": "전룡_anime_25d_gloss_f_casual9.webp",
+    "source_original_sha256": "d34d09148a9d4c4b1649f44a0da292bdd0789ff66409d19ec1ce9fe4604fb4f2",
+    "webp_sha256": "6441aa28a3725a54ddcb3f487a61d6b2ba1956c53e68aa6a8e81760047df26a8",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "99f1c04bee8aaf987e909eb7df3bf01b7ef7d904ed4e7430c183bfb7dd0d2443",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual10",
+    "file": "전룡_anime_25d_gloss_f_casual10.webp",
+    "source_original_sha256": "8e156e880bae959a42f2f25978fa875370aecc0bc372040970aa2ffc922224cd",
+    "webp_sha256": "cea22fa9be19f402671e4dbae232e2ed8b07c419775f7095f0dd353b5deb7460",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "7abbdba07bd245ff5fe6d8c9fa441d1d41d3b80dabd3aa1505761e2ac1559d73",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual90",
+    "file": "전룡_anime_25d_gloss_f_casual90.webp",
+    "source_original_sha256": "1f7c691f210987d7acf6d7f899acf8def2eaa2836cbd5aa74356077ef7cba8fd",
+    "webp_sha256": "f35aa6db88fc546624f781c88f1524530b03e0a7479a6120330dacc005531d38",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "전룡_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "36e45700a675e32b782b2598405ad132fa83dd8a1e6e0e6bf1aa9f79195dec5a",
+    "submitted_same": true
+  }
+]
