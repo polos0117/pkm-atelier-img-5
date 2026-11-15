@@ -1,0 +1,167 @@
+{
+  "card": "아르코",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 4,
+  "slots": [
+    {
+      "slot": "casual1",
+      "file": "아르코_anime_25d_gloss_f_casual1.webp",
+      "source_sha256": "6e44d088563f6dddb5fa9e06c4823ef1ba1935af69150bdec9945ebd70b1e842",
+      "webp_sha256": "cf0557945456837d37f4e506630a53b50490bef5ed5bc60d7602549a31471272",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "7676a29db8bc4dc755bf1243257d883bb24d89919da1396f8239e77db63dac65"
+    },
+    {
+      "slot": "casual2",
+      "file": "아르코_anime_25d_gloss_f_casual2.webp",
+      "source_sha256": "c13397ee49f3b7d0dd58d7780b4844e556fed5edcbe70a3e8703d3dc0d00745f",
+      "webp_sha256": "c1d0513c1ee21b10d0005e2ae73cf2c2cab245230bca21ce6dd8a31b1877b768",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "7088329babe3f21162677ff75fc7aab81ba0d638651519019c4bf06f58b86dde"
+    },
+    {
+      "slot": "casual3",
+      "file": "아르코_anime_25d_gloss_f_casual3.webp",
+      "source_sha256": "cc8dc0801f1444ef982965c36adfae576e4c249689818fbb90bf1a021f9c2c59",
+      "webp_sha256": "7b68863ae00b911355577158b1b1879d85316b7e33dab1abc493167bbdb3f067",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "6fbaae9229a50566b790eed87b0de915c4f5c699d3be73affea357f39875a295"
+    },
+    {
+      "slot": "casual4",
+      "file": "아르코_anime_25d_gloss_f_casual4.webp",
+      "source_sha256": "dad7370b26542c748f615c55c493269ac667d5aaa88eecb4f132e6548d4474b3",
+      "webp_sha256": "f37ca36b564583743b1be9b74ddec33fa54b4184377556473026f69dc73d804f",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "615154fc174f38b0aa47067426ac567e1264dab89c70dcad877dc8183454053f"
+    },
+    {
+      "slot": "casual5",
+      "file": "아르코_anime_25d_gloss_f_casual5.webp",
+      "source_sha256": "4c08f6c65f8c308165b2c236e077bfd7a1254c5390eb4dc7277edb3fc3f410a6",
+      "webp_sha256": "a4c282ea2ca38c08d53e772b75998d68ee2c6c777c3cdea9603b0444f6f934a2",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "c36f53a712a2cb4de151f501a570edd505868d141e9537716960e803e5b2139d"
+    },
+    {
+      "slot": "casual6",
+      "file": "아르코_anime_25d_gloss_f_casual6.webp",
+      "source_sha256": "02337016780bfa5693bed79de1db21416863547810b1d1f10dfc6602f97356c6",
+      "webp_sha256": "6ac267e97d04f8f6e52904ce1a6cf629cc68b8376cc2b52a89a83201508c02f8",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "16d7a9f9d521d0e359839cf9edb2a3b9ec07bd684bbc3e5a28ad458bad398786"
+    },
+    {
+      "slot": "casual7",
+      "file": "아르코_anime_25d_gloss_f_casual7.webp",
+      "source_sha256": "f8d694646255e9e46ec2b4ed55e6100662e177ef8085dc2553d9ff540822a3c6",
+      "webp_sha256": "ec081785c863a664b0fda9dd78b75d6e6ffebb7b8d990109a9160145b486b6f2",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "868deb82f555afab16942c08c4d963cf71a115647b27dda66ebac4acabf2cde7"
+    },
+    {
+      "slot": "casual8",
+      "file": "아르코_anime_25d_gloss_f_casual8.webp",
+      "source_sha256": "95a6aa893e12d26539e3530e72e27516d7314add9cfe04e4b51e66cc8b72308f",
+      "webp_sha256": "4da8a6a9d2624d5e626805e8cf51e1c42af0e1761d81b8f4e40de586119893a4",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "ea359f4fd1061610ee16513bb182a1cee3b37174f009f3ed85a4d99543ed22c1"
+    },
+    {
+      "slot": "casual9",
+      "file": "아르코_anime_25d_gloss_f_casual9.webp",
+      "source_sha256": "34a6b187da6d83a4df27893630c5496d3f54ff5e011c861631e635cb1bbb2a32",
+      "webp_sha256": "0e53ac1b1cbe707c93768cd08c5df3e1c6f6c16c024802d9040366b518f3a09c",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "2cc0cbaef72cd248b0b0e9b435afd1c9869902f66217800d118ae37c0ad40bc0"
+    },
+    {
+      "slot": "casual10",
+      "file": "아르코_anime_25d_gloss_f_casual10.webp",
+      "source_sha256": "d3ea5986fc6fd64e0fbe1cbddbb4fbc4a1ef762ab951c4368448be2770d47e91",
+      "webp_sha256": "54186d5650ecbb0f4b999c4f4e11c7fe35909b44605e92f9ba7001cdf651afa1",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "8e9351794346e3c7f673f30335e9bb10ac52bf330a1b88b4ae0240b0411930b2"
+    },
+    {
+      "slot": "casual90",
+      "file": "아르코_anime_25d_gloss_f_casual90.webp",
+      "source_sha256": "7bca85709f5276e2fcd3fdb93639ed56622a58d509aa7b476e88498eee7c3bdc",
+      "webp_sha256": "78bddd87c20420b99224a1211d0f1290e0aa684e30c015fef075763b4fa2393f",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 4",
+      "submitted_sha256": "5adb0efbf4b7b1adf7fb765d632e1d26b303d8ce90fe903bd1c0ebf236bced4c"
+    },
+    {
+      "slot": "light",
+      "file": "아르코_light_anime_25d_gloss_f.webp",
+      "source_sha256": "88c35c4c9d61dacba42e778b488ddce7218f25802b19b5e07495cb7e73b37ef8",
+      "webp_sha256": "c354607b8ae0d1fcae0663c4e7be1fa5823fafdfb59ba566ad95a39efb4c2607",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": null,
+      "submitted_sha256": "376bb3dd32e7a0055ef1d8f08edfc9da8f1c98da786c0018eb9082e771c7038c"
+    }
+  ],
+  "status": "ready_to_publish",
+  "count": 12,
+  "regenerated_successful_images": 0,
+  "reference_png_sha256": "88c35c4c9d61dacba42e778b488ddce7218f25802b19b5e07495cb7e73b37ef8"
+}

@@ -1,0 +1,62 @@
+{
+  "casual1": {
+    "sha256": "7676a29db8bc4dc755bf1243257d883bb24d89919da1396f8239e77db63dac65",
+    "same": true,
+    "exception": null
+  },
+  "casual2": {
+    "sha256": "7088329babe3f21162677ff75fc7aab81ba0d638651519019c4bf06f58b86dde",
+    "same": true,
+    "exception": null
+  },
+  "casual3": {
+    "sha256": "6fbaae9229a50566b790eed87b0de915c4f5c699d3be73affea357f39875a295",
+    "same": true,
+    "exception": null
+  },
+  "casual4": {
+    "sha256": "615154fc174f38b0aa47067426ac567e1264dab89c70dcad877dc8183454053f",
+    "same": true,
+    "exception": null
+  },
+  "casual5": {
+    "sha256": "c36f53a712a2cb4de151f501a570edd505868d141e9537716960e803e5b2139d",
+    "same": false,
+    "exception": "authorized free scene/outfit design"
+  },
+  "casual6": {
+    "sha256": "16d7a9f9d521d0e359839cf9edb2a3b9ec07bd684bbc3e5a28ad458bad398786",
+    "same": true,
+    "exception": null
+  },
+  "casual7": {
+    "sha256": "868deb82f555afab16942c08c4d963cf71a115647b27dda66ebac4acabf2cde7",
+    "same": true,
+    "exception": null
+  },
+  "casual8": {
+    "sha256": "ea359f4fd1061610ee16513bb182a1cee3b37174f009f3ed85a4d99543ed22c1",
+    "same": false,
+    "exception": "authorized free scene/outfit design"
+  },
+  "casual9": {
+    "sha256": "2cc0cbaef72cd248b0b0e9b435afd1c9869902f66217800d118ae37c0ad40bc0",
+    "same": true,
+    "exception": null
+  },
+  "casual10": {
+    "sha256": "8e9351794346e3c7f673f30335e9bb10ac52bf330a1b88b4ae0240b0411930b2",
+    "same": false,
+    "exception": "authorized free scene/outfit design"
+  },
+  "casual90": {
+    "sha256": "5adb0efbf4b7b1adf7fb765d632e1d26b303d8ce90fe903bd1c0ebf236bced4c",
+    "same": true,
+    "exception": null
+  },
+  "light": {
+    "sha256": "376bb3dd32e7a0055ef1d8f08edfc9da8f1c98da786c0018eb9082e771c7038c",
+    "same": true,
+    "exception": "selected GPT free mecha design"
+  }
+}

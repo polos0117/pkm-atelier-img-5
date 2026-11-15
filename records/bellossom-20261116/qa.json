@@ -1,0 +1,260 @@
+{
+  "casual1": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "6e44d088563f6dddb5fa9e06c4823ef1ba1935af69150bdec9945ebd70b1e842"
+  },
+  "casual2": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "c13397ee49f3b7d0dd58d7780b4844e556fed5edcbe70a3e8703d3dc0d00745f",
+    "note": "Fleece changed into an open/off-shoulder zip garment; close crop hides lower outfit. Retained as generated."
+  },
+  "casual3": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "cc8dc0801f1444ef982965c36adfae576e4c249689818fbb90bf1a021f9c2c59",
+    "note": "Soft, defocused background visitors; no other foreground character. Original hair flowers retained."
+  },
+  "casual4": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "dad7370b26542c748f615c55c493269ac667d5aaa88eecb4f132e6548d4474b3",
+    "note": "First call returned no image, output safety block 870494fd-8537-441c-b9c7-00cf3a52143e. More covered opaque sleepwear generated on second call; model retained a deep neckline."
+  },
+  "casual5": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "4c08f6c65f8c308165b2c236e077bfd7a1254c5390eb4dc7277edb3fc3f410a6"
+  },
+  "casual6": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "02337016780bfa5693bed79de1db21416863547810b1d1f10dfc6602f97356c6",
+    "note": "Defocused background convention visitors. Cosplay cut reads as overall-inspired one-piece rather than separated bikini; retained."
+  },
+  "casual7": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "f8d694646255e9e46ec2b4ed55e6100662e177ef8085dc2553d9ff540822a3c6"
+  },
+  "casual8": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "95a6aa893e12d26539e3530e72e27516d7314add9cfe04e4b51e66cc8b72308f",
+    "note": "Close crop hides skort; original hair flowers retained."
+  },
+  "casual9": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "34a6b187da6d83a4df27893630c5496d3f54ff5e011c861631e635cb1bbb2a32"
+  },
+  "casual10": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "d3ea5986fc6fd64e0fbe1cbddbb4fbc4a1ef762ab951c4368448be2770d47e91",
+    "note": "Raised and tray hands are reversed relative to the design wording. Both arms join naturally; retained."
+  },
+  "casual90": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "7bca85709f5276e2fcd3fdb93639ed56622a58d509aa7b476e88498eee7c3bdc"
+  },
+  "light": {
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Painted nose, lip and cheek gradients, finely drawn eyelids, layered hair highlights and dimensional cloth/metal; same selected face and ponytail."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect through wrists and forearms. Five-finger structure; some fingers hidden by grips, overlap or crop. Legs partly outside close-up frames.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection of each generated image and complete sheet. No detached hand or extra arm observed."
+    },
+    "exposure": {
+      "verdict": "recorded_as_generated",
+      "note": "Preserved successful result without exposure-based regeneration."
+    },
+    "reference": "selected candidate 4",
+    "source_sha256": "88c35c4c9d61dacba42e778b488ddce7218f25802b19b5e07495cb7e73b37ef8"
+  }
+}
