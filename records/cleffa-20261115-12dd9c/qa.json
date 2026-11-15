@@ -1,0 +1,206 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Full standing armored figure, two arms and two legs attached; two open hands, fingers separate. Pink curled hair, painted cheek/nose shadows and glossy skin."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Full standing armored figure, two arms and two legs attached; two open hands, fingers separate. Pink curled hair, painted cheek/nose shadows and glossy skin."
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Brushing hair in marble hammam; brush hand and wrist joined, grip partly hides fingertips; other arm continues below crop."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Brushing hair in marble hammam; brush hand and wrist joined, grip partly hides fingertips; other arm continues below crop."
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Seated on ferry deck, right hand holds tumbler, left rests on chair arm; both connected. Cobalt one-piece separates this silhouette from robes and uniform."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Seated on ferry deck, right hand holds tumbler, left rests on chair arm; both connected. Cobalt one-piece separates this silhouette from robes and uniform."
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Rink portrait, hand tucks hair; four bent fingertips and partly hidden thumb, wrist joined; other shoulder continues below crop."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Rink portrait, hand tucks hair; four bent fingertips and partly hidden thumb, wrist joined; other shoulder continues below crop."
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Pink and brown two-piece costume in repair kiosk, clasped hands both attached through wrists and elbows; knees together."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Pink and brown two-piece costume in repair kiosk, clasped hands both attached through wrists and elbows; knees together."
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Plum asymmetric uniform costume in opera lobby; clasped fingers overlap naturally, two forearms connected."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Plum asymmetric uniform costume in opera lobby; clasped fingers overlap naturally, two forearms connected."
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Prone on rug in closet, both forearms support chin; two bent legs and feet with natural toes; reference head ornaments retained."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Prone on rug in closet, both forearms support chin; two bent legs and feet with natural toes; reference head ornaments retained."
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Cycling road portrait, raised V sign with folded ring and little fingers and thumb, connected forearm; second arm extends below crop. Reference head ornaments retained."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Cycling road portrait, raised V sign with folded ring and little fingers and thumb, connected forearm; second arm extends below crop. Reference head ornaments retained."
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Yellow halter lingerie-style top in mirror maze, two crossed forearms attached, visible fingers lie on upper arm; reference head ornaments retained."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Yellow halter lingerie-style top in mirror maze, two crossed forearms attached, visible fingers lie on upper arm; reference head ornaments retained."
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Bridal satin top in taxi, both hands rest naturally, fingers visible and connected to own arms."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Bridal satin top in taxi, both hands rest naturally, fingers visible and connected to own arms."
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Footbath terrace, right fingers gather towel, left palm on bench, two attached arms and thighs; water below crop."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Footbath terrace, right fingers gather towel, left palm on bench, two attached arms and thighs; water below crop."
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visually inspected",
+      "visual": "Observatory guide waits with hands folded, connected forearms; rendered daylight despite planned night, jacket at shoulders rather than fully worn."
+    },
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Blended nose and lip modeling, cheek shadows, coloured eyelid contours and smooth glossy highlights; dimensional fabric or armor."
+    },
+    "identity": "same short pink petal curls, rose eyes and compact rounded adult face",
+    "exposure": {
+      "result": "match",
+      "note": "opaque chest and pelvis coverage; generated image retained without exposure-based regeneration"
+    },
+    "notes": "Observatory guide waits with hands folded, connected forearms; rendered daylight despite planned night, jacket at shoulders rather than fully worn."
+  },
+  "blocked_attempts": {
+    "casual4": {
+      "original_item": "pc_bodysuit",
+      "request_ids": [
+        "81f3b5c3-bcb4-41dc-af81-526ca58885ec",
+        "0429c996-a7eb-4f18-b535-ed8ea460ac29",
+        "366ad1b7-e3ca-4fd2-b8e3-41243fdbe422",
+        "6c02edd6-7276-4199-a619-98f7284edb30"
+      ],
+      "outcome": "no image returned for original twice, moderate once, low once; planner excluded pc_bodysuit and preserved all other slots; new pc_crop_set succeeded"
+    }
+  }
+}
