@@ -1,0 +1,167 @@
+{
+  "card": "부우부",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 4,
+  "generation": {
+    "design": "gpt_free",
+    "free_prompt": "light-submitted.txt"
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "file": "부우부_light_anime_25d_gloss_f.webp",
+      "original_sha256": "744d9e31e9b4f78ff09cb6b0e92adb2c5fb56b695c912786be71085c3a18e9f0",
+      "sha256": "48eae9469c579fdd2e3df07f9b48e1f4d4f5c30f0ce850821abdc796127512a2",
+      "bytes": 406118,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": null
+    },
+    {
+      "slot": "casual1",
+      "file": "부우부_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "d819aa25ce75638b360fdeb766a450620a8ca8151c74d6094864354372d6e292",
+      "sha256": "f2ff8d8d8b5dc3d3739d3a4a0ec5ba6f3222427f90bfcba4ba556a692fc44106",
+      "bytes": 255344,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual2",
+      "file": "부우부_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "237d350d420d839a5374ebf5585248edf7bc6f5b75e14b905cd949a89e19e768",
+      "sha256": "8f4904dbd50f7faeb665db27ec27742b3f68d7d02598e48c861603febf6a50df",
+      "bytes": 284230,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual3",
+      "file": "부우부_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "1214c21a6c3e663efa94d36a05298e829f31480cbf6182b29fb00ceca7f8e6ee",
+      "sha256": "fe8eeef92af227a08d8a57a79966954ef98c67edb6b14e444771bd883329b5d0",
+      "bytes": 285722,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual4",
+      "file": "부우부_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "28faa1a2afe69b618def9048e7b9469b02f1557912be8d0b18664d225cb999c6",
+      "sha256": "14f08708c217854df8247949a8063170a9b03cf7d7cda6a1baebebbc28e1bf31",
+      "bytes": 262076,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual5",
+      "file": "부우부_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "58e43848130c4ff3981f43e4ca116c400b05cc3403d8b90b3ad17410b7670218",
+      "sha256": "426975d208afd4b21da231e4ab144701c97672bb3facb195d02b747718094f1e",
+      "bytes": 299042,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual6",
+      "file": "부우부_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "4828589610499e4969ed73e9f673baae723e8930122c3e0e804f2e19db7c80c1",
+      "sha256": "f44fc5f82865b4af52fa2cec847e44c09b985b0ddcc52b6d4091989b71875d8e",
+      "bytes": 346640,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual7",
+      "file": "부우부_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "2ed5f02279ce9929a4102a9f3e5c2b467e5fab5752400816d4c03e91c52b2ba5",
+      "sha256": "3387c6a21df1d65eaaeb92414fb9135e8c8f47cca6eef5a5cc72ab9602010453",
+      "bytes": 284762,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual8",
+      "file": "부우부_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "b784de819d284899008b993885707aab9e62f40c0c0571401b8b38e9707fdb6a",
+      "sha256": "1f51cfe124ee6624f3d4c5b3d8c865be48f4078163f30bba5534caced9c1329e",
+      "bytes": 266584,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual9",
+      "file": "부우부_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "38b241e4fd36a9c0b452e77cb099f80260cdfcd962e025f342b43f4b3f963c77",
+      "sha256": "5a156771e2289b546babad6984597d8f2ca3f70cb65b762ff3c5838b00252ae4",
+      "bytes": 324922,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual10",
+      "file": "부우부_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "24cab4e02ad39e884a2ab578feda52891756d2cf005e0c4f37db0b5c1c0f9d18",
+      "sha256": "e17e4d4d38b0d66d0b387942d9a81bfcdb548effc24aa5b6fed9bb63b4a12e5b",
+      "bytes": 267990,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    },
+    {
+      "slot": "casual90",
+      "file": "부우부_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "e2a0beca9a051180808693973f35aab7b05e661e3a74a7cb21810598c5d574fb",
+      "sha256": "e405a5867d4e4f1815efab855713eb5e470b12596874fc91c49dcbe9bb5de104",
+      "bytes": 261542,
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "candidate4-original.png"
+    }
+  ]
+}

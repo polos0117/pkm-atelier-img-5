@@ -1,0 +1,261 @@
+{
+  "card": "부우부",
+  "selected_candidate": 4,
+  "reference_sha256": "744d9e31e9b4f78ff09cb6b0e92adb2c5fb56b695c912786be71085c3a18e9f0",
+  "generation": {
+    "light": {
+      "design": "gpt_free",
+      "free_prompt": "light-submitted.txt"
+    },
+    "casual9": {
+      "tries": 2,
+      "first_attempt": "moderation_blocked at output; no image returned",
+      "request_id": "58beaa3d-8bb1-4f0b-9fe9-d7df21f4ab3f",
+      "second_attempt": "same prompt; success"
+    },
+    "casual90": {
+      "own": {
+        "level": "bold",
+        "tries": 1,
+        "blocked": []
+      }
+    }
+  },
+  "review": {
+    "identity": "same teal eyes, brown and white hair, braided crown maintained",
+    "style": "anime_25d_gloss",
+    "variation": "recording booth, convention costume, train breakfast, street market, bathroom, rainy rooftop, inn spa, pool warm-up, harbor terrace, castle close-up and clock workshop",
+    "anatomy_tool": "unavailable: mediapipe not installed",
+    "manual_review": "full originals and complete contact sheet reviewed; no detached or extra arms observed; occluded fingers not asserted"
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "gpt_free"
+      }
+    },
+    {
+      "slot": "casual1",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual3",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "gpt_free"
+      }
+    },
+    {
+      "slot": "casual4",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual5",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual6",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual7",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "free_outfit"
+      }
+    },
+    {
+      "slot": "casual8",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "gpt_free"
+      }
+    },
+    {
+      "slot": "casual9",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual10",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    },
+    {
+      "slot": "casual90",
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": "2 visible or outside crop",
+        "hands": "visible wrists join matching forearms; fingers partly hidden by grip, crossed arms or crop",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Manual visual review. No extra or detached limbs observed; cropped limbs continue beyond the image edge."
+      },
+      "exposure": {
+        "status": "match",
+        "note": "Generated image retained; no regeneration for exposure."
+      },
+      "generation": {
+        "design": "standard"
+      }
+    }
+  ]
+}

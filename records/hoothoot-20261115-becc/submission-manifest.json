@@ -1,0 +1,68 @@
+{
+  "casual1": {
+    "same": true,
+    "sha256": "52fe50db47826e2cea95f125852bcd3873175b59a2903a785f1e1abbb4a7f554",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual2": {
+    "same": true,
+    "sha256": "dae939441bc08521188bdb18351fee5140122c466aca42a64530babfdd782fe1",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual3": {
+    "same": false,
+    "sha256": "49194870ce7d2ded4740324212a489d056fc9b899777c06334965dde7f77c714",
+    "design": "gpt_free",
+    "reference": "candidate4-original.png"
+  },
+  "casual4": {
+    "same": true,
+    "sha256": "1b4dab1d54c953128b26792b5ea9facf30459fe7a2645822cb9d0d4fd8b28727",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual5": {
+    "same": true,
+    "sha256": "1553d44ad31e08fa1bf1dd98b67d1e994fefc7b8a06f198dff348ce99aa3a04f",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual6": {
+    "same": true,
+    "sha256": "0ca75c24794c4e5ab4bb19c2c597da5702caf3d900dc31d51988522325c86527",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual7": {
+    "same": false,
+    "sha256": "37d41a90cbb66b50d7ab7ddfbaf3e1f83fd75309de58aae65864f3bcbeadaed6",
+    "design": "free_outfit",
+    "reference": "candidate4-original.png"
+  },
+  "casual8": {
+    "same": false,
+    "sha256": "545796a3fe5f089006efa2e79ed9ef6045f8f0f64581f69c745448f5d8ab674d",
+    "design": "gpt_free",
+    "reference": "candidate4-original.png"
+  },
+  "casual9": {
+    "same": true,
+    "sha256": "2fc489916505e2b1274d1ddaef73378f7636e9d35684527580cbcb149ed19cb4",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual10": {
+    "same": true,
+    "sha256": "e3d800ff431cdd005a59c0e947c5cb5f8fbaee24918037c410e00d4a63b5b36c",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  },
+  "casual90": {
+    "same": true,
+    "sha256": "d1ea2bf5874a024a5ea985fd09fb90a80fcdc5332c79bc417e221a7dfffcdd6f",
+    "design": "standard",
+    "reference": "candidate4-original.png"
+  }
+}
