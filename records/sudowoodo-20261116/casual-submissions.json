@@ -1,0 +1,75 @@
+{
+  "1": {
+    "prompt_sha256": "9b759eef7043bd85d049457a490a3ee6aa81831ed1ec52ed5b338e6d975248f8",
+    "submitted_sha256": "30a2173ef20f23e3b15763cacd4ee978b5f85143631229c96d2db484b3458cb0",
+    "same": false,
+    "authorized_exception": "free scene design",
+    "design": "gpt_free"
+  },
+  "2": {
+    "prompt_sha256": "5eb340f9c33944e510bbbe9a1ebacbe2e31333041bd10ca77ce980fbdeaf7d67",
+    "submitted_sha256": "5eb340f9c33944e510bbbe9a1ebacbe2e31333041bd10ca77ce980fbdeaf7d67",
+    "same": true,
+    "authorized_exception": null
+  },
+  "3": {
+    "prompt_sha256": "4cfc4e1d24f4cd98369a9a6044b6a779fae5c7a0933f2e584776b32201b220d8",
+    "submitted_sha256": "4cfc4e1d24f4cd98369a9a6044b6a779fae5c7a0933f2e584776b32201b220d8",
+    "same": true,
+    "authorized_exception": null
+  },
+  "4": {
+    "prompt_sha256": "ae4b6e137e0d21659281f7dde51ed9ccc6b8806c64291960e592c3381119cb9a",
+    "submitted_sha256": "14d3219bbc9fdcd2af2781c4a2f7b2eb70ea1fe0921d4053aea129b95c23e5dd",
+    "same": false,
+    "authorized_exception": "free outfit line"
+  },
+  "5": {
+    "prompt_sha256": "66ff5009fc2cf4921beedec99ad11218b44efdcd3bb2be2a5f0d318d33b77048",
+    "submitted_sha256": "66ff5009fc2cf4921beedec99ad11218b44efdcd3bb2be2a5f0d318d33b77048",
+    "same": true,
+    "authorized_exception": null
+  },
+  "6": {
+    "prompt_sha256": "8e95a9a0bde8979873a0f86c74f9c40781d04679e27c21e4b86fc67c9fee8540",
+    "submitted_sha256": "8e95a9a0bde8979873a0f86c74f9c40781d04679e27c21e4b86fc67c9fee8540",
+    "same": true,
+    "authorized_exception": null
+  },
+  "7": {
+    "prompt_sha256": "e8072385e7b9db5a6953d997da4472b42f722bb4926da3a360d0657e3d654c6f",
+    "submitted_sha256": "e8072385e7b9db5a6953d997da4472b42f722bb4926da3a360d0657e3d654c6f",
+    "same": true,
+    "authorized_exception": null
+  },
+  "8": {
+    "prompt_sha256": "ee10c54b009729c4bdc14e1f1d78dcc07f62f22684f33630dec3bf5eafcdaf4a",
+    "submitted_sha256": "5532e0f24b035a6b2ce359f81dc65b3634c62e1bd4a54e3ba8f2e5acd13c2a70",
+    "same": false,
+    "authorized_exception": "game cosplay character choice",
+    "cosplay": {
+      "game": "war_of_genesis_3",
+      "character": "Beramode",
+      "cut": "bodysuit"
+    }
+  },
+  "9": {
+    "prompt_sha256": "49ff1c677af160645003d9cf92cd187f018ee1b52d5bd5d7116b3caab64c16a7",
+    "submitted_sha256": "0069103b9f6b04d4217440727684bc5e97ae9a956751fd04c292b73f0ec5ca08",
+    "same": false,
+    "authorized_exception": "free scene design",
+    "design": "gpt_free"
+  },
+  "10": {
+    "prompt_sha256": "af1725ee6dc4b497e56c79cd80923acb3c4afa0f026f1a4a2e42e9e63d427b45",
+    "submitted_sha256": "af1725ee6dc4b497e56c79cd80923acb3c4afa0f026f1a4a2e42e9e63d427b45",
+    "same": true,
+    "authorized_exception": null
+  },
+  "90": {
+    "prompt_sha256": "ea51557372ce1810437747fcb038790088d9446dda13d0c926be2489f8e41e85",
+    "submitted_sha256": "ea51557372ce1810437747fcb038790088d9446dda13d0c926be2489f8e41e85",
+    "same": true,
+    "authorized_exception": null
+  }
+}

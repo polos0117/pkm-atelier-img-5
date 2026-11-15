@@ -1,0 +1,328 @@
+{
+ "card": "꼬지모",
+ "style": "anime_25d_gloss",
+ "selected": 4,
+ "cuts": [
+  {
+   "slot": "light",
+   "file": "꼬지모_light_anime_25d_gloss_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "fac279e3788de10268defd5a8624f69d9a2b7c238e31e5bd8a5213283d9f1d1d",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "전신 메카. 양손이 각각 팔목·아래팔로 연결되고, 한 손은 허리에 다른 손은 돌 아래 펼쳐져 있다. 갈색 단발·호박색 눈·세 구슬 장갑."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "전신 메카. 양손이 각각 팔목·아래팔로 연결되고, 한 손은 허리에 다른 손은 돌 아래 펼쳐져 있다. 갈색 단발·호박색 눈·세 구슬 장갑."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "전신 메카. 양손이 각각 팔목·아래팔로 연결되고, 한 손은 허리에 다른 손은 돌 아래 펼쳐져 있다. 갈색 단발·호박색 눈·세 구슬 장갑."
+   }
+  },
+  {
+   "slot": "casual1",
+   "file": "꼬지모_anime_25d_gloss_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "35c430acc117b8f99e8b85e278338169086e01159de9b8b941850efc955990cd",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "조각 정원의 미로와 둥근 돌탑. 한 손등의 돌과 아래로 편 반대 손이 각 어깨에 이어진다. 코럴 팬 주름 상의·아이보리 스코트."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "조각 정원의 미로와 둥근 돌탑. 한 손등의 돌과 아래로 편 반대 손이 각 어깨에 이어진다. 코럴 팬 주름 상의·아이보리 스코트."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "조각 정원의 미로와 둥근 돌탑. 한 손등의 돌과 아래로 편 반대 손이 각 어깨에 이어진다. 코럴 팬 주름 상의·아이보리 스코트."
+   }
+  },
+  {
+   "slot": "casual2",
+   "file": "꼬지모_anime_25d_gloss_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "9bdac07ddc0a63fff6e2d0b78a79a8f9b0f67d69b801be1d92ebda7523f1c46d",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "옷장 선반·행거와 거울 반사. 민트 실크 슈미즈가 불투명하게 무릎 위까지 내려온다. 몸 옆의 양손이 각각 아래팔에 연결된다."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "옷장 선반·행거와 거울 반사. 민트 실크 슈미즈가 불투명하게 무릎 위까지 내려온다. 몸 옆의 양손이 각각 아래팔에 연결된다."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "옷장 선반·행거와 거울 반사. 민트 실크 슈미즈가 불투명하게 무릎 위까지 내려온다. 몸 옆의 양손이 각각 아래팔에 연결된다."
+   }
+  },
+  {
+   "slot": "casual3",
+   "file": "꼬지모_anime_25d_gloss_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "c5bc89200c5fb14d929691313cc88736b0e35f83fbb6185cbee2c3f6f2f125a5",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "샹들리에 무도회의 얼굴 근접. 호박색 눈과 갈색 단발, 검은 목선. 손은 크롭 밖이며 어깨와 위팔은 프레임 밖으로 자연스럽게 이어진다."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "샹들리에 무도회의 얼굴 근접. 호박색 눈과 갈색 단발, 검은 목선. 손은 크롭 밖이며 어깨와 위팔은 프레임 밖으로 자연스럽게 이어진다."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "샹들리에 무도회의 얼굴 근접. 호박색 눈과 갈색 단발, 검은 목선. 손은 크롭 밖이며 어깨와 위팔은 프레임 밖으로 자연스럽게 이어진다."
+   }
+  },
+  {
+   "slot": "casual4",
+   "file": "꼬지모_anime_25d_gloss_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "ca1fe81f21f9528e4a8350a60b88a3bc164c9003227abfff4f9fce6ddeadc906",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "오락실 기기와 청색 스카프 상의. 두 손이 각각 허리 옆으로 내려와 있고 어깨부터 팔꿈치·손목 연결을 읽을 수 있다."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "오락실 기기와 청색 스카프 상의. 두 손이 각각 허리 옆으로 내려와 있고 어깨부터 팔꿈치·손목 연결을 읽을 수 있다."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "오락실 기기와 청색 스카프 상의. 두 손이 각각 허리 옆으로 내려와 있고 어깨부터 팔꿈치·손목 연결을 읽을 수 있다."
+   }
+  },
+  {
+   "slot": "casual5",
+   "file": "꼬지모_anime_25d_gloss_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "123c74665f7840923f67be363fa338bcfca06bd6235eabfa87e379bd77459ed0",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "롤러스케이트 선반과 보라색 작업복 주머니의 도구가 보인다. 얼굴 가까운 웃음. 손은 크롭 밖, 양어깨·위팔은 잘려 나가지 않고 이어진다."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "롤러스케이트 선반과 보라색 작업복 주머니의 도구가 보인다. 얼굴 가까운 웃음. 손은 크롭 밖, 양어깨·위팔은 잘려 나가지 않고 이어진다."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "롤러스케이트 선반과 보라색 작업복 주머니의 도구가 보인다. 얼굴 가까운 웃음. 손은 크롭 밖, 양어깨·위팔은 잘려 나가지 않고 이어진다."
+   }
+  },
+  {
+   "slot": "casual6",
+   "file": "꼬지모_anime_25d_gloss_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "649c45cfeb5adcf835c68d81cd3d6680a5fe2ce5fac328f555835f63d6195298",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "클럽의 춤추는 조명과 갈색 꼬지모 코스튬, 노란 무늬·초록 세 구슬. 양 장갑손은 몸 양옆으로 자연스럽게 이어진다."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "클럽의 춤추는 조명과 갈색 꼬지모 코스튬, 노란 무늬·초록 세 구슬. 양 장갑손은 몸 양옆으로 자연스럽게 이어진다."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "클럽의 춤추는 조명과 갈색 꼬지모 코스튬, 노란 무늬·초록 세 구슬. 양 장갑손은 몸 양옆으로 자연스럽게 이어진다."
+   }
+  },
+  {
+   "slot": "casual7",
+   "file": "꼬지모_anime_25d_gloss_f_casual7.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "81d07fbb3037e105ee6b3ef2b57633bfdc29d204a9c3a2fa6e5d37fa4b16b5e9",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "시장 음식 가판대와 줄전구. 흑백 메이드 행사 의상·앞치마. 눈 감고 웃으며 두 손은 허리 옆으로 각각 연결된다. 배경 행인은 작고 흐릿함."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "시장 음식 가판대와 줄전구. 흑백 메이드 행사 의상·앞치마. 눈 감고 웃으며 두 손은 허리 옆으로 각각 연결된다. 배경 행인은 작고 흐릿함."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "시장 음식 가판대와 줄전구. 흑백 메이드 행사 의상·앞치마. 눈 감고 웃으며 두 손은 허리 옆으로 각각 연결된다. 배경 행인은 작고 흐릿함."
+   }
+  },
+  {
+   "slot": "casual8",
+   "file": "꼬지모_anime_25d_gloss_f_casual8.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "7f4ab88ab55e329fac1168f3aad0a8b4040a10a609110dc66564a1cc16cef6cc",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "보라·흰색 게임 코스프레, 테이블과 보라 의자. 양손이 앞쪽 탁자에 놓여 각각 자기 팔을 따라 연결되고 다리는 무릎에서 교차한다. 배경의 초상은 행사 포스터."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "보라·흰색 게임 코스프레, 테이블과 보라 의자. 양손이 앞쪽 탁자에 놓여 각각 자기 팔을 따라 연결되고 다리는 무릎에서 교차한다. 배경의 초상은 행사 포스터."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "보라·흰색 게임 코스프레, 테이블과 보라 의자. 양손이 앞쪽 탁자에 놓여 각각 자기 팔을 따라 연결되고 다리는 무릎에서 교차한다. 배경의 초상은 행사 포스터."
+   }
+  },
+  {
+   "slot": "casual9",
+   "file": "꼬지모_anime_25d_gloss_f_casual9.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "f6274f2985cc4369602cb0086f0f555631ed90e7634c0a8228d92b50a2a5d337",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "소금 풀의 마른 계단 위에 앉아 한 손으로 정강이의 소금 결정을 집고 반대 손은 옆 계단에 짚는다. 양팔 연결이 보이며 청록 불투명 수영복."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "소금 풀의 마른 계단 위에 앉아 한 손으로 정강이의 소금 결정을 집고 반대 손은 옆 계단에 짚는다. 양팔 연결이 보이며 청록 불투명 수영복."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "소금 풀의 마른 계단 위에 앉아 한 손으로 정강이의 소금 결정을 집고 반대 손은 옆 계단에 짚는다. 양팔 연결이 보이며 청록 불투명 수영복."
+   }
+  },
+  {
+   "slot": "casual10",
+   "file": "꼬지모_anime_25d_gloss_f_casual10.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "e989e4c043e7addabdddeb198694a9cd2023c595a13d0add961f32e12aae46b5",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "눈산과 나무 테라스, 와인색 랩 수영복. 양손은 몸 옆으로 내려오며 한쪽 무릎을 편안하게 굽힌다. 전신과 발이 프레임에 들어온다."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "눈산과 나무 테라스, 와인색 랩 수영복. 양손은 몸 옆으로 내려오며 한쪽 무릎을 편안하게 굽힌다. 전신과 발이 프레임에 들어온다."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "눈산과 나무 테라스, 와인색 랩 수영복. 양손은 몸 옆으로 내려오며 한쪽 무릎을 편안하게 굽힌다. 전신과 발이 프레임에 들어온다."
+   }
+  },
+  {
+   "slot": "casual90",
+   "file": "꼬지모_anime_25d_gloss_f_casual90.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "sha256": "fe71cc49fdfddcc2b2d1d0e1526b8b39b71540d6e1bfa593209364c10ec992de",
+   "anatomy": {
+    "status": "visually_checked",
+    "evidence": "분재 선반·화분과 작업대. 오른손은 가위를 들고 왼손은 무릎에 올려 각 팔의 손목까지 이어진다. 앞치마·민소매·짧은 바지·녹색 두건."
+   },
+   "identity": {
+    "status": "match",
+    "evidence": "갈색 단발·호박색 눈·짧고 부드러운 턱선을 메카 4번과 대조."
+   },
+   "exposure": {
+    "verdict": "match",
+    "evidence": "분재 선반·화분과 작업대. 오른손은 가위를 들고 왼손은 무릎에 올려 각 팔의 손목까지 이어진다. 앞치마·민소매·짧은 바지·녹색 두건."
+   },
+   "scene": {
+    "status": "match",
+    "evidence": "분재 선반·화분과 작업대. 오른손은 가위를 들고 왼손은 무릎에 올려 각 팔의 손목까지 이어진다. 앞치마·민소매·짧은 바지·녹색 두건."
+   }
+  }
+ ],
+ "blocked_attempts": [
+  {
+   "slot": "casual2",
+   "request_id": "d3f5cd0d-cca6-42fb-b883-b58fed49380f"
+  },
+  {
+   "slot": "casual6",
+   "request_id": "d60e0114-6fbf-41c4-822d-1154614092cc"
+  },
+  {
+   "slot": "casual2",
+   "request_id": "145d220b-86fd-4b03-a446-ab50e672b117"
+  }
+ ],
+ "notes": [
+  "No successfully generated image was regenerated for exposure or censorship.",
+  "casual2 replanned at low exposure; casual6 replanned at moderate exposure.",
+  "casual90 is the additional own-job cut."
+ ],
+ "anatomy_tool": "unavailable: mediapipe not installed; each image visually reviewed",
+ "casual_look": "passed: no near-identical casual cuts"
+}

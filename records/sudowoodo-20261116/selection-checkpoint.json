@@ -1,0 +1,57 @@
+{
+  "card": "꼬지모",
+  "style": "anime_25d_gloss",
+  "status": "casual_planning",
+  "candidates": [
+    {
+      "number": 1,
+      "image": "/workspace/scratch/205eaa70eef8/generated_images/exec-3dc4ab1a-28b5-4987-95cd-3098cb231b12.png",
+      "design": "ours",
+      "prompt": "/workspace/scratch/205eaa70eef8/sudowoodo-pack/candidate-1-prompt.txt",
+      "prompt_sha256": "541aefbd590dd12f494eefb0271e398cfb98a46dca96723860a6f51207b023af",
+      "original_sha256": "57d581ee8edbbefcfe2c28db72594258c1e30868d712cfea116fe2630a223b7f",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/workspace/scratch/205eaa70eef8/generated_images/exec-3942231f-21d4-4569-a6d0-09e9a5219796.png",
+      "design": "ours",
+      "prompt": "/workspace/scratch/205eaa70eef8/sudowoodo-pack/candidate-2-prompt.txt",
+      "prompt_sha256": "541aefbd590dd12f494eefb0271e398cfb98a46dca96723860a6f51207b023af",
+      "original_sha256": "12f0ee5edd12e175b2ebce5ea1a7d8b78828bf1d53ba9147c73f87c217f1c31b",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/workspace/scratch/205eaa70eef8/generated_images/exec-0f0f6b84-7981-43bb-ab4a-6ed065e8fc02.png",
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/205eaa70eef8/sudowoodo-pack/candidate-3-prompt.txt",
+      "prompt_sha256": "bf4986bf4f55c14294d1b3701cfe4ab3b4ead7ad93a10f9aa60338ec6a3ffbb4",
+      "original_sha256": "3777fbe64fe0ab70794bd387dcf50e7d0f0289df2b17d6e117e24a05e14af259",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/workspace/scratch/205eaa70eef8/generated_images/exec-91eead17-62da-499f-925a-86d16f730a25.png",
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/205eaa70eef8/sudowoodo-pack/candidate-4-prompt.txt",
+      "prompt_sha256": "dc6ec84648fb4a838231a8a15dd23bdaccc805b89033389e6c7173b2d4b823ed",
+      "original_sha256": "782b3f58d706bf3bce5a05494bd17230303ae8446e157347c380ea009ca30f40",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "approval": "After user selection generate 10 casual images, commit and normal push image and dex updates to main. No force push or deleting existing work.",
+  "selected": 4
+}
