@@ -1,0 +1,57 @@
+{
+  "casual1": {
+    "submitted_sha256": "e4e1d3f2ff2b471b6d73028fc73239c25eaeb07a2656b81a651091257d255a03",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual2": {
+    "submitted_sha256": "26f23887e0344fc070d8c116fee364ce6765b9148435c94132631ded23fb2b50",
+    "same_as_generated": false,
+    "authorized_exception": "sfree scene design"
+  },
+  "casual3": {
+    "submitted_sha256": "5b05d0ae9d9399d59c9c98a6dca51442f34fcd9b20e18a0550ee9a68bcfb7ffc",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual4": {
+    "submitted_sha256": "3c2c3b0f4404d7cc814c22878db679615dfac342b555ecb8df0e9e042df71176",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual5": {
+    "submitted_sha256": "fa846461ee9a4f0f0b2e16152dc6d83823bab0d0b20265afa8a4c2a741ca4401",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual6": {
+    "submitted_sha256": "d6314c11e39a370c2c3f30790ff83fde0ca562c10e9a27b73ae2d12863c77afc",
+    "same_as_generated": false,
+    "authorized_exception": "ofree outfit design"
+  },
+  "casual7": {
+    "submitted_sha256": "7683b9cf4f21cb6bc9309a4acf73feb0184f109605f0cfe02f81918db1aca510",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual8": {
+    "submitted_sha256": "5ed30c2bbdb55cecc4320250a066d7084a3a14997b1936fa7f9b16709bd9d3f2",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual9": {
+    "submitted_sha256": "4c1cc7245960dddf6501783114345372becc44946f5082ab0de46fade292eb00",
+    "same_as_generated": false,
+    "authorized_exception": "xfree category and situation design"
+  },
+  "casual10": {
+    "submitted_sha256": "49948612e671a97a13afe562b46ebef6e8e5c8699d970167b0b732fe1d6b92a8",
+    "same_as_generated": true,
+    "authorized_exception": null
+  },
+  "casual90": {
+    "submitted_sha256": "23632dbc96a154f54b7a27d013c3be8b3627368c0969797be5bbd1a29f9503fe",
+    "same_as_generated": true,
+    "authorized_exception": null
+  }
+}
