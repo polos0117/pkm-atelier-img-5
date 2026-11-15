@@ -1,0 +1,343 @@
+{
+  "light": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Selected candidate 2; two arms and two legs connect normally. One hand open beneath wind effect, the other relaxed in a loose fist. Five-finger gloves; overlapping bent fingers on fist are partly hidden.",
+      "note": "Selected candidate 2; two arms and two legs connect normally. One hand open beneath wind effect, the other relaxed in a loose fist. Five-finger gloves; overlapping bent fingers on fist are partly hidden."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": null,
+      "attempts": 1
+    }
+  },
+  "casual1": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Waist-up garden scene, right forearm connected to hand gripping watering-can handle, some fingers hidden by grip. Left forearm connects to hand in pocket; legs outside lower crop. One small Ledyba companion separate from body.",
+      "note": "Waist-up garden scene, right forearm connected to hand gripping watering-can handle, some fingers hidden by grip. Left forearm connects to hand in pocket; legs outside lower crop. One small Ledyba companion separate from body."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual2": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Two arms bend in front of torso, both hands wrap the same cup from opposite sides. Four front fingers of each hand are visible, thumbs hidden behind cup; no extra hands. Lower body outside crop.",
+      "note": "Two arms bend in front of torso, both hands wrap the same cup from opposite sides. Four front fingers of each hand are visible, thumbs hidden behind cup; no extra hands. Lower body outside crop."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual3": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Full body costume scene. One hand grips folded cloth at chest height; other gloved hand hangs beside body. Two connected arms, two connected stocking-clad legs and separate shoes; gripping fingers partly hidden.",
+      "note": "Full body costume scene. One hand grips folded cloth at chest height; other gloved hand hangs beside body. Two connected arms, two connected stocking-clad legs and separate shoes; gripping fingers partly hidden."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 2,
+      "blocked_first_attempt": {
+        "stage": "output",
+        "no_image_returned": true,
+        "request_id": "ebb4c68c-dd38-406b-a8c3-f41f6f04aa45"
+      },
+      "exposure": "moderate"
+    }
+  },
+  "casual4": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Seated at acoustic listening cone. Right hand rests on knee, left arm reaches cone rim. Both hands connected, fingers overlap naturally. Two lower legs and feet are visible and connected.",
+      "note": "Seated at acoustic listening cone. Right hand rests on knee, left arm reaches cone rim. Both hands connected, fingers overlap naturally. Two lower legs and feet are visible and connected."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual5": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Two raised upper arms connect through bent elbows to two forearms and hands supporting storage box. Fingers partly hidden under box; lower legs outside crop.",
+      "note": "Two raised upper arms connect through bent elbows to two forearms and hands supporting storage box. Fingers partly hidden under box; lower legs outside crop."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual6": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Seated picnic. Right hand grips bubble wand; left hand grips soap bottle. Two arms connect normally, both legs fold to one side and end at two bare feet with visible toes; grips hide some fingertips.",
+      "note": "Seated picnic. Right hand grips bubble wand; left hand grips soap bottle. Two arms connect normally, both legs fold to one side and end at two bare feet with visible toes; grips hide some fingertips."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual7": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Waist-up at park fountain. Both shoulders join two bent arms with hands clasped before chest. Fingers overlap in clasp; no floating or extra hand. Legs outside crop.",
+      "note": "Waist-up at park fountain. Both shoulders join two bent arms with hands clasped before chest. Fingers overlap in clasp; no floating or extra hand. Legs outside crop."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 2,
+      "blocked_first_attempt": {
+        "stage": "output",
+        "no_image_returned": true,
+        "request_id": "e472e403-59f1-497e-b410-12e5c27f4c9e"
+      },
+      "exposure": "moderate"
+    }
+  },
+  "casual8": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Close side profile. Near right hand tucks hair at ear, wrist connects naturally to forearm and upper arm continuing to shoulder. Fingers curl in the hair and partly overlap; far shoulder and upper arm exit the lower crop naturally. Legs outside crop.",
+      "note": "Close side profile. Near right hand tucks hair at ear, wrist connects naturally to forearm and upper arm continuing to shoulder. Fingers curl in the hair and partly overlap; far shoulder and upper arm exit the lower crop naturally. Legs outside crop."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual9": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Full body from behind, face gently turned. Two arms hang beside torso with hands resting alongside thighs; both legs and sandals visible, one ankle crossed. Five fingers per relaxed hand overlap slightly.",
+      "note": "Full body from behind, face gently turned. Two arms hang beside torso with hands resting alongside thighs; both legs and sandals visible, one ankle crossed. Five fingers per relaxed hand overlap slightly."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual10": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Kneeling on court, two connected bent arms with both hands clasped before chest. Both thighs end at paired knees, two shoes behind the body. Fingers partly hidden in clasp.",
+      "note": "Kneeling on court, two connected bent arms with both hands clasped before chest. Both thighs end at paired knees, two shoes behind the body. Fingers partly hidden in clasp."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 1
+    }
+  },
+  "casual90": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual review performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "hands": "Chest-up crossing guard. Both shoulders and upper arms connect to body; right elbow bends to raised waving palm with five visible fingers including thumb. Left forearm exits bottom edge naturally; lower body outside crop.",
+      "note": "Chest-up crossing guard. Both shoulders and upper arms connect to body; right elbow bends to raised waving palm with five visible fingers including thumb. Left forearm exits bottom edge naturally; lower body outside crop."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft blended nose, cheek, lip and chin shading, delicate eyelid lines, glossy skin highlights, layered red-orange hair with white accents; selected reference facial proportions retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Red eyes, short feathered red-orange hair with white streaks and compact soft face match selected candidate 2."
+    },
+    "exposure": {
+      "verdict": "retained",
+      "evidence": "Returned image retained as generated; no exposure-based regeneration of an existing result."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "candidate 2",
+      "attempts": 1,
+      "own": {
+        "level": "bold",
+        "tries": 1,
+        "blocked": []
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "character": "레디바",
+  "style": "anime_25d_gloss",
+  "status": "generating_casual",
+  "selected": 2,
+  "candidates": [
+    {
+      "candidate": 1,
+      "design": "generator",
+      "prompt_file": "candidate-1-submitted.txt",
+      "submitted_sha256": "2a4f93ef78e205523a5bc2ec40a0e9c8596ed68f0c19e015e0e3f4b0b2ee05fa",
+      "reference_images": [],
+      "original_path": "/workspace/scratch/5b01ddabd904/ledyba-pack/candidate-1.png",
+      "original_sha256": "1f01dc98f84a5f5fcf72981c5d4100d027d0e2b626ebdb1a47eff0c551916d16",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 2,
+      "design": "generator",
+      "prompt_file": "candidate-2-submitted.txt",
+      "submitted_sha256": "2a4f93ef78e205523a5bc2ec40a0e9c8596ed68f0c19e015e0e3f4b0b2ee05fa",
+      "reference_images": [],
+      "original_path": "/workspace/scratch/5b01ddabd904/ledyba-pack/candidate-2.png",
+      "original_sha256": "8a447de8d6e121a0918a255ccf5910bd71df064460182019378c381ec1e3e386",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 3,
+      "design": "gpt_free",
+      "prompt_file": "candidate-3-submitted.txt",
+      "submitted_sha256": "79d5380f7a09154c1d4e35dc34b64453bc6a711a88f58d4d5a1e7745b4a9ca98",
+      "reference_images": [],
+      "original_path": "/workspace/scratch/5b01ddabd904/ledyba-pack/candidate-3.png",
+      "original_sha256": "d19135a975edc0711686ed5e99a72d7592a30fec52744235783497251933d7ec",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 4,
+      "design": "gpt_free",
+      "prompt_file": "candidate-4-submitted.txt",
+      "submitted_sha256": "79d5380f7a09154c1d4e35dc34b64453bc6a711a88f58d4d5a1e7745b4a9ca98",
+      "reference_images": [],
+      "original_path": "/workspace/scratch/5b01ddabd904/ledyba-pack/candidate-4.png",
+      "original_sha256": "e6f7fd0734d5c72f58b299dbe84d210b390d4440d520159eec05d814b578dd41",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "next": "Await user selection, then generate casual cuts and publish via normal push.",
+  "reference_path": "/workspace/scratch/5b01ddabd904/ledyba-pack/candidate-2.png",
+  "reference_sha256": "8a447de8d6e121a0918a255ccf5910bd71df064460182019378c381ec1e3e386",
+  "reservation_commit": "fa6e5e5b206e147d5341afde80e24e751978badf",
+  "generation": {
+    "free_scene_slots": [
+      "casual4",
+      "casual6"
+    ],
+    "free_outfit_slots": [
+      "casual9"
+    ],
+    "rules": "Free scenes replace SCENE only as explicitly permitted; free outfit replaces only Outfit line. All other generator text unchanged.",
+    "reference": "Selected candidate 2 attached to every casual image."
+  }
+}
