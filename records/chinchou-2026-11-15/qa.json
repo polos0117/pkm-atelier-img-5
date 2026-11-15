@@ -1,0 +1,128 @@
+{
+ "card": "초라기",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 2,
+ "generated": 12,
+ "requested": 12,
+ "anatomy": {
+  "tool": "unavailable: mediapipe module not installed; tool exit 3",
+  "method": "visual review of each image"
+ },
+ "slots": {
+  "light": {
+   "anatomy_visual": "Two continuous armored arms and two legs; open hand shows five digits, other hand a closed grip. Full figure with margins.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual1": {
+   "anatomy_visual": "One V-sign hand with five digits including folded digits; opposite arm leaves crop naturally.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual2": {
+   "anatomy_visual": "Raised palm has five digits; opposite arm continues below crop. Background contains small human silhouettes, contrary to one-figure instruction; retained and noted.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual3": {
+   "anatomy_visual": "Both outstretched arms continuously join shoulders and wrists; both hands have five visible digits. Two legs continuous into boots. Expression rendered as a wink rather than both narrowed eyes; retained.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual4": {
+   "anatomy_visual": "Two bent arms join visible wrists; right grips snack pick, left holds cup. Seated legs overlap naturally. Source hair ornament carried over, retained.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual5": {
+   "anatomy_visual": "Both gloved hands supported on ledge, two arms continuous. Seated legs run out of crop. Generated once at moderate after blocked bold requests without image.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual6": {
+   "anatomy_visual": "Both arms run from shoulders to relaxed hands on counter; torso continuous. Camera crop extends below planned waist crop, retained.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual7": {
+   "anatomy_visual": "Profile face; shoulders and arms continue below crop. Extra source headband carried over, retained.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual8": {
+   "anatomy_visual": "Both arms extend continuously from shoulders; visible hands show natural separated fingers. Bath wrap remains opaque.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual9": {
+   "anatomy_visual": "Both arms and hands on table; two continuous legs, feet in heels. Mirror images are reflections of same woman. Body turned further away than planned, retained.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual10": {
+   "anatomy_visual": "One knee on floor and opposite knee raised; both legs and both hands continuous. Rainy bridal scene retained.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  },
+  "casual90": {
+   "anatomy_visual": "Right hand supports spotlight body, left grips bulb; each hand joins own forearm and shoulder. No third hand.",
+   "style_25d": {
+    "assessment": "anime 2.5D with visible anime outlines",
+    "evidence": "soft gradients on cheeks/nose/lips and glossy skin highlights; dimensional layered hair and clothing; dark anime eye contours remain"
+   },
+   "status": "accepted_with_notes",
+   "regenerated_for_exposure_censorship": false
+  }
+ },
+ "blocked": {
+  "casual5": {
+   "bold": "output moderation blocked; request 015a9472-b9f8-48c9-b8c7-1ce384c59163; earlier batch error fa6b0887-258d-40a4-86dc-d1f5bb092b5c had no resolved slot",
+   "accepted_level": "moderate"
+  }
+ },
+ "transport_note": "Initial Promise.all batch 5-8 exited on moderation failure; no result/image returned to caller for 5-8; repeated unchanged requests with allSettled to retain independent results."
+}
