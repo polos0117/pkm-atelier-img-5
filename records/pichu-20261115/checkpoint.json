@@ -1,0 +1,21 @@
+{
+  "card": "피츄",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "status": "completed",
+  "completed": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "no_regeneration_of_successful_images": true
+}

@@ -1,0 +1,55 @@
+{
+  "card": "피츄",
+  "style": "anime_25d_gloss",
+  "status": "planning_casuals",
+  "designs": [
+    "project",
+    "project",
+    "gpt_free",
+    "gpt_free"
+  ],
+  "user_selection": 1,
+  "no_regenerate_for_exposure": true,
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/517a6d1c2038/generated_images/exec-5ce128f7-45c8-4102-934b-93b71bf43552.png",
+      "sha256": "e9daa8013cd0b0d3c72340b42b354cf2a4e18bd264e8fc4596cedd0aa291f8e0",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "project"
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/517a6d1c2038/generated_images/exec-f9e78938-63fb-4ff2-89f4-06649733fb55.png",
+      "sha256": "63e09aa517cfcd11341faba5c344c008db7246937a9734ba615b2e8675919ff6",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "project"
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/517a6d1c2038/generated_images/exec-01da0da9-962c-429a-8fa2-c67a0cc14bbe.png",
+      "sha256": "700238489e47a8c794ba768c9419422e3c5cf50fde1b39e080b67c4f932cf737",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "gpt_free"
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/517a6d1c2038/generated_images/exec-674af31a-7d45-4f83-9b57-2a110aafd977.png",
+      "sha256": "14523aeaf606c02904d1b4b341850b6abc9032813ace3299d9333c12f1c995b8",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "gpt_free"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "1": {
+    "design": "gpt_free",
+    "submitted_sha256": "38902db5b4f469f19a07a9e805b3bb11c02b0abffbde1488b9413b14ceb89fd5",
+    "same_as_built": false
+  },
+  "2": {
+    "design": "gpt_outfit",
+    "submitted_sha256": "882f259e80a77551e05c66ce643a3ec918cf7a1886c18d5dbe33b0720b086338",
+    "same_as_built": false
+  },
+  "3": {
+    "design": "project",
+    "submitted_sha256": "4df14a2ab363d57c4846b4f15e868d536b813bf2474226217120c373c9181e5b",
+    "same_as_built": true
+  },
+  "4": {
+    "design": "project",
+    "submitted_sha256": "da6a61e134505c6b8b4d2696cca48a0abf38ef0e5b7cb921b1971b46fd92a2eb",
+    "same_as_built": true
+  },
+  "5": {
+    "design": "project",
+    "submitted_sha256": "fecebf05c85de38ce61750d4161abd2e5ea9f9e40da7201a38bc8a4009b37b5d",
+    "same_as_built": true
+  },
+  "6": {
+    "design": "project",
+    "submitted_sha256": "3811f4b052a840bf88be996aa4367f7fb97861abff4fdf2510908f2833168a11",
+    "same_as_built": true,
+    "exposure": "moderate",
+    "reason": "initial batch returned no image; documented moderate setting used"
+  },
+  "7": {
+    "design": "project",
+    "submitted_sha256": "ada37e584536601c5c241d83091d902a2ae7c5990c2ad9a7dbb7bb60c1108007",
+    "same_as_built": true
+  },
+  "8": {
+    "design": "gpt_free",
+    "submitted_sha256": "8340cc5bd21b7e6c8e2caab4ee685b38d1f22bf229c5e0a355a6dc766760740f",
+    "same_as_built": false
+  },
+  "9": {
+    "design": "project",
+    "submitted_sha256": "935ff64d999bc6562964e40daffa0ba81cc4c898a7bb8cec1d7b70349ac3d9c5",
+    "same_as_built": true
+  },
+  "10": {
+    "design": "project",
+    "submitted_sha256": "d838ec8e450cb171dca337db8c1908d39b6e863876a632070aa24e6ac57d0c88",
+    "same_as_built": true
+  },
+  "90": {
+    "design": "project",
+    "submitted_sha256": "476a85dfa7fe5252f93ad0e4c02d46a0523b5009a06a125135481629db175900",
+    "same_as_built": true
+  }
+}

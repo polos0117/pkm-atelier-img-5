@@ -1,0 +1,271 @@
+{
+  "casual1": {
+    "file": "피츄_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "74c12f5beacfc78858379f69914cc028c0fe92dc6ca45ec0ac7983fdbd7de04d",
+    "webp_sha256": "0ff61bef595d57404344a1c402aee4cac075e061de246cfb6703fba4b3f2a31e",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "두 손과 어깨에서 내려오는 두 팔 연결 확인. 풍선을 가리키는 손가락과 내려놓은 손. 얼굴 길이와 턱선 유지."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "submitted_sha256": "38902db5b4f469f19a07a9e805b3bb11c02b0abffbde1488b9413b14ceb89fd5",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Pichu (피츄) personified, electric type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: an open-air hillside tram stop, bright afternoon sunshine, a tram cable vanishing into distant trees. She has just rubbed a large balloon on her hair and is amused by one fine lock standing up with static. The balloon has been tied to the bench; neither hand holds it. She stands in a relaxed gentle three-quarter stance, right forearm extended forward with her right index finger hovering near the balloon, left arm lowered naturally beside her hip with an open relaxed hand. Frame from the head to mid-thigh at eye level; her face and both shoulders and hands visible. Outfit: a fitted petrol-blue crepe playsuit built from a single folded origami panel over the bust, one narrow diagonal strap, an open side waist and short envelope-fold culotte legs; securely opaque and fitted over chest and pelvis, collarbones, one shoulder, waist and thighs bare by design. One small lightning-shaped ear stud and a Pichu-shaped balloon weight supply the source motifs.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual2": {
+    "file": "피츄_anime_25d_gloss_f_casual2.webp",
+    "original_sha256": "f0782b16b50b271bde226f3803f2990cdd714a4c6f289093f96729e7cd32de5a",
+    "webp_sha256": "d76fc152c16e779475e7cf3c04cda6d1ff57ee8ddfffbb70729ccf1f10d470ba",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "두 손이 벤치 양쪽에 이어짐. 발목 교차와 양쪽 발의 연결 확인."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "gpt_outfit",
+      "submitted_sha256": "882f259e80a77551e05c66ce643a3ec918cf7a1886c18d5dbe33b0720b086338",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Pichu (피츄) personified, electric type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: the cushioned foredeck of a moored yacht\nTime of day: night — the scene lit by lamps, screens or windows, dark outside.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a deep-coral fitted sailcloth playsuit with a sculpted folded-sail bust panel, a single curved silver connector at the right waist, an open left waist and a short asymmetrical culotte bottom, securely opaque over chest and pelvis; shoulders, collarbones, side waist and upper thighs exposed by design. A small lightning-shaped ear stud and a Pichu-shaped deck cushion supply the motifs.\nPOSTURE: seated sideways on a stool or bench, her torso turned toward the camera.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body facing the camera; head turned back over her shoulder; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks up at the sky.\nEXPRESSION: slightly furrowed brow, softened eyes, lips lightly pressed together. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\naction_level: mostly posed — a paused or held moment of the selected activity\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\nseparates_preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual3": {
+    "file": "피츄_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "7b1c7cd6f3a19225ec00ecc5f8ac9fd8b94ca5825d761002382d6cc1f6aa75da",
+    "webp_sha256": "82d2ceb2111d57c09097f6c779a64b81bbb72026ba16c74020eeeecfc9e4c8af",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "탁자에 짚은 양손과 전완, 양쪽 어깨 연결 확인. 참고 머리장식이 남은 점 기록."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "4df14a2ab363d57c4846b4f15e868d536b813bf2474226217120c373c9181e5b",
+      "free_prompt": null
+    }
+  },
+  "casual4": {
+    "file": "피츄_anime_25d_gloss_f_casual4.webp",
+    "original_sha256": "03af24c3a1d62e8b59f9b833125fb1b7bbb036c93c2681d027cd09bcbf0cebd6",
+    "webp_sha256": "109c7630ab15db48a6ca9f7262da028393c14efb88b1dc87bed17d2ccb8417f3",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "오른손은 의자, 왼손은 무릎에 연결. 교차한 두 다리와 부츠 확인."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "da6a61e134505c6b8b4d2696cca48a0abf38ef0e5b7cb921b1971b46fd92a2eb",
+      "free_prompt": null
+    }
+  },
+  "casual5": {
+    "file": "피츄_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "3e3e404cb6d5427950d88a98a7bc0ef19b0e2ae020e543d649a181e01bafb95a",
+    "webp_sha256": "e5dc79be8d19ba987de90bb8ebaf72b6b5d3cde864626d78366d0e26e7d9d6df",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "양손을 양옆에 짚고 두 팔이 어깨에서 이어짐. 계획의 뒤쪽 방향보다 앞 3/4로 나옴, 방향 차이는 기록만."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "fecebf05c85de38ce61750d4161abd2e5ea9f9e40da7201a38bc8a4009b37b5d",
+      "free_prompt": null
+    }
+  },
+  "casual6": {
+    "file": "피츄_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "5d6501a52b26a356f76dde29e80a67864e6b43b6ae65cdb7aa7cdf68596f11f0",
+    "webp_sha256": "0e5d0718f8b5039eb2f69c9966039102b13cc8eeca82ef3f7a0b6d78cd121052",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "보이는 손은 손목과 팔에 연결. 반대 손은 프레임 아래, 양 어깨와 팔 연결 확인. 반환되지 않은 첫 묶음 후 moderate 설정으로 생성."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "3811f4b052a840bf88be996aa4367f7fb97861abff4fdf2510908f2833168a11",
+      "free_prompt": null
+    }
+  },
+  "casual7": {
+    "file": "피츄_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "1ab4d88ee41f4f6487a7a4134526adea4cacd6eec170b57bb03b16f0776d2efa",
+    "webp_sha256": "b642850fd357a42257f12929794d70f64b8351257571087ea1395b3fb567a13a",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "탁자에 짚은 두 손과 양쪽 팔 연결. 하체와 발목 교차 확인. 옷은 불투명."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "ada37e584536601c5c241d83091d902a2ae7c5990c2ad9a7dbb7bb60c1108007",
+      "free_prompt": null
+    }
+  },
+  "casual8": {
+    "file": "피츄_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "4136682bbf34a956e8ba401151d2467eb15d2f290322ab95a0da54a4bd1cb6f7",
+    "webp_sha256": "509c06fc7dfa2bd0eebbd8ee1569c977de8d8de53fb22941a08d449d69cccf7a",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "레일을 잡은 두 손의 손가락과 양팔 연결. 물 아래 하체는 부분 가림."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "submitted_sha256": "8340cc5bd21b7e6c8e2caab4ee685b38d1f22bf229c5e0a355a6dc766760740f",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Pichu (피츄) personified, electric type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: an outdoor artificial wave pool under a clear late-morning sky. The retreating wave has just lowered the opaque waterline from her ribs to below her waist, revealing the shaped waist cutouts of her swimsuit while her chest and pelvis remain covered. She stands upright with both forearms extending forward, her right and left hands resting separately on the horizontal pool rail; both arms join naturally through their elbows to their own visible shoulders. Frame from her head to her upper thighs at face-level, a front three-quarter view with her face turned toward the camera. Outfit category: swimwear. An opaque plum sculpted one-piece swimsuit with a folded asymmetric neckline, a linked trio of curved fabric bridges at the right waist and a solid high-waisted lower section; small curved seams evoke folded paper rather than straps, without prints. Her small lightning earring and a Pichu-shaped pool-ring lying on the distant deck provide one accessory and one object. The new situation is the falling wave exposing her already-designed waist cutouts, without clothes slipping or becoming transparent.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual9": {
+    "file": "피츄_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "2e6ce0bd1d4f257f1a3d7459ad96c1dda212e362125301a7d59bce6b9865389c",
+    "webp_sha256": "f7b6e0b914bfdbf56c7b91de1285c68e341bc41224b5253ea1ac6dbf185cee08",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "몸 뒤쪽과 옆으로 내려온 두 팔 연결. 두 다리와 발의 연결 확인. 옆으로 돌린 얼굴 구조 유지."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "935ff64d999bc6562964e40daffa0ba81cc4c898a7bb8cec1d7b70349ac3d9c5",
+      "free_prompt": null
+    }
+  },
+  "casual10": {
+    "file": "피츄_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "77b310bc363e42d016ae8f14a7134e88ea4341fdaf1b58114e69b4ffe5d26d3b",
+    "webp_sha256": "b66e8d3b15a74a20bb04f8d581a8c0db4d9da2bd48c5630fb139709479c3d954",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "얼굴 가까운 크롭. 양쪽 어깨 및 상완이 화면 아래까지 이어지고 떠 있는 손 없음."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "d838ec8e450cb171dca337db8c1908d39b6e863876a632070aa24e6ac57d0c88",
+      "free_prompt": null
+    }
+  },
+  "casual90": {
+    "file": "피츄_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "6e7f11c21ae2fd95d27cdfa70ec83f2a2a1acb564e9559c14640da3dd5461bfb",
+    "webp_sha256": "c71fb3584e2288a5506de373ce3aea9fc07123a4689a0be6394fea89d20d52bc",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2 or naturally outside crop / obscured",
+      "hands": "visible fingers checked; occluded fingers noted in image review",
+      "overlay_checked": false,
+      "note": "가슴 앞에서 모은 양손과 두 전완이 각각 어깨로 이어짐. 손가락 일부는 서로 가려짐."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "코와 입술, 뺨과 턱에 부드러운 입체 음영; 눈꺼풀 가는 선, 피부의 단계적인 그라데이션과 광택."
+    },
+    "generation": {
+      "design": "project",
+      "submitted_sha256": "476a85dfa7fe5252f93ad0e4c02d46a0523b5009a06a125135481629db175900",
+      "free_prompt": null
+    }
+  },
+  "light": {
+    "selected_candidate": 1,
+    "file": "피츄_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "both hands joined at wrists; five fingers per visible hand",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "부드러운 코·입술·턱 입체 음영과 머리카락 가닥, 갑옷 재질을 확인."
+    }
+  }
+}
