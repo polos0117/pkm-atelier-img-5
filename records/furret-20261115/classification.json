@@ -1,0 +1,193 @@
+[
+  {
+    "card": "다꼬리",
+    "slot": "light",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b75748b42b811a67cf5430b2b22e17882e36349bd24cdc94f9e253c0bf240786",
+    "original_sha256": "2ba99491d4630aed7a3861db81dc42da03f505958f96f22e80bcd5f8fbb6dcfb",
+    "basis": "User selection2"
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual1",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "17e19edf221b0643c41d7cc1af69c7c60cfbd787813b727ac3041c092a2bdbd6",
+    "sha256": "c970a08529f02d8605a6093cf119eeb7036b017dc4ea13edb8fbc07659efdd9d",
+    "submitted_sha256": "a86ca9fb18e6905d1fa8bd5ccfbfb91456bce5faf8fb0485988737c7ea8a7258",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual2",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "1870846c11d4c338c34d43e746e1560bf33c69b25bec14938e358b9cfbc6b255",
+    "sha256": "ab9b32ec13a2ef9d7b81dfbc489c78be31c986cc93f9f31226e2fa9ee7c550f6",
+    "submitted_sha256": "36e82bf5e0cf206f72c7162cec08073376ea27e073a83d8395da376181be4c1b",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual3",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "8ad7fc82bb1c1d85548b365e89788389079bc1e8475dc669f6298256c4c0e13b",
+    "sha256": "016ddb848aa29b931e660a1b5a3f1c424e4ad1618cabc582a8b69f682d8757dc",
+    "submitted_sha256": "e09a2cf1873f3feec2bf2e995b692570386e8e0dde35ac89f36f01aa4d6c62a3",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual4",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "f2a7ac8b757eb334b67317673026b0f78ffb2a2ecedd7896871d7f331bece43f",
+    "sha256": "e4161af7bf16434bae0f1f33b077dbe1e9b3f59835ee97b7ad261200aef3c37b",
+    "submitted_sha256": "8df5d0399fd54293130731fba400b3027bbe7eddcfdc43677d15edf6853fec10",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual5",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "bc275e324815fc153f21718d673092b9faa081007b5933c5f672d53d53e4294f",
+    "sha256": "420822d14c9cb2f0d173d8cf4569fac3dea295d7583c9aa39a2215b7673facd4",
+    "submitted_sha256": "2edd31d3ed29e8087202e23d32d8f67f00c9afb749c0cdd03badc7675861fdea",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual6",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "62286cd95cd2aae96182b2e3317e52824432189f58f4b61be6f24b8fb0323e6f",
+    "sha256": "b77527085d8011fc6e2f15d5d49dcb9b7b89c4d6da9dab42215447561f29445c",
+    "submitted_sha256": "e32d9111db0e722f192e7ec1335fc6dd0ec8ad9b5de4cb40d22e456eec838eca",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual7",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "35b941f83fe18ae11093a4f85dbcd21b0dae13b4376d4f07393d6db3b9565040",
+    "sha256": "89642b3349a60321fef5e9c494ac1a14eb501f40c1a0b909f47cff01df800ae6",
+    "submitted_sha256": "0b22ca155e09de44c67808748f0db46bfc953f068a97e4f44dacd702bab14f25",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual8",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "a346fb62669f7ba15e1f644ad22796f7d4bd826c59fd429d7802c32791be696d",
+    "sha256": "0539862107805cebdf79354a67dfab82309cf7a4fab381da516c403db7dc22db",
+    "submitted_sha256": "c544f48b49c98974415aebffee3d6a447622be506c0b82a2ff25ea99eadd5c3f",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual9",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "be917c5041965b137fb34ee03e5501efa5d7afdf5f74847abecd06373cb0f1d3",
+    "sha256": "76e2efa8925033daad1da5927dbee46c67e33bec5b809fa24384c369ed08d2cd",
+    "submitted_sha256": "d8c615dc15a4d461c4d35b6d84de80f5b4992b278fbe6f4b8a2ffef3794badad",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual10",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "4edf73568421988394e3a3532b638743b4ebb9582f39c4c58c4c681b9c47123c",
+    "sha256": "456e2ba27a3641fbedcb7ec24eb74271025cf5454dd794000f08192c046fdcb1",
+    "submitted_sha256": "48a68847d6ab364d4abdf655d79b4a9b2b460fbd7c0d7eda2bf7c5e6c585c765",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  },
+  {
+    "card": "다꼬리",
+    "slot": "casual90",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "다꼬리_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "2bd6e864caa1238b31f15c9ebd867ed83368d370d7b8559aaa917df9adbfbe9f",
+    "sha256": "4a8a2dda0d70a3d75edbb6101961a242065656c08f21745ff8e56ed364a0c9b0",
+    "submitted_sha256": "6acac4c34b288dacd1f93930344b6a1ffceefca91a073a55d776540e53116812",
+    "basis": "User selected mecha candidate2; each image directly references same original."
+  }
+]

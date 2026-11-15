@@ -1,0 +1,109 @@
+{
+  "card": "다꼬리",
+  "style": "anime_25d_gloss",
+  "status": "casual_generation",
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/56e5db678baa/generated_images/exec-293f5fb5-7b26-4983-9a35-946aee1bd65b.png",
+      "sha256": "a627aa81dfd1cadfcb3de1b4bcce34006724402eb50c06f3ed5839fa3e0bd1ec",
+      "generation": {
+        "design": "generator",
+        "prompt": "/workspace/scratch/56e5db678baa/furret-pack/light-prompt.txt"
+      },
+      "qa": {
+        "style_25d": {
+          "judgment": "anime_25d_gloss",
+          "evidence": "Soft cheek and nose gradients, shaded lips and dimensional armor; glossy highlights on midriff and thighs."
+        },
+        "anatomy": {
+          "tool": "unavailable: mediapipe missing",
+          "issue": "ok",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both arms connected to shoulders and wrists; open hand fingers separated, curled fingers partly occluded.",
+          "overlay_checked": false
+        },
+        "notes": "Cheek markings appear on human cheeks; preserved as generated."
+      }
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/56e5db678baa/generated_images/exec-d9fcfe9f-062f-47f9-8039-0ebed2f0a0af.png",
+      "sha256": "2ba99491d4630aed7a3861db81dc42da03f505958f96f22e80bcd5f8fbb6dcfb",
+      "generation": {
+        "design": "generator",
+        "prompt": "/workspace/scratch/56e5db678baa/furret-pack/light-prompt.txt"
+      },
+      "qa": {
+        "style_25d": {
+          "judgment": "anime_25d_gloss",
+          "evidence": "Soft cheek and nose gradients, shaded lips and dimensional armor; glossy highlights on midriff and thighs."
+        },
+        "anatomy": {
+          "tool": "unavailable: mediapipe missing",
+          "issue": "ok",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both arms connected to shoulders and wrists; open hand fingers separated, curled fingers partly occluded.",
+          "overlay_checked": false
+        },
+        "notes": "Cheek markings appear on human cheeks; preserved as generated."
+      }
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/56e5db678baa/generated_images/exec-11cc9a82-453d-4ba1-94f3-a8d4caa50ee4.png",
+      "sha256": "7a5bcd36505152c75e52e8db3b8f24a178115d5fd350c888dcc3c4c0508a627e",
+      "generation": {
+        "design": "gpt_free",
+        "prompt": "/workspace/scratch/56e5db678baa/furret-pack/candidate3-prompt.txt"
+      },
+      "qa": {
+        "style_25d": {
+          "judgment": "anime_25d_gloss",
+          "evidence": "Soft cheek and nose gradients, shaded lips and dimensional armor; glossy highlights on midriff and thighs."
+        },
+        "anatomy": {
+          "tool": "unavailable: mediapipe missing",
+          "issue": "ok",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both arms connected to shoulders and wrists; open hand fingers separated, curled fingers partly occluded.",
+          "overlay_checked": false
+        },
+        "notes": "Source cheek markings appear on human cheeks; preserved as generated. Candidate3 has partly bare fingers instead of full-finger gloves."
+      }
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/56e5db678baa/generated_images/exec-e95b79e1-082f-475f-98e9-6a5a463a8adc.png",
+      "sha256": "32efddc6d74cad95808ffb496a08dcea38b146a720a5751cff52a8cfd8236390",
+      "generation": {
+        "design": "gpt_free",
+        "prompt": "/workspace/scratch/56e5db678baa/furret-pack/candidate4-prompt.txt"
+      },
+      "qa": {
+        "anatomy": {
+          "tool": "unavailable: mediapipe missing",
+          "issue": "ok",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both open hands show five connected fingers each.",
+          "overlay_checked": false
+        },
+        "style_25d": {
+          "judgment": "anime_25d_gloss",
+          "evidence": "Soft face gradients and dimensional armor, glossy midriff and thigh highlights."
+        },
+        "notes": "Bare hands instead of close-fitting gloves; preserved as generated."
+      }
+    }
+  ],
+  "worktree": "/workspace/scratch/56e5db678baa/furret",
+  "branch": "work/furret-56e5",
+  "anatomy_tool": "unavailable: mediapipe missing",
+  "no_regeneration_for_exposure": true,
+  "selected": 2,
+  "selected_original_sha256": "2ba99491d4630aed7a3861db81dc42da03f505958f96f22e80bcd5f8fbb6dcfb"
+}
