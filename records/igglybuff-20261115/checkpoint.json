@@ -1,0 +1,27 @@
+{
+  "card": "푸푸린",
+  "stage": "generated_and_reviewed",
+  "selected": 2,
+  "light_reference_sha256": "cad033f8f91478f4820a3bfd11018362272407dd32ec6df1e85465d4fb5247ee",
+  "slots": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "image_tool": "built-in imagegen",
+  "regenerations": 0,
+  "free_design_slots": [
+    "casual1",
+    "casual4"
+  ],
+  "note": "casual10 outfit was filled through settings and rebuilt; free scene prompts preserve all fixed blocks."
+}

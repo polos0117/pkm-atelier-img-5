@@ -1,0 +1,176 @@
+{
+  "card": "푸푸린",
+  "no": 174,
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "files": [
+    {
+      "slot": "light",
+      "file": "푸푸린_light_anime_25d_gloss_f.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "cad033f8f91478f4820a3bfd11018362272407dd32ec6df1e85465d4fb5247ee",
+      "webp_sha256": "a32c5c348612d39705bc353d4a93d2d92e8835c6578b2b7c6122fa9e0999320c",
+      "webp_bytes": 273580,
+      "reference": null
+    },
+    {
+      "slot": "casual1",
+      "file": "푸푸린_anime_25d_gloss_f_casual1.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "fdd3bd70aa19cb6b834bfbc35578e6f917b8b67b411926d0e4bed0152f5c1d6c",
+      "webp_sha256": "e6a17933641c688d6e2d1403115271dd1c12c6f179f574d0542831974222d4dd",
+      "webp_bytes": 209294,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual2",
+      "file": "푸푸린_anime_25d_gloss_f_casual2.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "cd1bb4929e4a61df9e03080e797141ee9cd7153b9e4ab09ee1d552a2074c7921",
+      "webp_sha256": "640e12398efb322319c8e1b1f904ae0dd3cf9317480102c2f15592974ddd6e1b",
+      "webp_bytes": 263888,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual3",
+      "file": "푸푸린_anime_25d_gloss_f_casual3.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "7c3b17ff9082fb856df48ee6b935996cf42efe315f3c2a0b8c146147471b706c",
+      "webp_sha256": "a13efe3cd808a012783c9284aed1f569a170cd095267501a8faaecb05740e90b",
+      "webp_bytes": 242374,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual4",
+      "file": "푸푸린_anime_25d_gloss_f_casual4.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "61d887e4b7d0fb118193fefc3475719c84295b28a4f84ea29d863bedc5f6c38e",
+      "webp_sha256": "4e6f0f5e41b0179987f2fe9368d4fb2979f6a2c7c3a3bd81cc297ff847d7e7ec",
+      "webp_bytes": 197326,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual5",
+      "file": "푸푸린_anime_25d_gloss_f_casual5.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "3ce1fd3f586632e92ca924cf04c41979d0e10842f75142ebe0f3751e6e91523c",
+      "webp_sha256": "c0278e9cf316a95fa8dbc9d0f0069dd4595aa5663b2abac7709dbd7e9bb31c49",
+      "webp_bytes": 363518,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual6",
+      "file": "푸푸린_anime_25d_gloss_f_casual6.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "e07081380252a67a1cd3f735518cf390b1c306927a94a3b216a6511cb3d15804",
+      "webp_sha256": "61cf912db099a82d59d21d298cfdcf006068fae5c62eacd8d381925ce705b437",
+      "webp_bytes": 178686,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual7",
+      "file": "푸푸린_anime_25d_gloss_f_casual7.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "a87b8eb3948fe22bfc18fdd2ed5201be3731795da379846b5b1a1593ab6c36c8",
+      "webp_sha256": "3a69eefa0a12c29942373a61d4b70ea38b8c00a703a7be0cd3aa1ea458b59331",
+      "webp_bytes": 200380,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual8",
+      "file": "푸푸린_anime_25d_gloss_f_casual8.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "950908ed3e6f9a67ba8ebc4d5c5b90043668a7b9386ea8a22c92c026f4e57d59",
+      "webp_sha256": "7bcebc095871af8d8334df5fffdf21720fdbbfd44517d5423ee559bd78fc939a",
+      "webp_bytes": 206230,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual9",
+      "file": "푸푸린_anime_25d_gloss_f_casual9.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "5b78290f9fcfebca08e232f09f0bb05f075956880f5526b778792a91f5a852c6",
+      "webp_sha256": "6bd63aa50d48a0d4bb0cdd60bee12c6be98946a30a953f3229b48164a40b0843",
+      "webp_bytes": 273984,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual10",
+      "file": "푸푸린_anime_25d_gloss_f_casual10.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "288c7e6211bcef6e9a20ccddac3e687145e52eea6df258e126883a275c385c57",
+      "webp_sha256": "5e5643a472d73b8f2e9625307c9245c6002ed25ec622bd95f37d8c1e9aa42200",
+      "webp_bytes": 293502,
+      "reference": "light (user selection 2)"
+    },
+    {
+      "slot": "casual90",
+      "file": "푸푸린_anime_25d_gloss_f_casual90.webp",
+      "shard": 4,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "png_sha256": "f965dae69a85b41e2d8456e638004cb5453bf5610c58c7a1413102278c781ccf",
+      "webp_sha256": "2153e199ba7de083582df53d3b656a3e5cb21eac62dc72e255e7466fdb406808",
+      "webp_bytes": 264186,
+      "reference": "light (user selection 2)"
+    }
+  ]
+}

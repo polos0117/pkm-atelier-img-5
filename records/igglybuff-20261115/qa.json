@@ -1,0 +1,186 @@
+{
+  "light": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms and legs joined; open hand shows five fingers, other loose fist has grip occlusion; both boots inside frame."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual1": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Raised arm joins the shoulder; opposite hand rests at waist, five fingers each with slight overlap; two legs and boots visible."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual2": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both shoulders connect to upper arms descending into water and beyond crop; hands and lower body obscured by water, no detached hand."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": [
+      "Smiling open mouth differs from the planned flat-eyed smile; minor expression variation recorded, image preserved."
+    ]
+  },
+  "casual3": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms extend from shoulders, both hands have five digits with curved grip; both thighs connect naturally, lower legs outside crop."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual4": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both elbows connect to shoulders; right fist grips pillow, left hand supports it with fingers partly hidden by grip; two thighs visible."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual5": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two connected arms rest on the ledge, five-digit hands with thumbs partly obscured; crossed legs and feet remain distinguishable."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual6": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms visibly connect, near hand rests on chair and far hand on knee, five digits each with overlap; crossed knees connect naturally."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual7": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both shoulders and upper arms connect and descend beyond crop; hands and lower body outside crop, no floating limb."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual8": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Raised arm joins far shoulder; near arm descends along torso, visible hands have natural digits with perspective overlap; two legs and heels visible."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual9": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Near arm descends from shoulder to chair with five-digit hand; far forearm reaches the table, part of hand leaves frame past wrist; legs outside crop."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual10": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Near arm and hand join naturally with five digits; far arm occluded by torso, no detached hand; two legs and feet distinguishable."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": []
+  },
+  "casual90": {
+    "identity": "match — pink cloud hair, pink eyes and compact rounded face retained",
+    "style": "anime_25d_gloss",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms connect to shoulders, one hand on knee and one on chair, five digits each; two crossed ankles and shoes distinguishable."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Generated outfit preserved; no regeneration for exposure."
+    },
+    "notes": [
+      "Bright smile instead of drowsy waiting; studio, host clothing, chair pose and reference identity remain readable; preserved as expression variation."
+    ]
+  }
+}
