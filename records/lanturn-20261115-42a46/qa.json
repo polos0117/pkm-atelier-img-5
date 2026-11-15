@@ -1,0 +1,20 @@
+{
+  "selected_mecha": 2,
+  "generated_images": 11,
+  "requested_images": 12,
+  "blocked": [
+    "casual9"
+  ],
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "manual": "one head, two arms and two legs where in frame; natural connections inspected; hands partly occluded or cropped per composition",
+    "limitations": "manual review cannot certify every occluded finger"
+  },
+  "style_25d": {
+    "result": "pass",
+    "evidence": "Face and skin use softly blended dimensional gradients, colored contours and rendered nose/lip volume; consistent blue-yellow braid and blue eyes across scenes"
+  },
+  "diversity": "ferry seating, marble hammam, outdoor theatre, pool close-up, tidal stairs, garden prone pose, companion room seated pose, diner profile, center close-up, lighting booth profile",
+  "no_exposure_regeneration": true,
+  "publication_status": "prepared, partial: casual9 blocked"
+}

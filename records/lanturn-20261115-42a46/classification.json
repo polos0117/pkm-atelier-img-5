@@ -1,0 +1,145 @@
+[
+  {
+    "slot": "light",
+    "filename": "랜턴_light_anime_25d_gloss_f.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-2c4cb754-a657-4760-aeb9-0d518bc98f65.png",
+    "original_sha256": "50cd0a0ef063a2cb15e366123e4e36cf02d7a0ff2e79660311e7e52286c87b16",
+    "webp_sha256": "7e4c8189db5223703fe9bcdecaccdab8af02a4873a4c39265bf4ea66257d7405",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": null
+  },
+  {
+    "slot": "casual1",
+    "filename": "랜턴_anime_25d_gloss_f_casual1.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-e14f526b-381e-4a6a-b946-c3c58901d428.png",
+    "original_sha256": "931caa478910918de288a2525c505479f595b00078a1cc18cff2719233327f24",
+    "webp_sha256": "3c4afeba21f98d38230189404288b9c1b28eef4bd72d2cce2cd87752619b0975",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual2",
+    "filename": "랜턴_anime_25d_gloss_f_casual2.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-f7b772dc-de89-43d8-9023-621ceb6bb70c.png",
+    "original_sha256": "b3bf4e3574bb79ed1e1845dac4a8e8695c30d04dbfdec8978682b164e12d9edd",
+    "webp_sha256": "92798c2bbe265a4f24f8b6a60a6973cbbdc4bc50fa86f83155df53ce5724f53e",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual3",
+    "filename": "랜턴_anime_25d_gloss_f_casual3.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-dfe316ce-f058-41ea-bee4-a61434d73cc4.png",
+    "original_sha256": "120f7fb3ca0189054a86f8c41f0f868c0ce42e5dc6161ca1b76647307ba19b18",
+    "webp_sha256": "0f643bbd1c3edc1a048c6761e0d0558049db5f61afdb83702f87b5360eee8692",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual4",
+    "filename": "랜턴_anime_25d_gloss_f_casual4.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-25ad45af-8f5e-42b8-8abe-5b38c8e2e5c7.png",
+    "original_sha256": "f540a46b46405b43c8ed6155261245c2701894089a23ca829b2d976fc918281b",
+    "webp_sha256": "adb8bf3b6c4f13a899906069cbbd33c9c5e7fc0a33cd7f47af1f7bcfb3b220f6",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual5",
+    "filename": "랜턴_anime_25d_gloss_f_casual5.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-049eb969-b735-47c0-8030-62491f4db999.png",
+    "original_sha256": "798eac42415c8c27d564c98d5d8d23993d555ead02b5dfb0a059c863bc76961d",
+    "webp_sha256": "beff0b5c689449878f1d71339351a11ef53cecb6fd44e0b77a4203e3704b4a61",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual6",
+    "filename": "랜턴_anime_25d_gloss_f_casual6.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-ed24b0e2-eb4e-4f68-82fc-fcf2687f7f57.png",
+    "original_sha256": "a4e618dabd225ab5ddc19c8d92ce5bf92415dcea81f3bc38ff80c49708dbddb7",
+    "webp_sha256": "3daeffb05f802c3988276120cf650fa2ca1a674d01268fa2d1fa9128cda26ab3",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual7",
+    "filename": "랜턴_anime_25d_gloss_f_casual7.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-47e2e39f-9712-4144-b724-50a7e378fb60.png",
+    "original_sha256": "1095fc589fda8d24d1c50f152296dcb4cf4b8207bcf90aa8499256af26357f80",
+    "webp_sha256": "0df8b5811ec10f771a6cb7a68a52bf58d1712754b649a80dcd8c2aba89bc0cf9",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual8",
+    "filename": "랜턴_anime_25d_gloss_f_casual8.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-348f0c6c-23e8-4ef4-b2fa-fa9b49907940.png",
+    "original_sha256": "e48ea6df16d4693a009908395b7c9027e7d9e6cf93761163c25d4757af3e079d",
+    "webp_sha256": "b7c4121ca2b8ec9bc8359295b0cc4e4402a8173f0c5fe4e2ae9ff60ffdd5baab",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual10",
+    "filename": "랜턴_anime_25d_gloss_f_casual10.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-e67fc6a2-3cf8-4c09-8cce-8c9b69f35789.png",
+    "original_sha256": "5acd8bcd4fa34f9a14453aadd9e108a0a8fdce5f5c883cc01fe57369946f8bf9",
+    "webp_sha256": "9a5439ca84d78779ac32c7739100490427d06ec3d9135ace36a0c3d96b064873",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  },
+  {
+    "slot": "casual90",
+    "filename": "랜턴_anime_25d_gloss_f_casual90.webp",
+    "original": "/workspace/scratch/42a46ee95fe5/generated_images/exec-b3eddb68-ab59-409f-acaa-9e8aa95867a5.png",
+    "original_sha256": "afaed9aa65b84e3a8d9caa330d605ed17b99b88755f4972e2c712579374d6fb8",
+    "webp_sha256": "c2b51c5fdaf2f2ddcc5a77a486e33b2f1a07e8650662f6f502604a82ce9ff5d8",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4,
+    "reference": "selected candidate 2"
+  }
+]
