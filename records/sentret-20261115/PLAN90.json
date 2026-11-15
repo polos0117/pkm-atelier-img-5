@@ -1,0 +1,47 @@
+{
+ "session": "sentret-365ccbb",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "꼬리선",
+   "species": "sentret-20261115",
+   "own_only": true,
+   "cuts": [
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_workshop",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a flashlight",
+     "preset": "raise_chest",
+     "use": "sig_raise",
+     "posture": "stand",
+     "support": "none",
+     "frame": "chest_up",
+     "body": "front_3q",
+     "head": "tilt",
+     "camera": "eye",
+     "right": "prop",
+     "left": "out",
+     "legs": "",
+     "gaze": "",
+     "weather": "autumn",
+     "light": "top",
+     "depth": "flat",
+     "own": "all",
+     "placeText": "a quiet office building lobby at night — a security desk with a row of monitors, a key cabinet, a revolving door, a long dim hallway",
+     "scene": "she is a night guard apprentice, looking down at a flashlight raised near her face as she checks it for the first time",
+     "outfit": "a security guard look fitted to her body — a fitted guard uniform jacket over a short pencil skirt with a belt, bare legs, a visor cap, a plain visor cap",
+     "job_ko": "야간 경비 견습",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3"
+    }
+   ]
+  }
+ ]
+}

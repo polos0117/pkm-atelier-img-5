@@ -1,0 +1,340 @@
+{
+  "card": "꼬리선",
+  "no": 161,
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "requested": 12,
+  "generated": 12,
+  "user_authorization": "selected 1; commit and main non-force publication authorized",
+  "light_sha256": "9eb3c47c790423a4a60368fb03aea69332ca2df15d1529f02c561540e00f6063",
+  "originals": "session only, PNG not committed",
+  "status": "ready_to_publish",
+  "files": {
+    "light": {
+      "file": "꼬리선_light_anime_25d_gloss_f.webp",
+      "original_sha256": "9eb3c47c790423a4a60368fb03aea69332ca2df15d1529f02c561540e00f6063",
+      "webp_sha256": "316de58943b4a4d8c853508d940233dd58a6fc78a01e6c802df8ccbefd9c1d13",
+      "reference": null,
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "f0b650118c13ceab7fc9825d77b3f0fc2a5c4e9f85cf82fc4b448e895abb845b",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual1": {
+      "file": "꼬리선_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "57fa1d69a849caf143230f4093c2b0cac34a500653fb3be2b8802e7c6c44f015",
+      "webp_sha256": "3ca882beba7eff3404456e18ef28c299cc27005a634b5afa092030237fbc0abc",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "gpt_free",
+        "submitted_sha256": "7bdc484c2934a6b39c8ad252f9d8d4acd23dac65161eba98b941b8177092893d",
+        "submitted_same": false,
+        "authorized_exception": "free-scene detailed prompt as requested by generated brief"
+      }
+    },
+    "casual2": {
+      "file": "꼬리선_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "0109fdb3b4e2516cea7d2ef03f53ecdd5bddd60bbde7ce5e7f8a23ac658f089d",
+      "webp_sha256": "e8ccc68e293e6108ca27bf0b55431f07f51a406e211d3b4c0b7e5798f546c156",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "gpt_free",
+        "submitted_sha256": "580aa72773568403ac970f167a7554cbbea029556c17a5da061a3855fb77742f",
+        "submitted_same": false,
+        "authorized_exception": "free-scene detailed prompt as requested by generated brief"
+      }
+    },
+    "casual3": {
+      "file": "꼬리선_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "dd7d6ddf358fd59fe2f45009cb6c634206ff3a7d1519636eff9770ff7ef85a51",
+      "webp_sha256": "75288c8b755b31fe861f365a8a62d62eac04ca91ccb3bdffd72d435b65b48c0e",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "cdadc7446cacbfa0b520ba9749c6e0054047e2321dfe0253d86070e8d3a1af2b",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual4": {
+      "file": "꼬리선_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "a7e661db116e2fa6865949cc7083b975ab61a90d5e612d6adee3315c1af62d4c",
+      "webp_sha256": "e1feb425212ac65ff523981decf495800bf6a1482f8a730e3204a980724f0899",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "7574b14216e530f807da1577fc4a3106c86dadeb7e55594c618d56e2272d2397",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual5": {
+      "file": "꼬리선_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "fff9071e62950fb4c677ae6f9f69ad2357f2c1933291ec5a3729b9e7d6cc6a36",
+      "webp_sha256": "0883a0c2d5b36621a4aed61d721f2e40c0c5d5877cb71722ba8ab0a5a3fa0c8c",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "ac263b53de0886a61aa245a6d29f1440fd107e5ac817fa38ed9fc0748012fe4a",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual6": {
+      "file": "꼬리선_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "3d7d0e58b2d7dcf464b7f555f48ad790ff8dbd4e48ad2b580d06e6f37aa6f23f",
+      "webp_sha256": "bc22da3cea1a1c6c2a148ba84012267c8a6a15d3c0cf3c7c7ab13c96e0f6d6b2",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "71bd17c5c93b02bc246f5ddda589f88e010394682948c0276434c2dd588c5e81",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual7": {
+      "file": "꼬리선_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "4b1ae7ed7b3b0bbea6d5f22d7b95b129819ce92b4135a33ff7905221406440b0",
+      "webp_sha256": "61ea6d61ef7737ed5a8b0721285555d8f25909d13674a174917353e2508b7b88",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "802a7762d0541be759e07bacff5795aa3f300104ccddf4ab090517a76252bc91",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual8": {
+      "file": "꼬리선_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "39812f601e66b6b45818bbfd1ff306ac5ffd3700d68ebc7b07cd0da8a882e99d",
+      "webp_sha256": "51cbd1e7acefb4162bfa7ba990ae4bf40e6291cdb415aa092c833113eab332b3",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "be0e325410fae626043a5067cf4c0c12b3d79042eaa5a8e049bd541549d40b13",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual9": {
+      "file": "꼬리선_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "49e78335e2a7b7f5ff9e1c61980e9ad7912e8bdffe84df106d5c4d0ec7450e3d",
+      "webp_sha256": "fd8acdfeafaf552796456bdb7bda82f73a91afc5eaac1c69dec63ae61fff5f59",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "d7625fe2bbe188d55ddd5626eecd1d0e50282a88969f82f1b2d4c521a5b34ea1",
+        "submitted_same": true,
+        "authorized_exception": null
+      }
+    },
+    "casual10": {
+      "file": "꼬리선_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "3d4d4e84aa8375d29986a9eb2feb8e3a0c6ed5a22adae9d1011af5d72be0704d",
+      "webp_sha256": "014ff48ae563bf42cc0c1eab45fa469bd8f99b68a7c91b913fab0f47a45eb845",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed. Source ear ornament retained by the image despite wardrobe instruction where applicable; preserved."
+      },
+      "generation": {
+        "tries": 2,
+        "design": "project",
+        "submitted_sha256": "46097efd8093c50cdc2103861479472890df038070b720073e6c53ae9e51bc35",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "blocked": [
+          {
+            "request_id": "d7008780-5645-4269-82d9-a79df9a5ee82",
+            "code": "moderation_blocked",
+            "stage": "output",
+            "result_returned": false,
+            "retry": "identical prompt; no completed image regenerated"
+          }
+        ]
+      }
+    },
+    "casual90": {
+      "file": "꼬리선_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "fd8e36ffb4ad2840c1034a557c9915a6acd87234eb9765c1cddb00046114a87f",
+      "webp_sha256": "15041fe778133eef0eb29ce6e10cb48b3b3a1c6f6062de6ef31a23b4c5c128d8",
+      "reference": "light",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradients around nose, lips, cheeks and jaw, fine colored contours; glossy highlights and dimensional fabric."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands visually checked; five-finger structure, some digits occluded by grip or crop. No floating hands observed.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect to their shoulders. Both legs anatomically coherent when visible. No extra limbs observed."
+      },
+      "generation": {
+        "tries": 1,
+        "design": "project",
+        "submitted_sha256": "52fbec8ef05a83b46e8b0ad19408ca3b1ee56f3710cf3f233a89101790e8cfcc",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "own": {
+          "level": "bold",
+          "tries": 1,
+          "blocked": []
+        }
+      }
+    }
+  }
+}
