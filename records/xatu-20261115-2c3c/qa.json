@@ -1,0 +1,236 @@
+{
+  "card": "네이티오",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 4,
+  "regenerations_for_exposure": 0,
+  "cuts": {
+    "light": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Full body visible, two arms descend naturally, two armored legs and boots. Both gloved hands have natural fingers; partial finger overlap on relaxed hands. Rounded face, green eyes and swept braided green-white hair are the selected identity."
+      },
+      "note": "Full body visible, two arms descend naturally, two armored legs and boots. Both gloved hands have natural fingers; partial finger overlap on relaxed hands. Rounded face, green eyes and swept braided green-white hair are the selected identity.",
+      "regenerated": false
+    },
+    "casual1": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Right arm bends from the visible shoulder to the microphone; fingers wrap around it, thumb partly occluded. Far arm continues below crop. Aerith red bolero and pink corset, playful wink, warm event backdrop."
+      },
+      "note": "Right arm bends from the visible shoulder to the microphone; fingers wrap around it, thumb partly occluded. Far arm continues below crop. Aerith red bolero and pink corset, playful wink, warm event backdrop.",
+      "regenerated": false
+    },
+    "casual2": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Both shoulders connect to upper arms and bent forearms; four fingers on each side of the cup, thumbs mostly behind cup. Warm sunset bus shelter, white silver-trimmed costume, laughing expression."
+      },
+      "note": "Both shoulders connect to upper arms and bent forearms; four fingers on each side of the cup, thumbs mostly behind cup. Warm sunset bus shelter, white silver-trimmed costume, laughing expression.",
+      "regenerated": false
+    },
+    "casual3": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Two sleeved arms connect continuously to shoulders. Right hand grips screwdriver, left steadies small mechanism; fingers partly hidden by grips. Train seat and luggage rack visible, blue ski layers."
+      },
+      "note": "Two sleeved arms connect continuously to shoulders. Right hand grips screwdriver, left steadies small mechanism; fingers partly hidden by grips. Train seat and luggage rack visible, blue ski layers.",
+      "regenerated": false
+    },
+    "casual4": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Near arm bends normally to hair at ear; four fingers visible through hair, thumb behind. Far shoulder and upper arm continue downward through crop. Profile and crochet top in sewing room."
+      },
+      "note": "Near arm bends normally to hair at ear; four fingers visible through hair, thumb behind. Far shoulder and upper arm continue downward through crop. Profile and crochet top in sewing room.",
+      "regenerated": false
+    },
+    "casual5": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Two knees on paving, both boots visible behind; no reversed knee. Right index points to shadow, remaining fingers curled with thumb partly hidden; left hand has five fingers resting on thigh. Plum tailored costume and sundial."
+      },
+      "note": "Two knees on paving, both boots visible behind; no reversed knee. Right index points to shadow, remaining fingers curled with thumb partly hidden; left hand has five fingers resting on thigh. Plum tailored costume and sundial.",
+      "regenerated": false
+    },
+    "casual6": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Both legs join hips naturally, one boot on stone step and one on trail. Right hand at hip and left on thigh have five-digit structure; fingers overlap slightly. Monokini and forest trail."
+      },
+      "note": "Both legs join hips naturally, one boot on stone step and one on trail. Right hand at hip and left on thigh have five-digit structure; fingers overlap slightly. Monokini and forest trail.",
+      "regenerated": false
+    },
+    "casual7": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Two arms reach the open book from their own shoulders; page-turning hand and flat resting hand have natural five-digit structure, some tips partly occluded. Both thighs connected in seated pose; Xatu fabric bodysuit, hotel skyline."
+      },
+      "note": "Two arms reach the open book from their own shoulders; page-turning hand and flat resting hand have natural five-digit structure, some tips partly occluded. Both thighs connected in seated pose; Xatu fabric bodysuit, hotel skyline.",
+      "regenerated": false
+    },
+    "casual8": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Both shoulders, upper arms and elbows continuously visible to clasped hands; interlaced fingers naturally occlude several tips and thumbs, no detached hand. Saffron top, ink-blue shorts and berry market."
+      },
+      "note": "Both shoulders, upper arms and elbows continuously visible to clasped hands; interlaced fingers naturally occlude several tips and thumbs, no detached hand. Saffron top, ink-blue shorts and berry market.",
+      "regenerated": false
+    },
+    "casual9": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Two arms join shoulders correctly; fretting hand wraps neck, strumming hand overlaps strings with partly hidden finger tips. Sari-inspired lavender set and acoustic guitar in bedroom."
+      },
+      "note": "Two arms join shoulders correctly; fretting hand wraps neck, strumming hand overlaps strings with partly hidden finger tips. Sari-inspired lavender set and acoustic guitar in bedroom.",
+      "regenerated": false
+    },
+    "casual10": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Right arm supports plate, left arm holds butter knife; fingers partly hidden by grips, neither hand detached. Two legs visible through knee-up crop. Blue halter top, sand culottes, rising toast at ferry breakfast."
+      },
+      "note": "Right arm supports plate, left arm holds butter knife; fingers partly hidden by grips, neither hand detached. Two legs visible through knee-up crop. Blue halter top, sand culottes, rising toast at ferry breakfast.",
+      "regenerated": false
+    },
+    "casual90": {
+      "accepted": true,
+      "reference": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended nose, cheek and jaw shading with restrained coloured facial contours; glossy skin highlights and individually rendered green-white hair strands, dimensional fabric or armor."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed; reviewed visually",
+        "overlay_checked": false,
+        "arms": 2,
+        "legs": 2,
+        "hands": "Five-digit human structure; hidden fingers recorded in note.",
+        "note": "Two bare upper arms and bent forearms connect to clasped hands; several interlaced fingertips and thumbs occluded. Observatory dome, rain, scarf and knit top; daytime waiting for stars retained from generated plan."
+      },
+      "note": "Two bare upper arms and bent forearms connect to clasped hands; several interlaced fingertips and thumbs occluded. Observatory dome, rain, scarf and knit top; daytime waiting for stars retained from generated plan.",
+      "regenerated": false
+    }
+  }
+}

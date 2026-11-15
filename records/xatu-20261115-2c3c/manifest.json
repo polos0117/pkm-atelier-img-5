@@ -1,0 +1,152 @@
+{
+  "card": "네이티오",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 4,
+  "total": 12,
+  "images": [
+    {
+      "slot": "light",
+      "file": "네이티오_light_anime_25d_gloss_f.webp",
+      "source_sha256": "ddff6da4678374ace6224d495fed0feed3b4582aa0aa59a36d926a652c875fa3",
+      "webp_sha256": "42491cda23ddf53fdd30ed3adacb13ced719b07fce61bd505d3adda7db14a619",
+      "submitted_sha256": "220f7125af113506e8d22967edc4897eed24d22d2471cacad38e5b692b82e78a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual1",
+      "file": "네이티오_anime_25d_gloss_f_casual1.webp",
+      "source_sha256": "bf9045629c2d0f369ad17d2679a58429c8e19f350a0a739015e5b03cbad09e48",
+      "webp_sha256": "3040044b59b66474f9d0bc0d85ef801e2f131de77eb5e650a869cdbf2241f75a",
+      "submitted_sha256": "4f52c438054fcb6d6c270b7bc5e7248011c3b2a411bad1b9f910b697f05a74f8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual2",
+      "file": "네이티오_anime_25d_gloss_f_casual2.webp",
+      "source_sha256": "999892d870e973f675c9772ffbe078f80ed411d4d2ed5569c9b5843421397661",
+      "webp_sha256": "8c6035e25dc3470d4960506fc3f5d0494592f223020f7f129d867c175c386660",
+      "submitted_sha256": "b46a94b5da98e9c3529e9f0c72255b6ee341f1ea3cd3e7ab30c12b0b8c9b0e8b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual3",
+      "file": "네이티오_anime_25d_gloss_f_casual3.webp",
+      "source_sha256": "497c482dd7be588bee78546dfdcfffd39d45c5886b81b780ad302d99b7825d32",
+      "webp_sha256": "f618a431a1d8b2e02fb33125e23e5f7d79c992fa2ccfaa59f1694f6bb11e13e5",
+      "submitted_sha256": "3bb813527f459bbd581bfaec756eebe9e3ddb151a4ece0b4a5de035d786af80c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual4",
+      "file": "네이티오_anime_25d_gloss_f_casual4.webp",
+      "source_sha256": "3f485b1fc4bb6289dbb294407ef61d8bff8d10d5c91dc2825f702a31344e5ead",
+      "webp_sha256": "bf291a014acccb72e9ba89233c4f0607094ff8b4e6e0266188de06cd4516cc31",
+      "submitted_sha256": "373320c5eb411096c92c970d1793f7af381224227e3ae16763c06a44b232e8a6",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual5",
+      "file": "네이티오_anime_25d_gloss_f_casual5.webp",
+      "source_sha256": "92a41c6422e059351c92bd61100eeecf854552d846192e1bfeac141690240d09",
+      "webp_sha256": "2b1a790ca080bd49c1375059ae94d4b38a5914800605fcaa1fced5cf2c83c032",
+      "submitted_sha256": "d62bb319a9a072402890009d2031a4d44f3a28c3eb14a6400499160745485277",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual6",
+      "file": "네이티오_anime_25d_gloss_f_casual6.webp",
+      "source_sha256": "1affac2855fb5996192251260b2bd51e10827e55f5dd260903d13b3fa8aa35c7",
+      "webp_sha256": "1b9f32c42101950909321c4b69a05b95239b4bcf6093840ba835353e0f790823",
+      "submitted_sha256": "a12b760da12492c62e4fa7536f0421ebd1a0dcc2b767d3f1fefbf7360658e4d0",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual7",
+      "file": "네이티오_anime_25d_gloss_f_casual7.webp",
+      "source_sha256": "1d0e8ab660f1dbe6cd8fdb36cb38d6a25caaa2b2575b1771b60e5bbf023cd54d",
+      "webp_sha256": "34f0dfef0b4dc47b4f10500058ca2e75cb9c5db8bd58587a78867effd76e2ea8",
+      "submitted_sha256": "694adccf31456a3aa4b67973ac7488355130cab0f53872dee4a8d676f3e69b84",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual8",
+      "file": "네이티오_anime_25d_gloss_f_casual8.webp",
+      "source_sha256": "914773002cd87ed44a4b6e2bb0b44b7f5b59581b63d7f25d7ef386996a72274e",
+      "webp_sha256": "c523357df57ae6a13d2f8e78bf95ce60ee5fa6f0a57b30c270f98fc3a2616b3f",
+      "submitted_sha256": "7b7f75e82f3c399d1515376386e170ec7be56ceeab2c15b937a0465fee0802a1",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual9",
+      "file": "네이티오_anime_25d_gloss_f_casual9.webp",
+      "source_sha256": "7404d8847ad5ff433d0edd71a15355799bf45e248b0d98e1b1c745a7126e3e00",
+      "webp_sha256": "a62e87d29293cf88afcec50211e916b29cb5bc6c2f1d46d42e5fb7caff5ee5c8",
+      "submitted_sha256": "db711c94ba50b8d50c86cf381997409d73e3e15e51122b7bb330001783592579",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual10",
+      "file": "네이티오_anime_25d_gloss_f_casual10.webp",
+      "source_sha256": "2017b73f5d6d28ac30c1f2e4ac9e62f9e132d1ae3537894e15d75b6c1b6bb3a0",
+      "webp_sha256": "ce5d0db10e623cd3fe1cc077c98ed50cd75f175c0585ac2851f0c0bba1a6859d",
+      "submitted_sha256": "e0421da4c720860c8ee4ec11a3fd876b59686e28a57eb08ed01d73d17ae18f8c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "slot": "casual90",
+      "file": "네이티오_anime_25d_gloss_f_casual90.webp",
+      "source_sha256": "39372ad95a043936cd8e23bcdff7b8586eb022fb25fd4030d1accef4273b9c9f",
+      "webp_sha256": "2e899e66aa6b13d3d9838d61d6c9ea2a49eedbcd0a27bd405558179747e3a9ac",
+      "submitted_sha256": "23fd2854e891bc6a2db194c1a15cc48168d883efb0c3b852a54e962cc460cee8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    }
+  ]
+}
