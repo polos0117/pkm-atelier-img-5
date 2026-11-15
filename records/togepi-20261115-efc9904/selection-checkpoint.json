@@ -1,0 +1,51 @@
+{
+  "status": "awaiting_user_selection",
+  "style": "anime_25d_gloss",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "ours",
+      "path": "/workspace/scratch/efc9904addb2/generated_images/exec-8f210758-a4f9-4128-bd47-a36cc9d20049.png",
+      "sha256": "13d0de22282825888cd2a24c23c3ab45c68c5c82fe622fed45368129a4d5e5c8",
+      "prompt": "/workspace/scratch/efc9904addb2/pack/candidate1-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "design": "ours",
+      "path": "/workspace/scratch/efc9904addb2/generated_images/exec-5efa2516-100a-498b-bdf4-994dad984e2d.png",
+      "sha256": "3d3978411d625a4d07243e68f90d5993ea01585f260f19263a757d0d1cccf7d0",
+      "prompt": "/workspace/scratch/efc9904addb2/pack/candidate2-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/efc9904addb2/generated_images/exec-daa156e0-5f37-4579-a080-9bbba194d08f.png",
+      "sha256": "58514bfbecd794dab9e9d15d90a5d7cdd0e3438406d9ae3475fbf848670e2c0b",
+      "prompt": "/workspace/scratch/efc9904addb2/pack/candidate3-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/efc9904addb2/generated_images/exec-4636489d-a626-4abb-b324-26d0f49ce920.png",
+      "sha256": "d1a7edf77c47fe2fb3851446ac793ca9a2e97307de8a44052f84661e681ff821",
+      "prompt": "/workspace/scratch/efc9904addb2/pack/candidate4-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "qa": "Visually inspected all four: single adult figure, two attached arms and legs, both hands visible; modeled facial shading and blended skin gradients. No regeneration performed."
+}

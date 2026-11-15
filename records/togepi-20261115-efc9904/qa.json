@@ -1,0 +1,350 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Two attached arms and legs, both gloved hands visible. Face has soft nose, cheek and lip shading."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "1fc2256dbf1dd4a3f3b37c12db80b2795d1e0acc8ece30fbaebfb9208429ab9d",
+    "prompt_sha256": "1fc2256dbf1dd4a3f3b37c12db80b2795d1e0acc8ece30fbaebfb9208429ab9d",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Bowl grip partly hides right fingers; left hand rests on knee, two attached arms, seated legs and feet visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "2f367b29b5f008ee79e558c17f941a41f63fc81f5e6d924c91ffbb58be6e1fe1",
+    "prompt_sha256": "2f367b29b5f008ee79e558c17f941a41f63fc81f5e6d924c91ffbb58be6e1fe1",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Raised arm joins its shoulder; opposite hand rests on basket. One leg elevated; lower crop expected."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "gpt_free",
+      "tries": 1
+    },
+    "submitted_sha256": "05bc3acf1c10df56250b81536cc677888c1186567485c782de0b218ec7a89df4",
+    "prompt_sha256": "f51ebf89b405052024e1d8de9d0dff92bf3903fb56c7bd92f3d4aabf2451db4d",
+    "submitted_same": false,
+    "permitted_design": "free_scene"
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Ball held under near arm; far arm visibly joins shoulder, relaxed hand; legs cropped below thigh."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "53f04b9342bbb00f4fb1da231e0bced6c6060988e3925ed67b9a61d57d6e89e6",
+    "prompt_sha256": "53f04b9342bbb00f4fb1da231e0bced6c6060988e3925ed67b9a61d57d6e89e6",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Phone grip partly hides fingers; opposite hand rests on knee. Crouched legs overlap, far foot partly occluded."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "72cc2caa86cd1796f544a3a6c37594712f4e00273bf2750c5882860fb369c790",
+    "prompt_sha256": "72cc2caa86cd1796f544a3a6c37594712f4e00273bf2750c5882860fb369c790",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Microphone grip partly hides fingers; both upper arms remain attached. Close crop; blurred runway spectators in background noted."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "47817089582c37ff34d3cb6d574ce53716a0321f88f40c98a8c0981219dac2eb",
+    "prompt_sha256": "47817089582c37ff34d3cb6d574ce53716a0321f88f40c98a8c0981219dac2eb",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Earpiece grip partly hides fingers; other hand lies on record sleeve. Two arms continuously attached; legs cropped."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "gpt_free",
+      "tries": 1
+    },
+    "submitted_sha256": "8b6a3d62186c7d09074ce56a6cc02bcb9704048e21e5c77967e7961ecb3d6edd",
+    "prompt_sha256": "95ce01945d1496002d1f9ccb173331d83b2dd102104fea6fe4cad76124ed4028",
+    "submitted_same": false,
+    "permitted_design": "free_scene"
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Watering-can grip partly hides fingers; other hand on knee. Crouched legs and sandal feet, no detached limb."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "85717ab9f61a8757a2370453e3c7d7c117eb28b6167897460e2c0b18faea4bab",
+    "prompt_sha256": "85717ab9f61a8757a2370453e3c7d7c117eb28b6167897460e2c0b18faea4bab",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Writing hand and resting opposite hand connected through forearms. Long dress hides far leg."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "d1c05c74ddfb7613dd75a02955ecff45f8aeddc5e6f1efaf1d8031cd02abd533",
+    "prompt_sha256": "d1c05c74ddfb7613dd75a02955ecff45f8aeddc5e6f1efaf1d8031cd02abd533",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "One arm bent behind head with hand occluded, bouquet hand partly occluded by grip; both arms attached."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "4a32d4d3e9b18aecabd8e4d7e3e4510a92674f1e411e33300efda0b218688dbb",
+    "prompt_sha256": "4a32d4d3e9b18aecabd8e4d7e3e4510a92674f1e411e33300efda0b218688dbb",
+    "submitted_same": true,
+    "permitted_design": null
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Bouquet hand has fingers partly occluded; other hand is in pocket, forearm visibly attached."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "gpt_free",
+      "tries": 1
+    },
+    "submitted_sha256": "9aba1be064069b6fcde91629d9d37a921009555b5fabeed4e4b695b250d82832",
+    "prompt_sha256": "38c7fd7742a7f7a1a9660289ae1521d54057ccf911ead253d1bbd0675bb36a11",
+    "submitted_same": false,
+    "permitted_design": "free_outfit"
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually checked; grip/crop occlusion recorded below",
+      "overlay_checked": false,
+      "note": "Two clasped hands with fingers partly occluded by each other; both wrists and forearms attach normally."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "soft blended dimensional nose, cheeks and lips; luminous skin gradients; fine coloured facial contours"
+    },
+    "identity": "reference face, blue eyes and short pale curls retained",
+    "exposure": {
+      "verdict": "match",
+      "note": "Generated result preserved; no exposure-based regeneration."
+    },
+    "generation": {
+      "tool": "built-in image_gen",
+      "design": "generator",
+      "tries": 1
+    },
+    "submitted_sha256": "f43bba77be88e8e9422c1267740e285aa9dc7e34580e108db5c81b6598af5852",
+    "prompt_sha256": "f43bba77be88e8e9422c1267740e285aa9dc7e34580e108db5c81b6598af5852",
+    "submitted_same": true,
+    "permitted_design": null
+  }
+}
