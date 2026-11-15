@@ -1,0 +1,336 @@
+{
+  "light": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two arms and legs joined to torso; open gloved hand has separated fingertips, hanging glove fingers partly curled. Chin, nose and cheeks softly shaded. Wing binders distinct from arms.",
+      "note": "Two arms and legs joined to torso; open gloved hand has separated fingertips, hanging glove fingers partly curled. Chin, nose and cheeks softly shaded. Wing binders distinct from arms."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": null,
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "free_prompt": "light-submitted.txt",
+      "selection": 3
+    }
+  },
+  "casual1": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Standing on the station platform; one hand on railing and one at her side, visible wrists continuous with forearms. Two crossing legs and two shoes.",
+      "note": "Standing on the station platform; one hand on railing and one at her side, visible wrists continuous with forearms. Two crossing legs and two shoes."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": true
+    }
+  },
+  "casual2": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Chest-up portrait. Both shoulder and upper-arm contours continue past lower crop; hands and legs outside crop.",
+      "note": "Chest-up portrait. Both shoulder and upper-arm contours continue past lower crop; hands and legs outside crop."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": false,
+      "free_prompt": "casual2-submitted.txt"
+    }
+  },
+  "casual3": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Standing with one knee raised; two hands rest by hips with fingers pointing down, both wrists attached. Two separate shoes.",
+      "note": "Standing with one knee raised; two hands rest by hips with fingers pointing down, both wrists attached. Two separate shoes."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": true
+    }
+  },
+  "casual4": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Prone on living-room cushions; two forearms run forward onto pillow and hands partly overlap at right frame edge. Two feet visible to left; toes partially overlap in depth.",
+      "note": "Prone on living-room cushions; two forearms run forward onto pillow and hands partly overlap at right frame edge. Two feet visible to left; toes partially overlap in depth."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": true
+    }
+  },
+  "casual5": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Right and left arms swapped versus written side labels: viewer-left hand rests on ledge and viewer-right hand grips pinwheel. Both shoulder-elbow-wrist chains are continuous. Fingers partly hidden by grip. Two thighs continue beyond bottom crop.",
+      "note": "Right and left arms swapped versus written side labels: viewer-left hand rests on ledge and viewer-right hand grips pinwheel. Both shoulder-elbow-wrist chains are continuous. Fingers partly hidden by grip. Two thighs continue beyond bottom crop."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": false,
+      "free_prompt": "casual5-submitted.txt"
+    }
+  },
+  "casual6": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both shoulders and arms continuous. Near wrist and empty hand exit bottom edge; far hand visible at lower right with fingers partly curled. Final background has no other people.",
+      "note": "Both shoulders and arms continuous. Near wrist and empty hand exit bottom edge; far hand visible at lower right with fingers partly curled. Final background has no other people."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 3,
+      "existing_result_regenerated_for_exposure": false,
+      "retry_reason": "Two previous results included background visitors, violating the single-figure rule. First retry used identical prompt; final prompt rebuilt from settings with an empty-venue note and recorded manual reason.",
+      "submitted_same": true
+    }
+  },
+  "casual7": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Close portrait; both shoulder caps and upper arms visibly continue downward past crop, no floating hands. Legs out of frame.",
+      "note": "Close portrait; both shoulder caps and upper arms visibly continue downward past crop, no floating hands. Legs out of frame."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": true
+    }
+  },
+  "casual8": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two arms reach down to the grass from matching shoulders. Both palms attached at wrists, fingers spread across ground. Kneeling legs partly outside crop. Swimsuit rendered as joined cutout style rather than two separate pieces; retained.",
+      "note": "Two arms reach down to the grass from matching shoulders. Both palms attached at wrists, fingers spread across ground. Kneeling legs partly outside crop. Swimsuit rendered as joined cutout style rather than two separate pieces; retained."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": true
+    }
+  },
+  "casual9": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both shoulder and upper-arm contours visible into shirt and continue below crop. Hands and legs outside crop.",
+      "note": "Both shoulder and upper-arm contours visible into shirt and continue below crop. Hands and legs outside crop."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": true
+    }
+  },
+  "casual10": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "One arm bends upward to telescope focusing collar and the other rests on thigh, both traceable to matching shoulders. Knees bent on cushion with two boots visible to left. Grip fingers partly overlap telescope ring.",
+      "note": "One arm bends upward to telescope focusing collar and the other rests on thigh, both traceable to matching shoulders. Knees bent on cushion with two boots visible to left. Grip fingers partly overlap telescope ring."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "gpt_free",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "submitted_same": false,
+      "free_prompt": "casual10-submitted.txt"
+    }
+  },
+  "casual90": {
+    "accepted": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; visual inspection performed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both elbows bend inward and wrists join clasped hands in front. Fingers interlace and obscure some fingertips; no disconnected hand or extra arm. Legs outside crop.",
+      "note": "Both elbows bend inward and wrists join clasped hands in front. Fingers interlace and obscure some fingertips; no disconnected hand or extra arm. Legs outside crop."
+    },
+    "identity": {
+      "verdict": "match",
+      "evidence": "Green almond eyes, soft compact jaw and nose, red high braided ponytail with white streaks retained from selected candidate 3."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Blended nose, cheek and lip shading, delicate eyelid lines, dimensional fabric, glossy skin highlights, strand-rendered hair."
+    },
+    "generation": {
+      "design": "generator",
+      "reference": "selected candidate 3",
+      "tries": 1,
+      "existing_result_regenerated_for_exposure": false,
+      "own": {
+        "level": "bold",
+        "tries": 1,
+        "blocked": []
+      },
+      "submitted_same": true
+    }
+  }
+}

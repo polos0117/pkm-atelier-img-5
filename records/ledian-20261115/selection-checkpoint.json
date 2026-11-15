@@ -1,0 +1,52 @@
+{
+  "card": "레디안",
+  "style": "anime_25d_gloss",
+  "phase": "casual_planning",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "generator",
+      "original": "/workspace/scratch/84a66f018f8b/generated_images/exec-202e17c9-380e-4385-b291-f4b824d3e6b3.png",
+      "sha256": "a4a27e6573c3bfb277cfa0258452a8e91c0b1ca04c655ab7ceaff3b990c6bc12",
+      "submitted": "/workspace/scratch/84a66f018f8b/candidates/01-submitted.txt"
+    },
+    {
+      "number": 2,
+      "design": "generator",
+      "original": "/workspace/scratch/84a66f018f8b/generated_images/exec-fc6df10d-f86b-4df4-95ee-91d32fb5e98b.png",
+      "sha256": "938b8b26b47a99138a97fbb864cb0a66cdb2b5da233ab47d2ab6c4e35bb6f442",
+      "submitted": "/workspace/scratch/84a66f018f8b/candidates/02-submitted.txt"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/84a66f018f8b/generated_images/exec-f18d12de-d032-4193-a941-9a9e81d92436.png",
+      "sha256": "6cf6808ea199ebdaca96e1c8410b7f90f0604fd7d073a7433d977e6e696823ff",
+      "submitted": "/workspace/scratch/84a66f018f8b/candidates/03-submitted.txt"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/84a66f018f8b/generated_images/exec-cceba8a5-21ee-4073-82c0-425c54ea5376.png",
+      "sha256": "595c224433686abb97924a143962f3aad48a5e2499881a637556fb3b9966e577",
+      "submitted": "/workspace/scratch/84a66f018f8b/candidates/04-submitted.txt"
+    }
+  ],
+  "code_worktree": "/workspace/scratch/84a66f018f8b/ledian",
+  "branch": "work/ledian-84a66f",
+  "selected": 3,
+  "published": false,
+  "qa": {
+    "method": "visual inspection of four original images and selection sheet",
+    "style_25d": {
+      "verdict": "dimensional anime rendering",
+      "evidence": "soft painted nose, cheek and chin shading, fine colored face contours, material-specific armor highlights"
+    },
+    "anatomy": {
+      "arms": 2,
+      "legs": 2,
+      "note": "All four show joined human limbs; glove fingers partly overlap or curl. No extra disconnected limbs observed."
+    },
+    "regenerated_for_exposure": false
+  }
+}

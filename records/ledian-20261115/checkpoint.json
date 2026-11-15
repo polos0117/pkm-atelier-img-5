@@ -1,0 +1,145 @@
+{
+  "card": "레디안",
+  "style": "anime_25d_gloss",
+  "selected": 3,
+  "phase": "12_of_12_generated_publication_pending",
+  "outputs": [
+    {
+      "slot": "light",
+      "file": "레디안_light_anime_25d_gloss_f.webp",
+      "path": "img/레디안_light_anime_25d_gloss_f.webp",
+      "original_sha256": "6cf6808ea199ebdaca96e1c8410b7f90f0604fd7d073a7433d977e6e696823ff",
+      "sha256": "f14112ca853ab4d73662e75506543e86f9f32e14baa14b2d3696de70c0522c91",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual1",
+      "file": "레디안_anime_25d_gloss_f_casual1.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "50037f9d0150778d60ee6f0be7c1fd97000dda67675ff14e70092eaf634abed7",
+      "sha256": "fd45b379bd2ef3f7a2ef3e781964631048946ec6f47d44db1ae80eb4fb7c225b",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual2",
+      "file": "레디안_anime_25d_gloss_f_casual2.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "77630d762521a9349d06a2d43e48df22fb0b23377f19850eed604ff35fb34acc",
+      "sha256": "c3b723bff02d8f7ecfed9c0e4cacc77f29be5308454d23ea572a48d539e24fdc",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual3",
+      "file": "레디안_anime_25d_gloss_f_casual3.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "21bcc738b94ca5d73757b9d1430eee9be1e51efe23126f0da815a5d30c7bc182",
+      "sha256": "ee321e3dd1b30b645017135152ec9a36f54e888493bbeda9de4817c38383b652",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual4",
+      "file": "레디안_anime_25d_gloss_f_casual4.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "6179f180cefffa7ea948d0880ef8398aaacde8e684aa2c8dffdc35ff354a1d71",
+      "sha256": "0e9d681f4bcc8da60fb863381ef403cca690cca6d0d8f4e6a1eb6464fe863fbc",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual5",
+      "file": "레디안_anime_25d_gloss_f_casual5.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "da769288c293e737c4938dcef16204e09251fbf5241f39e7140026de255741ea",
+      "sha256": "5135be59a4b2e02690f4dfe9c8ddcea00efcd8049308a11d9b286f40d1c90469",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual6",
+      "file": "레디안_anime_25d_gloss_f_casual6.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "dbe15f1e7173f9202d2b1ed60c664b5f7b5f50ab4cd452297ad94d0592c5ffe9",
+      "sha256": "44a5bd80672ebddd08038f6b4776e3b63259374bf67ebadd23862a37c929cee2",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual7",
+      "file": "레디안_anime_25d_gloss_f_casual7.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "5dc324ac0a52231998e9b41689cb26d3f8ab5cc944c1443bd9eea52cc2ae07f7",
+      "sha256": "ba05e89730a01a6630a522fdc20ff188af14bababd3d66c619c27c5c31cd7616",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual8",
+      "file": "레디안_anime_25d_gloss_f_casual8.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "e12155a2a9bdad76904a7e5b7ad7f82c49e2c104327228bf6e2a3c5cc1a29037",
+      "sha256": "2392dde18f34368652dd49ba5c3ba3a8d419a3baab221c57fa2a40c979b71d89",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual9",
+      "file": "레디안_anime_25d_gloss_f_casual9.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "8ada244d40b78e058fbb8879a0ca65761ac2306fd79b9acced6a66d4fcd113c8",
+      "sha256": "5ce98fe4cf3f7c2b25ab5e2425ca2242f2cf6c72d1c1d4dae646a324e420441d",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual10",
+      "file": "레디안_anime_25d_gloss_f_casual10.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "7dcc3ec6e6667a48c1243e26b30d60e2b914c33c4fba650b3add38dfb9fa6cf9",
+      "sha256": "61ab995d048ec9e3f93b6b215cdcb5472ec5a2cab85b1790dba6721f9219517a",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual90",
+      "file": "레디안_anime_25d_gloss_f_casual90.webp",
+      "path": "img/레디안_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "c9d5885e2a2b09dd33cd30234e3d67ff4cce775d341f44f84fed2773c398eaf5",
+      "sha256": "bc6e080a111e835fc4ce244651bf98621df1698af9463f884d4f26a183c63ceb",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "publication": {
+    "method": "Local git push lacks credentials; connected GitHub fast-forward main update with force:false",
+    "reservation_commit": "d871fa3bc9c7c0c7abd3287fe6e520e3be3b2fd9"
+  },
+  "regenerated_for_exposure": false
+}
