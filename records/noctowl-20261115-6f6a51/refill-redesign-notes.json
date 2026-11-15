@@ -1,0 +1,18 @@
+{
+  "user_request": "미완성 이미지 같은 갈래에서 설계만 변경해서 재생성해줘.",
+  "slots": [
+    2,
+    4,
+    10
+  ],
+  "families": {
+    "2": "retro",
+    "4": "lingerie",
+    "10": "bridal"
+  },
+  "retained_existing_images": true,
+  "validation": "prompt-pack generator individual tree validation passed",
+  "planner_limitation": "Automatic refill planner failed to allocate missing ofree/sfree/xfree markers across three missing slots. Same-family user request prioritized; scene selections made through generator tree repair. Batch diversity check is not claimed passed.",
+  "exposure": "moderate after prior output blocks",
+  "reservation": "Existing same-session Noctowl reservation retained; no takeover of another session."
+}

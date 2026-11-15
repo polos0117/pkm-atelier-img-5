@@ -11,7 +11,7 @@
       "blocked": []
     }
   },
-  "status": "partial_9_of_12",
+  "status": "complete_12_of_12",
   "outputs": [
     {
       "slot": "light",
@@ -117,5 +117,37 @@
     "casual2": "d85e7335-5edf-4a61-8d45-5b8500c2e9d6",
     "casual4": "21a33482-58d6-4ac0-886a-f9c57bea8202",
     "casual10": "39cdfc9a-b18d-4f32-94f3-f855a23749d9"
-  }
+  },
+  "previous_status": "partial_9_of_12",
+  "resolved_blocked_slots": [
+    "casual2",
+    "casual4",
+    "casual10"
+  ],
+  "refill_outputs": [
+    {
+      "slot": "casual2",
+      "path": "/workspace/scratch/6f6a51ab1065/pkm-atelier-img-5-refill/img/야부엉_anime_25d_gloss_f_casual2.webp",
+      "repo_path": "img/야부엉_anime_25d_gloss_f_casual2.webp",
+      "source": "/workspace/scratch/6f6a51ab1065/generated_images/exec-8a21de37-51a9-4009-9161-134a2e27431d.png",
+      "original_sha256": "5deb0e215d52e0a0e6a37baf3a143130df21b5b792aaebf2ddd9fc2381b50af4",
+      "webp_sha256": "fc22512fbd8960b00a7cd3232ef2b1f91b5a50525012f908670d193dcae3e821"
+    },
+    {
+      "slot": "casual4",
+      "path": "/workspace/scratch/6f6a51ab1065/pkm-atelier-img-5-refill/img/야부엉_anime_25d_gloss_f_casual4.webp",
+      "repo_path": "img/야부엉_anime_25d_gloss_f_casual4.webp",
+      "source": "/workspace/scratch/6f6a51ab1065/generated_images/exec-958d2857-fdcf-4d78-b1ea-3a7bd8bd809a.png",
+      "original_sha256": "f07f7ef0fb98efdf035a1430523716f3dfc7765e00b5bacece3054f76b09cc13",
+      "webp_sha256": "635daf72ce09f40f35bacde95cdd44038f120f6470f56c4e1ffc31a31d0e5229"
+    },
+    {
+      "slot": "casual10",
+      "path": "/workspace/scratch/6f6a51ab1065/pkm-atelier-img-5-refill/img/야부엉_anime_25d_gloss_f_casual10.webp",
+      "repo_path": "img/야부엉_anime_25d_gloss_f_casual10.webp",
+      "source": "/workspace/scratch/6f6a51ab1065/generated_images/exec-73693c72-e704-48a1-8f41-08e6ceff1f34.png",
+      "original_sha256": "928eb456fb543243a9e230a25644324bf598f89b54ffec409ef1e722d364dd5a",
+      "webp_sha256": "1dbb821eb65c90a1cca0942121876b8d64156087e65ea81633bb38ae5ba21a00"
+    }
+  ]
 }

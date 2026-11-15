@@ -1,0 +1,63 @@
+{
+  "casual2": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Standing in bookshop wearing blue swing dress. Two connected arms with relaxed hands; both lower legs and shoes visible beneath skirt.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe; visual review",
+      "issue": "ok",
+      "evidence": "Standing in bookshop wearing blue swing dress. Two connected arms with relaxed hands; both lower legs and shoes visible beneath skirt.",
+      "hands": "Connected wrists and fingers visually checked; relaxed overlapping fingers are partly occluded."
+    },
+    "exposure": {
+      "verdict": "match",
+      "level": "moderate",
+      "evidence": "Opaque constructed garment covers torso and pelvis; shoulders/arms or calves visible."
+    },
+    "attempts_this_refill": 1,
+    "reference": "selected mecha 4",
+    "image_sha256": "fc22512fbd8960b00a7cd3232ef2b1f91b5a50525012f908670d193dcae3e821"
+  },
+  "casual4": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Standing in living room wearing opaque lavender satin nightdress. Both arms and relaxed hands attached; lower legs partly cropped.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe; visual review",
+      "issue": "ok",
+      "evidence": "Standing in living room wearing opaque lavender satin nightdress. Both arms and relaxed hands attached; lower legs partly cropped.",
+      "hands": "Connected wrists and fingers visually checked; relaxed overlapping fingers are partly occluded."
+    },
+    "exposure": {
+      "verdict": "match",
+      "level": "moderate",
+      "evidence": "Opaque constructed garment covers torso and pelvis; shoulders/arms or calves visible."
+    },
+    "attempts_this_refill": 1,
+    "reference": "selected mecha 4",
+    "image_sha256": "635daf72ce09f40f35bacde95cdd44038f120f6470f56c4e1ffc31a31d0e5229"
+  },
+  "casual10": {
+    "accepted": true,
+    "reviewer": "gpt",
+    "observations": "Walking along outdoor garden aisle under rose arch. Two connected arms and relaxed hands; skirt parts show forward leg and shoe; far leg occluded by gown.",
+    "anatomy": {
+      "tool": "unavailable: mediapipe; visual review",
+      "issue": "ok",
+      "evidence": "Walking along outdoor garden aisle under rose arch. Two connected arms and relaxed hands; skirt parts show forward leg and shoe; far leg occluded by gown.",
+      "hands": "Connected wrists and fingers visually checked; relaxed overlapping fingers are partly occluded."
+    },
+    "exposure": {
+      "verdict": "match",
+      "level": "moderate",
+      "evidence": "Opaque constructed garment covers torso and pelvis; shoulders/arms or calves visible."
+    },
+    "attempts_this_refill": 2,
+    "reference": "selected mecha 4",
+    "image_sha256": "1dbb821eb65c90a1cca0942121876b8d64156087e65ea81633bb38ae5ba21a00",
+    "prior_attempt": {
+      "original_sha256": "013079cf7bc7554208b85fbd9c8f6758f44e47f3307452aeaf0b88d71f69ce25",
+      "reason": "similarity check score 204 against Kakuna; rejected before publication"
+    }
+  }
+}
