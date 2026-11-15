@@ -1,0 +1,199 @@
+{
+  "reference_selected": 1,
+  "regenerated_existing_outputs": false,
+  "tool": "unavailable: mediapipe is not installed",
+  "slots": {
+    "light": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "One head, two arms and legs; fingers partly hidden by the relaxed left fist.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual1": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Two arms extend separately to the towel; finger grips obscure some digits. Companion creature present as planned.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual2": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Face close-up; holding hand connected to its forearm, other arm exits frame; no floating hands.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual3": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Two arms and legs continuous; hand on hip and lowered hand attached.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual4": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Each arm follows its own shoulder; right fingers touch water, left hand holds cup. Legs cropped by knee-up framing.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual5": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Near forearm hugs book; far arm rests on railing; both connect to shoulders.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual6": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Right hand rests on cheek with forearm visible; left shoulder and upper arm exit crop.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual7": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Raised hand has five visible digits and connects to forearm; other upper arm exits crop.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual8": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Two separate arms visible, right ticket grip and left fingers rest on seat; two continuous legs.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual9": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Two forearms extend from shoulders to hands under chin; two legs bent upward. Grip/fold hides some digits.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual90": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Both forearms connect to shoulders, hands grip opposite sides of puppet control; two bent legs continuous; puppet limbs are props.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    },
+    "casual10": {
+      "anatomy": {
+        "verdict": "visual pass",
+        "note": "Two visible arms and hands; each connects through its wrist; two continuous legs; some gloved digits occluded.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft facial gradients and fine contours; detailed cloth/armor textures and glossy skin highlights."
+      },
+      "exposure": {
+        "verdict": "preserved",
+        "note": "Returned image retained without censorship regeneration."
+      }
+    }
+  },
+  "blocked": {
+    "casual2": [
+      "bold: no image returned",
+      "moderate: succeeded"
+    ],
+    "casual10": [
+      "bold: no image returned",
+      "moderate: no image returned",
+      "low: succeeded"
+    ]
+  },
+  "generation_note": "Initial concurrent batch ended early after one output moderation error; no images returned from that batch. Retried the unfinished calls. All returned images retained."
+}

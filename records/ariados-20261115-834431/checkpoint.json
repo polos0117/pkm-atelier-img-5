@@ -1,0 +1,130 @@
+{
+  "card": "아리아도스",
+  "style": "anime_25d_gloss",
+  "stage": "generated",
+  "selected": 1,
+  "count": 12,
+  "reference_sha256": "c0cd6a0df21fae56fc3652c1625cced4a19a47a7602092f701790284be5931b3",
+  "outputs": [
+    {
+      "slot": "light",
+      "source_sha256": "c0cd6a0df21fae56fc3652c1625cced4a19a47a7602092f701790284be5931b3",
+      "file": "아리아도스_light_anime_25d_gloss_f.webp",
+      "sha256": "c9c8f907a4dc5200bfd5653470b037db5c6c8188125775e867d2826a89b323cb",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual1",
+      "source_sha256": "6fa7a1de9604a2679214def5610bf56910e732c933cbdb60170481ec2e99d0c5",
+      "file": "아리아도스_anime_25d_gloss_f_casual1.webp",
+      "sha256": "cf69fac0a2042cd1ec28deae34d5aeb64e5353916fa50418ed3d6e80fa07439b",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual2",
+      "source_sha256": "3edbf18f6d1bde0ca3d4425eec535260bcecff0ae56c28cb9571c567fa5e4bae",
+      "file": "아리아도스_anime_25d_gloss_f_casual2.webp",
+      "sha256": "6f7ad713eeaf32a4626c60e185ca20bb0af726bb43c9415ade1df6d2bdf38833",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual3",
+      "source_sha256": "fd071196c0c7ccece29061144f420e77c8e3a121166c63ac8f8b62b39ec7603f",
+      "file": "아리아도스_anime_25d_gloss_f_casual3.webp",
+      "sha256": "7bdb9efca0c52455b63dc12ef2cf379ccf1602b4e5b2b8a973446acceb6dca70",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual4",
+      "source_sha256": "659329c8d7337bf41994bb2dacc1e91e5dc8dce7c08010a32bff6297ba086a62",
+      "file": "아리아도스_anime_25d_gloss_f_casual4.webp",
+      "sha256": "721661a4fe3215e8a25c00a70b7b56fbe97e70404787fbfa82390a276d238f77",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual5",
+      "source_sha256": "eb8b1c8b2e5df38b2717e20aad86fe48ee4a7e36ded983e83b486c1a94ca8014",
+      "file": "아리아도스_anime_25d_gloss_f_casual5.webp",
+      "sha256": "7e90afa1207a16b793a90c3995d8176bef0191e51a2ae2761205f97214b52bcb",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual6",
+      "source_sha256": "80927e520496dd010a93036668ea705763cf80f812a2b78795417a927ac9a7cb",
+      "file": "아리아도스_anime_25d_gloss_f_casual6.webp",
+      "sha256": "4839ccb7d4376a03a599598a0b8492adbcaeb4588580c01b3fccb06370e912e2",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual7",
+      "source_sha256": "fe833ec111e7abd18c1d48ae45aac181dbe0b489bdd9028ddf66b5804244a270",
+      "file": "아리아도스_anime_25d_gloss_f_casual7.webp",
+      "sha256": "6e5f543a69382cb47dd2313ad2225bfa5bc3db9a81733ec972ff62233c48c551",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual8",
+      "source_sha256": "9e70119640185995e440ad7006c821b28792b3e318aaaa459fd0dce525c342b8",
+      "file": "아리아도스_anime_25d_gloss_f_casual8.webp",
+      "sha256": "ef216d97a06f97af3f7537debd478a106c336b6604ba13ae967831a8d2f1ba97",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual9",
+      "source_sha256": "03a543198b44f4fb06825a54011cf7badc831319b7397fa2b09b269ea0f0bdd1",
+      "file": "아리아도스_anime_25d_gloss_f_casual9.webp",
+      "sha256": "8855d550aa64c738ff4c6f1e854b82523a3dce3f91ded7455a4f66c214a92a7e",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual90",
+      "source_sha256": "ea6799f4e61f86aad840ffedc1032ced4d38cc020aad06b419710782af7230ce",
+      "file": "아리아도스_anime_25d_gloss_f_casual90.webp",
+      "sha256": "07bf4f2d52d2dade1776b818f1158679d46a50e1a9e926a2816051d8280c39b4",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual10",
+      "source_sha256": "fb0df1ec56215b56c446bd19228fa1ef6691f0504a369e0e0cd0e537e103a15c",
+      "file": "아리아도스_anime_25d_gloss_f_casual10.webp",
+      "sha256": "8eb253e893e48f0e09b66857bc3a2426a8748051ccb02a3fe19bcc98577a09d1",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}
