@@ -1,0 +1,178 @@
+{
+  "card": "메리프",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 3,
+  "images": [
+    {
+      "slot": "light",
+      "file": "메리프_light_anime_25d_gloss_f.webp",
+      "original_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "sha256": "9ee1f38cfe24eb186a7152f3ec4a200ef1b3b0fdb60194dc4fea2d68816baa07",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {
+        "design": "gpt_free",
+        "free_prompt": "Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\nSource: Mareep (메리프), electric type.\nSubject: A female mecha personification character with Mareep as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\nOutput: one dynamic action image that is also this form's card art.\n\n1. STYLE\nHigh-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\n2. CHARACTER\nFace — her own structure, not the style's default face: a refined adult woman with a short midface, a compact heart-shaped face, soft rounded jaw and small soft chin; gently curved almond eyes, fine arched brows, a small straight nose and softly full lips.\nHair: pale golden-yellow hair in two high, voluminous cloud-curled ponytails, wispy parted bangs and curled face-framing locks.\nImpression (reads even at card size): a warm, confident woman in her mid-twenties; clear turquoise eyes, subtle copper eyeliner and a small closed-lip smile.\nIdentity (chosen details override the automatic look)\nbody type: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nProportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.\nBody: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\nHands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. ARMOR — LIGHT\nCostume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.\nArmor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\nSilhouette: a sleek, close-fitting suit of plate armor — thin, long plates on the shoulders, arms, torso and legs follow her curves closely. The shoulder and hip armor is constructed from overlapping rounded scalloped ceramic lamellae inspired by tightly curled fleece, with beveled mechanical edges and visible seams; solid machined armor, never actual wool.\nColours: yellow, black, orange, blue.\nWear: the orange sphere becomes a gem set in her chest plate or circlet; the conical ears become a headpiece or hair ornament of the same shape; its markings (yellow-and-black striped pattern) become painted lines and patterns on her plates and undersuit.\nExposure: armor and undersuit open by design only at a deep neckline window with cleavage, and a bare midriff; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\n4. SCENE\nComposition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\nPose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\nType effects: fine amber currents glow along the scalloped armor seams, and a small electric halo floats above her open palm without touching her fingers. Setting: a sunlit highland wind-power station, distant white turbines and a pale blue sky.\n\n5. CONSTRAINTS\nOne figure only.\nAvoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.\n"
+      }
+    },
+    {
+      "slot": "casual1",
+      "file": "메리프_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "862d3294532960e6042c5940af2794708bd16e9929a8281de1b01fd2c34330d5",
+      "sha256": "25bd22dec297c01c3bdc67326520eb791885054dc7b7539482ca1ae3d27a148e",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual2",
+      "file": "메리프_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "266e096d70b00c5c2589ad2fd33a50137a0f9c7a604fe49eafb668c4493bcfc6",
+      "sha256": "133ce944f97b6bc12c055e615e6862d2ee8d1b6298dcac866868fe1ae4284823",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual3",
+      "file": "메리프_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "f9f58afe75dad0487da84fb0c50cb1bc98fa393464d924c9b6bd4e45c938fe06",
+      "sha256": "4427e483b5813340cb1989c450c5a497bb61d5ef3e383c947a5dbbcd79fa2109",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual4",
+      "file": "메리프_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "fb5c4b8ae57bdb5713c9d8cb2dfcf52dea668af22ddde8d3bd0d6209f37a9c9d",
+      "sha256": "6142921200ae833c758f776bc70e4b6a2f700d2c26ca49c437eee872dc1e53bd",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {
+        "cosplay": {
+          "game": "world_of_warcraft",
+          "character": "Jaina Proudmoore",
+          "cut": "lingerie"
+        }
+      }
+    },
+    {
+      "slot": "casual5",
+      "file": "메리프_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "cddddfaa8527caff6fb707ca806f8866ae2a5fda826dcaf3ce243f487384bdd0",
+      "sha256": "fe7685caa63dbbb18e54c827f77c208be3de6442e15590df8a2f5d0afa08edae",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {
+        "design": "gpt_free",
+        "free_prompt": "CHARACTER: the same woman as the attached image — Mareep (메리프) personified, electric type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: inside a glass coastal cable-car gondola high above a sunlit seaside town. Activity: static electricity has made a few of her golden curls cling to the glass and she notices it with amused delight. She stands naturally with her own right forearm reaching forward and right palm resting flat on the window at shoulder height; her own left arm hangs beside her body and the left hand holds a small plain paper transit ticket down by her hip. Outfit: a deep teal fitted bib-front knit crop top with a sculpted open-shoulder neckline and a small round waist opening, matched with high-waisted asymmetrical petal culottes; opaque fabric and secure chest and pelvic coverage, bare shoulders, midriff and legs, low woven sandals. A small orange sphere charm on her bag and one striped wool pompom suggest her species without changing the outfit. Composition: a knee-up environmental portrait, gentle three-quarter body and face toward the camera, face-height camera; the town, cable and sea recede through the glass. Warm clear daylight with soft dimensional facial shading.\nEXPRESSION: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+      }
+    },
+    {
+      "slot": "casual6",
+      "file": "메리프_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "86752234b40938ef0a2babe7ed0d6e5e54683fb949105125687d572f824105ed",
+      "sha256": "d328c2f07e78768367611d05409e05da01fb30bd2aaccc9d61aac155449ec597",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual7",
+      "file": "메리프_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "d80a6f1bb448833e8b3afebb01331f25dbd4e5c1070f8b90513bffd61828fd95",
+      "sha256": "2949868e0f2ba67a039d6f764d94dccd1aeff3e6018337b45aed7e9a0e254d1a",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {
+        "design": "gpt_free",
+        "free_prompt": "CHARACTER: the same woman as the attached image — Mareep (메리프) personified, electric type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a small open-air astronomy festival at dusk, beside a low padded trampoline under a canopy of hanging paper comet shapes. Activity and momentary situation: she has just made one gentle bounce to tap a paper comet overhead, both arms lifted in a clear open V; this upward reach makes the deliberately cut waist windows and bare underarms visible, with no shifting clothing or wardrobe failure. Her own right arm rises from the right shoulder toward the right comet, and her own left arm rises separately from the left shoulder toward the left comet, both open palms relaxed with natural fingers. She is balanced upright with both feet close above the padded trampoline. Outfit: an original adult star-navigator event costume — a midnight-violet opaque short capelet joined only at a narrow jeweled collar, a structured strapless sweetheart crop bodice with curved silver piping, and high-waisted petal-panel shorts with rounded side windows and two short rear streamers; secure chest and pelvic coverage, bare shoulders, midriff and thighs; soft ankle boots. A small orange spherical brooch and a striped wool wrist charm suggest her species. Composition: full body with clear margins, camera at her face height, body and face gently three-quarter toward the camera, dusk sky and lantern-lit event grounds behind her; a fresh playful everyday festival moment, no crowd in focus.\nEXPRESSION: challenging eyes under lowered lids, one brow raised, mouth corner tugged in a slight smirk. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+      }
+    },
+    {
+      "slot": "casual8",
+      "file": "메리프_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "29bb9066377e34097f82cfd1c6aead67f72fe1870f6df3808a7e17b9d180752d",
+      "sha256": "acda7d0a13fd73a54b3aab2471f67d1890639dbab43c6d86ab65ab148450e6c2",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual9",
+      "file": "메리프_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "152033cbcf86acb3f795335d5e7a6fa19a5624d94a5fb3ed26b4c3107567c8ba",
+      "sha256": "8d3b41e26d489e892a1d90b482aaf57cc357aa1c678d059d7fc752f7bfe71bab",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual10",
+      "file": "메리프_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "d67bac46320bc1a56f251926a93e4b9ac3c3f47cca368ea54aa4ea86e41fd8c1",
+      "sha256": "96333c6c68d6f4f11081cad9caa96d9e5082cefacec766760e208b35070f39ba",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    },
+    {
+      "slot": "casual90",
+      "file": "메리프_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "ff7990587e2cef9bd28e8d5d79940bd6a64928f7c780971943c9703d8a55b475",
+      "sha256": "a6b416e3c13f9dc81d289a2ee91851f9f54a92390c7df5156a1fb11f008a41b5",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference_sha256": "05cad0186102d7bb83a6a484948d4ddeb9e0fdf9ccd4f9383691f1d139753f80",
+      "generation": {}
+    }
+  ]
+}

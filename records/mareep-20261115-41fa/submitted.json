@@ -1,0 +1,68 @@
+{
+  "casual1": {
+    "submitted_sha256": "d9d4a122208547a022a0aca26129b5233f366cb9747ff4bf1dfb08ac6bb08f8c",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual2": {
+    "submitted_sha256": "fa2b5a082865134b70545082ff0197207022a935cf07a604c40b671788c3d844",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual3": {
+    "submitted_sha256": "6a7895efa14cc8c60d5fae8561219e1f94f97e345026d2c92aab64ba84361de3",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual4": {
+    "submitted_sha256": "4e8e263b5a5f37c524d56ff1f3ab52e209b2bb5320d8a52b93c2866a63cc02c8",
+    "same_as_generated": false,
+    "authorized_exception": "game cosplay first-round character selection",
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual5": {
+    "submitted_sha256": "be671a133831d77a5987b4703e5657fc5fa229b449a00de773b369d83d6d8a6c",
+    "same_as_generated": false,
+    "authorized_exception": "sfree scene design",
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual6": {
+    "submitted_sha256": "6cf40ac0bf7d633e3a25ac85ad4c413f9a2da8b0ca1d436f0bf807c4f719fa2d",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual7": {
+    "submitted_sha256": "6d3bae0c16d1ea1280a049e2b92d37b73f711370728f89bc25eec6bea850fd21",
+    "same_as_generated": false,
+    "authorized_exception": "xfree category and situation design",
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual8": {
+    "submitted_sha256": "4f756ffd42be3a7103cb85ca8b3677e3393337e5c018235d9162fafd671b504a",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual9": {
+    "submitted_sha256": "98945d7c4cdce432becfbd9b77360b98783bc9f2ff6c1b992b1e9c4494d184b9",
+    "same_as_generated": false,
+    "authorized_exception": "ofree outfit design",
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual10": {
+    "submitted_sha256": "115f5fdec2bf7214808d1f026270162dcdb020ae8a1941af660d29495bce0f0e",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  },
+  "casual90": {
+    "submitted_sha256": "95ce07682d051ab0359648a8817b95702173dbedba5895c68518f27462202b84",
+    "same_as_generated": true,
+    "authorized_exception": null,
+    "reference": "../generated_images/exec-ac3c409a-aa7b-43b4-870b-3a32334c9e88.png"
+  }
+}
