@@ -1,0 +1,15 @@
+{
+ "selected": 2,
+ "style": "anime_25d_gloss",
+ "generation": "built-in image_gen",
+ "total": 12,
+ "failed_attempts": [
+  "casual1 output moderation, then safe outfit",
+  "casual9 output moderation, then safe outfit"
+ ],
+ "free_design_slots": [
+  5,
+  6,
+  7
+ ]
+}

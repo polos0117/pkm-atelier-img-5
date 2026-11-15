@@ -1,0 +1,74 @@
+[
+ {
+  "slot": "light",
+  "filename": "페이검_light_anime_25d_gloss_f.webp",
+  "original_sha256": "5ac615c9f330dc568d1b42d7861b037962237117539077f1a955e9ad83d919a2",
+  "sha256": "1cf6f574d58b559d95d75ef0af748a4ca521f69891d82ee97796b9ce5742c6c8"
+ },
+ {
+  "slot": "casual1",
+  "filename": "페이검_anime_25d_gloss_f_casual1.webp",
+  "original_sha256": "c2108e32968ca14cea7e989969d4d5c569bd67c8a41f06bdcc25d50204eff0ec",
+  "sha256": "7cbd14ec2b058bd5c19c81aa6d2bb8d4419a49340a86625544a586c71edd5cfd"
+ },
+ {
+  "slot": "casual2",
+  "filename": "페이검_anime_25d_gloss_f_casual2.webp",
+  "original_sha256": "0d5cd7bc6484585d0d25ddf7ec697122fbcb5b2f421f3822956bcbcd1c8eacdb",
+  "sha256": "e6a55aaeb8c75c266e85c74c2e7c030c5160e3ffd1d0c0a8d2ead3f288311088"
+ },
+ {
+  "slot": "casual3",
+  "filename": "페이검_anime_25d_gloss_f_casual3.webp",
+  "original_sha256": "b4793b0c7bbdfbd87a59af495d6466a424f011dec3a0758697dc0bb2ea21a382",
+  "sha256": "62cf895bae6c665964428523a8178b12549732d1d873172bf55236e6574bc799"
+ },
+ {
+  "slot": "casual4",
+  "filename": "페이검_anime_25d_gloss_f_casual4.webp",
+  "original_sha256": "02512fadecaf35a094f8c900fb479c7f85e2a3978cf214fadaa1ffb8bb50bf89",
+  "sha256": "fbfa668eaaabe2fe639f241cc8e090366ee79fc9a19388ddad24b6793bcec8de"
+ },
+ {
+  "slot": "casual5",
+  "filename": "페이검_anime_25d_gloss_f_casual5.webp",
+  "original_sha256": "ca576e0ba6490a4b00ff4802f03c6195b3b36acd20a2b3f02cdd68c5ee2f9ae5",
+  "sha256": "6cfd3e4dad6be26c4c5c48cf73d51c49d082a02026943a9800b914517e595702"
+ },
+ {
+  "slot": "casual6",
+  "filename": "페이검_anime_25d_gloss_f_casual6.webp",
+  "original_sha256": "3569f00555b0192824a5963f74fd50d78fbc295099444afa0aa5e35a7b46414f",
+  "sha256": "a755bd1b905a012818281ae2be455a575242cfaecdb0a2e2eb3be6ae445f2e9b"
+ },
+ {
+  "slot": "casual7",
+  "filename": "페이검_anime_25d_gloss_f_casual7.webp",
+  "original_sha256": "a37ddedd2368b82da0473a7c93d8580d864253fa105621ee2b68568952ef3946",
+  "sha256": "bb13773add0a3d210022cf4f3272ed3345063ef43b9b08855408a8515c990e41"
+ },
+ {
+  "slot": "casual8",
+  "filename": "페이검_anime_25d_gloss_f_casual8.webp",
+  "original_sha256": "f43b54c9a1ad116a914de2a933c1fee1d46a17a0aac1525de1e497bd6a08139e",
+  "sha256": "509ae33716acd03986379a3bcb14d16c307381e80cf3bb651d3f64ea183484bb"
+ },
+ {
+  "slot": "casual9",
+  "filename": "페이검_anime_25d_gloss_f_casual9.webp",
+  "original_sha256": "5971bf8defc33d797ed6898e6d43ffe5aa8ca4b601a5988409e1b5c39cb5ceba",
+  "sha256": "e206cb6cd383c12774b5dddcdfe48d2b579a397124b7a028a70ade7f303bcd17"
+ },
+ {
+  "slot": "casual10",
+  "filename": "페이검_anime_25d_gloss_f_casual10.webp",
+  "original_sha256": "0b597e3c15b5f41242e85dc1ec37e9bae7b2443ddef04f7e20ead3a60165f6ae",
+  "sha256": "60359d0f539863f109f56af5d4e5ed0a740f5329f253604aad169deb9787e401"
+ },
+ {
+  "slot": "casual90",
+  "filename": "페이검_anime_25d_gloss_f_casual90.webp",
+  "original_sha256": "e8cc0c8d08f2c38df318e43bb15b9d9359816f73b678748780ab7eb87f2f6cc5",
+  "sha256": "108367c21a93b5ff0d6065034d72ec44f6f1867e734c845ecd7bc90913e47f9d"
+ }
+]

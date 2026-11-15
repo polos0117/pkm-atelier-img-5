@@ -1,0 +1,98 @@
+{
+ "light": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual1": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual2": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual3": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual4": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": "creature-like prop appears despite one-figure prompt; preserved"
+ },
+ "casual5": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual6": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual7": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual8": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual9": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual10": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ },
+ "casual90": {
+  "anatomy": {
+   "visual": "reviewed; no extra or detached human limbs observed; some hands cropped or fingers occluded",
+   "tool": "unavailable: mediapipe not installed; visual inspection used"
+  },
+  "exposure": "match",
+  "notes": ""
+ }
+}
