@@ -1,0 +1,179 @@
+{
+ "card": "마릴",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 1,
+ "count": 12,
+ "expected": 12,
+ "status": "ready_to_publish",
+ "files": [
+  {
+   "slot": "light",
+   "file": "마릴_light_anime_25d_gloss_f.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "ed70ea692679c877c8bb2bf1b84b9b7b90325319dca48c724793f141115777dc",
+   "sha256": "4a6ce775ead21ccc8469f4dd2256aa4af5b343723c3e60a729bf0cf44c804783",
+   "submitted_sha256": "b0b86a8a3b169a79be5c3eefa9096b8c48f78600c6d3ee7f98f4b053ad0bb470",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual1",
+   "file": "마릴_anime_25d_gloss_f_casual1.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "072659f90c6faa3cb280503e728f3f0e6cf25f9c9513f1d54ab986f6b9354ea0",
+   "sha256": "4efe9a38a512ee6ffe5c1a432f604f5de186f6526592385a45ad3a9dd0181f2a",
+   "submitted_sha256": "9a2e95ae28716f9c0487c56a4eb81ecd60c1f1fc88e37e2c7d72c504f02d7db0",
+   "submitted_same": false,
+   "exception": "free scene / outfit design explicitly permitted by IMAGE_RULES"
+  },
+  {
+   "slot": "casual2",
+   "file": "마릴_anime_25d_gloss_f_casual2.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b9baad8e346d882ab118397900e72319db10d04eca6d65881d2511454f5167fd",
+   "sha256": "dc35d7cf4e67b84f4db7ae5ad387ad2464c5bfc0e54bf57db08f641ade6bfc1f",
+   "submitted_sha256": "ecbeb22818145ed11b40a33aa4413344a3aae8fc3e46845b6594ac640c29b021",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual3",
+   "file": "마릴_anime_25d_gloss_f_casual3.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "565cc712d05bd2daf57239e8e117d1b42e29df59b4c4925e88ad27cc0cde2d2d",
+   "sha256": "cd3d7cb9a0f73e95fd27838525d6d34531d0500b0f56c01766ec2e9ebee07788",
+   "submitted_sha256": "337ea28867b0a3a073605b80bcbfbbb4ab804184420397919ffce2a78566e60a",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual4",
+   "file": "마릴_anime_25d_gloss_f_casual4.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "4a0c7abd5ca533c8f10f6cd9442ac2ae51454ed533a6037107794ccaa0790571",
+   "sha256": "8f8b527bb0dea4daf63eac16d31ad70e5d587ba4cc176663560ce772858c9d2c",
+   "submitted_sha256": "56790afb12004a99d2385caf9a73d58ce1644ab1f2f07ddaded066073ec72d34",
+   "submitted_same": false,
+   "exception": "free scene / outfit design explicitly permitted by IMAGE_RULES"
+  },
+  {
+   "slot": "casual5",
+   "file": "마릴_anime_25d_gloss_f_casual5.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "f8ccafa1684831d5a56461e1ca9dbab2b04d9444e9a6b722bebe3aadd0975b32",
+   "sha256": "c1850bc7b0778251837aee0cf1ff0240d3447afd651e70ddc94962ca47065134",
+   "submitted_sha256": "32d49a89eef3697061522daae461a948ff7a7632be207389fcebc42b4082010d",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual6",
+   "file": "마릴_anime_25d_gloss_f_casual6.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "5de435f5652ecdbc7a0b753cf845ffd20bc6698a393d37a52e2781e3969944b2",
+   "sha256": "83842c4d70ab53765fe246b758cf8aaacc622ae3d749b2d2436a24f0f2022dac",
+   "submitted_sha256": "b9ed30429a0f7b4d32ba0dcec39856a2cd20445c4717dd243e02039928f65ca4",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual7",
+   "file": "마릴_anime_25d_gloss_f_casual7.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b3795b94f05a05ed40b94f6e321ea164d06eb93c22d4336a4568de2a761fd6f3",
+   "sha256": "62bc1537326aefed8ddfc72d6b5fa95ee2d12945e9b2120a061723a35bf89251",
+   "submitted_sha256": "09251e249e61a0c49e035f104cf06a45fcd641105d6ccffa19968fcd4f28d739",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual8",
+   "file": "마릴_anime_25d_gloss_f_casual8.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "6d025f6ddfbc26d23e738deda878d9ea38bfa588e088ca7c70eea7f20c514d26",
+   "sha256": "e83c888e6502967c1c0895a06678c29f2ce82531b3ae60469a220597327a1142",
+   "submitted_sha256": "041d0246fc2209ed03381f2ab448b356cdc5493a1de38d0f3b3145b5729b3f7c",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual9",
+   "file": "마릴_anime_25d_gloss_f_casual9.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "73ff0b0561963fe5d541a487982aa9f5e1f6a2d3b9a26caca837fb2e3f90c218",
+   "sha256": "6388804e58181e3967bd74f8161cd8b205e42a18ea78036664116e540a688319",
+   "submitted_sha256": "b38691c7523a82e7d72d7e50ab542c45de72d7d37b89f43a260f647193ce4e70",
+   "submitted_same": true,
+   "exception": null
+  },
+  {
+   "slot": "casual10",
+   "file": "마릴_anime_25d_gloss_f_casual10.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b0fda049879ad062e9b495d3bec3db5adef5ed386b6157eaba367af876698588",
+   "sha256": "7b2596de244e969bcd6eb88cfa8cfc5a560b2af5b1d613ace893b43034935079",
+   "submitted_sha256": "6583ad2a0eb31e6af4946fcd9f9526b3a796234b3d3ffe62887ead343a53d1f5",
+   "submitted_same": false,
+   "exception": "free scene / outfit design explicitly permitted by IMAGE_RULES"
+  },
+  {
+   "slot": "casual90",
+   "file": "마릴_anime_25d_gloss_f_casual90.webp",
+   "dimensions": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "3870eab3cffeb7f1be3e5d03918c7283e5ece788320933289827448c0518925e",
+   "sha256": "c62403edaf21554fdd3a22ae67801bdfa451cb30ef1c197bd975d7916f2f161c",
+   "submitted_sha256": "6865a6e6f851e172fb37620ada8436939f3bff4cd2466cddc03c459cfec66a6e",
+   "submitted_same": true,
+   "exception": null
+  }
+ ],
+ "blocked_attempt_note": "No images were returned for blocked attempts. Only the ungenerated casual8 was replanned; all successful generated images were preserved."
+}

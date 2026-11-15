@@ -1,0 +1,242 @@
+{
+ "light": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "User selected candidate 1; both arms and both hands connected, relaxed fingers visible; two legs with armored feet."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual1": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Seated ferry dessert moment; spoon and plate grips partially hide fingers. Reference ear ornament retained; recorded, not regenerated."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual2": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Bouquet gripped by two gloved hands; some fingers occluded. Small blurred photographers in background."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual3": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Both arms join shoulders; towel grips hide distal fingertips."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual4": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Goggles grip right hand; left hand rests on rail; both feet on deck."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual5": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Two clasped gloved hands, fingertips partly occluded."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual6": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Book held against chest with right arm; left palm braces on floor. Plush toy is an object."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual7": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Two hands clasped at chest, fingers overlap naturally; kneeling legs partly hidden."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual8": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Both arms and wrists attached; five fingers on resting knee hand and floor hand; seated legs connected with feet visible. Swimsuit rendered as one piece; kept as generated."
+  },
+  "exposure": {
+   "result": "weaker",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual9": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Face close-up; right hand tucks hair, fingers partly hidden. Other arm continues outside crop."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual10": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Two shoulders and upper arms attached; both hands visible with relaxed fingers."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ },
+ "casual90": {
+  "style_25d": {
+   "result": "pass",
+   "evidence": "Soft gradients model the nose, cheeks and lips; fine colored contours and dimensional skin highlights, consistent blue-pink hair rendering."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands reviewed; fingers partly occluded where holding props or clasped.",
+   "overlay_checked": false,
+   "note": "Two hands clasped in front, fingers partly hidden. Fully opaque coverage at intimate areas."
+  },
+  "exposure": {
+   "result": "match",
+   "evidence": "Original generated image retained with opaque intimate coverage."
+  },
+  "identity": "Selected candidate 1 face and short blue hair with pink zigzag tips preserved."
+ }
+}
