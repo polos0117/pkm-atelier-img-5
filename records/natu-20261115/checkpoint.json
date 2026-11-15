@@ -1,0 +1,217 @@
+{
+ "card": "네이티",
+ "selected_candidate": 3,
+ "status": "generated_and_visually_reviewed",
+ "style": "anime_25d_gloss",
+ "expected": 12,
+ "generated": 12,
+ "no_exposure_regeneration": true,
+ "anatomy_tool": "unavailable: mediapipe is not installed",
+ "source_commit": "302be16",
+ "files": [
+  {
+   "slot": "light",
+   "file": "네이티_light_anime_25d_gloss_f.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "b34430bec8e9850fd90fdd878f4819d009841cb86da1d30dafb7161ad83375a6",
+   "original_sha256": "279f8fde04b67663af799542c30c2e486a843cb68b1af4401fe3ec0e6692faa9",
+   "submitted_sha256": "dbacea8dca86b3082976476e49d8ebd1a8316184809e457a7d3f507aecd8c1df",
+   "submitted_same": true,
+   "reference": null
+  },
+  {
+   "slot": "casual1",
+   "file": "네이티_anime_25d_gloss_f_casual1.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "1c8462ccee03e0352eb763d60b587009d0943d425b0ac415051c1b223217994e",
+   "original_sha256": "b1e5dfc5d5cd26e0ab5a8a64c6f0f611aa7da3f9459c22e26a6a50ca58b0cbc1",
+   "submitted_sha256": "a7ebba5360fcda58ec7f87a1ce8c8a2b9f18f5c35d7095e31f7046c0c327df85",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual2",
+   "file": "네이티_anime_25d_gloss_f_casual2.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "64f274e890197108f901581f0b5b120b6825b8608b94709f0a4f3c8c1df89a37",
+   "original_sha256": "f432f3f35869277f3b800287104ff4c4abd8675ef95c97a3a97c553777de7a74",
+   "submitted_sha256": "bae066998717f010632767590ab1bf6ca69254c16cc3fe00580bcc01de5dd5e7",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual3",
+   "file": "네이티_anime_25d_gloss_f_casual3.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "c302a77abf9053ef3e3d4fec74714f251732e46ab63466515b6b4205e1ca8753",
+   "original_sha256": "ff5730c7a9fdcc773f7b832ba61bcd6ca6191792b141c0e810e94fdc92e8f2fd",
+   "submitted_sha256": "a4fd865031ed0075a56f7cca420b75459918bc563f9a75b6bace869d29f5731a",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual4",
+   "file": "네이티_anime_25d_gloss_f_casual4.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "67dc268dbc4bc22be3f77d8d9a44c1c721192fb28102f082d67559a22c5a31a9",
+   "original_sha256": "9d5746f6444f9ce772da5ba8e2f3260b69ba87016a2bd9e65d48b4578c227948",
+   "submitted_sha256": "56595eedf5fc50cfa865b76d17404188c56bff6cc129a56ac0ed66960ae0de69",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual5",
+   "file": "네이티_anime_25d_gloss_f_casual5.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "ebcd9a347b88731ee007707615f778ab5628d2cdf8f07753c2abe6a5f0096672",
+   "original_sha256": "2b30111f1b8849d186a0f32358a341fd1bec819a0ad481d03edbdff2d74b8b57",
+   "submitted_sha256": "aa154ea90865a4d8c8e186658745de09aa03ef382841113a18d0a3a15869832c",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual6",
+   "file": "네이티_anime_25d_gloss_f_casual6.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "9c35ed22bda5b513460d3fa3ce9b9643e4f057dfbd8112a34ec6755da7383a2b",
+   "original_sha256": "0bfc9e263221a660a650e3e52ced97b0f62e271c06f7ad9d8b128320203d92b2",
+   "submitted_sha256": "3bc9f9c0b51714a7f868d79916b5094a59042afe6de20d15d501965a96de6239",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual7",
+   "file": "네이티_anime_25d_gloss_f_casual7.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "13b511e28f32805780793f52279f8ce170ebd41531d636fe9c3eab2ac3557b1d",
+   "original_sha256": "df4e2dd708d7914bc2ae30ddf2d7555e28d1e1d3df31d6883c6ac47ab98c8a30",
+   "submitted_sha256": "dcc50eaeca06cd5e83fe6834e91fe73d4e9bb3329b8be4568e6fa410bd26fbbd",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual8",
+   "file": "네이티_anime_25d_gloss_f_casual8.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "9264be5b5d1d417c48dc9f4b2acb0281530d8c59aad7775ee9ee7336b7f01a3d",
+   "original_sha256": "7361456995708649eeaa36ad81088fff3ad427a7ec32d774d567f1fe09713456",
+   "submitted_sha256": "c77246cd66417e11b50c1e9d188c56b27f984b66a8be8676c1562e36ad1328b9",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual9",
+   "file": "네이티_anime_25d_gloss_f_casual9.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "6b8bf4e29e14354ca15fce1f2b8e39496a2ec063bf2ebf3e064bd113e0ab8be1",
+   "original_sha256": "4f58d63207a44905f4f430e6acd91552745adc23884a4d8fda08879276438322",
+   "submitted_sha256": "90c2aa7c72c8d84bf4c0245359b25f5124c6ed761b66e5fa872416bf26f87476",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual10",
+   "file": "네이티_anime_25d_gloss_f_casual10.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "8d558e0cc4093c2f296ef584ab4c9051792442e722bc387a9995faf385a258d2",
+   "original_sha256": "f923fc5afff65ea920f64d960e3f16cd782c649d53bada8280125d08d3535032",
+   "submitted_sha256": "25ba8457782ec4f915f828bf6208233d67f8fe876711c9e9dae729647267db2c",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  },
+  {
+   "slot": "casual90",
+   "file": "네이티_anime_25d_gloss_f_casual90.webp",
+   "card": "네이티",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "8ab1bbada330ac35477934b7e6eadc21772de2f546492b84ec9446fe4495422c",
+   "original_sha256": "890735bd0f63b1400db268d253f8ba468570de978a86a4922e339c01ba50e1a3",
+   "submitted_sha256": "155a7dc003362e5b712c93f08f0818d22f1330b1db05b710ac386910b7a2c1ca",
+   "submitted_same": true,
+   "reference": "네이티_light_anime_25d_gloss_f.webp"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "light": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both arms and legs connect normally. Raised palm five gloved fingers with some overlap; low hand loosely closed with fingers partly occluded. Full figure visible. Selected candidate 3."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both arms and legs connect normally. Raised palm five gloved fingers with some overlap; low hand loosely closed with fingers partly occluded. Full figure visible. Selected candidate 3."
+ },
+ "casual1": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "One raised hand shows five fingers, wrist and forearm connected. Other arm leaves crop naturally. Legs out of frame."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "One raised hand shows five fingers, wrist and forearm connected. Other arm leaves crop naturally. Legs out of frame."
+ },
+ "casual2": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both forearms lead into the two hands on the stone ledge. Fingers partly overlap and foreshorten against the support. No floating hand. Legs out of frame."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both forearms lead into the two hands on the stone ledge. Fingers partly overlap and foreshorten against the support. No floating hand. Legs out of frame."
+ },
+ "casual3": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both hands join visible forearms, five fingers or support-occluded fingertips. Both legs and boots visible. The image chooses a front three-quarter seated view rather than the planned rear three-quarter; retained."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both hands join visible forearms, five fingers or support-occluded fingertips. Both legs and boots visible. The image chooses a front three-quarter seated view rather than the planned rear three-quarter; retained."
+ },
+ "casual4": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both arms connect. One hand cradles fruit, the other pinches peel; gripping fingers are partly occluded. Legs continue below crop."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both arms connect. One hand cradles fruit, the other pinches peel; gripping fingers are partly occluded. Legs continue below crop."
+ },
+ "casual5": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Two gloved hands connected to visible arms on sofa supports, five fingers per glove with natural overlap. Lower legs out of crop. Costume borrows some armor-like trim; retained."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Two gloved hands connected to visible arms on sofa supports, five fingers per glove with natural overlap. Lower legs out of crop. Costume borrows some armor-like trim; retained."
+ },
+ "casual6": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both hands on separate chair armrests connect to matching forearms. Five fingers per hand, some wrap around armrest. Knees and legs continue naturally below crop."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both hands on separate chair armrests connect to matching forearms. Five fingers per hand, some wrap around armrest. Knees and legs continue naturally below crop."
+ },
+ "casual7": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Two shoulders and arms visible; hands partly overlap on desk and meet wrists. Fingers at right edge partly out of crop. Lower body out of frame."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Two shoulders and arms visible; hands partly overlap on desk and meet wrists. Fingers at right edge partly out of crop. Lower body out of frame."
+ },
+ "casual8": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both arms and hands visible; support hand partly hides fingers at stool edge, thigh hand five fingers. Two legs connect to hips, ankles and sandal feet with toes visible."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both arms and hands visible; support hand partly hides fingers at stool edge, thigh hand five fingers. Two legs connect to hips, ankles and sandal feet with toes visible."
+ },
+ "casual9": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Two arms connect to hands over knees. Thumbs partly hidden by hands and posture. Two folded legs and both feet visible, natural knee direction. Body is three-quarter rather than planned front view; retained."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Two arms connect to hands over knees. Thumbs partly hidden by hands and posture. Two folded legs and both feet visible, natural knee direction. Body is three-quarter rather than planned front view; retained."
+ },
+ "casual10": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both gloved hands connect to forearms; fingers partly curled and overlapping. Legs below crop. Distant defocused visitor silhouettes appear behind the principal figure; noted without changing the image."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both gloved hands connect to forearms; fingers partly curled and overlapping. Legs below crop. Distant defocused visitor silhouettes appear behind the principal figure; noted without changing the image."
+ },
+ "casual90": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "five fingers when individually visible; overlap, crop and grip occlusion recorded in note",
+   "overlay_checked": false,
+   "note": "Both hands grip the railing through visible wrists and arms; fingertips partly hidden by grip. Legs below knee continue to frame edge. Gaze goes toward viewer rather than stars; retained."
+  },
+  "identity": "green-and-white braided loop ponytail and amber-gold eyes match selected candidate 3",
+  "exposure": {
+   "result": "match",
+   "note": "Retained original generated image; no regeneration based on exposure."
+  },
+  "note": "Both hands grip the railing through visible wrists and arms; fingertips partly hidden by grip. Legs below knee continue to frame edge. Gaze goes toward viewer rather than stars; retained."
+ }
+}
