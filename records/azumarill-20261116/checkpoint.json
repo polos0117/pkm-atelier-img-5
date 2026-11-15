@@ -1,0 +1,189 @@
+{
+  "card": "마릴리",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "reference_png": "/workspace/scratch/22ff9783a6ba/generated_images/exec-d8be12f3-1145-42ca-8e7c-204ba3bf7ea9.png",
+  "reference_sha256": "00d3ba1a5d0dacc1693ebfe3036ef7551349d7d165b51c3b25fbc311de5203b1",
+  "status": "partial_ready_for_publication",
+  "slots": {
+    "light": {
+      "submitted_sha256": "9ccfd81227888e98cda32f65f3ad3379e5b2f398a6bda508f1e1a2603c7854a0",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "path": "img/마릴리_light_anime_25d_gloss_f.webp"
+    },
+    "casual1": {
+      "submitted_sha256": "90a2e20b01ff23c1f17993d4d57268e06496e4c65d6661f6ac0e83d0e4bbfaec",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual1",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-30c2320f-e3e5-43c3-9864-2c3b0dd88c97.png",
+      "original_sha256": "3b83a0f01c431a3963ec9389908a6bd392b0d47c8e8c1eacf3148242452b4dc5",
+      "path": "img/마릴리_anime_25d_gloss_f_casual1.webp",
+      "sha256": "0663b6a6fb542e639eecef126bea20e93cdacbcd7d24dd560639f7b49cd78e15",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual2": {
+      "submitted_sha256": "8bc66275796df6bd1c15c74b79a19b78bb7963969e77a63e78f840497dad0dc9",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual2",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-8c39d1f7-2c9b-4bff-bcfd-1513bfe98231.png",
+      "original_sha256": "c22840eecd080c8b64da836b79fe884a7a7983c093d665bd2858706e9fc6f908",
+      "path": "img/마릴리_anime_25d_gloss_f_casual2.webp",
+      "sha256": "43942bac855846ecb0981cc8fa4de6ab69e243dd98f03e9f28b7d970d3327fad",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual3": {
+      "submitted_sha256": "0686921ce8d0decca6253bb777a16549c850e0f25fe66034cb3b6246ab3187ed",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual3",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-b75d0519-29fa-44b6-b3e6-85a21ccf059d.png",
+      "original_sha256": "38a191ee0ff755d930bc608122a46860bce785ec94333252e04391147b4dd552",
+      "path": "img/마릴리_anime_25d_gloss_f_casual3.webp",
+      "sha256": "6655a37cccfbae68d147e8225b44a2be986f11b61a004f0a0ffdb800cfc4c59e",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual4": {
+      "submitted_sha256": "63eb88a76105bfd0479c92d5585ef91f3c1996463fdddb4b9904e56b54707664",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual4",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-e97b49a3-5f7c-4c4d-b1a2-23b745040a5c.png",
+      "original_sha256": "caac8487c0a3649cdebe08529a86752808b7f35a62f1559237ddb0189b6fa66d",
+      "path": "img/마릴리_anime_25d_gloss_f_casual4.webp",
+      "sha256": "0224bf9cb974aa406c59b3dfc5fb18f763658aa4a083b6e8cbce1b36ed044d04",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual5": {
+      "submitted_sha256": "318f8137e037afadb2ebd38f308fa704a761f72ce30cf0f0f2023c563f4ccb03",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual5",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-cf7be485-b00d-4356-8d19-22cf81c8fb13.png",
+      "original_sha256": "6615d00d9d67235a79a2f9247538dc0df08a678e30f3176e2d09d7111f8e5efa",
+      "path": "img/마릴리_anime_25d_gloss_f_casual5.webp",
+      "sha256": "e6e6d01f90bb172dc7c8b1f6174a22cbd152d49257ad677c069fe195d5719292",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual6": {
+      "submitted_sha256": "3338e0fad7b7b4bf02eaeda07730d515a53815a414dde0fd9e5b97bdd7fa42c3",
+      "submitted_same": false,
+      "design": "gpt_free",
+      "status": "ready",
+      "slot": "casual6",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-465a3e96-ceb5-4a64-a817-804ed6f383b3.png",
+      "original_sha256": "6d42eb4dacc7d2b5e75efc4a0d1982747f27b2a053894bb3046160c913134a5a",
+      "path": "img/마릴리_anime_25d_gloss_f_casual6.webp",
+      "sha256": "878899c793d560d9ff463eafe33dd4062c3e44a8ab55f3d6c9b9673872c43c0e",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual7": {
+      "submitted_sha256": "e5ff8d4300fdaa09b9894dc036dcf027b1357d650f34e8dbf17c977ecc8b46df",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual7",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-2577f2c1-8c3a-47a4-9c48-102bbeeb100d.png",
+      "original_sha256": "d6d9ccc369ba32b14b3e69cfbe6e8638a68d35677b73725ead811331fb8175d7",
+      "path": "img/마릴리_anime_25d_gloss_f_casual7.webp",
+      "sha256": "f0cdc8ee6fa07a8f22bdc31bc572cb4a737d55c9b16a63e95d3540ef9cc72e69",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual8": {
+      "submitted_sha256": "a764f234c507d2c8afa68cf4c2b415ef4163d10b42552b6fe46ab88ce2dfa0f1",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual8",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-3d97ca81-4409-40c1-a394-da905d86379b.png",
+      "original_sha256": "6545b8bf5ed71e1e586a922d00f78d21f295b8f05b84b96f5e89e7d1ca2298f7",
+      "path": "img/마릴리_anime_25d_gloss_f_casual8.webp",
+      "sha256": "a6b6629773906fa2b5ae4ff311dd0b07971f074fcf99a99edb461aefdbac0d98",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual9": {
+      "submitted_sha256": "358afb2fc4b32d99c07413441a76d5aef4f9f1b9f43f307eda3a547cc4c8db50",
+      "submitted_same": false,
+      "design": "gpt_free",
+      "status": "ready",
+      "slot": "casual9",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-9cd01da5-0aa6-457f-99a3-d440590a49f8.png",
+      "original_sha256": "30cdc792ae35330b9aba062226434159b0034ee8432c48701a0fcd420c9d05ca",
+      "path": "img/마릴리_anime_25d_gloss_f_casual9.webp",
+      "sha256": "9792b0531f33d92c4230644dbef484854e5968070fb3f3d039da8d32a95fb710",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual10": {
+      "submitted_sha256": "404e6fddd607643cb58f5715cb6711a419b2788b734fce1722bc45ed347e713e",
+      "submitted_same": true,
+      "design": "project",
+      "status": "blocked",
+      "stage": "output",
+      "reason": "moderation_blocked sexual",
+      "request_id": "f8ca5c6a-31cb-4c56-a436-4eb04c0786a1",
+      "attempts": 1,
+      "retry": false,
+      "reason_no_retry": "user requested no regeneration for exposure censorship"
+    },
+    "casual90": {
+      "submitted_sha256": "9287d80896f015b54f5d690b6bd7b58a45b14baa061d354c587a085e9124d3d6",
+      "submitted_same": true,
+      "design": "project",
+      "status": "ready",
+      "slot": "casual90",
+      "original": "/workspace/scratch/22ff9783a6ba/generated_images/exec-41cfbf57-f658-42e4-9c95-2a85319e297e.png",
+      "original_sha256": "0a83d4747a2655a5b3af6dbcf034d906491b88b80d42e9cf83e76aa3c24ae1eb",
+      "path": "img/마릴리_anime_25d_gloss_f_casual90.webp",
+      "sha256": "0e3c45a275c6052e2c388a5819ebd1bc25a47a7a46d2182469efd4923e7c1c1a",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  },
+  "blocked": {
+    "casual10": {
+      "stage": "output",
+      "reason": "moderation_blocked sexual",
+      "request_id": "f8ca5c6a-31cb-4c56-a436-4eb04c0786a1",
+      "attempts": 1,
+      "retry": false,
+      "reason_no_retry": "user requested no regeneration for exposure censorship"
+    }
+  }
+}

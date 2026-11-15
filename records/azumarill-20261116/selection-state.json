@@ -1,0 +1,67 @@
+{
+  "card": "마릴리",
+  "style": "anime_25d_gloss",
+  "status": "casual_planned",
+  "code_worktree": "/workspace/scratch/22ff9783a6ba/azumarill",
+  "branch": "work/azumarill-20261116",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "project",
+      "path": "/workspace/scratch/22ff9783a6ba/generated_images/exec-30949407-2bfb-40a3-9a93-8dc357f2e39c.png",
+      "sha256": "c4088a5de4c758ef03d2b11d4ec8b8884f175248491666f1b6b9451e64c87422",
+      "prompt": "candidate1-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "path": "/workspace/scratch/22ff9783a6ba/generated_images/exec-d8be12f3-1145-42ca-8e7c-204ba3bf7ea9.png",
+      "sha256": "00d3ba1a5d0dacc1693ebfe3036ef7551349d7d165b51c3b25fbc311de5203b1",
+      "prompt": "candidate2-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/22ff9783a6ba/generated_images/exec-ca51b3ac-b58d-4372-8406-f04342e9ff20.png",
+      "sha256": "ce17ad655bdfc23b464db317890eb2ee18996288821537cf4e2173fd4e617411",
+      "prompt": "candidate3-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/22ff9783a6ba/generated_images/exec-4bd42e76-848d-4c5c-a7ad-211c068a37be.png",
+      "sha256": "db2efea7f5c471887a5d32a935c2269a942c2d8570a7a340eea46a43764daaaa",
+      "prompt": "candidate4-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "sheet": "/workspace/scratch/22ff9783a6ba/azumarill-selection-sheet.png",
+  "generation_tool": "built-in image_gen",
+  "qa": {
+    "style_25d": "soft dimensional face shading and glossy skin; fine contours",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "issue": "ok",
+      "hands": "visually reviewed; finger counts partly occluded in clenched or angled hands"
+    },
+    "note": "candidate 2 armor openings differ from prompt at upper thighs; preserved without regeneration"
+  },
+  "selected": 2
+}

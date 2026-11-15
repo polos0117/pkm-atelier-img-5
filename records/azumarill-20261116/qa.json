@@ -1,0 +1,211 @@
+{
+  "light": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Selected candidate 2; upper-thigh armor openings differ from requested design; preserved."
+    },
+    "notes": "Selected candidate 2; upper-thigh armor openings differ from requested design; preserved."
+  },
+  "casual1": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Both arms connect naturally; bent seated legs remain coherent."
+    },
+    "notes": "Both arms connect naturally; bent seated legs remain coherent."
+  },
+  "casual2": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Face close-up; one visible hand makes a V; other hand holding staff largely outside crop. Reference ear ornaments remain."
+    },
+    "notes": "Face close-up; one visible hand makes a V; other hand holding staff largely outside crop. Reference ear ornaments remain."
+  },
+  "casual3": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "One waving gloved hand; second arm continues below crop; source costume with bubble motifs."
+    },
+    "notes": "One waving gloved hand; second arm continues below crop; source costume with bubble motifs."
+  },
+  "casual4": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Right hand holds pruning shears; left hand steadies branch instead of planned pocket. Source head ornaments remain."
+    },
+    "notes": "Right hand holds pruning shears; left hand steadies branch instead of planned pocket. Source head ornaments remain."
+  },
+  "casual5": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Crossed arms join naturally; fingers partly occluded; source ear ornaments remain."
+    },
+    "notes": "Crossed arms join naturally; fingers partly occluded; source ear ornaments remain."
+  },
+  "casual6": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Open right hand beside spray; left hand on rail; one lifted knee; intact swimsuit."
+    },
+    "notes": "Open right hand beside spray; left hand on rail; one lifted knee; intact swimsuit."
+  },
+  "casual7": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Face close-up; shoulders and upper arms continue beyond bottom edge; hands outside crop."
+    },
+    "notes": "Face close-up; shoulders and upper arms continue beyond bottom edge; hands outside crop."
+  },
+  "casual8": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Both arms visible and connected; walking pose beside dock; no extra limbs. Source ear ornaments remain."
+    },
+    "notes": "Both arms visible and connected; walking pose beside dock; no extra limbs. Source ear ornaments remain."
+  },
+  "casual9": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "Right hand holds ice pop; left palm rests on seat; seated legs coherent."
+    },
+    "notes": "Right hand holds ice pop; left palm rests on seat; seated legs coherent."
+  },
+  "casual90": {
+    "style_25d": {
+      "verdict": "yes",
+      "evidence": "soft blended dimensional shading on cheeks, nose and lips; fine coloured contours; glossy highlights"
+    },
+    "identity": {
+      "reference": "candidate2",
+      "face_hair": "consistent blue eyes, compact oval face, long blue hair with pink tips"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed; five-digit anatomy where countable; some digits occluded or outside crop",
+      "evidence": "One hand on hip, other raised beside face; legs naturally joined; car-wash setting."
+    },
+    "notes": "One hand on hip, other raised beside face; legs naturally joined; car-wash setting."
+  }
+}

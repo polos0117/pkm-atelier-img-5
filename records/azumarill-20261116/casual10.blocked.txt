@@ -1,0 +1,1 @@
+Output rejected by image safety system. request_id=f8ca5c6a-31cb-4c56-a436-4eb04c0786a1; category=sexual; attempts=1. No returned image available. No regeneration per user instruction.
