@@ -1,0 +1,27 @@
+{
+  "card": "토게틱",
+  "selected": 2,
+  "total": 12,
+  "casual_count": 10,
+  "own_cut": 90,
+  "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "Faces retain blended cheek, nose, lip and chin shading; the same white ringlets and silver eyes persist across scenes."
+  },
+  "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "method": "visual inspection of all outputs",
+    "verdict": "No obvious extra or detached arm/leg; visible hands connect through wrists and arms. Close crops partly hide limbs."
+  },
+  "notes": {
+    "casual90": "The generated coordinator holds a small tool near the flower garland, following PROP; the source note mentioned adjusting ribbon. Preserved.",
+    "casual10": "Small Togetic plush appears in background despite the one-figure/creature constraint; preserved and recorded.",
+    "cropping": "Close-up frames intentionally do not show both hands or the full body."
+  },
+  "regeneration_for_exposure": false,
+  "technical_retries": [
+    "casual7",
+    "casual10"
+  ],
+  "technical_reason": "Environment replacement removed reference before generation; no image had been produced by these failed calls."
+}
