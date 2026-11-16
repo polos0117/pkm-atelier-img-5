@@ -1,0 +1,37 @@
+{
+ "selected": 1,
+ "style": "anime_25d_gloss",
+ "complete": false,
+ "published_slots": [
+  "light",
+  "casual1",
+  "casual3",
+  "casual4",
+  "casual5",
+  "casual6",
+  "casual7",
+  "casual8",
+  "casual9",
+  "casual10",
+  "casual90"
+ ],
+ "blocked": {
+  "2": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID e0d33fb6-0cd3-4984-8e25-f591a495d514. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")"
+ },
+ "anatomy": {
+  "tool": "unavailable: mediapipe not installed",
+  "method": "visual review",
+  "status": "visual review completed",
+  "notes": "Visible arms and wrists connect naturally; no extra limbs observed. Hidden fingers and cropped limbs are noted, not treated as a complete finger count. casual1 extends the planned crop; casual7 and casual8 are close crops; no regeneration."
+ },
+ "no_exposure_regeneration": true,
+ "first_batch": {
+  "result": "one image returned; parallel call exited on a moderation exception",
+  "unreturned": [
+   2,
+   3,
+   4
+  ],
+  "recovery": "same unmodified prompts submitted for unreturned slots; 2 blocked, 3 and 4 returned"
+ }
+}

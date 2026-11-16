@@ -1,0 +1,123 @@
+[
+ {
+  "slot": "light",
+  "file": "강철톤_light_anime_25d_gloss_f.webp",
+  "original_sha256": "07f7a0de759457d64fa8cb69aecef829e45e03043f9db3bb80b02f96ab19c613",
+  "webp_sha256": "f374626836ebe4216aa0db02a51ea9257fde4d3b0b5670bec65637ee21667504",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual1",
+  "file": "강철톤_anime_25d_gloss_f_casual1.webp",
+  "original_sha256": "9d640653fc2ca2ad28abd979686a369b1ea807ac75d4362b668f5ee30759f9e4",
+  "webp_sha256": "220dd09033ea4c1cca6e63f9d3741a9d234b5686c84e257c17243297ff04e029",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual3",
+  "file": "강철톤_anime_25d_gloss_f_casual3.webp",
+  "original_sha256": "bd9648dfbd61210d3d3ec9abfd1a976b09eed6d4831278f189b021a7b857b8e8",
+  "webp_sha256": "f53dc0e18c1d2b62993a3a25b3d8bc44614bccfdb12f150350f4ef3bb9f234e7",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual4",
+  "file": "강철톤_anime_25d_gloss_f_casual4.webp",
+  "original_sha256": "4a378f1bfbf9929f4094ebbd7ed717b9d2a6b3bab4a388928dabfcda073f5267",
+  "webp_sha256": "68d73f7384f9b16a12e78015d43f63fd4178a6862d4bc61a5340a2ad5a5b4441",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual5",
+  "file": "강철톤_anime_25d_gloss_f_casual5.webp",
+  "original_sha256": "83a6004205df92c9a143f989dac84d48936b4c9213740f3bdb1901b23130f81a",
+  "webp_sha256": "2b9cf8c116dc1c4a4762998ad5a06eff13b1af6486f929c459a7c3aebd4a0477",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "gpt_free"
+ },
+ {
+  "slot": "casual6",
+  "file": "강철톤_anime_25d_gloss_f_casual6.webp",
+  "original_sha256": "df42b99360105e77f8c637d53f2b974d2dc7f53a4ef09f2827c3647df47d602d",
+  "webp_sha256": "804bfa4e92eaebe8bf3e0e993f37c775a91f69c6b449ef342d442bf57b9709ad",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "gpt_free"
+ },
+ {
+  "slot": "casual7",
+  "file": "강철톤_anime_25d_gloss_f_casual7.webp",
+  "original_sha256": "e6cda890dfbbbd1e8508d99798468b4d9b4971943fb7e1847869af8e37eccad4",
+  "webp_sha256": "56500cd85f38bef20acf049b5c69ca7160ee095451e021795d9e35c64dda1214",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual8",
+  "file": "강철톤_anime_25d_gloss_f_casual8.webp",
+  "original_sha256": "8f66443ab82ab054114ea01587c621d5cf84b56073a9a0ffbac872143bc3e1ce",
+  "webp_sha256": "daeb62afbbfac9ecf253ef4f9ef963b09ec4e6e8abae2415f31072309244af2d",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual9",
+  "file": "강철톤_anime_25d_gloss_f_casual9.webp",
+  "original_sha256": "3834225e235e4387bb5caa3be41e400cf2fb056932deea3b1b9823e0ac387c7e",
+  "webp_sha256": "6bfacc636eaf85e98bb0d1cb653d5a618da4094844fdf22d1dc4ffe540a25055",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual10",
+  "file": "강철톤_anime_25d_gloss_f_casual10.webp",
+  "original_sha256": "a73dc1f03ddfd95cd51f3cfdd51aa37effbe2067c7dd6c8f8feb2d3aa4d4476d",
+  "webp_sha256": "3c851522f01e320316b2fa5726100239554b81de99a7bb0e4204404d6f4f5bc7",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ },
+ {
+  "slot": "casual90",
+  "file": "강철톤_anime_25d_gloss_f_casual90.webp",
+  "original_sha256": "4c5d479be62f99a360a1d5bdcab7052c75b2f820de80e175a9112ba400dc204d",
+  "webp_sha256": "192c74ef314349c94c239d78100bf813ab7b0c210535d5cf94cb7eefc95fdcc5",
+  "size": [
+   1024,
+   1536
+  ],
+  "design": "project"
+ }
+]
