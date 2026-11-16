@@ -1,0 +1,52 @@
+{
+  "status": "selected",
+  "card": "누오",
+  "style": "anime_25d_gloss",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "project",
+      "path": "/workspace/scratch/436efa93a6db/quagsire-pack/candidate1.png",
+      "sha256": "407f84661bc86cc49c246ed388b6e8696687a6db5eac903fb1ba55e6b0197c98",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "candidate1-submitted.txt"
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "path": "/workspace/scratch/436efa93a6db/quagsire-pack/candidate2.png",
+      "sha256": "4de8ccff0acfadecff63334f53c5e2e7251f8f1e99b6149b0f6119204cc2ea35",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "candidate2-submitted.txt"
+    },
+    {
+      "number": 3,
+      "design": "gpt",
+      "path": "/workspace/scratch/436efa93a6db/quagsire-pack/candidate3.png",
+      "sha256": "ec8f4ccba8f980253ece77db66e957eae08fc513c8c68786b8a799248869ef61",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "candidate3-submitted.txt"
+    },
+    {
+      "number": 4,
+      "design": "gpt",
+      "path": "/workspace/scratch/436efa93a6db/quagsire-pack/candidate4.png",
+      "sha256": "789e54be98cd78d631af38371f6097c3363834e1a775cbbfc7f5a46fb6b5de15",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "candidate4-submitted.txt"
+    }
+  ],
+  "selected": 1
+}

@@ -1,0 +1,286 @@
+{
+  "card": "누오",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "requested": {
+    "light": 1,
+    "casual": 10,
+    "own": 1
+  },
+  "policy": "Generated images preserved; no exposure-based regeneration.",
+  "cuts": {
+    "light": {
+      "status": "visually_reviewed",
+      "observed": "Full standing armored figure; two connected arms and legs; open right hand and relaxed left hand. Blue-purple fitted plates, wave sash and ochre hair tips match the selected candidate.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Full standing armored figure; two connected arms and legs; open right hand and relaxed left hand. Blue-purple fitted plates, wave sash and ochre hair tips match the selected candidate.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "same": true
+      }
+    },
+    "casual1": {
+      "status": "visually_reviewed",
+      "observed": "Alucard costume with crimson-lined cape, black leotard and white cravat; turned walking pose, face looking back; one hand holds a camera, the other hangs naturally. Both arms are connected; partial finger occlusion from camera grip.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Alucard costume with crimson-lined cape, black leotard and white cravat; turned walking pose, face looking back; one hand holds a camera, the other hangs naturally. Both arms are connected; partial finger occlusion from camera grip.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "ce5003472ec009173726fb202da7102f61fd5abc54ad180f354ed8d2ec7098b9",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual2": {
+      "status": "visually_reviewed",
+      "observed": "Orange sari-blouse-inspired lingerie fashion on a train berth; hands brush her hair, with fingers partly hidden by brush and hair. Close seated crop naturally excludes lower legs; no disconnected limbs.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Orange sari-blouse-inspired lingerie fashion on a train berth; hands brush her hair, with fingers partly hidden by brush and hair. Close seated crop naturally excludes lower legs; no disconnected limbs.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "6d4d62d1f34a3e31a20788d18cd1e58c5c4a3c9345a404d2d43ecaabe3c0591a",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual3": {
+      "status": "visually_reviewed",
+      "observed": "Cream swimwear, squatting at wetland deck and brushing the floor with one hand; the other arm rests naturally near the bent knee. Both legs are folded plausibly; gripping fingers partially occluded.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Cream swimwear, squatting at wetland deck and brushing the floor with one hand; the other arm rests naturally near the bent knee. Both legs are folded plausibly; gripping fingers partially occluded.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "1044e775564c5b5837b141d420819819347f5b2eee4124c7587284937b90da6a",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual4": {
+      "status": "visually_reviewed",
+      "observed": "Blue-purple Quagsire costume with hood ears, flared skirt and tail sash; standing on a laundry terrace, holding a small handheld device with both hands. Both arms join the torso; device hides parts of fingers.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Blue-purple Quagsire costume with hood ears, flared skirt and tail sash; standing on a laundry terrace, holding a small handheld device with both hands. Both arms join the torso; device hides parts of fingers.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "bd4625ebb36717a383fa8bb53b88d23bb2e4d20608e3c4f0b2740d3f0333c91c",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual5": {
+      "status": "visually_reviewed",
+      "observed": "Terracotta two-piece swimwear on a dry heated sand bench, seated with both arms stretched upward and both open hands above her head. Two arms and two bent legs remain coherent; no extra limbs.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Terracotta two-piece swimwear on a dry heated sand bench, seated with both arms stretched upward and both open hands above her head. Two arms and two bent legs remain coherent; no extra limbs.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "23dd0ad0dc790acc11d85f4a53e6df8fc1d3bc4cb3c4e8562f65e7c6343d05d3",
+        "submitted_same": false,
+        "authorized_exception": "free_category_and_situation",
+        "style_kept": true
+      }
+    },
+    "casual6": {
+      "status": "visually_reviewed",
+      "observed": "Red slip bridal fashion, veil and cocktail glass in a warm powder-room setting; looking back toward camera. Visible hand wraps the glass stem naturally; the other arm is partly hidden by crop and body.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Red slip bridal fashion, veil and cocktail glass in a warm powder-room setting; looking back toward camera. Visible hand wraps the glass stem naturally; the other arm is partly hidden by crop and body.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "9bbd06c4239a54d1d0f7332b2de47313a865fa38b6ed48fda7887b7da9e6208e",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual7": {
+      "status": "visually_reviewed",
+      "observed": "Purple event-staff costume with decorative ribbon and lanyard at a shopping arcade; one hand holds ice cream, the other rests on a rail. Visible arms connect naturally; grip occludes some fingers.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Purple event-staff costume with decorative ribbon and lanyard at a shopping arcade; one hand holds ice cream, the other rests on a rail. Visible arms connect naturally; grip occludes some fingers.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "0cfb2513500f950e05ba6308ec73ba75498777b26b48eb005d83d05acfd1861c",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual8": {
+      "status": "visually_reviewed",
+      "observed": "Cherry cropped bolero and cream bandeau with charcoal pleated shorts in a 1990s arcade; standing while both hands hold a game controller. Both forearms and wrists connect; grip partly occludes fingers.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Cherry cropped bolero and cream bandeau with charcoal pleated shorts in a 1990s arcade; standing while both hands hold a game controller. Both forearms and wrists connect; grip partly occludes fingers.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "b76e4da7cab677e5e63552d0d930afc17185ae6eb29628b7df8fa4e3756d29c6",
+        "submitted_same": false,
+        "authorized_exception": "free_outfit",
+        "style_kept": true
+      }
+    },
+    "casual9": {
+      "status": "visually_reviewed",
+      "observed": "Apricot tailored top and ivory bubble-hem skort at a pear-orchard picnic; seated sideways, right hand holds a pear near her mouth and left hand rests on blanket. Both arms and folded legs are connected naturally.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Apricot tailored top and ivory bubble-hem skort at a pear-orchard picnic; seated sideways, right hand holds a pear near her mouth and left hand rests on blanket. Both arms and folded legs are connected naturally.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "8ad4d7dea27add58184f425187cb729d6eff8ec04360aae42f21451b4741a7cf",
+        "submitted_same": false,
+        "authorized_exception": "free_scene",
+        "style_kept": true
+      }
+    },
+    "casual10": {
+      "status": "visually_reviewed",
+      "observed": "Grey spa robe over silver swimsuit beside a night resort pool; right arm bends over her head with hand behind hair, left hand holds ice cream. Raised arm has continuous shoulder and elbow, hand partially hidden by hair; close crop excludes legs.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Grey spa robe over silver swimsuit beside a night resort pool; right arm bends over her head with hand behind hair, left hand holds ice cream. Raised arm has continuous shoulder and elbow, hand partially hidden by hair; close crop excludes legs.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "1b6238ae986ca294cdd457b80a8a37051ca32c13e9d09a6e60b20e475baa5d65",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    },
+    "casual90": {
+      "status": "visually_reviewed",
+      "observed": "Spa aesthetician wrap outfit with mud-brown apron sash, seated by mineral-mud bowls at a stone spa; both hands rest separately on her knees. Two connected arms and legs; no extra limbs.",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Fine coloured facial contours, softly blended nose and cheek modelling, delicate lip and chin shading; glossy skin gradients remain consistent with selected candidate."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "manual_review": "Spa aesthetician wrap outfit with mud-brown apron sash, seated by mineral-mud bowls at a stone spa; both hands rest separately on her knees. Two connected arms and legs; no extra limbs.",
+        "result": "no obvious extra or disconnected limbs; hidden digits not asserted as counted"
+      },
+      "exposure": {
+        "result": "preserved_as_generated",
+        "regenerated": false
+      },
+      "submission": {
+        "submitted_sha256": "c3e23d527166b15ce06e9c9acb576876243fe02aebb22b107dcea48737b60477",
+        "submitted_same": true,
+        "authorized_exception": null,
+        "style_kept": true
+      }
+    }
+  }
+}

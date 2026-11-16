@@ -1,0 +1,22 @@
+{
+  "card": "누오",
+  "selected": 1,
+  "status": "generated_and_visually_reviewed",
+  "generated_slots": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "reservation_commit": "c062f164334e50ff4c1261b6e057322c1f38fcc7",
+  "originals": "session paths and hashes recorded in selection.json and manifest; PNGs not committed",
+  "publishing": "pending"
+}
