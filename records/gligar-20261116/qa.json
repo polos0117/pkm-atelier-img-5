@@ -1,0 +1,156 @@
+{
+  "light": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and two legs joined naturally; left open hand five fingers, right fingers partly hidden by relaxed fist; wing tips near frame edges."
+    },
+    "regenerated": false
+  },
+  "casual1": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Close portrait; foreground shoulder and upper arm connected; hands and legs outside crop. Reference headpiece remained; recorded without replacement."
+    },
+    "regenerated": false
+  },
+  "casual3": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms connected; rice-ball hand grip partly hides thumb, ticket hand fingers grip paper; two thighs naturally joined, feet outside crop."
+    },
+    "regenerated": false
+  },
+  "casual4": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and hands visible on rug, two legs and feet visible; fingers naturally separated or partly overlap rug."
+    },
+    "regenerated": false
+  },
+  "casual5": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two upper arms and forearms visible; near hand shows five digits, far hand obscured by forearm/crop; lower body outside crop."
+    },
+    "regenerated": false
+  },
+  "casual6": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms connected to railing hands; fingers partly curled around rail; two legs and boots visible with right knee raised."
+    },
+    "regenerated": false
+  },
+  "casual7": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms connected; relaxed hands visible with five digits each; two legs and feet visible in walking stance."
+    },
+    "regenerated": false
+  },
+  "casual8": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both shoulders and upper arms run naturally into frame edges; hands and legs outside portrait crop."
+    },
+    "regenerated": false
+  },
+  "casual10": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and hands connected, fingertips on thigh and seat; crossed legs and two feet visible with natural joints."
+    },
+    "regenerated": false
+  },
+  "casual90": {
+    "status": "generated_preserved",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Soft shaded nose, lips and cheek planes with colored outlines and blended highlights; dimensional fabric and skin rather than flat cel blocks."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two forearms connected to shoulders, both hands grasp rope with fingers partly occluded; legs partly outside crop."
+    },
+    "regenerated": false
+  },
+  "casual2": {
+    "status": "blocked_no_file",
+    "request_id": "2a4e50cc-d8e3-4359-97c2-eb71f4459189",
+    "reason": "image tool output moderation_blocked",
+    "regenerated": false,
+    "user_instruction": "Do not regenerate due to exposure censorship"
+  },
+  "casual9": {
+    "status": "blocked_no_file",
+    "request_id": "8b725d84-0c22-4c21-a6a4-710d395d3bb2",
+    "reason": "image tool output moderation_blocked",
+    "regenerated": false,
+    "user_instruction": "Do not regenerate due to exposure censorship"
+  }
+}

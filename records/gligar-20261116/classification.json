@@ -1,0 +1,112 @@
+[
+  {
+    "slot": "light",
+    "file": "글라이거_light_anime_25d_gloss_f.webp",
+    "source_sha256": "47a64ba1f8cea8986959dd5bef3988dcc9c08405860a1bfb68f64b9092318098",
+    "webp_sha256": "9aa573338c91eefa7c30cefd8af34b73a41a4fa38153123ded3ad8db3581736c",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 346998
+  },
+  {
+    "slot": "casual1",
+    "file": "글라이거_anime_25d_gloss_f_casual1.webp",
+    "source_sha256": "dbbea1575a7b7d181f521b96863511d7036158956b1fdb64ada2bdf20d366d13",
+    "webp_sha256": "d4e3232ea3d965396ea7f9092b231203335e44c333924ce4c4df6c533072e59c",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 305706
+  },
+  {
+    "slot": "casual3",
+    "file": "글라이거_anime_25d_gloss_f_casual3.webp",
+    "source_sha256": "48670aedf3f2f481193fbfc85ff77ff0100884d9c7b0443e012ab26c0b6df4ac",
+    "webp_sha256": "cd37da8d494883c5d8e61dd5112ae18d376d318fbe97608de30f4df6e3449ff3",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 254466
+  },
+  {
+    "slot": "casual4",
+    "file": "글라이거_anime_25d_gloss_f_casual4.webp",
+    "source_sha256": "3d0a6b0405d22fa1c739218b7b9854f93dd8d8d70a1b45e3665af8b990cf1031",
+    "webp_sha256": "50e81262df2efc5b84744084b83825ab51fa7839ec4facf8fd7cb8d3274bf4ee",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 365096
+  },
+  {
+    "slot": "casual5",
+    "file": "글라이거_anime_25d_gloss_f_casual5.webp",
+    "source_sha256": "dee4b15e5f0b0b4e755cdada38e183b5394f0ae7212b7fb1bfd419bd0cf1a402",
+    "webp_sha256": "4d4c61cc5d19e158acab0988953ac9e71862029b40c8c4fa593d3af61000bce8",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 276342
+  },
+  {
+    "slot": "casual6",
+    "file": "글라이거_anime_25d_gloss_f_casual6.webp",
+    "source_sha256": "db453d51779ef71adb6612c9708c6fd721a5a0517a1a4b0c8dde4ce82e230bc3",
+    "webp_sha256": "b41e877e079aa6e2110d965223115b1cfe74281c03e18c01e46e3c678e32aa4e",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 343590
+  },
+  {
+    "slot": "casual7",
+    "file": "글라이거_anime_25d_gloss_f_casual7.webp",
+    "source_sha256": "d9fcba127a95a4534d3ed0283d83efa229b056f8be649310a40396f27eddaee1",
+    "webp_sha256": "6e5d93235d1374d5eb2fa2a363eb83f0fca8c17987dcbb2de1df485aefa0fa36",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 255260
+  },
+  {
+    "slot": "casual8",
+    "file": "글라이거_anime_25d_gloss_f_casual8.webp",
+    "source_sha256": "a8046b514b6b8adb03f44fde975839c7d9f70281bd3499381d08e5f50a46158e",
+    "webp_sha256": "c5ee27b798285d3b861b694bc088a6fc0354f7e688b1ce71143fb273e6457ae3",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 246526
+  },
+  {
+    "slot": "casual10",
+    "file": "글라이거_anime_25d_gloss_f_casual10.webp",
+    "source_sha256": "26b251891e92560ffa1682f4d3eb00d058d3a8cb86f4d370d1f9d176607e6c9f",
+    "webp_sha256": "0222bd73eeae8c844db22634ea6d3ef6c8c564469c2c9c9f1c555ef4374c1272",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 259978
+  },
+  {
+    "slot": "casual90",
+    "file": "글라이거_anime_25d_gloss_f_casual90.webp",
+    "source_sha256": "a7b136a22b7b004ff6d6b0f693512f8825235e2841383133e81eef890ddda882",
+    "webp_sha256": "b0bf58718c9afb74b0b3d514bc31020f8b1570b64ab61f6a1b5c2e6252205ff0",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 246322
+  }
+]
