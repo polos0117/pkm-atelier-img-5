@@ -118,5 +118,65 @@
     "webp_sha256": "3b601849b0111291cd7af86304ba836c7f107bbf82c978853bfa683d6303ab9b",
     "reference": "selected design 1",
     "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual5",
+    "file": "그랑블루_anime_25d_gloss_f_casual5.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "0e199182a08c2bc59a38d42b98040f612f3ce3e68033e160da4d9677a0a27080",
+    "webp_sha256": "f35d92a3b3a2d252c62a62e6d10bf9f10e9c35cef9c45523c2f158bf8aff4584",
+    "reference": "selected design 1",
+    "classification_basis": "user authorized retry of missing slot"
+  },
+  {
+    "slot": "casual6",
+    "file": "그랑블루_anime_25d_gloss_f_casual6.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "edd38e146106c20cbc83f4c1f4ff48099b8e7d05b68db783252e63d9ad298b29",
+    "webp_sha256": "f7d393cc309c101e9b6187f664f23e2e3767e399e93b10520a5c56d654a269a4",
+    "reference": "selected design 1",
+    "classification_basis": "user authorized retry of missing slot"
+  },
+  {
+    "slot": "casual7",
+    "file": "그랑블루_anime_25d_gloss_f_casual7.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "83455bf6ee4d1af5265ce9fb17bbb427580f4e3dbf2457cd44918af8af6203b4",
+    "webp_sha256": "e95b248448de4e971b4087ce7e1735f9381f6b3c1a8f7f881f42a08e19540e74",
+    "reference": "selected design 1",
+    "classification_basis": "user authorized retry of missing slot"
+  },
+  {
+    "slot": "casual8",
+    "file": "그랑블루_anime_25d_gloss_f_casual8.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "05976c837b1e44950a1a37f2eac63e101776adfdf022dc83a30e7d360a7f0e4e",
+    "webp_sha256": "b4e1ae08390c11b9c9dfa16e52df71f57164d853febf87cb1c91e6b62e979962",
+    "reference": "selected design 1",
+    "classification_basis": "user authorized retry of missing slot"
   }
 ]

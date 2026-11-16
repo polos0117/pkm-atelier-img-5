@@ -144,23 +144,111 @@
     }
   },
   "casual5": {
-    "status": "result_unavailable_after_batch_error",
-    "regenerated": false,
-    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+    "status": "generated_preserved",
+    "regenerated": true,
+    "reason": "User explicitly requested missing images again",
+    "attempt_history": [
+      {
+        "status": "result_unavailable_after_batch_error",
+        "regenerated": false,
+        "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+      }
+    ],
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Same pink hair and violet eyes as selected reference; blended skin shading and dimensional fabric with material reflections."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Orange halter crop top, bare shoulders and arms, and a narrow band of midriff; opaque fabric and secure coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms connect through elbows to shoulders. Hands are clasped at chest height; visible fingers overlap naturally, with thumbs and some fingertips partly occluded by the clasp. No floating or additional hand."
+    },
+    "scene": "Bright photo-booth ring lights, waist-up crop, clasped hands and deadpan expression match. Pink hair ribbons remain as a recorded wardrobe detail."
   },
   "casual6": {
-    "status": "result_unavailable_after_batch_error",
-    "regenerated": false,
-    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+    "status": "generated_preserved",
+    "regenerated": true,
+    "reason": "User explicitly requested missing images again",
+    "attempt_history": [
+      {
+        "status": "result_unavailable_after_batch_error",
+        "regenerated": false,
+        "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+      }
+    ],
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Same pink hair and violet eyes as selected reference; blended skin shading and dimensional fabric with material reflections."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Strapless cream space-age costume with silver trim; shoulders, collarbones and upper chest visible; opaque fitted bodice securely covers the chest."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Waving right hand has five distinct fingers and a visible thumb on the natural side. Wrist, elbow and shoulder connect. Opposite shoulder and upper arm continue below the frame. Legs are outside the portrait crop."
+    },
+    "scene": "Taxi back seat, snowy night outside and overhead warm light are visible; the waving hand and smile match. Standing posture is not discernible in the close crop."
   },
   "casual7": {
-    "status": "result_unavailable_after_batch_error",
-    "regenerated": false,
-    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+    "status": "generated_preserved",
+    "regenerated": true,
+    "reason": "User explicitly requested missing images again",
+    "attempt_history": [
+      {
+        "status": "result_unavailable_after_batch_error",
+        "regenerated": false,
+        "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+      }
+    ],
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Same pink hair and violet eyes as selected reference; blended skin shading and dimensional fabric with material reflections."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "White strapless Ryu-inspired mini dress, black belt and red wrist wraps/headband. Bare shoulders and legs, deep neckline with intimate areas covered."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two connected arms. One curled hand supports the chin, its elbow on the raised knee; fingertips partly hidden by the curled grip. Other hand is planted on the floor with fingers partly overlapping. One leg raised and the other folded along the floor; no extra or detached limb."
+    },
+    "scene": "Warm living room and snowy window, seated-on-floor pose with chin supported on hand. Recognisable Ryu headband, red wraps, white frayed fabric and black belt. Frame includes more of legs than the planned head-to-knees crop."
   },
   "casual8": {
-    "status": "result_unavailable_after_batch_error",
-    "regenerated": false,
-    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+    "status": "generated_preserved",
+    "regenerated": true,
+    "reason": "User explicitly requested missing images again",
+    "attempt_history": [
+      {
+        "status": "result_unavailable_after_batch_error",
+        "regenerated": false,
+        "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+      }
+    ],
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Same pink hair and violet eyes as selected reference; blended skin shading and dimensional fabric with material reflections."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Butter-yellow bikini with opaque supportive cups and tie-side bottoms; midriff, shoulders and legs visible; chest and pelvis covered."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and two legs connect naturally. Right elbow raised with hand partly hidden behind hair/head. Left hand grips only an ice-cream cone; fingers overlap around cone. Both feet visible with five toes each; no duplicated limb."
+    },
+    "scene": "Park trees, benches and fountain; reclined on lounger with ice cream, full body inside frame. A decorative fairy halo remains in the scene, recorded without replacement."
   }
 }
