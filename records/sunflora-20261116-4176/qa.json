@@ -1,0 +1,170 @@
+{
+  "light": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms and legs visible; raised open palm and loose fist."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual1": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms visible; one hand grips phone, other braces on floor; fingers partly occluded by grip."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual2": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms visible; pocket-watch grip and sundial adjustment; fingers partly occluded by objects."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual3": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two connected arms and hands polishing ball; one companion; fingers partly hidden by cloth and ball."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual4": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and clasped hands; fingers overlap naturally; both legs bent under body."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual5": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "One visible connected forearm and hand at hair; other arm and lower body leave portrait crop."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual6": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms visible; hands rest on stool and thigh; legs crossed."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual7": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Near arm on bed and other partly obscured by torso; hands partly cropped; two bent legs and boots visible."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual8": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "One visible forearm and hand touching cheek; other arm leaves portrait crop."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual9": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two forearms reach railing; one hand partly leaves lower crop; no floating hand."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual10": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms lift circular screen; fingers partly hidden by grip; bent legs visible."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "casual90": {
+    "review": "manual visual inspection",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and hands using a small seed measure beside seed trays; prop interpretation differs from literal loose-seed sorting, preserved."
+    },
+    "same_identity": true,
+    "dimensions": [
+      1024,
+      1536
+    ]
+  }
+}

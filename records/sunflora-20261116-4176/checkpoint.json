@@ -1,0 +1,117 @@
+{
+  "card": "해루미",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "status": "generated_pending_publication",
+  "images": [
+    {
+      "slot": "light",
+      "file": "해루미_light_anime_25d_gloss_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "6b88ea90d54f1cc3d69e3ebb399ccb5940cda33b487008b05dc63e8d091c0834",
+      "webp_sha256": "b4060df24fba6ca870c2e9960090ef122644a9f3cdf06e9b65358c0a9cfa4f26",
+      "submitted_sha256": "af7354a96ae06a2df2031d3932ea6850446e15edd42d2b300c4f1b2695966890"
+    },
+    {
+      "slot": "casual1",
+      "file": "해루미_anime_25d_gloss_f_casual1.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "390c4fd3c1ee1ef3bb338207f123996f7c63ea4b18444ff8d4213b2f5eb103f7",
+      "webp_sha256": "84d27f5068e10221248ae126a8e6290adc76f0247ae6c168277b2ef7c2055671",
+      "submitted_sha256": "56f4fd07375928cd043398ee5db1d4b31c7eac7897b4e21bf45f178090f22257"
+    },
+    {
+      "slot": "casual2",
+      "file": "해루미_anime_25d_gloss_f_casual2.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "edf63af8e8e98319ed6a434fa9dc906f4a4a15d6f99b681d095d7a09b8d6941d",
+      "webp_sha256": "12c0b4bb76a080e248ab003aca22eea0c147a806fb0427d8076d1a2f27fbaf14",
+      "submitted_sha256": "533d740d236809dd46d88ab0105e59cdf22428a861221111268fbb186f693685"
+    },
+    {
+      "slot": "casual3",
+      "file": "해루미_anime_25d_gloss_f_casual3.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "2a6fac180b725493d78759353509d35c8c029fbc0109e95b1e04985e3e178420",
+      "webp_sha256": "f8eb6f9132eb59b50860a8661199a84ffb6afcbde4a4749f451b2c9023f17254",
+      "submitted_sha256": "eb7180302b065fdddd85ff4374697b01d8a63f986110e03c051bbacb6bd0a38e"
+    },
+    {
+      "slot": "casual4",
+      "file": "해루미_anime_25d_gloss_f_casual4.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "6386d2e69c5b3f1f62e28701e43809bf8289237a2a29778360d811e598b51a53",
+      "webp_sha256": "e8dd68c8c47a7e2a1e9817ef14d0b9dd5a171fe99182643238dd32be2911f46f",
+      "submitted_sha256": "542740d55d0b3ad2cc4f0995b0b5b69b846c136e3622742e8759fb59875216d6"
+    },
+    {
+      "slot": "casual5",
+      "file": "해루미_anime_25d_gloss_f_casual5.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "91b9b6bc96dc661c29b9c543f1bde04ae3f923b21f4eb4c3c039549e2446c034",
+      "webp_sha256": "fd71857b86d1e444597359cdf18e60aa22674cf83d062f86b0f82104c8902ba8",
+      "submitted_sha256": "a78aa3427c370b144cce5979424723109f3c81c954bcb350caa4e3c14a4fd53a"
+    },
+    {
+      "slot": "casual6",
+      "file": "해루미_anime_25d_gloss_f_casual6.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "8b62a38641839e06fa771224bcb15073ae8353f34ae0547026a2c888df8bf362",
+      "webp_sha256": "80bed93a73a2f190ecf56287356c848cb726b3fa6978ea4b554757bc7528fd20",
+      "submitted_sha256": "4119734dbf02dfd4aeff09c102131f83a377c841e7a50c3662ec6b8570e0e750"
+    },
+    {
+      "slot": "casual7",
+      "file": "해루미_anime_25d_gloss_f_casual7.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "c5ad147be5f679e37a785d099ebee284f7ceb32ed1c8bde40e8608384eef62b3",
+      "webp_sha256": "24a93e107d76639c17d5dd2beae67269a980a30356a56c9a439a4ac97c31621a",
+      "submitted_sha256": "77f8f9eb8aac63faa24fb06121e05d6d52e42e8be393c273a7cc52809759fdb0"
+    },
+    {
+      "slot": "casual8",
+      "file": "해루미_anime_25d_gloss_f_casual8.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "e1ee3e4884287719a8adaf3d45d5c14f594757d27a48f7e6ab153645af349bc2",
+      "webp_sha256": "1cd1eb013df0b3e1240141a98a8fe449167e68add1d68f9b867f58d4cfdc3a74",
+      "submitted_sha256": "56b666b115a6165a4d50532356e87bdc3a1cf8ac9e3d1e7d67eb78a7f7109ff3"
+    },
+    {
+      "slot": "casual9",
+      "file": "해루미_anime_25d_gloss_f_casual9.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "016a07f0f65cf4b7527405c95109e08b5190898df17d4716e2c985280116ff89",
+      "webp_sha256": "54575381aa861d41f3c84519d6cd55019f4873b0e5567c3debcf79d10d801494",
+      "submitted_sha256": "d81810516ebc7dda1916df2192bd29029c7e2a623b8c84c8f10e5c136e708b9d"
+    },
+    {
+      "slot": "casual10",
+      "file": "해루미_anime_25d_gloss_f_casual10.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "4dcbfd12a372799406ccf65b89f4ad6b1a311fadceca3675bdc2cda78f2f6f29",
+      "webp_sha256": "40b1b2f8b5ada5ef0d5ebcd485e12faa2b52ce6faab71c7d7e6d755cc4ffb1ba",
+      "submitted_sha256": "3054e5427e6f00a0820a67ead6d290c35602cd188a70b01e51d6c4e3faacab36"
+    },
+    {
+      "slot": "casual90",
+      "file": "해루미_anime_25d_gloss_f_casual90.webp",
+      "width": 1024,
+      "height": 1536,
+      "original_sha256": "dc6482a056751995cfbc1c392d145127fa4504bcc8634f446c7910e8e8abdd50",
+      "webp_sha256": "73acafcfe1dd2a73cc23836b9ca3efd828289b5a01b9c886a3b91d8a76fc587e",
+      "submitted_sha256": "856870c31ab4194cb7fa0266b48d0c8d28c17b38148cb4be8ca987a22b1d7c94"
+    }
+  ],
+  "exposure_regeneration": false
+}

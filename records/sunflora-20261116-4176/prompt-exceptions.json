@@ -1,0 +1,11 @@
+{
+  "casual2": "Generator-authorized original scene and outfit design; all exterior rules preserved.",
+  "casual3": "Generator-authorized original outfit line; other lines unchanged.",
+  "casual10": "Generator-authorized original category and situation design; all exterior rules preserved.",
+  "casual2_technical_retry": {
+    "reason": "first PNG 1199x1312",
+    "same_prompt": true,
+    "exposure_reason": false,
+    "first_original_sha256": "dbc55177624daa3c80438a8841a1cb1ba31f2245cb95cd37bd2b72cf1ba0e23b"
+  }
+}
