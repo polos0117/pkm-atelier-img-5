@@ -6,31 +6,14 @@ BODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wi
 
 STYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.
 
-OUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the named video-game character, as worn to a cosplay convention, a photo shoot or a night in. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. She is a woman wearing that character's cosplay — she is not that character. Everything else follows SCENE (chosen).
+OUTPUT: one standalone off-duty scene of the same adult woman wearing a pandaren monk cosplay inspired by World of Warcraft; she remains herself with the reference face and hair, never a panda and never a different character.
+FRAME: vertical 2:3, 1024x1536, three-quarter portrait from head to just below the knees.
+SCENE:
+An open-air garden pavilion with wooden columns, a small stone path and softly sunlit greenery. She stands at a wooden bench before a costume event, facing the viewer gently three-quarters, with a small amused smile and eyes toward the camera. Camera at her eye level.
+Cosplay: an opaque ivory martial-arts tunic with a closed crossover collar, dark charcoal sleeve borders, broad jade-green woven sash, brown leather belt with a simple round buckle, loose charcoal trousers and practical brown boots. The outfit's cloth layers, wide belt and stylised circular shoulder embroidery communicate a pandaren monk's adventuring costume. Sleeves reach her forearms; the tunic fits her natural figure without armor, fur or a wig. No text, brand mark or weapon.
+Her own right hand rests flat on the bench beside her, with its arm visibly connected from shoulder to wrist. Her own left hand holds a folded jade-green cloth at waist height, its elbow naturally bent. Five fingers on each hand, fingers may overlap only around the cloth grip.
 
-FRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.
-
-SCREENS: any monitor, cabinet, handheld, box or poster shows only abstract colored light, simple shapes or blank art — no recognisable game, character, logo, title or interface, no readable text.
-
-SCENE (chosen):
-Place: her living room with a deep sofa, floor cushions and a low table
-Outfit: a daring adult cosplay of a pandaren monk from World of Warcraft — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps
-Cut: plunging neckline and cropped hem built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.
-POSTURE: seated on a chair.
-COMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body in side profile, her face in profile too, not turned toward the camera, facing the right of the frame, so her own right side is toward the camera; camera low, near the ground, level with her face as she sits or kneels; a second space shows beyond her through an opening — a door, an arch or a window.
-Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
-RIGHT HAND: her own right hand is in PROP — her near arm, on the camera side.
-LEFT HAND: her own left hand is in PROP — her far arm, on the side away from the camera.
-PROP: with both hands she stitches into a small embroidery hoop with fabric in it — her own right hand draws the needle and thread, her own left hand holds the hoop.
-LEGS: knees together, feet slightly apart.
-GAZE: her eyes rest on what she holds.
-EXPRESSION: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.
-overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
-skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
-action_level: balanced — a readable moment of gentle movement, not a ratio of multiple images
-separates_preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified
-
-WARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face and hair — not its armor, garment, jewelry, hair ornaments or background. The cosplay must read at first glance as that game character's look, rebuilt as a glamorous adult outfit; her face and hair colour stay exactly as in the attached image and her body follows the BODY TYPE line — never the character's face, hair colour or body, no wig, no logo or readable text.
+WARDROBE: replace the reference armor completely with the cloth outfit described above. Take only her face, hair and skin tone from the reference; no armor, mecha rings, original clothing, helmet or background. Keep the selected outfit colours and construction exactly as described.
 
 ANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.
 

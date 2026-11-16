@@ -16,9 +16,26 @@
     }
   },
   "casual1": {
-    "status": "blocked",
-    "request_id": "7e05545d-42ea-4da6-a469-263b5cdf066d",
-    "regenerated": false
+    "status": "accepted",
+    "initial_attempt": {
+      "status": "blocked",
+      "request_id": "7e05545d-42ea-4da6-a469-263b5cdf066d",
+      "regenerated": false
+    },
+    "redesign": "user_requested",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "기준 얼굴의 부드러운 코·턱 음영과 유색 윤곽, 머리 가닥과 직물 입체감 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔이 각 손목·손으로 연결; 토큰·천·수건을 쥔 손은 일부 손가락이 겹치며, 반대손은 자연스럽게 연결됨",
+      "overlay_checked": false,
+      "note": "원본을 눈으로 확인. 프레임 밖 하체는 판정에서 제외."
+    }
   },
   "casual2": {
     "status": "accepted",
@@ -69,14 +86,48 @@
     }
   },
   "casual5": {
-    "status": "blocked",
-    "request_id": "a6175a9f-b48c-49b5-b2a0-4ad25123da43",
-    "regenerated": false
+    "status": "accepted",
+    "initial_attempt": {
+      "status": "blocked",
+      "request_id": "a6175a9f-b48c-49b5-b2a0-4ad25123da43",
+      "regenerated": false
+    },
+    "redesign": "user_requested",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "기준 얼굴의 부드러운 코·턱 음영과 유색 윤곽, 머리 가닥과 직물 입체감 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔이 각 손목·손으로 연결; 토큰·천·수건을 쥔 손은 일부 손가락이 겹치며, 반대손은 자연스럽게 연결됨",
+      "overlay_checked": false,
+      "note": "원본을 눈으로 확인. 프레임 밖 하체는 판정에서 제외."
+    }
   },
   "casual6": {
-    "status": "blocked",
-    "request_id": "e698aa92-c2ea-45fb-bb01-69291cf74e73",
-    "regenerated": false
+    "status": "accepted",
+    "initial_attempt": {
+      "status": "blocked",
+      "request_id": "e698aa92-c2ea-45fb-bb01-69291cf74e73",
+      "regenerated": false
+    },
+    "redesign": "user_requested",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "기준 얼굴의 부드러운 코·턱 음영과 유색 윤곽, 머리 가닥과 직물 입체감 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔이 각 손목·손으로 연결; 토큰·천·수건을 쥔 손은 일부 손가락이 겹치며, 반대손은 자연스럽게 연결됨",
+      "overlay_checked": false,
+      "note": "원본을 눈으로 확인. 프레임 밖 하체는 판정에서 제외."
+    }
   },
   "casual7": {
     "status": "accepted",

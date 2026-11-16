@@ -5,9 +5,9 @@
     "exception": null
   },
   "casual1": {
-    "submitted_sha256": "c719a7ace6dc1e19c8bdc1843d3dc72861a06140d713448737a889aebcac00e4",
+    "submitted_sha256": "7a081171e2e46506aacbdb4e457def9ae7c81f1b1ffd30f441eafa2ef288c853",
     "submitted_same": true,
-    "exception": null
+    "exception": "User explicitly requested redesign of blocked initial image; initial prompt preserved in blocked-initial/."
   },
   "casual2": {
     "submitted_sha256": "f75e7021a54a0ba1c52d3a25fc7651b54e8b458352402897b142de0b3c2d14a7",
@@ -25,14 +25,14 @@
     "exception": "free scene/outfit design permitted by IMAGE_RULES"
   },
   "casual5": {
-    "submitted_sha256": "d17811833d5b5ccbb5d9e6765a1673ce89dd6134e36738d2389f6d60f24cabc2",
+    "submitted_sha256": "17d6c3f18ff24a550448e3618a1bf905396465471fe132180de02e4717c5cd86",
     "submitted_same": true,
-    "exception": null
+    "exception": "User explicitly requested redesign of blocked initial image; initial prompt preserved in blocked-initial/."
   },
   "casual6": {
-    "submitted_sha256": "421d690cebec378f8c4f7d95c7b3c0fe1795a15e9ed1f17979da78a1bf1518d0",
+    "submitted_sha256": "8358e152b89c068161b984053a10807520dbdec4f90565a23e0c77b5eda0d942",
     "submitted_same": true,
-    "exception": null
+    "exception": "User explicitly requested redesign of blocked initial image; initial prompt preserved in blocked-initial/."
   },
   "casual7": {
     "submitted_sha256": "df91ae10d27e0b58990993c1113a0094b19641f1f5e74982e3214bc3a5381072",

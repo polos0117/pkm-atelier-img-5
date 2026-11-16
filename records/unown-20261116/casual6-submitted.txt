@@ -6,34 +6,14 @@ BODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wi
 
 STYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.
 
-OUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).
+OUTPUT: one standalone off-duty poolside scene of the same adult woman, relaxed between swims.
+FRAME: vertical 2:3, 1024x1536, a three-quarter portrait from head to just above the knees, camera at eye level.
+SCENE:
+A bright outdoor public swimming-pool deck on a calm summer morning, with blue water, pale tiles, a low white railing and a closed striped parasol in the distance. No other people. She stands upright on the dry deck, shoulders relaxed, gently three-quarters toward the camera, her face clearly visible with a soft confident smile. No low camera angle.
+Outfit: a fully lined camel-brown sporty one-piece swimsuit with broad shoulder straps, a high rounded neckline, standard leg openings and smooth opaque side panels. A lightweight ivory towel lies over her shoulders with its ends falling in front; no slipping garment, transparent fabric or cut-outs. A small circular stud earring is the only Unown accessory.
+Her own right hand holds one end of the towel at chest height, her right elbow naturally bent forward. Her own left arm hangs beside her with the left hand relaxed and fully visible. Both arms connect visibly from shoulders through elbows and wrists; each hand has five natural fingers. Keep all limbs above the deck, no underwater anatomy.
 
-FRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.
-
-CROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image. Both shoulders and upper arms show and run on past the edge — never an armless torso.
-
-ERA: set this scene in the real world around 1999, when her Pokémon first appeared. Clothing, hair, devices and interiors of that time, keeping two or three recognisable parts of the chosen outfit; no smartphones or modern devices that did not exist then. Period everyday fashion only, not her armor.
-
-SCENE (chosen):
-Place: a backstage dressing room with a bulb-lit mirror, a vanity table and costume racks
-Outfit: a halter bikini with a neck tie and an underbust band
-Outfit colours: camel and chocolate brown — her own colour choice for this outfit, not her species' colours.
-Cut: sweetheart neckline and high-cut leg built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.
-POSTURE: standing, leaning back against a wall.
-SUPPORT: her back rests against the wall.
-COMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, facing the right of the frame, so her own right side is toward the camera; head tilted slightly; camera slightly below, looking up at her; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance.
-Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
-RIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her near arm, on the camera side.
-LEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.
-GAZE: her eyes are lowered.
-EXPRESSION: challenging eyes under lowered lids, one brow raised, mouth corner tugged in a slight smirk. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.
-overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
-skin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest
-action_level: balanced — a readable moment of gentle movement, not a ratio of multiple images
-source_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns
-separates_preference: balanced — choose either a one-piece outfit or separates to suit the scene
-
-WARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.
+WARDROBE: replace the reference armor completely with the cloth outfit described above. Take only her face, hair and skin tone from the reference; no armor, mecha rings, original clothing, helmet or background. Keep the selected outfit colours and construction exactly as described.
 
 ANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.
 
