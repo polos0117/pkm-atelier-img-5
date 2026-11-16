@@ -1,0 +1,181 @@
+{
+ "status": "ready_to_publish",
+ "selection": 3,
+ "card": "블래키",
+ "count": 12,
+ "style": "anime_25d_gloss",
+ "files": [
+  {
+   "slot": "light",
+   "file": "블래키_light_anime_25d_gloss_f.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "b8b24228f5080d7e0279cce10c3ef7f3cba7ee3f5d627c303f7bc90c8466b556",
+   "sha256": "a1484ada2ab8804e3c98497cf25dd1a2e336f7c3d3361d745727e4de6024f363",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-a0f0b153-c7dc-49f6-ace9-61cf8021b5b1.png"
+  },
+  {
+   "slot": "casual1",
+   "file": "블래키_anime_25d_gloss_f_casual1.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "6d666906211e5911401fba39a30d1bd021697267a54e631b61183f626c04f8e9",
+   "sha256": "c62c2a78c2fcfa0b3806c9df532de5738afaa5d5b24c12b83bfa03b9702c0a3d",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-75b3d9c6-515c-439b-b202-929edf31cb6c.png"
+  },
+  {
+   "slot": "casual2",
+   "file": "블래키_anime_25d_gloss_f_casual2.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "e32c2d0104256893af3cc4b2bf2feca0076b2bc817f1788a5521d8fe155d05c0",
+   "sha256": "18efbf2107870f7b0b1a542ba3a5a446d89ad853d6de488e487c1592aa6c8a2a",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-e1e9bae3-dcc4-44a2-8bde-9fcb30b8acd5.png"
+  },
+  {
+   "slot": "casual3",
+   "file": "블래키_anime_25d_gloss_f_casual3.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "5d0af659c98faef2226dcea8deba92f0c4c4547d74ee038d7dd12aa720a2c2f3",
+   "sha256": "f5e2be6372a3292f1d75943a90ab99cbd519a5f14d1965f1d4881cb8b129e39f",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-f48c8d72-8990-41d1-be58-58095b79869a.png"
+  },
+  {
+   "slot": "casual4",
+   "file": "블래키_anime_25d_gloss_f_casual4.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "995de94d95d6847f8559b0df9d985b07b9f7a404315353ce9457d16f02f657de",
+   "sha256": "045df1c578734c511c50c030ea6c062fc9fb195bc515f9deea3e6afb82902d18",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-464a27b0-cb9b-46fa-9c7e-dc33feff3a2c.png"
+  },
+  {
+   "slot": "casual5",
+   "file": "블래키_anime_25d_gloss_f_casual5.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "0627cfddf05fa1b4f527a359ead0c909f34948ef1f7725e3443e287ddfedc9d4",
+   "sha256": "b1cee6204e30b74fd11ffd3c83a51120dac2468930e03225e9f6348aa669b47d",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-3d19ab3b-55ab-4a32-b9de-ca31326bf126.png"
+  },
+  {
+   "slot": "casual6",
+   "file": "블래키_anime_25d_gloss_f_casual6.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "470e78fdef580e7d4194d7836a21dd48872a257b6c149c8af42c1000c6db9292",
+   "sha256": "44f7d595ec65ed1dbb7350843dcd606502a7c8107ac979976a60d4a19e3b2c16",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-3947ac05-44d8-4af3-b7ee-a90b8f77322a.png"
+  },
+  {
+   "slot": "casual7",
+   "file": "블래키_anime_25d_gloss_f_casual7.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "20174c5a4129b734018cde1bc02dacdd6dc85b16db0ff9f6a8ee3386d7475caf",
+   "sha256": "4de74b87913a4cc7a91c82f544980df8bfab559c84ff3ec46ba6dd6d523a92da",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-9effbdb4-8659-46a1-9eb6-e9641b6ff37a.png"
+  },
+  {
+   "slot": "casual8",
+   "file": "블래키_anime_25d_gloss_f_casual8.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "3a7ba87dbdd4e64ecf0e7a4229fca3ae1afb8fee6b33dbdda71d6f87fb99a49f",
+   "sha256": "b05f089aa2cb712e604df7fb14eb095259fa409887fd4df1e27e4defb584b8e1",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-defb2c05-59e7-40c7-b59b-3c397f3434fa.png"
+  },
+  {
+   "slot": "casual9",
+   "file": "블래키_anime_25d_gloss_f_casual9.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "d4ae998c500d2ea331e3ae3f2925e362651d342bbc7a01643aa3607dff3c17f1",
+   "sha256": "7649d0b85dae04f99826add5dc68cdd2c7dbca904df1248d7377510506fe2112",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-178693fa-2005-4251-bdab-0308cf4ae6fe.png"
+  },
+  {
+   "slot": "casual10",
+   "file": "블래키_anime_25d_gloss_f_casual10.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "ddc9207aa4c3b1e56b2da1ba4f20542f3a8e89e7e7e9bff31eae545ac3bfe923",
+   "sha256": "7dded2f31a79d7e8921ab23f7fe5a5c62847b47ca130deea14b664a98bdfa32f",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-04b6752d-e7c4-4b2a-b044-af7b054eb015.png"
+  },
+  {
+   "slot": "casual90",
+   "file": "블래키_anime_25d_gloss_f_casual90.webp",
+   "width": 1024,
+   "height": 1536,
+   "source_sha256": "e7e1d935f26082a57eda37422eaaf466f5702c9df02a76fec0e3a702b1e4e32f",
+   "sha256": "b2c8c03e89033d4b593050d65caa4bbd8a1ea26cbb784ed0592afdaac22b06a7",
+   "source": "/workspace/scratch/14e0c9e37164/generated_images/exec-acd9c8ba-a04f-42c9-a9dd-cb986b9b696c.png"
+  }
+ ],
+ "face_basis": "selected candidate 3, ruby-red eyes, soft short-midface, black long side braid; user selection",
+ "compared": "same-session 12 actual images, distinct venues and wardrobe",
+ "submission": {
+  "light": {
+   "submitted_sha256": "542e18b87a7c7657c1c4e6a42a771e1e8103f3e097b653bb160c063bdf4e41d4",
+   "submitted_same": false,
+   "exception": "authorised free design"
+  },
+  "casual1": {
+   "submitted_sha256": "4dffd4d33abe33f6413fb568ee9842eb4d84d5643323e4022f3b4fbfb3533137",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual2": {
+   "submitted_sha256": "04574cb139ad6980ebcde6a623ee2da323e8bfc6844ee0c37eb8d9d1ee53fd1a",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual3": {
+   "submitted_sha256": "ed4dfef1563d11e2c34eea0a259614d7665e3b286e640147a5fde66d9843c1a5",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual4": {
+   "submitted_sha256": "52886b60b571efa927d99f237e583937c4bedcb4d9a96162bbfe049869be0e2e",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual5": {
+   "submitted_sha256": "dbf3e14893e3522653152e7b91af42c3ed928efb445de977e332b7fe6290071c",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual6": {
+   "submitted_sha256": "3d1d503cd77cbc34e09fb9698544e4fadfb668f33f2007c60212b330acfcc6d8",
+   "submitted_same": false,
+   "exception": "authorised free design"
+  },
+  "casual7": {
+   "submitted_sha256": "84f2a0919821e72de61d3316772fd54c3bb6055b848e2d94c1e7fcfeb808d8c9",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual8": {
+   "submitted_sha256": "f324369be034ef7e7a1fae976b177dc2913c958a3091bfa2baafb9852a71a077",
+   "submitted_same": true,
+   "exception": null
+  },
+  "casual9": {
+   "submitted_sha256": "54c8dd6708565031a31581d4b3e7d23f3a88350de7da72e169ccf6186375e7e7",
+   "submitted_same": false,
+   "exception": "authorised free design"
+  },
+  "casual10": {
+   "submitted_sha256": "b473bb6eebbb40c4f9cc8189a316838f515b37647d15a2888a7628de4c848b52",
+   "submitted_same": false,
+   "exception": "authorised free design"
+  },
+  "casual90": {
+   "submitted_sha256": "0b7efad84d7ec0ff567d342aa0431130ba7034d66c36114642f19498e5194013",
+   "submitted_same": true,
+   "exception": null
+  }
+ }
+}

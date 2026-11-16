@@ -1,0 +1,194 @@
+{
+ "light": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "두 팔과 두 다리 연결 정상. 왼쪽 화면의 펼친 장갑 손에 다섯 손가락, 반대쪽 쥔 손은 일부 손가락 겹침.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual1": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "우산을 쥔 손의 손가락 일부는 손잡이에 가림. 난간 위 손은 팔과 연결됨. 하반신은 프레임 밖.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual2": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "한 팔은 위로 뻗고 반대 팔은 내려옴. 손과 손가락은 과일 진열대 접촉과 원근에 일부 가림. 두 다리 자연스럽게 연결.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual3": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "장갑 낀 두 손이 각각 아래팔과 연결. 손가락 일부는 옷과 손 자세로 겹침. 치마가 한 다리를 가림.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual4": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "한 손은 턱을 받치고 반대 손은 바닥에 연결. 굽힌 두 다리 정상, 발은 자세로 가림.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual5": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "클로즈업 아래 양팔이 이어져 화면 밖으로 나감. 손과 하체는 프레임 밖.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual6": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "뻗은 팔과 좌석을 짚는 팔이 각각 어깨에 연결. 손가락 일부는 탬버린과 좌석에 가림. 하체 프레임 밖.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual7": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "손가락 하나를 입술에 댄 손이 아래팔로 이어짐. 반대 위팔은 프레임 밖으로 이어짐. 하체와 반대 손은 프레임 밖.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual8": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "두 손은 각각 허벅지와 좌석을 짚음. 두 다리는 접힌 자세로 연결, 발은 가림.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual9": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "양어깨와 위팔이 정상적으로 프레임 아래로 이어짐. 손과 하체 프레임 밖.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual10": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "간식 봉투 쥔 손의 일부 손가락은 봉투에 가림. 반대 손은 허벅지 위에 연결. 두 무릎이 프레임 안.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ },
+ "casual90": {
+  "style_25d": {
+   "result": "2.5D",
+   "evidence": "얼굴 코·뺨·입술에 부드러운 그라데이션 음영, 머리카락의 층별 광택, 옷의 입체 재질과 피부 하이라이트 확인."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe module not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "도구와 천을 잡은 양손이 각 아래팔에 연결. 손가락 일부는 물건과 천에 가림. 두 다리는 앉은 자세로 겹침.",
+   "overlay_checked": false,
+   "note": "전체 시트와 확대 검수. 가려진 손가락과 프레임 밖 부위는 추정 판정하지 않음."
+  },
+  "note": "재생성 없음. 원작 장식의 일부 잔존 및 선택 구도 차이는 그대로 보존."
+ }
+}
