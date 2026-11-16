@@ -1,0 +1,16 @@
+{
+ "casual4": [
+  {
+   "slot": "casual4",
+   "at": "2026-11-16T23:17:29.031Z",
+   "prompt_sha256": "d1cbec0257980a5a0e652e1de6056b8662cfd144cb1b33ee15091b4c653c66b2",
+   "submitted_sha256": "d1cbec0257980a5a0e652e1de6056b8662cfd144cb1b33ee15091b4c653c66b2",
+   "same": true,
+   "prompt_words": 1024,
+   "submitted_words": 1024,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ]
+}

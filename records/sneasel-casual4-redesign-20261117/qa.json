@@ -1,0 +1,29 @@
+{
+  "casual4": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "style_25d": {
+      "판정": "match",
+      "근거": "애니 얼굴·부드러운 입체 음영·직물 결·피부 광택 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands join through wrist and forearm to shoulders. Right hand rests on hip with thumb partly hidden; left hand hangs down with fingers partly overlapping. No floating or extra limbs seen.",
+      "overlay_checked": false
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "의상 설계의 목선·어깨와 허리 노출 유지"
+    },
+    "original_sha256": "b41d5015f9dd974bd77fd66fbf8332abaf16da5d1183a93bcf9c00943d3c4969",
+    "webp_sha256": "a1c6d5d5dc8ca87fbdf6dacc104acf0363e9b945d74aa52c87ed065e29cd5bcc",
+    "submitted_same": true,
+    "regenerated_after_result": false
+  }
+}
