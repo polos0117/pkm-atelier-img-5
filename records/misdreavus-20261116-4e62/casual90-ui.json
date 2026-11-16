@@ -143,19 +143,27 @@
   "job_ko": "귀신의 집 연기자",
   "level": "bold"
  },
+ "user_revision": {
+  "request": "Change composition only",
+  "composition": "Head-to-knees, front gentle three-quarter view, both hands visible"
+ },
  "generation": {
   "tool": "image_gen",
   "selected_mecha": 1,
-  "submitted_sha256": "7d0573ddab3730ba5ddd10957080b51ede56cad2ca230d94c40fef461e38287c",
-  "submitted_same": true,
-  "reference": "light",
+  "status": "generated",
+  "revision": 2,
+  "reason": "User requested redesign of 7 and composition correction of 90",
+  "reference": "previous casual90",
+  "source_sha256": "398cf803c865a3d642d5399d6ae69e369dcf580467a4f9af1ea9721c48aa2747",
+  "webp_sha256": "510dffd39d7df4c5951ebb0aba1b9a94265af956f80d69337bc97ff0772cfc37",
+  "previous_webp_sha256": "54b4129bb322a9b166fb05e40800e8775c8ccd4b46fd38c88dc024cb2303cccf",
+  "submitted_sha256": "a15dea7a88ec5e261afd0bac4c66417efd3f70e313b9f70d5712078ef89e6888",
+  "submitted_same": false,
   "own": {
    "level": "bold",
    "tries": 1,
    "blocked": []
   },
-  "source_sha256": "ab76fcf335e33a5ca2707ee447e927544f6ac8d3b035d8bf3a77088570ecd98f",
-  "webp_sha256": "54b4129bb322a9b166fb05e40800e8775c8ccd4b46fd38c88dc024cb2303cccf",
-  "status": "generated"
+  "user_composition_override": true
  }
 }

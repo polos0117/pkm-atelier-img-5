@@ -192,20 +192,31 @@
  "casual90": {
   "style_25d": {
    "verdict": "pass",
-   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+   "evidence": "Soft dimensional facial shading, coloured contours, luminous midtones and layered hair highlights."
   },
   "anatomy": {
    "tool": "unavailable: mediapipe not installed; manual visual review",
-   "verdict": "pass_with_occlusion",
-   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+   "verdict": "pass",
+   "evidence": "Both arms connect to shoulders; right hand grips lantern, complete left hand visible. No duplicated limbs."
   },
-  "exposure": {
-   "regenerated": false,
-   "note": "Retained successful output unchanged."
+  "user_revision": {
+   "completed": true,
+   "description": "Front-facing wider framing with both hands visible"
+  }
+ },
+ "casual7": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional facial shading, coloured contours, luminous midtones and layered hair highlights."
   },
-  "identity": {
-   "verdict": "consistent",
-   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_grip_occlusion",
+   "evidence": "Two connected arms and natural wrists; telescope grip partly hides fingers."
+  },
+  "user_revision": {
+   "completed": true,
+   "description": "New swimwear scene"
   }
  }
 }
