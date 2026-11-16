@@ -1,0 +1,87 @@
+{
+  "status": "generated_partial",
+  "images": [
+    {
+      "slot": "casual1",
+      "original_sha256": "d2cd94a6d2ffec31f0746f3914093c2a6b1d6ee06de93b417f49418504749bb5",
+      "output": "해너츠_anime_25d_gloss_f_casual1.webp",
+      "output_sha256": "d563bfff8136ad47630d9e235c995f15290bd69b5895317bfe372650e93333ae",
+      "reference": "light"
+    },
+    {
+      "slot": "casual2",
+      "original_sha256": "3ab3666cd363bb4148654b7b84af8374f3df3e97292686315c57a68c885b2447",
+      "output": "해너츠_anime_25d_gloss_f_casual2.webp",
+      "output_sha256": "d556395c2d53b7b8b3f02be287949988245b33e36cf463edfa19ced14b17d2b3",
+      "reference": "light"
+    },
+    {
+      "slot": "casual3",
+      "original_sha256": "35621525cb46f078a6078339cbe13f1b1734a1439e48cc253e228be4063e13c1",
+      "output": "해너츠_anime_25d_gloss_f_casual3.webp",
+      "output_sha256": "00fb1ab409125a2e57c6f5ea6f48c1662a89279c390245761545f727dc81fc9f",
+      "reference": "light"
+    },
+    {
+      "slot": "casual5",
+      "original_sha256": "b591ded968f8be50aa6f48c61877ac4b2e217067fe5fa469f8addad5f0924bf9",
+      "output": "해너츠_anime_25d_gloss_f_casual5.webp",
+      "output_sha256": "6aad28f36d117009f130a3ff98adc935820fd7bfd4af0028030cabcd17144a52",
+      "reference": "light"
+    },
+    {
+      "slot": "casual8",
+      "original_sha256": "6ee72dd15b938f65495abba6d3907e0b5182eb4b1505f5e07db396d098f5e826",
+      "output": "해너츠_anime_25d_gloss_f_casual8.webp",
+      "output_sha256": "49b126554d837b4107a41862869a6660ef73428fdb7556c55c83e1db955c9276",
+      "reference": "light"
+    },
+    {
+      "slot": "casual9",
+      "original_sha256": "9a9884254c5df490a27cc28a424c2078233301e6c0db0b8f5de5c361a27fe95d",
+      "output": "해너츠_anime_25d_gloss_f_casual9.webp",
+      "output_sha256": "3d5c3155b780b19b5217d2a9740a730d669ae6b965a3d80a51b2ab7f7dfc244e",
+      "reference": "light"
+    },
+    {
+      "slot": "light",
+      "original_sha256": "155f4621b72ed218cbe9f933c30bfe9fa1e8a89ccb3cc31b19147723cc9d41e3",
+      "output": "해너츠_light_anime_25d_gloss_f.webp",
+      "output_sha256": "3dc9f5965c29deacc8d34add24c053404c947ea533b7cfdc2b59846b564e9d3e",
+      "reference": null
+    },
+    {
+      "slot": "casual6",
+      "original_sha256": "27b1686fd5d53c76c8e55382db1c3039c22f89b0f6e1257b24c93dc4e5df67d9",
+      "output": "해너츠_anime_25d_gloss_f_casual6.webp",
+      "output_sha256": "8cc0c1f31e9eca4281ff1ad6192bc01beb4c8edb42780706c669c7367c598780",
+      "reference": "light"
+    },
+    {
+      "slot": "casual4",
+      "original_sha256": "98baa0d284d7e6f8630aa4c2ca8f23a94d81980148478f85fa7c4fe89b547c36",
+      "output": "해너츠_anime_25d_gloss_f_casual4.webp",
+      "output_sha256": "611d1b8d56a3b5ffb357bbd36dac37fc0d946d244880fd2129ef78e2f79f4146",
+      "reference": "light"
+    },
+    {
+      "slot": "casual7",
+      "original_sha256": "10a18472f6063b6e54137a1bc9e574120b5dfe3ed1226df972aa1b614a452985",
+      "output": "해너츠_anime_25d_gloss_f_casual7.webp",
+      "output_sha256": "245a3c0c79dc9cc0f62af4907024bacbc22074dac8ce611409c50332539eefc9",
+      "reference": "light"
+    },
+    {
+      "slot": "casual90",
+      "original_sha256": "80195a77974f841f2da8ce0e1000fb5c03d2de979ad6e7e3d15b8a29103623a4",
+      "output": "해너츠_anime_25d_gloss_f_casual90.webp",
+      "output_sha256": "6a916b62ff8530bb3e5c87eec348ad5c7216de5e2d373bf187915721cfddb8ae",
+      "reference": "light"
+    }
+  ],
+  "blocked": [
+    "casual10"
+  ],
+  "reference_selected": 2,
+  "publishing": "connected GitHub non-force fast-forward update; CLI push unavailable"
+}

@@ -1,0 +1,8 @@
+{
+  "slot": "casual10",
+  "stage": "output",
+  "error": "moderation_blocked",
+  "request_id": "298d384d-ccf4-4386-ac02-d3856e89ef68",
+  "retry": false,
+  "reason": "User prohibits regeneration for exposure censorship"
+}

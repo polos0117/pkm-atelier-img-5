@@ -1,0 +1,19 @@
+{
+  "card": "해너츠",
+  "selected": 2,
+  "received": {
+    "mecha": 1,
+    "casual": 10
+  },
+  "missing": [
+    "casual10"
+  ],
+  "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": "Reviewed all 11 received images in full contact sheet; visible arms and legs connect to matching shoulders and hips; no obvious extra limbs or detached hands. Hands outside the selected crop or fingers hidden by a grip were recorded as occluded, not counted as visible.",
+    "issues": []
+  },
+  "identity": "All casual images directly referenced selected mecha 2; face, golden spiky hair and amber eyes visually reviewed",
+  "regeneration": false,
+  "publication": "publish only received images; keep output-blocked casual10 absent"
+}
