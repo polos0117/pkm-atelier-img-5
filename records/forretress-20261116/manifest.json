@@ -1,0 +1,152 @@
+[
+  {
+    "slot": "light",
+    "file": "쏘콘_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "06031cd906280de64b971db6856d3388de560a29e046abf4dba9d23779885f11",
+    "sha256": "1e83fca84b2611682ae47e95e70ec25c79f890de15e9de64560c20c8c27d2299",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "gpt_free",
+      "free_prompt": "option4-submitted.txt"
+    }
+  },
+  {
+    "slot": "casual1",
+    "file": "쏘콘_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "95fbaef00b87afa7aca7675ec38f807da2d3bab5ca7dfb1344981059ba081cee",
+    "sha256": "60dd6044fc7fcda14f47660ef1336598fe793019178aa1731f084a238cd13455",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual2",
+    "file": "쏘콘_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "3e17c8ee4a5299edfb8dece56403da1d79b870e072e15c5321a4c2dc727d201b",
+    "sha256": "0613d5ab792ad8520ae6407189b5fdd0e26ccb1cf16bc8f649350371f6d3e03c",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual3",
+    "file": "쏘콘_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "d52d892f2b3e70d82b4fdc2cda2adecfb877abc3b41905527c6c4269dc48bd57",
+    "sha256": "a68f824e3a177b101e1c9abf79517b8f10fbb46a8e32dd1429009d8065bba37a",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual5",
+    "file": "쏘콘_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "c21e529a461806481e2f6d44a85d059396e37afedbe06ebb626353d9981dff9a",
+    "sha256": "62fdaaf2b0da146776e5930ce9bc946d6f754cd5f65abbcbc631470c737cc106",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual7",
+    "file": "쏘콘_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "270d8b14c6c47f524c6676ce3a6e13fe5155c9385eee89af14d903eac7d88bf1",
+    "sha256": "01b9e083d25faa1d714df9a6d736a03683d59e9024fd332356858f154bb9b537",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual8",
+    "file": "쏘콘_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "2e6cdb3dfac4e19396114dfc17b5ad50bf9f2f50e04b8e4fab2cba8bd1806734",
+    "sha256": "92815ec3d8d5aa143bb933bbe997b77b6b35bcb4360f32cb07eea2014c0ca026",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual9",
+    "file": "쏘콘_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "25c1a5e30922c5bd943e4c98f33464e7aad5091d020e1b11ef2da378cbf8c9a8",
+    "sha256": "4877f17b1054d33530f6e3636ee602f34b16b86521201196a323d6f85d15bb18",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual10",
+    "file": "쏘콘_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "90bb7b967d0d778a293ae18c0003106530696963cd56048572297f87b7ba1a36",
+    "sha256": "1a11749611c9031f8821fd681bd47c5f8a3df87510cb73320c4a890b0dfdd9a8",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  },
+  {
+    "slot": "casual90",
+    "file": "쏘콘_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "source_sha256": "f015c2492cdd66d26bf668594dcc1c30dbed11a829993a19d22f9251124ca905",
+    "sha256": "ab296eff95d98e5e7638522ae0ce1223b1790eeea37cfd059d9ea732c0f0637b",
+    "reference": "selected option 4",
+    "generation": {
+      "design": "planned",
+      "free_prompt": null
+    }
+  }
+]

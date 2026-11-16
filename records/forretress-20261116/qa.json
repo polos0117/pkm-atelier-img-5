@@ -1,0 +1,184 @@
+{
+  "light": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual1": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": "Far arm below crop; cosplay metal cuff retained."
+  },
+  "casual2": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual3": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual4": {
+    "status": "blocked",
+    "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID d940de24-d881-4ad8-8546-a7e7d4317a26. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+    "regenerated": false,
+    "reason": "User instructed no regeneration for exposure censorship."
+  },
+  "casual5": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual6": {
+    "status": "blocked",
+    "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 1b565fcc-eebc-406c-b737-fd1b67f1cae0. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+    "regenerated": false,
+    "reason": "User instructed no regeneration for exposure censorship."
+  },
+  "casual7": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual8": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual9": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": "Feet partly cropped by hammock and frame; recorded without regeneration."
+  },
+  "casual10": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": ""
+  },
+  "casual90": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "nose, lips and cheeks have soft dimensional shading; hair strands and fabric or plate materials are rendered."
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands connect to forearms; grasped fingers partly occluded; out-of-frame limbs follow crop",
+      "overlay_checked": false,
+      "note": "visual review; no duplicated limbs"
+    },
+    "note": "Packing tape action matches scene note; screwdriver wording not followed."
+  }
+}
