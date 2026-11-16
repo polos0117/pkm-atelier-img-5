@@ -1,0 +1,173 @@
+{
+  "card": "키링키",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "status": "complete: light + casual1-10 + casual90",
+  "files": [
+    {
+      "slot": "light",
+      "file": "키링키_light_anime_25d_gloss_f.webp",
+      "original_sha256": "c117c7aef8f41ce0a12b57e4b98473faf55beaf02c71d1c94c3a16aaa13f5b42",
+      "sha256": "f5afafc2404006a3f231cc74ee5c2e860aaff6a5a95daeb5d79294e78e9456f0",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 225580
+    },
+    {
+      "slot": "casual1",
+      "file": "키링키_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "66675579bb1ca3f776147cbbebf5e3340eb76a85d68ec757fe4a8db104ca9724",
+      "sha256": "ab1afa9218ddebd4a04747fe6912000be6c96b041dc2f022adf81115ebef1246",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 259582
+    },
+    {
+      "slot": "casual2",
+      "file": "키링키_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "bbfaf4a813a271bc12c809e1b2ff37d8ae70cc34b844381a75ef5eace48a5314",
+      "sha256": "2b7c65ef5b59fc56f75e0afcbfc220c5a2c945e6986225d537c8244360872d71",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 233432
+    },
+    {
+      "slot": "casual3",
+      "file": "키링키_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "3c2028eb4e895f35537216e95af56c95ffd79f14a625e6a88f86c2aecb02c872",
+      "sha256": "c43b4bb2bbe34fe5a3776430010fa9ebed738d97b0a64f593415d61126221a5d",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 238642
+    },
+    {
+      "slot": "casual4",
+      "file": "키링키_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "92fe4df4abfb1c9b1a9b373882b299fa4447b4c79ec481e8047ee1f89361e87e",
+      "sha256": "a8cf190c9ec51a2a06ff7788560546d9b261d961c74777827b9ab2c7741a89e4",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 239104
+    },
+    {
+      "slot": "casual5",
+      "file": "키링키_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "6184362ee2b7fa905974d916756a0e92a987523117580a4da4c971dc944c0183",
+      "sha256": "8119e3f6b78a4bbf808b837b789b925f44e3ca5a0cb543c3e5ef4253bdb09a2a",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 239986
+    },
+    {
+      "slot": "casual6",
+      "file": "키링키_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "bc3806fc7c49a4201140bdf9ca5d9a2d15705197c7be0d99862ab54ffa8d3c09",
+      "sha256": "793d56db20fb249cb1dee41a5497fb719700e332914e309a15c405cb2e88146e",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 256402
+    },
+    {
+      "slot": "casual7",
+      "file": "키링키_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "1e406d9e56e698e2614a9411adbc314fda6331e7a4741de76dc4ef422638f0e9",
+      "sha256": "92e06c4544e50f0da54ae669c9c2b774882d5484de7a88dcc89e699208eeefc7",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 177526
+    },
+    {
+      "slot": "casual8",
+      "file": "키링키_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "424ae55281f6695874d628d2d3fd8504d0543088c98edb6cf0bdf344501a5d21",
+      "sha256": "cd81e834c5dd3e90b231dd0b0cd590b0fdb8e62280b08d0e6eec0f86c18a4d20",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 228726
+    },
+    {
+      "slot": "casual9",
+      "file": "키링키_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "d975ccb08d25ec92fdfbf48248278dfa4f34c4fd6ed4cd231d0f8a3560816b81",
+      "sha256": "9ad6fc8ecf9927cbb1492e2ba776c98ac53066f7f8939b3ffb76005212d08ea9",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 151086
+    },
+    {
+      "slot": "casual10",
+      "file": "키링키_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "771d659775e47c31ece932e6a993fecb26b946c45f687ec43e0bcd4a20728050",
+      "sha256": "b48fb6c70492a5ef723081209a83b3db4c02828014c4b67fa187673df455d30d",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 249362
+    },
+    {
+      "slot": "casual90",
+      "file": "키링키_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "a15f472c72345a18f0a3087f386421e320c150bec808708c48a73d7cf75873ff",
+      "sha256": "5c6d853eac83454baf1b274a230756aecffa76f7d7ee4f240288c35948b4e8f5",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 211664
+    }
+  ],
+  "selection_originals": [
+    {
+      "number": 1,
+      "design": "generator",
+      "path": "/workspace/scratch/1c61ca779c80/generated_images/exec-e73b86a8-baf4-4cd5-8fd8-73d0cfb85fae.png",
+      "sha256": "c117c7aef8f41ce0a12b57e4b98473faf55beaf02c71d1c94c3a16aaa13f5b42"
+    },
+    {
+      "number": 2,
+      "design": "generator",
+      "path": "/workspace/scratch/1c61ca779c80/generated_images/exec-edd8e60b-6d58-4e49-b22f-09f38fef3844.png",
+      "sha256": "1582ebd1a0ffec4cbeca1b2352db3e1e088985045e8060a974747af3c111918e"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/1c61ca779c80/generated_images/exec-eed2444a-f96d-4405-bbbf-d2ebbbb8a027.png",
+      "sha256": "e46a31238f2248162122184a096507fcefdc293c643568c9afa17b66a3247b05"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "path": "/workspace/scratch/1c61ca779c80/generated_images/exec-8dc4328e-66d5-41dc-b200-2e4fa97af12e.png",
+      "sha256": "515e87cc548df6aa6462535092a3e6cdaed40de2d9519576d58fd12ee2b8e013"
+    }
+  ],
+  "submission_exceptions": {
+    "casual6": "FREE_SCENE sfree permits writing the SCENE; outside SCENE unchanged",
+    "casual7": "FREE_SCENE xfree permits writing the SCENE; outside SCENE unchanged",
+    "casual9": "OUTFIT_FREE permits replacing the Outfit line only"
+  },
+  "casual4_attempts": "First call returned no image; unchanged prompt retry returned one image; no existing image regenerated",
+  "publish_method": "GitHub API non-force fast-forward, shell git push authentication unavailable"
+}

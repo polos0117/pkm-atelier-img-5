@@ -1,0 +1,178 @@
+{
+ "light": [
+  {
+   "slot": "light",
+   "at": "2026-11-16T10:40:23.990Z",
+   "prompt_sha256": "be7040f72476bcb5e2b64a5716d12ee96c114dba720bf175c788ddccc3446991",
+   "submitted_sha256": "be7040f72476bcb5e2b64a5716d12ee96c114dba720bf175c788ddccc3446991",
+   "same": true,
+   "prompt_words": 925,
+   "submitted_words": 925,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual4": [
+  {
+   "slot": "casual4",
+   "at": "2026-11-16T11:22:05.792Z",
+   "prompt_sha256": "678639354cc5c69c6f6d2763409bd164ffc59688cb16b96f0c5e7f1d91aed156",
+   "submitted_sha256": "678639354cc5c69c6f6d2763409bd164ffc59688cb16b96f0c5e7f1d91aed156",
+   "same": true,
+   "prompt_words": 1104,
+   "submitted_words": 1104,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual2": [
+  {
+   "slot": "casual2",
+   "at": "2026-11-16T11:22:05.800Z",
+   "prompt_sha256": "5adfa70c8bfaa10e0361c6d693e07d643f1d1008b86c45c8a178ed8a94a83dfa",
+   "submitted_sha256": "5adfa70c8bfaa10e0361c6d693e07d643f1d1008b86c45c8a178ed8a94a83dfa",
+   "same": true,
+   "prompt_words": 1190,
+   "submitted_words": 1190,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual3": [
+  {
+   "slot": "casual3",
+   "at": "2026-11-16T11:22:05.802Z",
+   "prompt_sha256": "49cb4ed576a608ec76a07c80672246dc2ad79335235400fbaa9087563403c7a7",
+   "submitted_sha256": "49cb4ed576a608ec76a07c80672246dc2ad79335235400fbaa9087563403c7a7",
+   "same": true,
+   "prompt_words": 1051,
+   "submitted_words": 1051,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual1": [
+  {
+   "slot": "casual1",
+   "at": "2026-11-16T11:22:05.880Z",
+   "prompt_sha256": "ae051581d3aa5c3ad201181f709a4f2ffc55b7e3bf6f9358bf40a2275dee7cc0",
+   "submitted_sha256": "ae051581d3aa5c3ad201181f709a4f2ffc55b7e3bf6f9358bf40a2275dee7cc0",
+   "same": true,
+   "prompt_words": 1183,
+   "submitted_words": 1183,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual8": [
+  {
+   "slot": "casual8",
+   "at": "2026-11-16T11:25:35.760Z",
+   "prompt_sha256": "2edba88c00ffa9babc318d5a761a81c610b131def41fe7d4bca6ec28e46873e1",
+   "submitted_sha256": "2edba88c00ffa9babc318d5a761a81c610b131def41fe7d4bca6ec28e46873e1",
+   "same": true,
+   "prompt_words": 1159,
+   "submitted_words": 1159,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual7": [
+  {
+   "slot": "casual7",
+   "at": "2026-11-16T11:25:35.760Z",
+   "prompt_sha256": "6b933d0f9d9e08ae7f935b747dfa7cb1322aea4c31c1b7cb3e3e56dd50249110",
+   "submitted_sha256": "e7e210a3ade8f49b711ea7d78c0f643012252c7ce2841ef987ccc85644cfe7a8",
+   "same": false,
+   "prompt_words": 1171,
+   "submitted_words": 1062,
+   "style_kept": true,
+   "missing": [
+    "Free design — you design this scene yourself: the place, the activity, her pose, the composition and the outfit. Start from this character's own traits — her species, type and personality — and show one everyday moment that is unexpected, yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water.",
+    "Avoid scenes similar to our recent work: the other casual cuts in this pack (casual*-prompt.txt) and every cut you have drawn earlier in this session — choose a different kind of place, activity, pose and framing. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).",
+    "Outfit and situation (yours): choose ONE of our required categories — an adult role-play or event costume, swimwear, or a lingerie-style outfit — and create a revealing, fashionable outfit of that category for the moment you design: a figure-hugging cut with bare skin by design, styled with care. Before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it. Then add one momentary situation of your own invention that shows a little more of her — it must NOT be one of our situations listed at the end of outfit-catalog.md; keep it natural, with no wardrobe failure and no see-through fabric.",
+    "Keep every rule outside this SCENE exactly as written — her face (FACE), the style (STYLE) and the body rules (BODY TYPE, ANATOMY, BODY, HANDS) — and keep the expression and intensity lines below.",
+    "Write your own detailed image prompt from this brief — the whole scene in your own words — then draw it."
+   ],
+   "added": [
+    "Category: swimwear lifestyle. Place: an empty indoor training pool just before opening, pale aqua water, an unused diving starting block and soft window light. A small swimming balance board rests entirely on the dry pool deck.",
+    "Activity and moment: she is barefoot on the dry balance board, practicing a slow sideways balance stretch. Her weight stays over the board; her torso leans gently to her left while her head remains turned toward the camera. Both arms extend forward and outward at shoulder height, each naturally connected to its own shoulder, both open relaxed hands clearly visible, no objects held. The stretch opens the lateral cut-out on the far side of the suit more clearly to the camera; this is deliberate fitted construction, no clothing accident, displaced strap, wind, water splash or transparent fabric.",
+    "Outfit: an original fully lined matte coral swimming set whose supportive curved two-cup bodice joins a high-waisted opaque brief through two broad braided textile bridges at the front waist; the bridges form oval side windows, with a racer-style back yoke and small flat resin clasps. Fitted secure swimsuit coverage of chest and pelvis, bare shoulders, side waist and legs. No armor or creature patterns. One tiny golden paired-dot hair clip is her sole species accessory.",
+    "Composition: full body, a gentle frontal three-quarter angle at chest-height camera, her face and both hands readable, feet and dry board fully visible. Quiet spring morning, diffuse light and gentle water caustics on the walls. Her eyelids are softly lowered and her lips relaxed as she concentrates on a slow breath."
+   ]
+  }
+ ],
+ "casual5": [
+  {
+   "slot": "casual5",
+   "at": "2026-11-16T11:25:35.773Z",
+   "prompt_sha256": "3b08e096e888fff8cd837b4faa2a2287263fc82e2af90f07252dd184e85d794e",
+   "submitted_sha256": "3b08e096e888fff8cd837b4faa2a2287263fc82e2af90f07252dd184e85d794e",
+   "same": true,
+   "prompt_words": 1059,
+   "submitted_words": 1059,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual6": [
+  {
+   "slot": "casual6",
+   "at": "2026-11-16T11:25:35.883Z",
+   "prompt_sha256": "12621b535627bd2f3c5d35d5d56c078e5c040ffb75de02b12b2c61def20f2611",
+   "submitted_sha256": "11d6e417bce7e1d6b1fddfee59ccbe74f6595fffa8edaeca22b6b7d9da7bdf7a",
+   "same": false,
+   "prompt_words": 1139,
+   "submitted_words": 1059,
+   "style_kept": true,
+   "missing": [
+    "Free design — you design this scene yourself: the place, the activity, her pose, the composition and the outfit. Start from this character's own traits — her species, type and personality — and show one everyday moment that is unexpected, yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water.",
+    "Avoid scenes similar to our recent work: the other casual cuts in this pack (casual*-prompt.txt) and every cut you have drawn earlier in this session — choose a different kind of place, activity, pose and framing. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).",
+    "Outfit (yours): create a revealing, fashionable outfit for the moment you design, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. Before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it.",
+    "Keep every rule outside this SCENE exactly as written — her face (FACE), the style (STYLE) and the body rules (BODY TYPE, ANATOMY, BODY, HANDS) — and keep the expression and intensity lines below.",
+    "Write your own detailed image prompt from this brief — the whole scene in your own words — then draw it."
+   ],
+   "added": [
+    "Place: the open passenger deck of a small river ferry, with rippling water, a low wooden bench and sunlit riverbanks beyond. She is taking an unhurried ride after buying a two-flavour shaved-ice cup, amused by the two halves melting at different speeds.",
+    "Activity and pose: she sits diagonally on the bench with her knees together and both feet on the dry deck. Her left arm comes forward from her left shoulder; her left hand holds the single dessert cup at waist level. Her right arm bends naturally from her right shoulder; her right hand holds one short wooden spoon just above the cup. Each hand has one job. She turns her face toward the camera and laughs.",
+    "Outfit: a fitted sea-glass blue stretch-cotton playsuit with a plunging folded petal neckline, bare shoulders, a single continuous spiral seam wrapping the waist into an asymmetric rounded hem over fitted opaque shorts, and a tiny carved wooden clasp at one hip. The spiral cut leaves one crescent of waist bare; the bodice, chest and pelvis remain securely covered, opaque and lined. Flat cork sandals. This is relaxed contemporary clothing, with no creature palette or armor. A small paired-bead pendant is the sole species motif.",
+    "Composition: a knee-up three-quarter view from seated eye height, showing her face, both arms and the cup clearly. Warm midday light, soft river reflections, a distant shoreline; no other passengers visible."
+   ]
+  }
+ ],
+ "casual10": [
+  {
+   "slot": "casual10",
+   "at": "2026-11-16T11:27:45.519Z",
+   "prompt_sha256": "defaa892c202f5b8c2c9a3e69091b554c063368074ed5d126338381b3182a4c4",
+   "submitted_sha256": "defaa892c202f5b8c2c9a3e69091b554c063368074ed5d126338381b3182a4c4",
+   "same": true,
+   "prompt_words": 1107,
+   "submitted_words": 1107,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual90": [
+  {
+   "slot": "casual90",
+   "at": "2026-11-16T11:27:45.553Z",
+   "prompt_sha256": "e860250e4d52748374de05ec884df781fa80a0f9999aff374914f6cfe3fb6ed3",
+   "submitted_sha256": "e860250e4d52748374de05ec884df781fa80a0f9999aff374914f6cfe3fb6ed3",
+   "same": true,
+   "prompt_words": 1147,
+   "submitted_words": 1147,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ]
+}

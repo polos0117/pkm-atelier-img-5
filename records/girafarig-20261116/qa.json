@@ -1,0 +1,28 @@
+{
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "method": "visual review of all twelve generated images",
+    "verdict": "pass with composition notes"
+  },
+  "style_25d": {
+    "verdict": "pass",
+    "evidence": "All faces retain fine coloured contours and blended nose, cheek, lips and chin shading; glossy skin highlights stay distinct from the fabric weave, leather and metal reflections."
+  },
+  "reference": "selected option 1 only for every casual call",
+  "notes": {
+    "light": "Full body, both hands connected naturally; warm dimensional face and hard plate reflections.",
+    "casual1": "Near arm reaches to phone; far shoulder descends beyond crop. Neon light, ivory maid costume.",
+    "casual2": "Single hand to lips within close crop; shoulders continue beyond frame. Pink halter, evening cycling road.",
+    "casual3": "Seated with both hands attached to matching forearms; crossed ankles. Red Claire-inspired event costume; blurred background visitors noted.",
+    "casual4": "Side-facing seated figure, one hand on knee and other on rug; bent legs coherent. Silver fashion negligee; profile and distant face noted.",
+    "casual5": "Both arms visible with book and hand on lap; two legs and feet coherent. Balcony swimwear.",
+    "casual6": "One hand holds spoon, the other holds dessert cup; shoulders and wrists match. River ferry and blue spiral playsuit, laughing expression.",
+    "casual7": "Both outstretched arms and five fingers on each open hand; two legs, feet on dry board. Coral swimming set.",
+    "casual8": "Costume-only species colours; visible arm and wrist coherent, second hand continues below crop. Laughing roof event portrait.",
+    "casual9": "Bust-up portrait, shoulders and arms continue naturally below frame; wink. Ink-blue top in museum.",
+    "casual10": "Crouched legs and two hands on knees correctly attached. Black retro swimsuit at track; bag and glasses noted.",
+    "casual90": "One hand holds cup, the other braces on counter; both forearms match shoulders. Lodge concessions workwear."
+  },
+  "original_images_regenerated": false,
+  "diversity": "Distinct bus shelter selfie, cycling road closeup, convention chair cosplay, retro home floor, balcony reading, ferry dessert, pool balance practice, rooftop costume, museum portrait, track crouch and lodge counter work."
+}
