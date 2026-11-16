@@ -174,5 +174,21 @@
     "source_sha256": "2cbe1edfda4312bc506627c12cba92feee50d83e2da5fe5785dcf77fa3489e0b",
     "submitted_sha256": "9b3d94aa4ce1936489122f78cc60dfae91b63d7df262205b910a8a247bc53bdd",
     "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual4",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual4.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "af0c13f766d725312aaed2a4165a7e2f16afa27654e8ed9af0fd46e40b1fb0cd",
+    "source_sha256": "64dcc078f2f5e4eb0088246b3a5d57042232897c03ccd12d137604c59d4e3030",
+    "submitted_sha256": "7ef0945449f3ed16a1a8b4a53b74341572a7de03f0dd97a6ccfcb99a912617fa",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
   }
 ]

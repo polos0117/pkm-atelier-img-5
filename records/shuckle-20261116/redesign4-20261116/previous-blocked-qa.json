@@ -1,0 +1,8 @@
+{
+  "status": "blocked",
+  "attempts": 1,
+  "request_id": "39c1a4e0-1360-46c4-b976-4010092fb505",
+  "reason": "Image tool output moderation: sexual",
+  "regenerated": false,
+  "note": "No output file returned; no retry per user instruction."
+}

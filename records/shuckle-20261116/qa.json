@@ -187,11 +187,27 @@
     "note": "Two shoulders and upper arms connected. Jar hand shows four fingers; thumb hidden by jar. Other arm extends beyond lower frame, legs outside crop. Jam workshop, checked apron, kerchief and jam jar clearly present."
   },
   "casual4": {
-    "status": "blocked",
-    "attempts": 1,
-    "request_id": "39c1a4e0-1360-46c4-b976-4010092fb505",
-    "reason": "Image tool output moderation: sexual",
-    "regenerated": false,
-    "note": "No output file returned; no retry per user instruction."
+    "status": "generated",
+    "previous_attempt": {
+      "status": "blocked",
+      "attempts": 1,
+      "request_id": "39c1a4e0-1360-46c4-b976-4010092fb505",
+      "reason": "Image tool output moderation: sexual",
+      "regenerated": false,
+      "note": "No output file returned; no retry per user instruction."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connect through natural wrists and forearms to matching shoulders. Map grip partly hides thumbs and some fingertips; no extra or detached hands observed. Both legs and boots visible.",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Blended nose, cheek and lip shading, layered hair highlights, cloth seams and folds."
+    },
+    "note": "Botanical maze, folded map, navy sleeveless playsuit and ivory collar match redesign. Face and hair match selected mecha3."
   }
 }
