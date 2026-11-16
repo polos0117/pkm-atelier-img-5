@@ -1,0 +1,123 @@
+[
+  {
+    "slot": "light",
+    "file": "블루_light_anime_25d_gloss_f.webp",
+    "original_sha256": "5b85a81ca87b0ced67498c144781fd927a798bd8ec85326180eef96d8fb4b515",
+    "webp_sha256": "d5eb761da35ad044e448915cd894195f18597b39803d945ca6ab0cca08841cdb",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "ea5a9e709967e28dc7b27ba9a167c26e0b881b79e3eb944a862e1f47f3d74d5f"
+  },
+  {
+    "slot": "casual1",
+    "file": "블루_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "c0c51643e1e34d9739692c232ced33811d5c4b67cf7d5830a9a732360c5cc0ad",
+    "webp_sha256": "41935f8b1e2d6cc5c2df00e10b04560de79596a4a9f15e18a2ec200264a269e7",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "b6385b9c28002cbe6ff65f9198e4a95d63c8da7d66b633e8368232a163af610d"
+  },
+  {
+    "slot": "casual2",
+    "file": "블루_anime_25d_gloss_f_casual2.webp",
+    "original_sha256": "f89c98fd54542a4a383bb19953eda4efd1fef64e1a1bad40c06fc34eeea01adb",
+    "webp_sha256": "c1ef782363b2cb1719aafe6423a483e29785603bed3dfd349671d682db32dd4e",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "67778bc21d543177eae3f4e7e388bc86108d245a3c7d12b7a6ebdfedd0d32177"
+  },
+  {
+    "slot": "casual3",
+    "file": "블루_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "56a6e8dd9eaea3c471b50828c8254514aa433d29a4cfa884391c41911e39fd23",
+    "webp_sha256": "2cd58fc2640ada397e10d9a05f9e8f1804164695aa1d5cfacf3abf64e7a3aeb5",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "cd45ef82b3599ffc35deff894d5127ef9402beb7f93f04531da5af6c6b7913b2"
+  },
+  {
+    "slot": "casual5",
+    "file": "블루_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "dda69eb03f940d9a5b32bccb28a614bd1a7e1eab35906f9c887eae0ff38172ac",
+    "webp_sha256": "e7a9764b5c37b7f66462eb9fd2cbb57c9af1c4c4e42472662d9d971712a89e00",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "f247233a104b8d243196dcb875a011c4e696046ae6c81ac2387537ffad563689"
+  },
+  {
+    "slot": "casual6",
+    "file": "블루_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "02ef3e9d1a64b43cceae5ab698f910516a32b465425f5e248d934241d9975e95",
+    "webp_sha256": "c8431ad160612b0bb7e77916b6d7bd104406228095da05e6955bd8f01c5d4d94",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "54368b3ff0e228cd517a97f854e7001909831a6fc190356c32db74158761871e"
+  },
+  {
+    "slot": "casual7",
+    "file": "블루_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "c2fdc83eed961ffab798405e5e93036ba70fd37fdee73459fb244b9d66b49adf",
+    "webp_sha256": "2002551a98cef23403e7400d66f6f22bb383968e52bbbf4a64ae4f286c168409",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "bb6575b881029345aaa88c116de5a2d1e5b378c45021bfc2d73a9fc41d79aefd"
+  },
+  {
+    "slot": "casual8",
+    "file": "블루_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "fe021a9856aad1a352a40311231eea145e52d095ab1d58e83bb5361d18330307",
+    "webp_sha256": "7d7be1efa3efd4b30d1e9c4fced2f82f046637db84350127b4db7b3248adb380",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "9d61863de0b04c1d455500f2d3b992a26c284c1bcc3f2a3bd07483de7c3ffd5e"
+  },
+  {
+    "slot": "casual9",
+    "file": "블루_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "11b3e0793ab97c6f64063e3786a575409fd01e172287fa2050ad04a3d113bba3",
+    "webp_sha256": "55f9fe5e106b335e2d11c18d0523b6ad9877fa07857bd52dc26ca1cdddaa5476",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "6ed705e4f21e5541f2759401eeb1fc551382d00bbb99e149e0247b1a03325f48"
+  },
+  {
+    "slot": "casual10",
+    "file": "블루_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "7702f9734775e70072d6560e774e983865e058fd49282940ac5261593b9fdbb2",
+    "webp_sha256": "0901be0a0423987c66edb57b5e00f2dcabc1fb0a434b3567bcccc2f0c2c94e8a",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "514d6d293e68c1b9136bfcd3c6a5857045e013386be69ba07fc99203973705a1"
+  },
+  {
+    "slot": "casual90",
+    "file": "블루_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "2b9a8d22f2678df3f63b3e4b5d91cb0d516502b59b1f7ed5b49b78cd32716951",
+    "webp_sha256": "a931a350c73cf6953d6662ca1bf323b23f86bb62f37651b1ec49ae95ee33e533",
+    "size": [
+      1024,
+      1536
+    ],
+    "submitted_sha256": "daf2f09fc33f807f0ec20a9636a17ec22f22f801f4a7efc8f7e343302c2c4b51"
+  }
+]

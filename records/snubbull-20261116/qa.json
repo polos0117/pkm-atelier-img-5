@@ -1,0 +1,117 @@
+{
+  "card": "블루",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "review": "visual review of each returned image; occluded fingers are not claimed as counted"
+  },
+  "slots": {
+    "light": {
+      "status": "generated",
+      "anatomy": "Selected candidate 2. Standing mecha, one open hand and one loose fist; no visibly duplicated limbs.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual1": {
+      "status": "generated",
+      "anatomy": "Rooftop telescope and chart, two separate hands; the telescope grip partly hides fingers. Head and body connected naturally.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual2": {
+      "status": "generated",
+      "anatomy": "Chapel bouquet held by two overlapping gloved hands. Complete body, two legs, profile face as planned.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual3": {
+      "status": "generated",
+      "anatomy": "Cup held by both hands; visible fingers wrap the cup and others are occluded. No detached hand.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual5": {
+      "status": "generated",
+      "anatomy": "Close-up, right fingertips on cheek; left arm extends outside crop. Face and pink curls preserved.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual6": {
+      "status": "generated",
+      "anatomy": "Right thumbs-up and left hand on hip. Visible fingers and wrists connect to their corresponding arms.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual7": {
+      "status": "generated",
+      "anatomy": "One knee down, one foot planted, right hand on brush and left hand on floor. Both arms and legs visibly connected.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual8": {
+      "status": "generated",
+      "anatomy": "Arms folded across chest, hands partly occluded by opposite sleeves. No extra arm; cosplay crop is chest-up as planned.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual9": {
+      "status": "generated",
+      "anatomy": "Seated ferry scene, right hand holds mirror and left palm rests on bench; two legs and feet visible.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual10": {
+      "status": "generated",
+      "anatomy": "Riverside walking scene, both arms down, hands relaxed; legs partly outside planned crop.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual90": {
+      "status": "generated",
+      "anatomy": "Toy shop apprentice holds plush in right hand, left hand rests on knee; two crossed legs naturally connected.",
+      "exposure": {
+        "status": "match",
+        "evidence": "Designed neckline and exposed skin visible; clothing retains intimate coverage."
+      },
+      "minor_notes": "Some hair ribbons or small species accessories remain; preserved without regeneration."
+    },
+    "casual4": {
+      "status": "blocked",
+      "reason": "image tool output moderation; no image returned",
+      "request_id": "337ee400-0e9d-4d2c-b894-cc02d1e18467",
+      "retried": false,
+      "user_rule": "Do not regenerate for exposure moderation."
+    }
+  }
+}
