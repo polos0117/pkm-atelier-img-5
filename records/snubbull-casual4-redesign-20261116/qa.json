@@ -1,0 +1,16 @@
+{
+  "slot": "casual4",
+  "status": "generated",
+  "size": [
+    1024,
+    1536
+  ],
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "visual": "One head, two connected arms, two legs; both hands grip a folder naturally, some fingers occluded by the grip. Full figure and feet in frame."
+  },
+  "identity": "Same pink curls, straight bangs, rose eyes and face as selected candidate 2.",
+  "redesign": "New opaque polka-dot dress, exhibition foyer, standing full-body eye-level pose with folder.",
+  "original_sha256": "55f7b47d1d91b3f949e76cffade0765d076f322301b04d7ffd39869c50ebcdbd",
+  "webp_sha256": "6623920f5b2c82e7b8ff5b783a4945765fbeead14b21c68128d7c424532f7cf2"
+}
