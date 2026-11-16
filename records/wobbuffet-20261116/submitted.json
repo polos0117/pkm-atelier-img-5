@@ -1,0 +1,11 @@
+{
+  "light": [
+    {
+      "submitted_sha256": "0ef6e8cc206cefbf03bd1249802a1f09a7fbef1cedf2202b0a5e3a8b7f39de73",
+      "same": true,
+      "design": "gpt_free",
+      "candidate": 3,
+      "prompt_source": "light-free.txt"
+    }
+  ]
+}

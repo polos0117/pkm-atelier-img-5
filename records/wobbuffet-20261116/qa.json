@@ -1,0 +1,182 @@
+{
+  "light": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two arms and legs; gloved fingers partially flexed; both hands attached naturally.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual1": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Raised arm bends behind head; its hand partly hidden by hair. Other hand grips book; thumb partly occluded. Two legs and feet connected.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual2": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms connected; glass-gripping fingers partly occluded. Lower body outside crop.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual3": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Close view: visible arm connects shoulder to cheek-touching hand; other arm continues beyond crop. Legs outside crop.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual4": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two clear arms each holding one cape edge; five fingers per hand with grip occlusion. Two skated legs.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual5": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two arms: pouch held at waist, snack held near mouth. Finger tips partly hidden by objects. Two legs.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual6": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two hands resting on hip and thigh, fingers naturally grouped. Two legs, bent knee joins naturally.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual7": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands relaxed beside body with five digits; two legs, raised foot partly behind standing leg.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual8": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand supports cheek and other braces on floor; five fingers, some occluded in cheek hand. Two bent legs.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual9": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both gloved hands linked to forearms. Kneeling legs connect naturally; rear foot partly hidden.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual10": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands brace on ledge, five digits, thumb partly occluded at ledge. Two knees and sandal-clad feet.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  },
+  "casual90": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Soft dimensional skin and facial shading; blended midtones, strand rendering and material-specific highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Flashlight grip hides portions of digits; resting hand has five fingers. Two crossed legs, feet outside crop.",
+      "overlay_checked": false,
+      "note": "Reviewed generated original at full resolution; occluded or cropped digits are not counted as missing."
+    }
+  }
+}

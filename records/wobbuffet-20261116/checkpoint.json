@@ -1,0 +1,209 @@
+{
+  "card": "마자용",
+  "no": 202,
+  "style": "anime_25d_gloss",
+  "stage": "generated_reviewed",
+  "code_worktree": "/workspace/scratch/386fe05a3422/wobbuffet",
+  "branch": "work/wobbuffet-20261116",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "project",
+      "submitted_file": "candidate-1-submitted.txt",
+      "sha256": "a84804ae555dd948ddc7006cee8a07104fd0d4281ffd0c379043d74d12ac52b1",
+      "image": "/workspace/scratch/386fe05a3422/generated_images/exec-8901e21e-377b-4533-8c2f-20906d5860a9.png",
+      "image_sha256": "8009c96909a3a0c9b90327cb554d08086c6a1a0fe6d697ee551d9978f6f0eb13",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "submitted_file": "candidate-2-submitted.txt",
+      "sha256": "a84804ae555dd948ddc7006cee8a07104fd0d4281ffd0c379043d74d12ac52b1",
+      "image": "/workspace/scratch/386fe05a3422/generated_images/exec-42469e0a-dca7-4c8c-ae4d-1220a7c396b4.png",
+      "image_sha256": "278714c37b82f1e6dc2c05cbeba918e5eab12db26b170efaba523fa0acdaaecc",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "submitted_file": "candidate-3-submitted.txt",
+      "sha256": "0ef6e8cc206cefbf03bd1249802a1f09a7fbef1cedf2202b0a5e3a8b7f39de73",
+      "image": "/workspace/scratch/386fe05a3422/generated_images/exec-8a731c12-0888-42bf-8f28-c49fca89ac79.png",
+      "image_sha256": "3e91d3bf4b6df012b0c5447a058b1912b23439b79acf2486aa5fcc87a88d38e8",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "submitted_file": "candidate-4-submitted.txt",
+      "sha256": "0ef6e8cc206cefbf03bd1249802a1f09a7fbef1cedf2202b0a5e3a8b7f39de73",
+      "image": "/workspace/scratch/386fe05a3422/generated_images/exec-06b8a102-d12e-4091-a6ba-b15f04d5044a.png",
+      "image_sha256": "64d2525d29f384c56d717bc53127708165b4dbb8cf8c8ebe54567730ccdc3d4d",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "await_user_selection": true,
+  "no_exposure_regeneration": true,
+  "sheet": "/workspace/scratch/386fe05a3422/wobbuffet-selection-sheet.png",
+  "selected": 3,
+  "reference": "/workspace/scratch/386fe05a3422/generated_images/exec-8a731c12-0888-42bf-8f28-c49fca89ac79.png",
+  "slots": [
+    {
+      "slot": "light",
+      "file": "img/마자용_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "3e91d3bf4b6df012b0c5447a058b1912b23439b79acf2486aa5fcc87a88d38e8",
+      "sha256": "9cb99c2f2f12d09e2ee2c6322a53332c671c304cf4f6c1f6b3e9eb86a7032e64",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual1",
+      "file": "img/마자용_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "6145e5d32d83e3cd60212c4689071b173231bc78f8b999aae25ad3c4e2d8bf78",
+      "sha256": "76a69bccc0e4416cd8d0f6173e976a62174960802b0278f70092d27125502462",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual2",
+      "file": "img/마자용_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "f8d9d864d09988f8a282370ab16c9db01812212640cf5142c4dde9f9dbe58b9a",
+      "sha256": "413d49d1bfe575f1783ec331b4b70485b95987da944e6d8202416fd9d1f436e1",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual3",
+      "file": "img/마자용_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "78d2b9c093aef3cf575dd35317723460bf2f609c735d7ec651faa005d7860114",
+      "sha256": "2f0ad11e2b69cbc69b73f078a38b385e111c850c3383415e954d0b26e36b17c0",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual4",
+      "file": "img/마자용_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "3d1368205049ca64a986bf52603e1fb1c9e38db5460a7f69ac5f0de44e1350b8",
+      "sha256": "d2e786436ecfad23c8beb3c54a1610384dd0d41403aae66083b8685895da58fb",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual5",
+      "file": "img/마자용_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "6629e717750fd1429052376dac2d5e8a1558567722a3e56351967ad9c5de814c",
+      "sha256": "842c66ea2427fcb31d774c797ce802e10f7964eaf5cc5a79f793751581867135",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual6",
+      "file": "img/마자용_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "e2254b7902346482ff86b3dc9125c7daa0f75909b32b92f6df03a5c8739c77ef",
+      "sha256": "1b849c50b02923ca3de5d8c078c7cd44cf1a62506547834a258549c3f61a0067",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual7",
+      "file": "img/마자용_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "371cba47bc4583b7bf3657c6fe312edb4a2d808aa8faa9c4e5ccfe7d74e20e9e",
+      "sha256": "4fbc114d775f3aebcfc9f4817a1f634df106325ba3d2a96536e4d609c81a17bd",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual8",
+      "file": "img/마자용_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "5a4a78fe5e006d939d064e4070d4233a6aa8272b9d2820fff0a0e779f1d9f1fd",
+      "sha256": "3ed9f5eae3701f8811c52421ca8a3f2c08d3711381f188c5fef5b2524fca2e79",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual9",
+      "file": "img/마자용_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "f3c8128f66da1256d898d6a6b31102cadcfe5860cbc0734ea22fd1b9a2bd163a",
+      "sha256": "eafeb17354b66f329c54ed46560532095e3a56015df74b0d369ef2654e68d09a",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual10",
+      "file": "img/마자용_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "5ea4a1e30be4f1e3c11e949ccb4eb5675e45fdf245db82c64bb8d8f2d147b512",
+      "sha256": "a6cd58a4a8b113a9b6339e4fa596998bec2b8edfb1b01722bd611c009a5cd48d",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    },
+    {
+      "slot": "casual90",
+      "file": "img/마자용_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "485eba1c0f2d8b8d0f8480daf3a94415648e8635e6631ace089e91ec8210cad4",
+      "sha256": "9b549c22316ba4bda5bd66ba0234ac5c9a697df9df58c4ff7e20d262f5692f6a",
+      "shard": 4,
+      "reference": "selected mecha candidate 3"
+    }
+  ]
+}
