@@ -1,0 +1,265 @@
+{
+ "selected_design": 1,
+ "rows": [
+  {
+   "slot": "light",
+   "status": "complete",
+   "file": "피콘_light_anime_25d_gloss_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "1f5d6d59f68f2cf4985627763458c50310594650f603130c4b45d3bd97f58f71",
+   "webp_sha256": "ccc03a51836c00fef832e8581b0a8d7354a01f5f4d33c2d84f0b3b7f2f26acb4",
+   "submitted_sha256": "be46a96a8388eb2353d2838f6f8fea4fa095ab545529b98f0bb8ab7434e01d07",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual1",
+   "status": "blocked",
+   "attempts": 1,
+   "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID ff78a389-9137-4c43-9a7a-a27bab86157e. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+   "regenerated": false
+  },
+  {
+   "slot": "casual2",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "80309a0b0209ff025d2fb0cff325824db4f41425f3f15c35653b7ec490e3a72e",
+   "webp_sha256": "c0440bed8a796cc90028b3bac75e7bfb92d0c1019a44c907dfd3627bd6f71caf",
+   "submitted_sha256": "fec619336bc50c58218bf1f6cd5c760c30c17b32e65b802b9d042d21198d3891",
+   "submitted_same": false,
+   "design": "gpt_free",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual3",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "85bf21adb169e555c3988b1e1d849685da6eac5995fac7f2aad786d29708e341",
+   "webp_sha256": "8a6382effa3ce8f330a095dc3652d0d9578422916cb6ad1fc8d31d7f77d44ee1",
+   "submitted_sha256": "01530caacc0ab484eb7aa6b5541310996c9a5e0dedd140d26fbc5f3b668d6a1b",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual4",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "2358f3978c1eb86cb49a1dc08357ae6fa205cae0af347669108f2a1f0455bf8f",
+   "webp_sha256": "605eee5d31b38772ba572dd504f1155b558816fff2c28e4cf0baa949522d2c64",
+   "submitted_sha256": "9e53bd395061a84aa21d0aa68cb3204f828487315cf998c3957cc963845ab9bd",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual5",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "6efcd5bdaf14776b30fceb10e0cc8e75bbfe3ced6446a0175904187f09e51ebe",
+   "webp_sha256": "bb9ed986d2837db4b31445639c53b89e79e5f9a06520b0fd7b1fec5370625a8d",
+   "submitted_sha256": "ee00c889fa3700f3bfe8b5947338814fb5530a2d3f7562b2499357a0a164711e",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual6",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "2670841fcc841406625e8c7c1b769c62db1346539f5a2b275c73164191de8e74",
+   "webp_sha256": "fa1d567a1771748883b09829c91f20f110b5dbb4cfdabd0bcfdb8b786796dff9",
+   "submitted_sha256": "3a8f90f6ffee6569b919d7a808650928493b4b823a972d7c4aeea648dd89d4fc",
+   "submitted_same": false,
+   "design": "gpt_free",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual7",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual7.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "3f53f32d3815c8e9036153cc866f12b9d6496738a06ed19ae04f8429c8c19176",
+   "webp_sha256": "fb1151425c0cf0e0836cdd015730fc971951f1665be5e3edf99cc30717754613",
+   "submitted_sha256": "12ac2802428ee302e3a8ca8010c54f481afed3d3fd92b50ccd708688cf799bba",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual8",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual8.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "cbc95dc7dfc32eb32c377572c28e7c6bd9e096abd058e5487290d55bb7505685",
+   "webp_sha256": "baaf76f3a3e2fc38b643c430a3ae20ce23d9264b7740c4d6784d83b857fe881c",
+   "submitted_sha256": "573e0927529a3d19cb7910268c15d56e1c3f0aac8b9786077e45df4ceb0ded84",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual9",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual9.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "8fa237851a65076121898f0ce16da72b86ba92eacfce26a5271a6199c4901619",
+   "webp_sha256": "a4c00d1e8aee7151ef7d8da489d7c6e2e5ef4465439ab5093411a2a83a238dc1",
+   "submitted_sha256": "a6a2e27e252aaf3761e0a394c81ccbee7a75a915a9a874b6c4b39b657e4b0fba",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual10",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual10.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "cfdbdcdca3eed2c9c2d1a7621d5647604a4695271e8ef7d4d81c3bc99eac3e29",
+   "webp_sha256": "45e29631a5cd6388124d7d2a58587184afda15ed4f0a14eee4ef428031332e13",
+   "submitted_sha256": "f1c639df09fa23459480b734f7315ce4b1c89a0d93ec0293486e09db683e304b",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  },
+  {
+   "slot": "casual90",
+   "status": "complete",
+   "file": "피콘_anime_25d_gloss_f_casual90.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "a070f4055400589367d66905ae46fd6eada484cea465ba110aee2627de130ba7",
+   "webp_sha256": "572a0cb47854053dbfd493a35c8207b0678b6ef815f529de8b0f12a172e2ea53",
+   "submitted_sha256": "a7311fa475893fe2d1ac09a454eafef4bd6bccf0bbc686baf382f593ea2ea0ea",
+   "submitted_same": true,
+   "design": "atelier",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "overlay_checked": false,
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Visible hands remain attached through wrists and forearms; occluded fingers are not counted as missing.",
+    "note": "Visual review: no duplicated or detached limbs observed."
+   }
+  }
+ ]
+}
