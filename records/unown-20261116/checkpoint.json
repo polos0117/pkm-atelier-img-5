@@ -1,0 +1,113 @@
+{
+  "card": "안농",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "status": "partial: blocked casual1,5,6",
+  "files": [
+    {
+      "slot": "light",
+      "file": "안농_light_anime_25d_gloss_f.webp",
+      "original_sha256": "e5931d430a5a2b4fd8edf74205d3923c6774944d71d759ca9f5dc6d7bfd3fa42",
+      "sha256": "c4819c4329b53cad4a134d67f9d23ab5d7905dc8085aff2e24394df52bea3b79",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 269458
+    },
+    {
+      "slot": "casual2",
+      "file": "안농_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "c9e8161de9a0b619c5f1ed72ad61c59826fe3c52650a3cbfda4218ca1194917e",
+      "sha256": "4eea625a740a9292995360d495ce21f903d8b7bd425aecb0748c7fefe7f4ba93",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 207716
+    },
+    {
+      "slot": "casual3",
+      "file": "안농_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "0b6effcfc1d9f496531faa7d728ace27ce0286b8f7af2231a153a69d3d85152f",
+      "sha256": "c4c29f6eeb290137c3ee125e702437aa5184d8dd5e1d94f9f5970e2193b074b4",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 238886
+    },
+    {
+      "slot": "casual4",
+      "file": "안농_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "18d38999a015412ab3753c92364e1ba757f8b87ad7d66c2d9e9f6fb1693dd858",
+      "sha256": "0bf140c45bbc3b3535581907568387b78cf0404a3acfbd3d2abf4746fe8aac33",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 215894
+    },
+    {
+      "slot": "casual7",
+      "file": "안농_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "154e391d6850ed663ad0b0e677a634af8baa91cdfe5cfe4d8aca5670f06db6bc",
+      "sha256": "1449e5481d91c9778a467758bfdb58e8d8421249df493025b11b519e0660e8bb",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 228238
+    },
+    {
+      "slot": "casual8",
+      "file": "안농_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "4861b0f8731c1e4b7ebb978941da052a200edea8397447bc4af217e8d00e4a2e",
+      "sha256": "2399cbcedf16efc1de6fb2690bdc83d0fc5d3b8e835849d8d42ae016fb633c62",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 309212
+    },
+    {
+      "slot": "casual9",
+      "file": "안농_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "c51585d137067cb1ef45ea722f7d11a043e63d4f53093ad2e04eb33c8f40712f",
+      "sha256": "46e442a6f0570aaaf74a3e707966ec518f355307b8e055ab6921897fbbe8b8f5",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 282956
+    },
+    {
+      "slot": "casual10",
+      "file": "안농_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "4f755cc952ed18d7c6c67b4424c2424f437eeeea338682e3f9fdb0a0137f4bc3",
+      "sha256": "e027e04c4343c921cb74fa890c1584657c58ff5e6b51a6a2f4d03e3200a6a163",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 212802
+    },
+    {
+      "slot": "casual90",
+      "file": "안농_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "52b8a15ab2cf3b2703a91e64b2b57f8d303b125f35192a5448fdc26b4c6cb573",
+      "sha256": "c8bec63bc2f3058239010d3eec9af1fc5aca37eb4f0963c97db74a734aebddd6",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 235670
+    }
+  ],
+  "blocked": {
+    "1": "7e05545d-42ea-4da6-a469-263b5cdf066d",
+    "5": "a6175a9f-b48c-49b5-b2a0-4ad25123da43",
+    "6": "e698aa92-c2ea-45fb-bb01-69291cf74e73"
+  },
+  "comparison_note": "sparse records only: comparison used current reservation records; full historical image comparison unavailable"
+}

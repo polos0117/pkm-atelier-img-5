@@ -1,0 +1,161 @@
+{
+  "light": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔·두 다리 연결, 오른손 느슨한 쥠으로 일부 손가락 겹침, 왼손 펼친 다섯 손가락.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual1": {
+    "status": "blocked",
+    "request_id": "7e05545d-42ea-4da6-a469-263b5cdf066d",
+    "regenerated": false
+  },
+  "casual2": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔 연결, 수건 받친 손의 일부 손가락은 수건에 가림, 아래로 내린 손 연결 정상.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual3": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "랜턴 손은 쥔 손으로 손가락 겹침, 반대쪽 팔은 화면 밖으로 자연스럽게 이어짐.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual4": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "오른손 다섯 손가락이 받침 위에 펼쳐짐, 프로그램 쥔 왼손은 손가락 겹침.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual5": {
+    "status": "blocked",
+    "request_id": "a6175a9f-b48c-49b5-b2a0-4ad25123da43",
+    "regenerated": false
+  },
+  "casual6": {
+    "status": "blocked",
+    "request_id": "e698aa92-c2ea-45fb-bb01-69291cf74e73",
+    "regenerated": false
+  },
+  "casual7": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "V 손의 두 손가락과 접힌 손가락·엄지 연결, 반대쪽 팔은 크롭 밖.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual8": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔이 양손까지 연결, 받침 위 손가락 일부 겹침, 양다리 자연스럽게 연결.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual9": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 어깨·두 팔이 위·아래 손까지 이어짐, 손가락 일부 겹침, 하체는 크롭 밖.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual10": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔이 각 무릎 앞 손까지 이어짐, 양발·무릎 연결과 굽힘 방향 정상.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  },
+  "casual90": {
+    "status": "accepted",
+    "style_25d": {
+      "判정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 입체 음영, 얇은 유색 윤곽, 그라데이션 피부와 재질별 광택"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔·양손이 붓 한 자루를 함께 잡음, 손가락은 쥔 동작으로 일부 겹침.",
+      "overlay_checked": false,
+      "note": "눈으로 확인; 크롭 또는 쥔 동작에 가려진 손가락은 확정 수를 추정하지 않음"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "light": {
+    "submitted_sha256": "281facbfcd0511eda571e4a6b5c42a3bc5030cf3877787c2e3642004b4dcb72f",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual1": {
+    "submitted_sha256": "c719a7ace6dc1e19c8bdc1843d3dc72861a06140d713448737a889aebcac00e4",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual2": {
+    "submitted_sha256": "f75e7021a54a0ba1c52d3a25fc7651b54e8b458352402897b142de0b3c2d14a7",
+    "submitted_same": false,
+    "exception": "free scene/outfit design permitted by IMAGE_RULES"
+  },
+  "casual3": {
+    "submitted_sha256": "c4f0b9a488d1ef12c32a421c505ec275e4a9d709e58d6006e76e985086cab8ef",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual4": {
+    "submitted_sha256": "a90af09e56cefda1cde565c2e8ce3f4d8d1576c7ebbc9ff4a0c01b6c7e0b0eb1",
+    "submitted_same": false,
+    "exception": "free scene/outfit design permitted by IMAGE_RULES"
+  },
+  "casual5": {
+    "submitted_sha256": "d17811833d5b5ccbb5d9e6765a1673ce89dd6134e36738d2389f6d60f24cabc2",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual6": {
+    "submitted_sha256": "421d690cebec378f8c4f7d95c7b3c0fe1795a15e9ed1f17979da78a1bf1518d0",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual7": {
+    "submitted_sha256": "df91ae10d27e0b58990993c1113a0094b19641f1f5e74982e3214bc3a5381072",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual8": {
+    "submitted_sha256": "f4115ed535ac324d879963fa90dffef208d295ffb3975821121e9f8a2927ee70",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual9": {
+    "submitted_sha256": "3a820df51e044a492745e9e909eaff4090a5bcc8e3a33b17d8cb5310eaf4bf34",
+    "submitted_same": true,
+    "exception": null
+  },
+  "casual10": {
+    "submitted_sha256": "abdbf9cb1d999287a4d1efb7d38a36c08d9b914d1e9b1c17f1f6b36cd86ce927",
+    "submitted_same": false,
+    "exception": "free scene/outfit design permitted by IMAGE_RULES"
+  },
+  "casual90": {
+    "submitted_sha256": "1f30abb1e322a675239a26575e3d7d401c9b90d1891a332c9626ffd1476ca810",
+    "submitted_same": true,
+    "exception": null
+  }
+}
