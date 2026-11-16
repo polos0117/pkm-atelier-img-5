@@ -132,6 +132,32 @@
       "original_sha256": "a5656b105a5049052eacfb725a57de998b08de2a9bb599fcdaaae6f59f7f258b",
       "reference": "light selected candidate 4",
       "prompt_sha256": "bb817dc215303703dbd9b329202809e541e3b75b9dc95167f3949fbee81c9132"
+    },
+    {
+      "slot": "casual7",
+      "file": "니로우_anime_25d_gloss_f_casual7.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "98bb1b6a476236a253bb5ad542365f512488bdfe16737e46f815644245ec095f",
+      "original_sha256": "78d0f1bada45b1d000c666d20179cbc69de0382f945891cad4aea6161757eb79",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "9c683c6b2ec18807190932ede70d07e7c8d91e790362a8441f47cc13bba437a7"
+    },
+    {
+      "slot": "casual10",
+      "file": "니로우_anime_25d_gloss_f_casual10.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4dc05d6215ecf035053e06d185679da67464edab3f864d791d61dc990b673af3",
+      "original_sha256": "06ea1ab3976675f6635710c1e21de2c306aabca2cd9159f671a467e4ecaa331c",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "5e842ef2c1d66f57b8db15d1d14c22818c1156a3bc6e86b9f52301c4649399d5"
     }
   ]
 }

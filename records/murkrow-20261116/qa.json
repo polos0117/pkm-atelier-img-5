@@ -143,9 +143,49 @@
         "issue": "ok",
         "note": "Two arms from matching shoulders, one loupe grip and one ring grip with partial finger occlusion; two knees visible, lower legs cropped."
       }
+    },
+    "casual7": {
+      "identity": "Same face, garnet eyes, dark bob with white accents and skin tone as selected mecha 4",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft dimensional cheek, nose and lip shading, fine colored contours, layered hair and material-specific knit or jacket reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Both upper arms and forearms run naturally down from their matching shoulders; hands mostly continue beyond the lower crop. No detached hand or extra limb is visible. Legs are outside the chest portrait."
+      },
+      "wardrobe": "User requested new nonsexual design after the initial blocked output."
+    },
+    "casual10": {
+      "identity": "Same face, garnet eyes, dark bob with white accents and skin tone as selected mecha 4",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft dimensional cheek, nose and lip shading, fine colored contours, layered hair and material-specific knit or jacket reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms connect naturally; one hand rests on the bench with five fingers, the other rests on the knee with overlapping fingers. Two crossed legs and two shoes are naturally connected."
+      },
+      "wardrobe": "User requested new nonsexual design after the initial blocked output."
     }
   },
-  "blocked": {
+  "blocked": {},
+  "counts": {
+    "requested_images": 12,
+    "published_images": 12,
+    "blocked_images": 0
+  },
+  "diversity": {
+    "visual_checked": true,
+    "evidence": "Karaoke costume, recording-booth close-up, lodge lounging pose, harbor viewpoint stance, stairwell lean, tennis-court portrait, opera usher walk, ferry-terminal seated portrait and jewelry appraisal have distinct places, activities and framing."
+  },
+  "initial_blocked": {
     "casual7": {
       "status": "output_moderation_blocked",
       "request_id": "ed4a8d7a-f2fe-49d9-94ed-63dbd4faac4a",
@@ -159,13 +199,12 @@
       "regenerated": false
     }
   },
-  "counts": {
-    "requested_images": 12,
-    "published_images": 10,
-    "blocked_images": 2
-  },
-  "diversity": {
-    "visual_checked": true,
-    "evidence": "Karaoke costume, recording-booth close-up, lodge lounging pose, harbor viewpoint stance, stairwell lean, tennis-court portrait, opera usher walk, ferry-terminal seated portrait and jewelry appraisal have distinct places, activities and framing."
+  "user_authorized_replan": {
+    "slots": [
+      7,
+      10
+    ],
+    "reason": "User explicitly requested new plans for blocked outputs",
+    "successful_new_designs": 2
   }
 }

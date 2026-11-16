@@ -1,0 +1,10 @@
+{
+  "slots": [
+    7,
+    10
+  ],
+  "status": "generated-and-reviewed",
+  "preserved_existing_images": 10,
+  "new_images": 2,
+  "original_block_records": "blocked.json and casualN-blocked-* preserved as history"
+}
