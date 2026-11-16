@@ -1,0 +1,15 @@
+{
+  "card": "포푸니",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 3,
+  "selected_design": "gpt_free",
+  "reference_sha256": "2397448db2b86d17860cef5e6dabc58d3e6285119de6e95dd81fc833101e336e",
+  "status": "generated_partial",
+  "generated": 11,
+  "requested": 12,
+  "blocked": [
+    "casual4"
+  ],
+  "regenerated": false,
+  "push_transport": "git push returned Invalid Git namespace; use GitHub API fast-forward ref update, force=false"
+}

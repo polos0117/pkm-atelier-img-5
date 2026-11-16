@@ -1,0 +1,134 @@
+[
+  {
+    "slot": "light",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-521b2162-9f33-4c41-9623-99f20c2c8fb6.png",
+    "file": "포푸니_light_anime_25d_gloss_f.webp",
+    "original_sha256": "2397448db2b86d17860cef5e6dabc58d3e6285119de6e95dd81fc833101e336e",
+    "webp_sha256": "be375f1478de4370aeff503ceae9d9398b4289b85cee4216a9883a5c16a6b056",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual1",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-a08c3ccc-e34a-477c-a155-2aa93e7b763e.png",
+    "file": "포푸니_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "dede54f73cf1083300503e98ee4afa9f504a93a54a09c03ab8884885eb21629c",
+    "webp_sha256": "24495d9a4695cab9ced1de38a69ae0ffe39579286b7b873f3c458a4b1a39c81f",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual2",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-b8371afe-b157-4fc9-814d-3352a01eb958.png",
+    "file": "포푸니_anime_25d_gloss_f_casual2.webp",
+    "original_sha256": "d16fdf9cd3ab56eeffce009d7881f53444cea9c63afdb17b62964ce139468411",
+    "webp_sha256": "39d6025688c08fa37a3e3da3bfc65c0783aee09c8cb4448df1a3ed1c9d835da6",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual3",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-9ad8590a-d910-4d68-b48e-82ffed9f1882.png",
+    "file": "포푸니_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "d137fc4654c83705ad7e1f8b412d002f83affbab78f53d917546e15222064bd4",
+    "webp_sha256": "b47af9503da159a7f69fdf5b9771e6a4dde72b6a6b7efa3865619d0fcfdec9cc",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual5",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-4c31e4eb-ecf9-46ea-a291-209ccbcf71a5.png",
+    "file": "포푸니_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "791c1089286a2b8c2eb9d91f59a528621ed396ab6a0f56af983081e6785f4506",
+    "webp_sha256": "08c76181d7cb86ce246c8b5d2c5e7d99b16f2cd60089f368182c2b92524f8559",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual6",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-96c7ceb1-5487-4376-969b-ad93707751a8.png",
+    "file": "포푸니_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "aab2167155cd0da874904a1713ab2b8d1150fb2e20b86015f31603415c08394b",
+    "webp_sha256": "d2d50a4608e72fd57477e6025e0fc0b3a5db8a6b307da6d1bf128c23c76dff27",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual7",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-c1999305-fbb7-4d67-af86-b16072aa5b5d.png",
+    "file": "포푸니_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "ab239838ddae3a9586f188bdbe757d8052ea14b38d8990250c8cf9d557496377",
+    "webp_sha256": "40d834ce5aba17d9ea626f4e6da7548a543a86f82f50c782f5da364985eb9498",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual8",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-478e54e0-4e59-41d7-bb55-3aefc497ce27.png",
+    "file": "포푸니_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "09d9372f0506725cf3864f0d6342149ed57850e51fae47871da0d872193a2ea8",
+    "webp_sha256": "4dec425a89cf27ad00d24a4f9b6eb1c6636844156bc17032c6cb0dad6b061130",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual9",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-84f7878f-dadc-4916-afd6-f963b353c717.png",
+    "file": "포푸니_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "62b93f9579b0e630d44cad11cbfd1d5194808615214d1cae8e70f61322076f1a",
+    "webp_sha256": "f58eae6bb9f4b545c78e392d888791fcb4eeecd87cb524460e3297fdc16d3b5b",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual10",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-015e851f-b72c-41bd-841c-50c2bbbcd060.png",
+    "file": "포푸니_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "f108a33049d90f59852583b2684a59f2a749b8f9003fc43322fcdd626c234ed5",
+    "webp_sha256": "a19c1983ca1e6caccf806b236ebdf4a4e211016dd8020ca6ac877b875c4e4f87",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  },
+  {
+    "slot": "casual90",
+    "path": "/workspace/scratch/c7958364acc5/generated_images/exec-63dcf8ba-446c-42d3-98a1-b1b7c05afbc8.png",
+    "file": "포푸니_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "d42c80b3a7ac926369dc497114c174efca272d70bc90029f54f904bf3f6d1d10",
+    "webp_sha256": "de3d26c88aec3f7e8cf3492351d25093982a0741899755e9aa1dee06a3004b53",
+    "size": [
+      1024,
+      1536
+    ],
+    "shard": 4
+  }
+]

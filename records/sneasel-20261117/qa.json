@@ -1,0 +1,272 @@
+{
+  "light": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands hang naturally; five fingers on each hand, partly overlapping.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "ed73c207443d7ee7376dfb30e97c542a36b1e32f925eaaaaf3b891ffba9d9046",
+    "submitted_same": false,
+    "authorized_free_design": true
+  },
+  "casual1": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One raised hand attached through visible wrist and forearm; fingers partly overlap in hair. Other arm leaves crop; legs outside frame.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "de1740128748d264b09ffc1cb1b8ff75bf120f368135251c97e782373ef7dc90",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual2": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand holding glasses, fingers partly hidden by grip; other hand obscured behind head, arm visible. Both legs and feet connected.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "ab8af14402f1d066d80c191a51617ed7c237ebb6ecb2b527a3ae01668bf85ccf",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual3": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands clasped together, fingers overlap; both wrists and forearms connect to shoulders. Legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "509cc386bd658224a53bbe4b0029bcd4a48808012bc948e3bb46cf3c08e20387",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual5": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands at sides with fingers partly overlapping; arms joined to shoulders. Lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "f6ed040737b8af87c85951b0286aa64852ac48ecf95336f8eb113ce463f36ceb",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual6": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both open hands show five fingers, wrists and arms connected; two legs and feet on board.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "7a67fa9c333cb9423d088d1139cb6c97e4b5cd9e643d0b017a84853565108902",
+    "submitted_same": false,
+    "authorized_free_design": true
+  },
+  "casual7": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both gloved hands curled under chin, fingers obscured; forearms connect to shoulders, two bent legs in frame.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "5769446cd925df677219ce1df4d921749857be4fb42e7ba104d6b16c9462b036",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual8": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both shoulders and upper arms visible, hands mostly outside crop; lower body outside crop.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "df95fedd5177818243e6a3e513c50c1619b6985865e3879ca59d812a16144670",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual9": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands at sides, fingers overlap; wrists and arms connected; lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "6ba96cc0fab8bd1f30cd920e9edc8ded71357d8183928e72fe70ca733651c7e4",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual10": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Right hand grips cone, fingers partly hidden; left hand rests on counter, fingers overlap, both arms connected. Lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "92e7a620788a0db4f6499fef1ec1e83a6962cc2169b4ccb6a30b5033f144857c",
+    "submitted_same": false,
+    "authorized_free_design": true
+  },
+  "casual90": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Right hand holds pick with fingers partly hidden by grip; left palm rests on floor, five fingers visible. Two legs bend naturally, rear boot partly hidden.",
+      "overlay_checked": false,
+      "note": "Visual inspection; hidden fingers and off-frame limbs are not inferred."
+    },
+    "style_25d": {
+      "判定": "match",
+      "根拠": "Anime facial design, dimensional fabric and armor, blended skin gradients and glossy highlights."
+    },
+    "identity": "Selected candidate 3 used directly as reference; short black bob with blue streaks and red eyes retained.",
+    "exposure": {
+      "assessment": "match",
+      "note": "Generated result preserved without exposure-based regeneration."
+    },
+    "submitted_sha256": "aa70d3f5016bc7a447548d04e2fde83e320506d0e9e0ce6e1bc5f31473f9875f",
+    "submitted_same": true,
+    "authorized_free_design": false
+  },
+  "casual4": {
+    "status": "blocked",
+    "attempts": 1,
+    "reason": "Image tool rejected output (moderation_blocked); no image returned.",
+    "regenerated": false
+  }
+}
