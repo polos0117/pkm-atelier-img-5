@@ -1,0 +1,116 @@
+{
+  "storage": {
+    "last": "노고치",
+    "cards": {
+      "노고치": {
+        "style": "anime_25d_gloss",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "body type": "willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {
+              "axes.overall_intensity": true,
+              "axes.skin_exposure": true,
+              "aspect": true
+            },
+            "era": "now",
+            "place": "street_cafe",
+            "act": "coffee_takeout",
+            "ofam": "everyday",
+            "item": ""
+          }
+        },
+        "mecha": {
+          "set": {
+            "silhouette": "knight_plate"
+          },
+          "fx": [
+            {
+              "key": "hand",
+              "type": "normal"
+            },
+            {
+              "key": "seams",
+              "type": "normal"
+            },
+            {
+              "key": "ground",
+              "type": "normal"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "prompt": "Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\nSource: Dunsparce (노고치), normal type.\nSubject: A female mecha personification character with Dunsparce as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\nOutput: one dynamic action image that is also this form's card art.\n\n1. STYLE\nHigh-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\n2. CHARACTER\nFace — her own structure, not the style's default face: oval face, slightly long length, narrow width — only gently longer than average, never stretched or gaunt; soft rounded jaw; drooping eyes, medium size, downturned outer corners, close-set; short rounded brows; rounded soft tip nose; wide mouth.\nHair: medium tight curls, face-framing side locks.\nImpression (reads even at card size): a bright, cheerful woman in her early twenties with fair skin; a sunny look with laughter in her eyes; amber gold eyes; no eyeliner.\nIdentity (chosen details override the automatic look)\nbody type: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nProportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.\nBody: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\nHands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. ARMOR — LIGHT\nCostume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.\nArmor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\nSilhouette: mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows. Solid hard-surface plates that read as armor, not cloth.\nColours: yellow, white.\nWear: the two tiny white wings become a split cape falling from her shoulders, cut in the same shape and colors; the drill-like tail becomes a long sash hanging from the back of her belt, in the same shape and colors.\nExposure: armor and undersuit open by design only at a deep neckline window with cleavage, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\n4. SCENE\nComposition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\nPose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\nType effects: One open hand conjuring a warm white-gold light amid soft floating motes of warm light. A warm white-gold light pulses along her armor seams and joints. A soft ring of warm light spreads over the floor beneath her boots.\n\n5. CONSTRAINTS\nOne figure only.\nAvoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.",
+  "generation": {
+    "source": "gpt_imagegen",
+    "selected_candidate": 4,
+    "design": "gpt_free",
+    "submitted_sha256": "88f0d4c66eaf021f331732a8b420fa00381a42b5e8518c19bf3d6d94093f78e0",
+    "reference_sha256": "2793c60aa13f1af5b180446b0d6e814c78a67df1b0e011bd55f9cc0f4e694949",
+    "free_prompt": "Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\nSource: Dunsparce (노고치), normal type.\nSubject: A female mecha personification character with Dunsparce as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\nOutput: one dynamic action image that is also this form's card art.\n\n1. STYLE\nHigh-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\n2. CHARACTER\nFace — her own structure: soft heart-shaped face with a short midface, gently rounded jaw and small soft chin; sleepy downturned eyes, straight delicate brows, a small button nose and full softly parted lips.\nHair: butter-yellow hair in a sleek chin-length bob, with curved side-swept fringe and two small curled side locks.\nImpression: a refined adult woman in her twenties with fair skin, lavender eyes and delicate rose makeup; a warm, drowsy smile.\nIdentity (chosen details override the automatic look)\nbody type: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nProportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.\nBody: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\nHands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. ARMOR — LIGHT\nCostume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.\nArmor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\nSilhouette: separate armor pieces rather than one shell, with distinct shoulder, chest, forearm, hip and shin plates and a fitted inner suit visible only in narrow joint gaps. Signature construction: rounded transverse belly-inspired rib plates nest into a compact accordion cuirass, creating a burrowing shield structure.\nColours: yellow, white.\nWear: the two tiny white wings become a split cape falling from her shoulders, cut in the same shape and colors; the drill-like tail becomes a long sash hanging from the back of her belt, in the same shape and colors.\nExposure: armor and undersuit open by design only at a deep neckline window with cleavage, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\n4. SCENE\nComposition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\nPose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\nType effects: Soft pearl-gold motes rise around her boots; a delicate normal-type luminous ring floats above an open palm, away from her fingers.\nSetting: a bright white-stone underground observatory with sunbeams through an open skylight.\n\n\n5. CONSTRAINTS\nOne figure only.\nAvoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.\n"
+  }
+}

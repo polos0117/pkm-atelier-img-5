@@ -1,0 +1,178 @@
+{
+  "light": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual1": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual3": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual4": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual5": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual6": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual7": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual8": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual9": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual10": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  },
+  "casual90": {
+    "style_25d": {
+      "result": "match",
+      "evidence": "Soft gradients on nose, cheek and lips; dimensional garment materials; glossy skin and thin coloured contours."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands attached to arms; cropped and occluded digits are not fully countable.",
+      "overlay_checked": false,
+      "note": "Visual review of numbered full sheet; no detached or extra limbs observed."
+    },
+    "exposure": "preserved_generated_result"
+  }
+}

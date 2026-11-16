@@ -1,0 +1,29 @@
+{
+  "card": "노고치",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "completed": [
+    "light",
+    "casual1",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "blocked": {
+    "casual2": {
+      "reason": "image safety system rejected output",
+      "request_id": "c31e79c5-64b4-4dca-a3b2-d65dca16296d"
+    }
+  },
+  "initial_batch_error": {
+    "request_id": "384b901a-2f95-4f62-a3a5-7aa926513ca2",
+    "note": "Parallel orchestration ended on first rejection; remaining cuts 2,3,4 initially returned no result. Same prompts were submitted again; 3 and 4 succeeded, 2 blocked."
+  },
+  "status": "complete_except_blocked_casual2"
+}

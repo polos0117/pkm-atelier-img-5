@@ -1,0 +1,123 @@
+[
+  {
+    "slot": "light",
+    "path": "img/노고치_light_anime_25d_gloss_f.webp",
+    "original_sha256": "2793c60aa13f1af5b180446b0d6e814c78a67df1b0e011bd55f9cc0f4e694949",
+    "sha256": "5e90214542f9a5ec7527fb5ac6285ec203c2120e2812ebf3f19a1887864bea46",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "88f0d4c66eaf021f331732a8b420fa00381a42b5e8518c19bf3d6d94093f78e0"
+  },
+  {
+    "slot": "casual1",
+    "path": "img/노고치_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "b5d602eb2a3c69a7553854a9de3e58173b795d328319378978e9a7580cc88626",
+    "sha256": "9c2a9c98be4518ce6abff7668018e3a82b33198fa65808b18f34bd49960bdb2d",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "c68d97170f0d1479c4a0ce54849f546f423b90f1dae9ebcfbee9d65570d94d1c"
+  },
+  {
+    "slot": "casual3",
+    "path": "img/노고치_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "35291329569ff805ed52768b5d93a0d3817e91b595e90d84b686c4366cf37ee9",
+    "sha256": "33493f863ab5f51f0753bf6b4baa05c0ff59be8244ac13f3e7161f6d5bd5b003",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "776d2192dcce5acc671ee0c86c73430035fc8a3ea2f33bb2970744d83313ba0f"
+  },
+  {
+    "slot": "casual4",
+    "path": "img/노고치_anime_25d_gloss_f_casual4.webp",
+    "original_sha256": "c5bea50a7ffd77f87925bb9889926e88c0f26a5a6bda15040a7ef1b480756e23",
+    "sha256": "3de5dd7298338ce5708144444c515207175c1c24cf381585fa5e7f9e31eef054",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "0828f386f006d0ef29a86d88e7345d794a5f38d4bc8442e1f41cf515a02a4873"
+  },
+  {
+    "slot": "casual5",
+    "path": "img/노고치_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "cebfbe1e2991ccd379466e3b050dc63cbe588f02745d5ef448f34be34932ba75",
+    "sha256": "eaadb5b5ea15aefac6e3c699b0fb5a7ac39f1c6c741d55d668636789913a3469",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "0543220af26aaa0abdcf3a3ee07df9de62c08cb4d6491dd49b0abcada8e77af0"
+  },
+  {
+    "slot": "casual6",
+    "path": "img/노고치_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "e44e80ed7523f90d7128834366d1a29217ac00e1d904f3e449ddf73a52f79b25",
+    "sha256": "7431ee9c5efead5c937509bf0b364423b8adc1e7469cf77e736959e962e56063",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "9bdeac157ead46f6c31c32a8b854b7758bf3d913a4856e2ea7c4ada4dae751e8"
+  },
+  {
+    "slot": "casual7",
+    "path": "img/노고치_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "3b55fa0dfe4fc3b7aca3d3e8d3e2111a1d794c8fa33194a752e111818c5d9334",
+    "sha256": "40ce48268ef5350730f6e2f9cf58629177231bb1006aa372e7f5f7743ba45125",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "f27546c27991a2c4d754c4487a6a005bd3e86818c7ea05b10238964d6ac37e9b"
+  },
+  {
+    "slot": "casual8",
+    "path": "img/노고치_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "0c94742777b8f240756c27812d37ca88278938745c395d0571bd4b0f72a4387a",
+    "sha256": "9983bb9c018fd3c6723e97d5e76f9c690ba1b197914dfac29607a1d073cacb5d",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "3db68f27b343d5b0fc61e1a20e6ee921053280c0af821738d8e90e6b8c565e4a"
+  },
+  {
+    "slot": "casual9",
+    "path": "img/노고치_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "c989a1d26541b44b1bbf4f9090f92b1bcfd2b84c256daadbab555586a2134b10",
+    "sha256": "1b693064f99b6d1cda4c0d02ad20971169f30e662a9d03d45ddd82c7a49efceb",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "ebde6adc3638319a09406f87b7f4bc4c5993645a29711c836ad3168cbd16a6cb"
+  },
+  {
+    "slot": "casual10",
+    "path": "img/노고치_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "fab7c25f77ddc2c1019c610b67ed95dc6034603215cd0fda8875007d226fedcd",
+    "sha256": "cacf68bd6d64bd00c557d04f961f41f3aa0ac0adf4c16c01f034fb392c277153",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "aa9a1c3a4ed268127d4968c7157fe4e01f2ca96d776a5a6b6215d778b4d63a06"
+  },
+  {
+    "slot": "casual90",
+    "path": "img/노고치_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "37a2a9e52f1cbcfdf05823988ffcd7c393639cc00541d05e1d863e3449d1dff2",
+    "sha256": "a02c0b449c4e1866bafdb1076272d5e2940937f643bc481d7188ac38ef46651a",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_sha256": "e5d0ece3ab1fa5e2a9fca7977f1ded7dd674833de656dd335561774268e7eb39"
+  }
+]
