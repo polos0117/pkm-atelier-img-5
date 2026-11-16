@@ -1,0 +1,31 @@
+{
+  "card": "핫삼",
+  "style": "anime_25d_gloss",
+  "files": {
+    "casual2": {
+      "file": "핫삼_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "c0d9edaebc7ed2831ef84b5a563cedcdde0d8d17d432d90747869f9087ac11d0",
+      "webp_sha256": "5954b3c2ac26fc195463cbdaf0fdcf611e9a43a6216df9822c629b954fa8e002",
+      "reference_sha256": "0e493f9a689bdcddbebfc8039bffff474ba74b5c75ba0bc653fdf6e8991493f2",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "casual3": {
+      "file": "핫삼_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "96028074c9fc42cb8f51cf1e98b1491c2a1c9f69b223225294a34c77e78c2fce",
+      "webp_sha256": "82ba6eb2db15d9492af2067c7cc0425a8734c79edf0bf1321b3ed39809d7ede2",
+      "reference_sha256": "0e493f9a689bdcddbebfc8039bffff474ba74b5c75ba0bc653fdf6e8991493f2",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  },
+  "remaining_missing": [
+    "casual1",
+    "casual4"
+  ],
+  "user_request": "일상 1~4 다시 생성해줘"
+}

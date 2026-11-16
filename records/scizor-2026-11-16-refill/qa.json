@@ -1,0 +1,46 @@
+{
+  "casual2": {
+    "accepted": true,
+    "image_sha256": "c0d9edaebc7ed2831ef84b5a563cedcdde0d8d17d432d90747869f9087ac11d0",
+    "observations": "Planetarium event costume, raised prism in right hand, left arm down with connected shoulder and wrist; eye and hair colours match reference.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Fine coloured contours, blended face shading, red and silver hair strands and dimensional clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Requested costume and openings represented; no regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two hands attached through wrists and forearms; digits partly occluded by prism/bouquet grip; five on free hand, thumb partly hidden in side view.",
+      "overlay_checked": false,
+      "note": "Manual visual check of returned image; no extra or disconnected limbs observed."
+    }
+  },
+  "casual3": {
+    "accepted": true,
+    "image_sha256": "96028074c9fc42cb8f51cf1e98b1491c2a1c9f69b223225294a34c77e78c2fce",
+    "observations": "Lantern river, ring-linked swimwear, crouched legs and both feet visible; right hand grips bouquet, left hand rests on knee; both arms connected.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Fine coloured contours, blended face shading, red and silver hair strands and dimensional clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Requested costume and openings represented; no regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two hands attached through wrists and forearms; digits partly occluded by prism/bouquet grip; five on free hand, thumb partly hidden in side view.",
+      "overlay_checked": false,
+      "note": "Manual visual check of returned image; no extra or disconnected limbs observed."
+    }
+  }
+}
