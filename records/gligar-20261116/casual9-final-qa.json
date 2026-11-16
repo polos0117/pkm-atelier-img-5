@@ -1,0 +1,23 @@
+{
+  "status": "accepted",
+  "user_instruction": "9번 설계 변경해서 재생성해줘",
+  "source_sha256": "7fdab30a871be11ad5a2a04b083959737c154f6838770f42efd878a53dbb8f92",
+  "webp_sha256": "f3aa66f6451dd25c1786c017fa2bc532ce1c640623a68876d4750905fb824359",
+  "size": [
+    1024,
+    1536
+  ],
+  "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "Soft colored face outlines, blended nose and cheek shading, dimensional dress folds and woven fabric."
+  },
+  "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Bouquet hand fingers curl naturally around stems, partly occluded; relaxed side hand has five digits and connects to its wrist and shoulder. Both lower legs and shoes visible.",
+    "overlay_checked": false
+  },
+  "design": "Opaque ivory tea-length dress in a conservatory; level full-body catalog view; bouquet."
+}

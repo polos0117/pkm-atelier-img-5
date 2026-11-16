@@ -12,21 +12,21 @@ FRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMP
 
 
 SCENE (chosen):
-Place: a bright bridal fitting studio with an empty clothes rack, a standing mirror angled to reflect fabric displays only, and soft daylight through frosted windows.
-Outfit: a white lace bridal lingerie set with a short veil
+Place: a bright glass conservatory used for a bridal fashion catalog, sunlit greenery behind the glass and a pale stone walking path, no other people.
+Outfit: an ivory tea-length wedding dress with a fully opaque fitted woven bodice, a softly squared neckline, short puff sleeves, a defined natural waist and a pleated skirt falling to mid-calf; cream low-heeled wedding shoes and a short simple veil. The fabric is dry, substantial and lined throughout, worn as ordinary bridal fashion.
 Outfit colours: ivory and warm cream — her own colour choice for this outfit, not her species' colours.
-Cut: plunging neckline and bare midriff built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.
-POSTURE: standing upright beside the fitting platform, her weight balanced naturally on both feet.
-COMPOSITION: a full-body bridal fashion editorial composition, entire head, both hands and both feet inside the vertical frame with clear margins; body and face turned gently three-quarters toward the camera; camera at eye level with level perspective; an open arrangement of fitting-room furniture around her.
+Cut: a tailored bridal dress with a secure neckline and an uninterrupted opaque bodice and skirt.
+POSTURE: standing on the stone path, weight evenly balanced, one foot naturally a little ahead.
+COMPOSITION: a full-body bridal catalog illustration, head, both hands and both feet entirely inside the frame with margins; her face and torso gently three-quarters toward the camera, level eye-height camera, natural 50mm-equivalent perspective, greenhouse plants form a soft backdrop.
 Lens / perspective: 50mm-equivalent natural perspective with balanced proportions.
-RIGHT HAND: her own right arm extends forward naturally from her right shoulder, elbow gently bent, holding the edge of her short veil beside her waist.
-LEFT HAND: her own left arm descends naturally from her left shoulder, relaxed open hand beside her hip.
+RIGHT HAND: her right upper arm and forearm connect visibly from her right shoulder, elbow gently bent; her right hand holds a small bouquet of white flowers at waist height, fingers naturally wrapped around the stems.
+LEFT HAND: her left arm falls naturally from her left shoulder at her side; her open relaxed left hand is visible with five fingers, separate from the bouquet.
 GAZE: she looks gently toward the camera.
 EXPRESSION: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.
 overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
-skin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest
+skin_exposure: the bridal dress covers her torso, hips and upper legs; only face, neck, forearms and lower calves are visible.
 action_level: mostly posed — a paused or held moment of the selected activity
-source_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy
+source_influence: one small triangular Gligar-inspired charm is tied to the bouquet ribbon; no armor and no creature anatomy.
 separates_preference: balanced — choose either a one-piece outfit or separates to suit the scene
 
 WARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.
