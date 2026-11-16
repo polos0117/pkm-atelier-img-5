@@ -1,0 +1,26 @@
+{
+  "card": "핫삼",
+  "files": {
+    "casual1": {
+      "file": "핫삼_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "5ad2006a6859037e50304f0d2d8dc952f67c41d16b2ec6354d26e3a57b3b1e8e",
+      "webp_sha256": "8e145e2106bdae95767e572cf53145adf5f024bf79b99379a126db01d1906366",
+      "reference_sha256": "0e493f9a689bdcddbebfc8039bffff474ba74b5c75ba0bc653fdf6e8991493f2"
+    },
+    "casual4": {
+      "file": "핫삼_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "5a821242438dc3e6a00dd6633a06079068de98bf8916bf6b4bdf2802446be60d",
+      "webp_sha256": "283eb4214f016e0605b35057bacb840368aadcede7030046d7f28aa7b9873c2d",
+      "reference_sha256": "0e493f9a689bdcddbebfc8039bffff474ba74b5c75ba0bc653fdf6e8991493f2"
+    }
+  },
+  "status": "all_12_slots_available"
+}

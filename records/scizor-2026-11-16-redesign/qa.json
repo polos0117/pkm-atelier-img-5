@@ -1,0 +1,46 @@
+{
+  "casual1": {
+    "accepted": true,
+    "image_sha256": "5ad2006a6859037e50304f0d2d8dc952f67c41d16b2ec6354d26e3a57b3b1e8e",
+    "observations": "Silk camisole and shorts, seated bench, right hand comb and left hand on thigh, both feet and slippers visible. No second mirror figure.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Fine coloured face contours, graduated skin shading and strand detail, dimensional fabric and leather highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Matches the newly specified user-directed outfit design."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connected to wrists and elbows; five digits on resting hand, grip partly occludes fingers on comb/token hand.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; no disconnected or extra limbs observed."
+    }
+  },
+  "casual4": {
+    "accepted": true,
+    "image_sha256": "5a821242438dc3e6a00dd6633a06079068de98bf8916bf6b4bdf2802446be60d",
+    "observations": "Teal top, black vest and striped shorts, standing at arcade, right hand grips token, left hand rests on ledge. Hair and face match reference.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Fine coloured face contours, graduated skin shading and strand detail, dimensional fabric and leather highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Matches the newly specified user-directed outfit design."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connected to wrists and elbows; five digits on resting hand, grip partly occludes fingers on comb/token hand.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; no disconnected or extra limbs observed."
+    }
+  }
+}
