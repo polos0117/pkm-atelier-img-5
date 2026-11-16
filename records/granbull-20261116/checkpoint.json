@@ -1,0 +1,60 @@
+{
+  "card": "그랑블루",
+  "style": "anime_25d_gloss",
+  "stage": "images_packaged_pending_publish",
+  "worktree": "/workspace/scratch/93b1e7f8bdb9/granbull",
+  "branch": "work/granbull-93b1e7",
+  "selection": 1,
+  "designs": [
+    {
+      "number": 1,
+      "design": "project",
+      "submitted_file": "design-1-submitted.txt",
+      "submitted_sha256": "13a56469f4bc1bd5ec5f1c9a545b19d9550c41b47d12849df859e96d2dd24cf9",
+      "original_path": "/workspace/scratch/93b1e7f8bdb9/generated_images/exec-5fa06b48-2ab4-4b43-a0ab-ddc3387f2aad.png",
+      "original_sha256": "cac082545dc1ce35f5e250bb5fe16042733f7b23ac89d993d55a206bd2c7b705"
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "submitted_file": "design-2-submitted.txt",
+      "submitted_sha256": "13a56469f4bc1bd5ec5f1c9a545b19d9550c41b47d12849df859e96d2dd24cf9",
+      "original_path": "/workspace/scratch/93b1e7f8bdb9/generated_images/exec-74de664d-20cd-4791-84f0-e283b6999849.png",
+      "original_sha256": "2c27ece0b350eb4a45ed837c75b0a6dd2565589221832a1f37e4e091b54a80c5"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "submitted_file": "design-3-submitted.txt",
+      "submitted_sha256": "e63a7af4b5a5d0f97706f3fe29052c945d080c75343d121139dcde944712d535",
+      "original_path": "/workspace/scratch/93b1e7f8bdb9/generated_images/exec-21dfdf41-3a70-40d1-898d-c10696a7365b.png",
+      "original_sha256": "93732bb55b03cf70b2e4cad2405d180576d3a934b0793f8fc80b3921f0949f9e"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "submitted_file": "design-4-submitted.txt",
+      "submitted_sha256": "c508346d26057cb102b6ea9723653176c2b5af439eaf31916dda53d229ad8a2d",
+      "original_path": "/workspace/scratch/93b1e7f8bdb9/generated_images/exec-4db26ff9-1427-4840-9c89-46cc37a0f7c6.png",
+      "original_sha256": "6c53827f7f840ad71c8021308e40b7e15531b020b1ff4911d797945b15471933"
+    }
+  ],
+  "available": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "unavailable": [
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8"
+  ],
+  "regeneration": false,
+  "reservation_remote_commit": "54d26fd320697eaf4ea12136bd1c7c4861fdb72f"
+}

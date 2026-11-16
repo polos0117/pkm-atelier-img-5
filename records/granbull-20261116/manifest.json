@@ -1,0 +1,122 @@
+[
+  {
+    "slot": "light",
+    "file": "그랑블루_light_anime_25d_gloss_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "cac082545dc1ce35f5e250bb5fe16042733f7b23ac89d993d55a206bd2c7b705",
+    "webp_sha256": "2dd18268100def72ad3b3c0fbd9f15d62b40410cf60b04b15e1c865001eac632",
+    "reference": null,
+    "classification_basis": "user selection 1"
+  },
+  {
+    "slot": "casual1",
+    "file": "그랑블루_anime_25d_gloss_f_casual1.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "077d0fd5c25c764556cacae76f3257b067b0c510e2acc55171d67a58f19b3229",
+    "webp_sha256": "bada899cabc1b5c6f38e6b040b78add53460ca60ee8c2700229245762f4472e8",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual2",
+    "file": "그랑블루_anime_25d_gloss_f_casual2.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "7c400e85606395c2faf91a92fca4b3bcad289d9b6720092b867aaa0d1b7da301",
+    "webp_sha256": "a24be612cfe34f8393fca690885ad5786e489b915fb300845d0c9f19cce3e470",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual3",
+    "file": "그랑블루_anime_25d_gloss_f_casual3.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "f93342ec53534b220f7205c95b8bc64a413831891f79f07d74d2a04f57895b6f",
+    "webp_sha256": "ce6d6685ef39ec81bc3edb9c0675c04590dd3b9739bb1b4d1753499531c39635",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual4",
+    "file": "그랑블루_anime_25d_gloss_f_casual4.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "d81d5dd61f1a9c70bb1bb3fa2bd97b83192c86d5fdc0193e11542f3aec6b5da9",
+    "webp_sha256": "738acb7433f64adfa009ecad45e5b474f75fd2f5f72b856612706224072be6eb",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual9",
+    "file": "그랑블루_anime_25d_gloss_f_casual9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "b5be58ad75c3ea658ef6ddc6b3d514f4500174c0875a378181ff983ad9dfc53a",
+    "webp_sha256": "61db68e66366ce868a5c8dd027d1f1ebc89f061cadd0103f766a4d2d7608707d",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual10",
+    "file": "그랑블루_anime_25d_gloss_f_casual10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "d050f538db673813886e1a0e9db8c51e5bb2ddaf78acd057ccb15324ee7600d5",
+    "webp_sha256": "384485fd65def8fdcd3a60840326e68c1d99625e010a1f1a70d79ddeeda17775",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  },
+  {
+    "slot": "casual90",
+    "file": "그랑블루_anime_25d_gloss_f_casual90.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "e753928d584f2e96dfb1f09b79917423980dacbed1af1e8a77138f45497fa118",
+    "webp_sha256": "3b601849b0111291cd7af86304ba836c7f107bbf82c978853bfa683d6303ab9b",
+    "reference": "selected design 1",
+    "classification_basis": "generator planned slot"
+  }
+]

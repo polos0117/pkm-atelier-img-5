@@ -1,0 +1,166 @@
+{
+  "light": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two connected arms and legs; open palm with five fingers, opposite hand in relaxed fist with partly occluded fingers; full body and boots in frame."
+    }
+  },
+  "casual1": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "One visible hand loosely grips a shoulder strap, fingers overlap naturally; other arm runs out of frame from shoulder. Original ear ornaments remain; preserved. Crop extends lower than the chest-up plan."
+    }
+  },
+  "casual2": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two connected arms; one hand planted on coping, the other on bent knee; five digits each with natural overlap. One lower leg continues underwater; no extra limb."
+    }
+  },
+  "casual3": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "V-sign hand has two extended fingers, two curled fingers and a partly overlapping thumb; wrist and forearm connected. Opposite upper arm continues below crop. Ghost veil and satin costume read clearly."
+    }
+  },
+  "casual4": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two visible connected arms; cotton-candy grip and handrail grip, curled fingers partly occluded around the objects. Legs extend below crop. Cable-car cabin, candy and daylight are readable."
+    }
+  },
+  "casual9": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and two legs connected naturally, both hands relaxed at sides with partly overlapping fingers; both boots inside frame. The costume and station read clearly; head turns toward viewer more than planned."
+    }
+  },
+  "casual10": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two forearms support torso, both hands connected with fingers partly overlapping on blanket; two legs bent upward, both feet and five toes each visible. Garden and single companion match scene."
+    }
+  },
+  "casual90": {
+    "status": "generated_preserved",
+    "regenerated": false,
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended skin and facial shading, layered hair strands, dimensional fabric or hard armor materials, restrained colored linework."
+    },
+    "exposure": {
+      "verdict": "match",
+      "evidence": "Visible designed neckline, shoulders and/or legs consistent with the chosen outfit; full intimate coverage."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms, both hands connected at knee and seat, fingers partly overlapping naturally; two crossed legs and both shoes visible. Knees crossed instead of ankles; no regeneration."
+    }
+  },
+  "casual5": {
+    "status": "result_unavailable_after_batch_error",
+    "regenerated": false,
+    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+  },
+  "casual6": {
+    "status": "result_unavailable_after_batch_error",
+    "regenerated": false,
+    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+  },
+  "casual7": {
+    "status": "result_unavailable_after_batch_error",
+    "regenerated": false,
+    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+  },
+  "casual8": {
+    "status": "result_unavailable_after_batch_error",
+    "regenerated": false,
+    "reason": "The batch returned an output moderation error (sexual), request ID 0924c46b-3e22-4b63-b890-c1994b166314. Other in-flight result promises were not returned. No resulting image file is available; exact per-cut moderation outcome is unknown. No retry was made."
+  }
+}
