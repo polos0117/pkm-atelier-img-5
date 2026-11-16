@@ -1,0 +1,32 @@
+{
+  "status": "casual_planning",
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/4e62d6827eec/generated_images/exec-5af8d588-d1cf-4862-8754-0d43129f9d1b.png",
+      "sha256": "64bff0c83034e8cbcb8c01c0885137ab46f3d018f55bf933abd00181e9244dab",
+      "design": "atelier"
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/4e62d6827eec/generated_images/exec-ed2945ee-cd70-4233-801e-679a042d27ac.png",
+      "sha256": "3f8294b12b171929d558f54d3fecfc2c4361eece47ebbb6b35365fdde2908173",
+      "design": "atelier"
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/4e62d6827eec/generated_images/exec-39c333e6-663d-4ee6-ba21-6add4f561ed8.png",
+      "sha256": "eaf945328f87ec8a1e2aa1cd5321f372be98b10d544ad9221ed5671138910fdd",
+      "design": "gpt_free"
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/4e62d6827eec/generated_images/exec-7073a95d-3135-4e8d-80bd-ba1ff8eef926.png",
+      "sha256": "d4168335c83c5c21ff9f70dfffd099284cc392cbfd195084a5e13aff63089287",
+      "design": "gpt_free"
+    }
+  ],
+  "code_worktree": "/workspace/scratch/4e62d6827eec/misdreavus",
+  "branch": "work/misdreavus-20261116",
+  "selected": 1
+}

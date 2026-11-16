@@ -1,0 +1,68 @@
+{
+  "casual90": {
+    "submitted_sha256": "7d0573ddab3730ba5ddd10957080b51ede56cad2ca230d94c40fef461e38287c",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual10": {
+    "submitted_sha256": "4ecc62b3c3c1414d0be14ca706ed47185368e424e1a6d123e8e3336f346d3c0a",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual2": {
+    "submitted_sha256": "eda5a05cc9ce28ac8a98773ecbc61bd227fa997affd8983ce60ed711b5141819",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual9": {
+    "submitted_sha256": "2de1f854f6c0cd9cc898c56c73354df0878ad772989cdcdfc4a21198b78d589e",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual3": {
+    "submitted_sha256": "5a5d7baa6c22030c8e9910afa9c600f21d3440be1e25e3250ae3895787e971b1",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual1": {
+    "submitted_sha256": "df933d3a42abeea249b572eca975f9d2bcccbb1ec41c586fb7f027908f7e84a5",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual8": {
+    "submitted_sha256": "1ac98a1efd1a0b6faab3544cc6a0aa6f75885304abb98546674b9705d5a00c1e",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual4": {
+    "submitted_sha256": "2342760a84791f9b09122993e820c36b29aa76720ffc79fd189a8de2af65968f",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual7": {
+    "submitted_sha256": "b59d5d578fe312f03787bf62ee002d13b56405c988adb2885766184d4788013d",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual6": {
+    "submitted_sha256": "50a3e97ace8e8052da5c22f3892204109a6e995d382a63f69aa8cb0b63175510",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  },
+  "casual5": {
+    "submitted_sha256": "319aa1cabda6472a80b7e980f04ce26f0dde324c9f81b32bd27fff4586884073",
+    "same": false,
+    "reason": "authorized free scene/outfit design",
+    "design": "gpt_free"
+  }
+}

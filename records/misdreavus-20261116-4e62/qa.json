@@ -1,0 +1,211 @@
+{
+ "light": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual1": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual2": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual3": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual4": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual5": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual6": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual8": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual9": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual10": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ },
+ "casual90": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Painted volume across nose, lips and cheeks; soft coloured contours, layered hair highlights and luminous skin midtones."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; manual visual review",
+   "verdict": "pass_with_occlusion",
+   "evidence": "No duplicated or detached limbs observed. Visible hands connect through wrists and forearms. Some fingers and limbs are hidden by grip, hair, props or crop; those cannot be fully counted."
+  },
+  "exposure": {
+   "regenerated": false,
+   "note": "Retained successful output unchanged."
+  },
+  "identity": {
+   "verdict": "consistent",
+   "note": "Face, long side fringe and purple-pink hair retained. Some outputs also retained the reference circlet despite wardrobe instructions."
+  }
+ }
+}
