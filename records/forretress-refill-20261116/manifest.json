@@ -1,0 +1,18 @@
+[
+  {
+    "slot": "casual4",
+    "file": "쏘콘_anime_25d_gloss_f_casual4.webp",
+    "source_sha256": "1517c47086bdd139c600b3167d4d065a3310403997d32f4c592316dcc90010cb",
+    "sha256": "74a321ac9f6e219ea1f7b0365b78364c1981be4ae44a5570eb80598bc010d4a9",
+    "reason": "User requested composition reset of previously blocked slot",
+    "reference": "selected mecha option 4"
+  },
+  {
+    "slot": "casual6",
+    "file": "쏘콘_anime_25d_gloss_f_casual6.webp",
+    "source_sha256": "f5f5d62fc4d112cee1a0c8df7012406bf40d6dccc34b44f02fd7f6d0b1b2be55",
+    "sha256": "5e58ae6e0fea4fb9322253ab6bff30ae6c632f113b12d7f36ba5e2a56763ad5f",
+    "reason": "User requested composition reset of previously blocked slot",
+    "reference": "selected mecha option 4"
+  }
+]

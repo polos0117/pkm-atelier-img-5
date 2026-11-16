@@ -1,0 +1,36 @@
+{
+  "casual4": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft dimensional cheek, nose and lip shading; rendered hair strands, fabric and highlights"
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop",
+      "hands": "two connected hands; fan or camera grip partially occludes fingers",
+      "overlay_checked": false,
+      "note": "Visual check: both arms and hands connected; no extra limbs."
+    },
+    "note": "mirror reflections depict the same woman"
+  },
+  "casual6": {
+    "status": "generated",
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft dimensional cheek, nose and lip shading; rendered hair strands, fabric and highlights"
+    },
+    "anatomy": {
+      "tool": "unavailable",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "two connected hands; fan or camera grip partially occludes fingers",
+      "overlay_checked": false,
+      "note": "Visual check: both arms and hands connected; no extra limbs."
+    },
+    "note": "small invented camera lettering; full figure and both feet inside frame"
+  }
+}

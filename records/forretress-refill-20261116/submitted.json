@@ -1,0 +1,30 @@
+{
+ "casual4": [
+  {
+   "slot": "casual4",
+   "at": "2026-11-16T12:06:33.519Z",
+   "prompt_sha256": "e4471a0b3db4e8aa6a2610431308d04e12a5737fac6da7ce13fffb433b8b691a",
+   "submitted_sha256": "e4471a0b3db4e8aa6a2610431308d04e12a5737fac6da7ce13fffb433b8b691a",
+   "same": true,
+   "prompt_words": 1122,
+   "submitted_words": 1122,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual6": [
+  {
+   "slot": "casual6",
+   "at": "2026-11-16T12:06:33.637Z",
+   "prompt_sha256": "30e30e92aff46483726e337d52d9d452683f9309962bf4beeb2de7a59929e518",
+   "submitted_sha256": "30e30e92aff46483726e337d52d9d452683f9309962bf4beeb2de7a59929e518",
+   "same": true,
+   "prompt_words": 1000,
+   "submitted_words": 1000,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ]
+}
