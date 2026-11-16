@@ -1,0 +1,25 @@
+{
+  "user_instruction": "차단 이미지 구도설정 변경해서 재생성해줘",
+  "casual2": {
+    "status": "accepted",
+    "file": "글라이거_anime_25d_gloss_f_casual2.webp",
+    "source_sha256": "bfe3ec89c6b8dcb0b0a34195a8d8fd0baa224e4bbc953c35c63d5cd98e89e485",
+    "webp_sha256": "75107ddbb9f6931f249b4574d1fb1d8598ee58be32603f0e71e2974ad503ce7c",
+    "style_25d": "soft shaded nose, cheeks and lips with blended skin highlights",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "right relaxed hand has five fingers; left brochure grip partly hides fingers; each hand connected to its corresponding shoulder",
+      "overlay_checked": false
+    }
+  },
+  "casual9": {
+    "status": "blocked_no_file",
+    "request_id": "428524d3-c110-4823-9a8a-6b96d6d24cb1",
+    "reason": "output moderation_blocked",
+    "attempts_this_redesign": 1
+  },
+  "planning_note": "Planner draft REPLAN changed outfit categories, so it was not submitted. Original wardrobe categories retained; only directly user-requested composition and scene context were redesigned."
+}
