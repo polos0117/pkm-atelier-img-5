@@ -1,0 +1,158 @@
+[
+ {
+  "slot": "light",
+  "file": "에이팜_light_anime_25d_gloss_f.webp",
+  "original_sha256": "9a4b8ec5d53f6e5da54e7751f21594ef44f9147515161257a4b3f2af29d208c7",
+  "webp_sha256": "d18cbd0d220a7c9e85856de04c4981169c73cf57eeccc19afaa156a59ae523c3",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "none",
+  "submitted_sha256": "db1fb73d4b72305e8cc431450322ddf0234f090d248c80a78fbcbf71b7fab89f",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual1",
+  "file": "에이팜_anime_25d_gloss_f_casual1.webp",
+  "original_sha256": "813c4f05a885f7ed799419bec6f7102aec44c1ccebbf52bd5b97eba9a6820db7",
+  "webp_sha256": "d3a172037a3f77d513ab9ae0be1d1168eef72a4bf66ac4c063b3f5d942f86211",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "2c6895891964277ff711738ea868b43888bc2f4a0cabb4457b761f809c829f3a",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "file": "에이팜_anime_25d_gloss_f_casual2.webp",
+  "original_sha256": "49dca271252b4c7394a9ff80b55108bf80af026039c4c2beb71cf3361becaefa",
+  "webp_sha256": "b5618fc9405c1b056455cf9d25087b36d92bb34dcc701d3083d68bd340a90cd4",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "b73275790bd183f986ed28b0adb3ec4b2b8b775ff68429e9f3873491d2de6660",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "file": "에이팜_anime_25d_gloss_f_casual3.webp",
+  "original_sha256": "a8d2d439692d54fb0bc26c0165e4f0cae8c85dd94b3d838c862b76b9d5bf8826",
+  "webp_sha256": "4adfdf1ae2c66f3644a8e217df71f0915361f7cf46b27a33801b5908816c39e9",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "f255cbbbd8762a05b5077c65fe8a2d7adf773c83eab8edb6a656780e97485375",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual4",
+  "file": "에이팜_anime_25d_gloss_f_casual4.webp",
+  "original_sha256": "ca4dff66f391e430b619ed188052377f6a02c89e155cad7c559e337928a8dcbb",
+  "webp_sha256": "055803aec8fc0b95c8615910ece8bbc72ae4bf6ed883434931d89e4bf8590e66",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "797098c20c9f86aefd78882cfbd93d4091d3898bfc296aae89b5f02d1e4fda67",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual5",
+  "file": "에이팜_anime_25d_gloss_f_casual5.webp",
+  "original_sha256": "6e46e6d22018515c5f46d63ae4ab60fa0964cbc00c962e071ba030493351e66f",
+  "webp_sha256": "cc9019711d4b3e5ef0ae7370c7ff46fd290259c2d4cf54990a1a8cc74e5d6355",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "5d07eeec90afa773f0e94ea59b45d21eb2b6d6ac9f94d8960ca36cc65b04f5a5",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual6",
+  "file": "에이팜_anime_25d_gloss_f_casual6.webp",
+  "original_sha256": "8e51c479e05baf8d4280698be5a899774c0205b4f97c97d9ceaa8c16b4bc3437",
+  "webp_sha256": "e2a965d0929eb812c0bad82509aaddea4f083b8f863afab399cda94a32903dd5",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "addacb3f2af719f94ce6c90964105e504c5ad5ed13587814b42f6582077b204b",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual7",
+  "file": "에이팜_anime_25d_gloss_f_casual7.webp",
+  "original_sha256": "393a1c4942c1c45a29279bd47f49d0f19f27d06a589d81033c65e565dd4c725e",
+  "webp_sha256": "705b62b5c9150f29cea73e45bc9932f353c925f20b966c3a82b52050b3564204",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "e8632be66c54070c54a26fc21ba9db3b72fe8b13b3b090233572035ee311a37d",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual9",
+  "file": "에이팜_anime_25d_gloss_f_casual9.webp",
+  "original_sha256": "89f053f6228131e8c9ce8c09884bbc8804244c58e326c6ac80c383390809a31b",
+  "webp_sha256": "5bca13f6dbfd8e3d2ee83c9451de5f949283d60d44a298ce247ada3d57fc5335",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "e977b4e20093a12f8ebdc5c1ec723f6f334266218aa5111bb01f61aee1724f2a",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual10",
+  "file": "에이팜_anime_25d_gloss_f_casual10.webp",
+  "original_sha256": "e4973de0a8adeac8b75cf2c8e907f116a4a8f6cbb2ac027a53a9b1b05adaa80c",
+  "webp_sha256": "703bc651be0fc768b67f8a8de5abc2d9a994c5de3622d78d7184fec1ba2edad5",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "da7a72bd9df8711dd9c427f66a8cb64a01b9a9c741959d53290221df5eea731c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual90",
+  "file": "에이팜_anime_25d_gloss_f_casual90.webp",
+  "original_sha256": "6049308bfc4662d2951ed5cf5db8b1dd4a007e8736836d3a8314e71751f34ca9",
+  "webp_sha256": "488f6a2e5ceb330200ac52d6ef75745c165089beda6c74c7d710295d15aad4e4",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "bc774b648d3bccbb939dd08a93cd5813629277ce9ff9d7e14ebc861487b5616c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual8",
+  "file": "에이팜_anime_25d_gloss_f_casual8.webp",
+  "original_sha256": "af1f975a5175e473b28f20bc2726167837395eeab92131557f7bfed93dc610a3",
+  "webp_sha256": "961700d67d8a3524eb5fd1253763539cf9f04d55e694ca6c135bde59ab52124b",
+  "size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha 1",
+  "submitted_sha256": "9d5ed1e9e274c0baae6da7406780fa68c9c4b9eb827eb0f6f709574a179c73be",
+  "submitted_same": true
+ }
+]

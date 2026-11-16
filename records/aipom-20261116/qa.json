@@ -1,0 +1,133 @@
+{
+ "card": "에이팜",
+ "selected_mecha": 1,
+ "style": "anime_25d_gloss",
+ "counts": {
+  "light": 1,
+  "casual": 10,
+  "own": 1,
+  "total": 12
+ },
+ "anatomy": {
+  "tool": "unavailable: mediapipe is not installed",
+  "method": "visual review of all images and final contact sheet; cropped/gripping fingers reviewed in context"
+ },
+ "policy": "All returned images preserved. No returned image regenerated for exposure censorship. Only unavailable outputs retried; casual6 successful exposure low, casual8 replanned to mini dress after no output at bold/moderate/low.",
+ "comparison": {
+  "recent": [
+   "skiploom",
+   "hoppip",
+   "jumpluff",
+   "politoed"
+  ],
+  "free_scene_changes": [
+   "carnival ball run: new activity/outfit/posture/environment",
+   "hotel miniature bowling: new activity/outfit/posture/environment"
+  ],
+  "own_fix": "stand_inspect replaces invalid pocket_look, scene line agrees with relaxed other hand"
+ },
+ "slots": {
+  "light": {
+   "visual_evidence": "Purple asymmetrical twin tails, purple eyes, beige/purple thin segmented armor, both arms and legs connected; relaxed left fist and open right glove palm. Extra exposed areas beyond design preserved as generated.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": [
+    "preserved generated rendering; see visual_evidence"
+   ]
+  },
+  "casual1": {
+   "visual_evidence": "Yellow lace-trimmed opaque top on rainy yacht, phone in her right hand; right forearm connects to shoulder and left arm continues out of crop.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual2": {
+   "visual_evidence": "Brown aviatrix clothing and goggles at autumn camp, raised glove holds a red-and-white ball; shoulder and wrist connection visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual3": {
+   "visual_evidence": "Carnival attendant crouches beside wooden ball track; both arms descend from shoulders, one hand hovers over track and one rests on knee; two boots planted.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual4": {
+   "visual_evidence": "Pink swimsuit at rainy balcony, both hands naturally wrap a small cup, two forearms connect to matching shoulders.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual5": {
+   "visual_evidence": "Black mechanic jumpsuit at train platform, right hand on headphones and left hand in pocket; arms continuous and no duplicated limb.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual6": {
+   "visual_evidence": "Aipom costume with fitted purple/beige bodysuit, shears and stems held in two gloved hands; side view, seated with knees together. Successful setting low; output reveals more than configured and is preserved.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": [
+    "preserved generated rendering; see visual_evidence"
+   ]
+  },
+  "casual7": {
+   "visual_evidence": "Black velvet/lace goth look at practice range; right hand V sign with natural folded fingers, left arm continues outside crop.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual8": {
+   "visual_evidence": "Vermont game cosplay in blue/white/gold mini dress on living-room sofa, right elbow raised with hand behind head and left hand holding closed book, connected arms; long legs and two boots visible. Source ear ornaments reappear and are retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": [
+    "preserved generated rendering; see visual_evidence"
+   ]
+  },
+  "casual9": {
+   "visual_evidence": "Original ivory and coral fitted outfit at snowy sky garden, one foot on stair, right hand at hip and left hand by thigh; five-finger hands, two connected legs.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual10": {
+   "visual_evidence": "Blue asymmetric top and ivory skorts while bowling, open right hand completes throw and left hand touches thigh, both legs planted; natural shoulder and wrist connections.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  },
+  "casual90": {
+   "visual_evidence": "Straw hat and picking apron in peach orchard; right hand holds peach with natural fingers, left arm hangs at her side; same purple eyes and twin tails.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft gradients on nose, cheeks, lips and chin; coloured delicate facial contours, glossy skin and dimensional textile/material shading."
+   },
+   "notes": []
+  }
+ }
+}

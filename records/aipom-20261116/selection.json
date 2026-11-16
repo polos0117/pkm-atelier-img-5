@@ -1,0 +1,36 @@
+{
+  "status": "selected",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "atelier",
+      "original": "/workspace/scratch/2ac7f23ad1a8/generated_images/exec-a71b4ff9-ccc1-4959-af9e-ebe86265449d.png",
+      "sha256": "9a4b8ec5d53f6e5da54e7751f21594ef44f9147515161257a4b3f2af29d208c7",
+      "prompt": "/workspace/scratch/2ac7f23ad1a8/aipom-pack/candidate1-prompt.txt"
+    },
+    {
+      "number": 2,
+      "design": "atelier",
+      "original": "/workspace/scratch/2ac7f23ad1a8/generated_images/exec-d4592823-28b2-43db-bf93-1c45b67094f8.png",
+      "sha256": "f95511c05e1f25c91cc8933aefae1b110fde3d8b1a1ab76aaf60d158dadb4550",
+      "prompt": "/workspace/scratch/2ac7f23ad1a8/aipom-pack/candidate2-prompt.txt"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/2ac7f23ad1a8/generated_images/exec-b086a595-08d0-40eb-8b13-7b78af65b6d8.png",
+      "sha256": "1806a3d0677e6a9086d1310daa864c37d90f6762ee299c322b2e57f2a3f254e4",
+      "prompt": "/workspace/scratch/2ac7f23ad1a8/aipom-pack/candidate3-prompt.txt"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/2ac7f23ad1a8/generated_images/exec-5d3ff32f-2fb4-4303-9d6a-906e946dda2e.png",
+      "sha256": "d63b7e162be93d794728bb0287b51892626e58e0e44e3a24b259f970db1f26b7",
+      "prompt": "/workspace/scratch/2ac7f23ad1a8/aipom-pack/candidate4-prompt.txt"
+    }
+  ],
+  "worktree": "/workspace/scratch/2ac7f23ad1a8/aipom",
+  "branch": "work/aipom-20261116",
+  "selected": 1
+}
