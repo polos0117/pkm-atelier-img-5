@@ -1,0 +1,14 @@
+{
+  "card": "헤라크로스",
+  "slot": "casual5",
+  "style": "glossy_promo",
+  "file": "헤라크로스_glossy_promo_f_casual5.webp",
+  "shard": 4,
+  "width": 1024,
+  "height": 1536,
+  "format": "WEBP",
+  "original_sha256": "e0b290659610b380e35436081d892d359d15a9ae6e415a35c2edb30367e5cd32",
+  "sha256": "3af284f7a36d59ba3f514865a710228c4ae4aede70d3d8a98d6e1a4013aa65f0",
+  "submitted_sha256": "b46a27792dc69b41a3548fce4d2ddefb58070da9841ea11b0a49a7ff16798f26",
+  "original_png_uploaded": false
+}

@@ -1,0 +1,19 @@
+{
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Raised right hand has five distinct fingers; left hand at hip has four fingers with thumb partly hidden against waist. Both hands connect through wrists and elbows to shoulders.",
+    "overlay_checked": false,
+    "issue": "ok"
+  },
+  "style_25d": {
+    "judgment": "match",
+    "evidence": "Soft nose and jaw shadows; colored fine facial contours and layered hair highlights. Glossy stage fabric has separate dimensional folds."
+  },
+  "notes": [
+    "Full head, hands and boots visible.",
+    "Hair and amber eye color match selected mecha 3.",
+    "Stage costume completed with opaque tights; result retained without recreation."
+  ]
+}
