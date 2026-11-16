@@ -1,0 +1,175 @@
+{
+  "card": "왕자리",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "requested": {
+    "light": 1,
+    "casual": 10,
+    "own": 1
+  },
+  "policy": "Generated images preserved; no exposure-based regeneration.",
+  "anatomy_tool": "unavailable: mediapipe missing; visually reviewed",
+  "cuts": {
+    "light": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual1": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual2": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual3": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual4": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual5": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual6": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual7": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual8": {
+      "status": "blocked_no_image_returned",
+      "request_id": "0eb0f2e6-2fe0-4b1c-a7ca-07524186061a",
+      "reason": "Image tool safety rejection at output stage, category sexual. No image returned. No regeneration per user instruction."
+    },
+    "casual9": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual10": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    },
+    "casual90": {
+      "status": "visually_checked",
+      "style_25d": {
+        "result": "consistent",
+        "evidence": "Soft dimensional nose, cheek, lip and chin shading, fine colored contours and glossy skin gradients matching selected reference."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": "2 connected; may continue naturally outside specified crop",
+        "legs": "2; hidden by crop for close portraits",
+        "hands": "Five-digit anatomy; partial grips, pocket and head support may occlude fingers."
+      }
+    }
+  },
+  "completed": 11,
+  "requested_total": 12
+}

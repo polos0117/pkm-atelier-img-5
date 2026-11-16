@@ -1,0 +1,112 @@
+[
+  {
+    "slot": "light",
+    "original_sha256": "4705190e88968909b6057bd91e37e7017bf154683fe55b02572e29022b8e8243",
+    "file": "왕자리_light_anime_25d_gloss_f.webp",
+    "webp_sha256": "69d61db4d88dfe72ee4b1a72bd8415584041a0763c3d4f1e8eb553bb25aa756a",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual1",
+    "original_sha256": "afb700c1f8385500c8ca2357e6c00d987e193697dc91b82df5be405cecb6b873",
+    "file": "왕자리_anime_25d_gloss_f_casual1.webp",
+    "webp_sha256": "d6741d0df3f0dd785cca71586e9a9cda6c6799c4d792924cfae99d79d1e5c785",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual2",
+    "original_sha256": "6ec6ab842ad8eb11487b94ca1e3951f8bd1ea415469bf7421d149d7fb40de34b",
+    "file": "왕자리_anime_25d_gloss_f_casual2.webp",
+    "webp_sha256": "7945c5da7db3ba1e80b8bcc6d026fab2a730b01f0c4bc16c06ba7af09cebd90e",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual3",
+    "original_sha256": "3c2c9a2cda493ba06277b82ff7baabd1ed83501168df156e9b829fc8096222ca",
+    "file": "왕자리_anime_25d_gloss_f_casual3.webp",
+    "webp_sha256": "2f5a81bca541b038bdc4d986d85e9b703ae9a491f4a5267fb8d2ec230d0c8195",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual4",
+    "original_sha256": "4e1b678a5c770afb4b8b3c24dec5f7f0f66eb69b814e93eee0b52d360bb75be1",
+    "file": "왕자리_anime_25d_gloss_f_casual4.webp",
+    "webp_sha256": "8e7650d44771c3cc24e02f9b9c8b4d5fe0c4a7c579317f95bb3f638869554b24",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual5",
+    "original_sha256": "b36743a3b260b726de0cd4e2aa31cb4549bc09d706e31ebd86968613899e3bdd",
+    "file": "왕자리_anime_25d_gloss_f_casual5.webp",
+    "webp_sha256": "c115b8a386a05357d21e0cfb380237c69abc98b51e5bb7a0aa7a2e470a68dcd5",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual6",
+    "original_sha256": "e16faa55704e3b3dd253cc427f80dc198bae7dc832e00a0e24b023037ab1bce9",
+    "file": "왕자리_anime_25d_gloss_f_casual6.webp",
+    "webp_sha256": "68a0962dd74619992ecd52d6485254aaef461ab530885993578d1d41612d94f6",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual7",
+    "original_sha256": "45031ee9578d86412db00321c9acc043a0c2bd2d7537014157915e7d1058e592",
+    "file": "왕자리_anime_25d_gloss_f_casual7.webp",
+    "webp_sha256": "30b3875248531386ff0a737609e3296f11b1b673ae2f533e4b5f7e4f1ab7ca95",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual9",
+    "original_sha256": "4c6b6b3bdc65d9305d3d693ff75163d955e54d9922d8c9065a1740d437a27e8a",
+    "file": "왕자리_anime_25d_gloss_f_casual9.webp",
+    "webp_sha256": "c3049301d9abc5d35bf6900236c8732d3b216cdf79bc78f347874536aaebb1eb",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual10",
+    "original_sha256": "2f05c5afc7c00344815e29aff06687952bf0ad99bafe9018395838bc207d2a0b",
+    "file": "왕자리_anime_25d_gloss_f_casual10.webp",
+    "webp_sha256": "a0aa84835b31c89cb92aa5002f12dbc3a220152e4601d2943ca79c455dfc7a95",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual90",
+    "original_sha256": "be308cc7645439c23334d1e77f98b3938a2dc5fefff806216319ac88b0ba3acd",
+    "file": "왕자리_anime_25d_gloss_f_casual90.webp",
+    "webp_sha256": "ba56f17673ae59cf7dfa8538e04ad62801cf7adbb7073d0855c8e2b774ab3c71",
+    "size": [
+      1024,
+      1536
+    ]
+  }
+]

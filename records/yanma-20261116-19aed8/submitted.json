@@ -1,0 +1,104 @@
+{
+  "light": [
+    {
+      "slot": "light",
+      "at": "2026-11-16T05:46:02.241Z",
+      "prompt_sha256": "6ce4b3bc4ebe73a596c42dd6b32983d470e5cb472ef603db53a580a51cb0c883",
+      "submitted_sha256": "6ce4b3bc4ebe73a596c42dd6b32983d470e5cb472ef603db53a580a51cb0c883",
+      "same": true,
+      "prompt_words": 978,
+      "submitted_words": 978,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual1": {
+    "submitted_sha256": "3363a9109a4eab42f31701ff0a5ad0853fe47571f55764dfedaf277e646d42c3",
+    "prompt_sha256": "3363a9109a4eab42f31701ff0a5ad0853fe47571f55764dfedaf277e646d42c3",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual2": {
+    "submitted_sha256": "5c05e858cead963b29ccca11cc5aebaf36795b9fab1b1445382958a510e68d7b",
+    "prompt_sha256": "5c05e858cead963b29ccca11cc5aebaf36795b9fab1b1445382958a510e68d7b",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual3": {
+    "submitted_sha256": "4d5661fb17ee4c6fb8f59b9267ddb638b24bf5dabd10da7b9c24444dcffc4d5c",
+    "prompt_sha256": "1d3c48eb5fc6797f4138aeabba24c7edbbb9aa3de87dbe7f2aee5d8942c2640c",
+    "same": false,
+    "authorized_design_exception": true,
+    "reason": "free scene/outfit design per IMAGE_RULES",
+    "reference": "candidate-2/original.png"
+  },
+  "casual4": {
+    "submitted_sha256": "d5362afc9afef1bee1d4cd83d9445224379ebd3de753e48836908cb6773b1f3e",
+    "prompt_sha256": "d5362afc9afef1bee1d4cd83d9445224379ebd3de753e48836908cb6773b1f3e",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual5": {
+    "submitted_sha256": "afc00cec526242f0ebcd5945bee8f41836263b4623e23ac3f9c99faf90d9378d",
+    "prompt_sha256": "beebc174fbbe4e8f2e16140a93deca3627635e7caa7c3143d630e20b4193a288",
+    "same": false,
+    "authorized_design_exception": true,
+    "reason": "free scene/outfit design per IMAGE_RULES",
+    "reference": "candidate-2/original.png"
+  },
+  "casual6": {
+    "submitted_sha256": "4e1c30e699aaef4087da2c91b0daea30fb018f3b6bf2205c250602b3e149c709",
+    "prompt_sha256": "4e1c30e699aaef4087da2c91b0daea30fb018f3b6bf2205c250602b3e149c709",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual7": {
+    "submitted_sha256": "5d1bc09bfbea224103fe17f67fb1bfa1257e9ac2f38ed746cfc9f5339fe82914",
+    "prompt_sha256": "2854beb5fb80acb1f75c83f178b78788896ce96dcfe0b5e06796572bfc4e3dbd",
+    "same": false,
+    "authorized_design_exception": true,
+    "reason": "free scene/outfit design per IMAGE_RULES",
+    "reference": "candidate-2/original.png"
+  },
+  "casual8": {
+    "submitted_sha256": "3cb49b1f5e5b499ecabb5dc2afb6b6dd3b1940ce31c21074a2d88dca636c1551",
+    "prompt_sha256": "3cb49b1f5e5b499ecabb5dc2afb6b6dd3b1940ce31c21074a2d88dca636c1551",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual9": {
+    "submitted_sha256": "cda781dd5f2df2d3ce56465628582f49f9d432b7465caca99f69fb9879c8674b",
+    "prompt_sha256": "cda781dd5f2df2d3ce56465628582f49f9d432b7465caca99f69fb9879c8674b",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual10": {
+    "submitted_sha256": "d89e3327c0f915b36ddfee902b823480f3e12f4eb4cefd4cfde78315df687bb3",
+    "prompt_sha256": "d89e3327c0f915b36ddfee902b823480f3e12f4eb4cefd4cfde78315df687bb3",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  },
+  "casual90": {
+    "submitted_sha256": "7d8383a1b65675075b968c83691419ae6b1553dbcab6d64a9500795336dd0677",
+    "prompt_sha256": "7d8383a1b65675075b968c83691419ae6b1553dbcab6d64a9500795336dd0677",
+    "same": true,
+    "authorized_design_exception": false,
+    "reason": "",
+    "reference": "candidate-2/original.png"
+  }
+}

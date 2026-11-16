@@ -1,0 +1,18 @@
+{
+  "3": {
+    "reason": "Authorized free-scene design under IMAGE_RULES: catalogue reviewed, scene and outfit invented; fixed outside-SCENE rules retained.",
+    "design": "gpt_free"
+  },
+  "5": {
+    "reason": "Authorized free-outfit substitution in Outfit line only after reading outfit-catalog.md.",
+    "design": "gpt_outfit"
+  },
+  "7": {
+    "reason": "Authorized free-scene design under IMAGE_RULES: catalogue reviewed, scene and outfit invented; fixed outside-SCENE rules retained.",
+    "design": "gpt_free"
+  },
+  "selected": {
+    "candidate": 2,
+    "original": "candidate-2/original.png"
+  }
+}
