@@ -1,0 +1,103 @@
+{
+  "card": "왕구리",
+  "selected": 2,
+  "status": "generated_12_ready_to_publish",
+  "images": [
+    {
+      "slot": "light",
+      "file": "왕구리_light_anime_25d_gloss_f.webp",
+      "sha256": "4924bee820500ed8b29f6ad5a3dd43af9965cedc981510d3989f90e1176b4f46",
+      "original_sha256": "a583b78012c988db2a07253d233217a8aba0e041689168172c44fcc986b1258b",
+      "submitted_sha256": "740a60338925e89727736364d51d00f3cdb0130a79f2077def35068ed39397a2",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual1",
+      "file": "왕구리_anime_25d_gloss_f_casual1.webp",
+      "sha256": "f0af71e76577432f8885f1678f602a4bdb3ad473b4a919b35324adb92397dfe0",
+      "original_sha256": "15b20a218e12d069dab4904b2f01766731f0b4fd081045e9dbf7326ba8074619",
+      "submitted_sha256": "eb8a4204df9be6b114737bb9853c70fae04e0dee70d7d4ef73e9277833707c52",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual2",
+      "file": "왕구리_anime_25d_gloss_f_casual2.webp",
+      "sha256": "d03d210ae2806bafa305e6368a6aecbd54f67f23e51b2ca90660ace7e805c8ef",
+      "original_sha256": "184bb033662e082b921288606fb84b985b23fdd64f74658d8755794e55289eb8",
+      "submitted_sha256": "8cf166ecb29073db8057b6dfcb317f17571a347779cba882273fb55833542919",
+      "submitted_same": false
+    },
+    {
+      "slot": "casual3",
+      "file": "왕구리_anime_25d_gloss_f_casual3.webp",
+      "sha256": "54c6832fc14d0a6031e5c35fec428fcfb8e084dc86e05607a51286ced3ae52b1",
+      "original_sha256": "1c6a3284d088e21253453c92ac2f622b5bbc3f0e36bb17532f4f539dcc7f28bd",
+      "submitted_sha256": "bed2fe82ace1af4f0dad2a4d0d9f119fa6a6651939c4bafeb70fd13a7c9a1de0",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual4",
+      "file": "왕구리_anime_25d_gloss_f_casual4.webp",
+      "sha256": "7dea1a1e0fd0e585f3138561e9bf72e10379ddd136f6f79708c1ca15e1cd56cf",
+      "original_sha256": "ddca297c4e6a5bcd9f2c67df45bd0a71fba2763ac34108b2948d5f8bbe9c6c12",
+      "submitted_sha256": "4ec71b387674591e9f09aa99b4af909e0d3537bab5b02f1762507f656b534b4e",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual5",
+      "file": "왕구리_anime_25d_gloss_f_casual5.webp",
+      "sha256": "8b8fb75ec6ba664e9e5aa174d0cce03fd1ebffae67978cd93752063db3929e47",
+      "original_sha256": "456402ec593d3bf795d4658d68d87b79f7b1a3b7fae830bac00054bf46fb5725",
+      "submitted_sha256": "d70280d990067b83c288bb5fbeb385cc04ed6c84a2f06ff5b513b6191bb27081",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual6",
+      "file": "왕구리_anime_25d_gloss_f_casual6.webp",
+      "sha256": "fe75d992aacf4e06227130a432c7918fcf1477fe02b646ee87d08fef8a227dd7",
+      "original_sha256": "b0fb884e462c7791e52c469e12e18427886c15eeb3cd71192eb7f6632ddf7eab",
+      "submitted_sha256": "f25aae73369140a86dd88e37d7d2489872ce5b75b7e2b884176bf1c591b01409",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual7",
+      "file": "왕구리_anime_25d_gloss_f_casual7.webp",
+      "sha256": "d9a41d5b2c015121e27131c469813136625d796474c73c50f8a7c93539acab0f",
+      "original_sha256": "82b9e9e0042d4838a78d749e32ba4f2af44b2dcc672b13aaec4b9254e9cd8007",
+      "submitted_sha256": "eda864d0db7a708b28f317dfdbddacfd69c0b213696981eac612b4340d62af12",
+      "submitted_same": false
+    },
+    {
+      "slot": "casual8",
+      "file": "왕구리_anime_25d_gloss_f_casual8.webp",
+      "sha256": "e7802efc7856518a6b311f166950a192f396337122ba18f09b48d452d967519f",
+      "original_sha256": "329f3bcb25734cf1f3276d4b69d323972159133013fc8ea63e67b10663724790",
+      "submitted_sha256": "118dc1c9ed013742a9a6ac7c6dbb7ac8c93a4dcabfed81a171d300baee05ab04",
+      "submitted_same": false
+    },
+    {
+      "slot": "casual9",
+      "file": "왕구리_anime_25d_gloss_f_casual9.webp",
+      "sha256": "bcc30252b64010ea5648be2dd634faf95d98903858f1d133d714c956724ecb68",
+      "original_sha256": "1a705960930450fb98eb9bcee1e1a8717a836aaa3594c362c2a9c381298b9655",
+      "submitted_sha256": "40e51685dff5d14140bdc93555e672f838be96a6fd17dda84e147fb13f663834",
+      "submitted_same": false
+    },
+    {
+      "slot": "casual10",
+      "file": "왕구리_anime_25d_gloss_f_casual10.webp",
+      "sha256": "8fe34585a16525ecbb80f7f172860801802538cf25fa71e03b8b1e4376ade86a",
+      "original_sha256": "8873c223013a294fef9bc49bd8348df99f24906f47f39f00d3a440b8f3ea395e",
+      "submitted_sha256": "e7a0c6f1d1b66f480975385a6139c7dec8426aeb2ab96ad9276f2b2f5557be8a",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual90",
+      "file": "왕구리_anime_25d_gloss_f_casual90.webp",
+      "sha256": "b1c16f9f63e6f4c075a4e5000ee92805e66285e68a7d84bbecd8cbea5d4f883a",
+      "original_sha256": "d5a2d9c48f18d913f8c8140b60a187abac6eb23e0839330abfd9ff83fe360b11",
+      "submitted_sha256": "c75b526a35082d8cb7dc65ec221cbca26423476f4be07341a74402677e1c4471",
+      "submitted_same": true
+    }
+  ]
+}

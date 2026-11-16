@@ -1,0 +1,379 @@
+{
+  "card": "왕구리",
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "reference_sha256": "a583b78012c988db2a07253d233217a8aba0e041689168172c44fcc986b1258b",
+  "comparison": [
+    "꼬지모",
+    "마릴",
+    "마릴리"
+  ],
+  "policy": "All generated images retained; no regeneration for exposure. Authorized free outfit, cosplay insertion and free scene exceptions logged. CLI push failed authentication; connected GitHub non-force publication planned.",
+  "cuts": [
+    {
+      "slot": "light",
+      "file": "왕구리_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "a583b78012c988db2a07253d233217a8aba0e041689168172c44fcc986b1258b",
+      "sha256": "4924bee820500ed8b29f6ad5a3dd43af9965cedc981510d3989f90e1176b4f46",
+      "submitted_sha256": "740a60338925e89727736364d51d00f3cdb0130a79f2077def35068ed39397a2",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "전신, 고리 트윈테일·녹색 눈. 오른쪽 펼친 손과 왼쪽 느슨한 주먹이 각각 팔에 연결. 허벅지 개방은 원본 그대로 보존."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "전신, 고리 트윈테일·녹색 눈. 오른쪽 펼친 손과 왼쪽 느슨한 주먹이 각각 팔에 연결. 허벅지 개방은 원본 그대로 보존.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual1",
+      "file": "왕구리_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "15b20a218e12d069dab4904b2f01766731f0b4fd081045e9dbf7326ba8074619",
+      "sha256": "f0af71e76577432f8885f1678f602a4bdb3ad473b4a919b35324adb92397dfe0",
+      "submitted_sha256": "eb8a4204df9be6b114737bb9853c70fae04e0dee70d7d4ef73e9277833707c52",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "야시장 메이드. 가까운 팔의 손은 가방 끈을 잡고, 반대 손은 난간에 짚는다. 손가락 일부는 끈에 가림."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "야시장 메이드. 가까운 팔의 손은 가방 끈을 잡고, 반대 손은 난간에 짚는다. 손가락 일부는 끈에 가림.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual2",
+      "file": "왕구리_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "184bb033662e082b921288606fb84b985b23fdd64f74658d8755794e55289eb8",
+      "sha256": "d03d210ae2806bafa305e6368a6aecbd54f67f23e51b2ca90660ace7e805c8ef",
+      "submitted_sha256": "8cf166ecb29073db8057b6dfcb317f17571a347779cba882273fb55833542919",
+      "submitted_same": false,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "나무열매 주방. 의자에 앉아 양손을 탁자 위에 놓는다. 예정한 등쪽 구도보다 정면에 가까움."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "나무열매 주방. 의자에 앉아 양손을 탁자 위에 놓는다. 예정한 등쪽 구도보다 정면에 가까움.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual3",
+      "file": "왕구리_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "1c6a3284d088e21253453c92ac2f622b5bbc3f0e36bb17532f4f539dcc7f28bd",
+      "sha256": "54c6832fc14d0a6031e5c35fec428fcfb8e084dc86e05607a51286ced3ae52b1",
+      "submitted_sha256": "bed2fe82ace1af4f0dad2a4d0d9f119fa6a6651939c4bafeb70fd13a7c9a1de0",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "라군 데크의 코럴 란제리풍 의상. 한 손은 턱 아래, 반대 손은 데크 위; 각 어깨부터 손목 연결 보임."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "라군 데크의 코럴 란제리풍 의상. 한 손은 턱 아래, 반대 손은 데크 위; 각 어깨부터 손목 연결 보임.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual4",
+      "file": "왕구리_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "ddca297c4e6a5bcd9f2c67df45bd0a71fba2763ac34108b2948d5f8bbe9c6c12",
+      "sha256": "7dea1a1e0fd0e585f3138561e9bf72e10379ddd136f6f79708c1ca15e1cd56cf",
+      "submitted_sha256": "4ec71b387674591e9f09aa99b4af909e0d3537bab5b02f1762507f656b534b4e",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "기차 플랫폼의 전통풍 차림 얼굴 근접. 양어깨와 위팔이 자연스럽게 크롭 밖으로 이어짐."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "기차 플랫폼의 전통풍 차림 얼굴 근접. 양어깨와 위팔이 자연스럽게 크롭 밖으로 이어짐.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual5",
+      "file": "왕구리_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "456402ec593d3bf795d4658d68d87b79f7b1a3b7fae830bac00054bf46fb5725",
+      "sha256": "8b8fb75ec6ba664e9e5aa174d0cce03fd1ebffae67978cd93752063db3929e47",
+      "submitted_sha256": "d70280d990067b83c288bb5fbeb385cc04ed6c84a2f06ff5b513b6191bb27081",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "욕실의 민트 수영복 얼굴 근접. 양어깨에서 위팔이 이어져 프레임 아래로 나간다. 손은 프레임 밖."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "욕실의 민트 수영복 얼굴 근접. 원본 별도 확인.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual6",
+      "file": "왕구리_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "b0fb884e462c7791e52c469e12e18427886c15eeb3cd71192eb7f6632ddf7eab",
+      "sha256": "fe75d992aacf4e06227130a432c7918fcf1477fe02b646ee87d08fef8a227dd7",
+      "submitted_sha256": "f25aae73369140a86dd88e37d7d2489872ce5b75b7e2b884176bf1c591b01409",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "눈 내리는 공항의 왕구리 크롭 코스튬. 두 장갑손이 각각 아래팔에 이어짐; 굽힌 손가락 일부 가림."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "눈 내리는 공항의 왕구리 크롭 코스튬. 두 장갑손이 각각 아래팔에 이어짐; 굽힌 손가락 일부 가림.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual7",
+      "file": "왕구리_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "82b9e9e0042d4838a78d749e32ba4f2af44b2dcc672b13aaec4b9254e9cd8007",
+      "sha256": "d9a41d5b2c015121e27131c469813136625d796474c73c50f8a7c93539acab0f",
+      "submitted_sha256": "eda864d0db7a708b28f317dfdbddacfd69c0b213696981eac612b4340d62af12",
+      "submitted_same": false,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "달 장식 니트 코스프레. 의자 양팔걸이 위 양손, 무릎과 발목 연결 정상."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "달 장식 니트 코스프레. 의자 양팔걸이 위 양손, 무릎과 발목 연결 정상.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null,
+        "cosplay": {
+          "game": "world_of_warcraft",
+          "character": "Tyrande Whisperwind",
+          "cut": "knit"
+        }
+      }
+    },
+    {
+      "slot": "casual8",
+      "file": "왕구리_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "329f3bcb25734cf1f3276d4b69d323972159133013fc8ea63e67b10663724790",
+      "sha256": "e7802efc7856518a6b311f166950a192f396337122ba18f09b48d452d967519f",
+      "submitted_sha256": "118dc1c9ed013742a9a6ac7c6dbb7ac8c93a4dcabfed81a171d300baee05ab04",
+      "submitted_same": false,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "가을 강가 물수제비. 한 팔은 앞으로 뻗고 반대 손은 마른 계단을 짚음. 양다리·운동화 연결 정상."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "가을 강가 물수제비. 한 팔은 앞으로 뻗고 반대 손은 마른 계단을 짚음. 양다리·운동화 연결 정상.",
+      "generation": {
+        "design": "gpt_free",
+        "free_prompt": "casual8-submitted.txt"
+      }
+    },
+    {
+      "slot": "casual9",
+      "file": "왕구리_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "1a705960930450fb98eb9bcee1e1a8717a836aaa3594c362c2a9c381298b9655",
+      "sha256": "bcc30252b64010ea5648be2dd634faf95d98903858f1d133d714c956724ecb68",
+      "submitted_sha256": "40e51685dff5d14140bdc93555e672f838be96a6fd17dda84e147fb13f663834",
+      "submitted_same": false,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "피아노 연습실의 휴식. 한 팔은 몸 옆으로 내려오고 반대 손은 벤치에 짚음."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "피아노 연습실의 휴식. 한 팔은 몸 옆으로 내려오고 반대 손은 벤치에 짚음.",
+      "generation": {
+        "design": "gpt_free",
+        "free_prompt": "casual9-submitted.txt"
+      }
+    },
+    {
+      "slot": "casual10",
+      "file": "왕구리_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "8873c223013a294fef9bc49bd8348df99f24906f47f39f00d3a440b8f3ea395e",
+      "sha256": "8fe34585a16525ecbb80f7f172860801802538cf25fa71e03b8b1e4376ade86a",
+      "submitted_sha256": "e7a0c6f1d1b66f480975385a6139c7dec8426aeb2ab96ad9276f2b2f5557be8a",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "야간 택시 신부 차림 얼굴 근접. 양어깨와 위팔이 프레임 아래로 자연스럽게 이어짐."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "야간 택시 신부 차림 얼굴 근접. 양어깨와 위팔이 프레임 아래로 자연스럽게 이어짐.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    },
+    {
+      "slot": "casual90",
+      "file": "왕구리_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "d5a2d9c48f18d913f8c8140b60a187abac6eb23e0839330abfd9ff83fe360b11",
+      "sha256": "b1c16f9f63e6f4c075a4e5000ee92805e66285e68a7d84bbecd8cbea5d4f883a",
+      "submitted_sha256": "c75b526a35082d8cb7dc65ec221cbca26423476f4be07341a74402677e1c4471",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 광택, 가는 색 윤곽 확인"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed; visually inspected",
+        "issue": "ok",
+        "evidence": "도자기 선반 앞 유약 장인. 양손을 가슴 앞에 깍지낌. 손가락 일부 서로 가림, 두 손목과 팔 연결 보임."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "2번의 녹색 고리 트윈테일·녹색 눈·작고 부드러운 턱선 대조"
+      },
+      "note": "도자기 선반 앞 유약 장인. 양손을 가슴 앞에 깍지낌. 손가락 일부 서로 가림, 두 손목과 팔 연결 보임.",
+      "generation": {
+        "design": "preset",
+        "free_prompt": null
+      }
+    }
+  ]
+}
