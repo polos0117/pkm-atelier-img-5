@@ -1,0 +1,14 @@
+{
+ "casual3": [
+  {
+   "error": "moderation_blocked output sexual",
+   "request_id": "a82fc6fb-7b99-4ff7-aa84-227f8036d7db",
+   "image_returned": false
+  }
+ ],
+ "casual4": [
+  {
+   "error": "Orchestrator ended on another request error before this call returned; no image on disk or result available."
+  }
+ ]
+}

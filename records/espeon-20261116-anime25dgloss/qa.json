@@ -1,0 +1,120 @@
+{
+ "card": "에브이",
+ "style": "anime_25d_gloss",
+ "selected_mecha": 4,
+ "source_count": 12,
+ "anatomy": {
+  "tool": "unavailable: mediapipe not installed",
+  "method": "visual review of each returned full image; hands and limbs traced to visible shoulders; cropped/occluded digits not invented as verified"
+ },
+ "cuts": {
+  "light": {
+   "anatomy": "Both arms attach naturally; relaxed gloves, five fingers where visible. Two legs, ring units separate from limbs.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual1": {
+   "anatomy": "Right hand grips ball; left arm exits crop. Lower body outside chest-up framing.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual2": {
+   "anatomy": "Right hand peace gesture, folded digits naturally occluded; other arm leaves crop.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual3": {
+   "anatomy": "One hand holds stemmed glass, opposite hand rests on knee. Seated crossed legs trace naturally. Actual face is more front-facing than planned profile.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual4": {
+   "anatomy": "Raised open hand has five separated digits; other arm exits crop; chest-up composition.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual5": {
+   "anatomy": "Both hands rest on pool edge; each joins its own forearm. Lower body under water.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual6": {
+   "anatomy": "Both hands wrap console, digits partly occluded by grip; forearms trace to shoulders.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual7": {
+   "anatomy": "Two arms meet in clasped hands, digits overlap naturally; two bent knees and feet visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual8": {
+   "anatomy": "Right hand holds ticket by thigh, left hand rests on seat; two legs visible, feet partially cropped.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual9": {
+   "anatomy": "One hand supports bowl, other rests on knee; two seated legs.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual10": {
+   "anatomy": "Both arms descend naturally, relaxed hands at thighs; both legs and boots visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  },
+  "casual90": {
+   "anatomy": "Hands clasp naturally in front of chest; no disconnected wrist or extra hand. Lower body cropped.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft dimensional shading on nose, cheeks, lips and chin; coloured fine contours, blended facial midtones and glossy skin highlights, matching selected reference."
+   },
+   "identity": "Lilac bob with side fringe and tucked braid, violet eyes, same adult face; original ornaments sometimes persist and are noted without regeneration.",
+   "generated_image_preserved": true
+  }
+ }
+}

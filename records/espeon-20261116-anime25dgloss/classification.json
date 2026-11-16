@@ -1,0 +1,170 @@
+[
+ {
+  "slot": "light",
+  "file": "에브이_light_anime_25d_gloss_f.webp",
+  "source_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629",
+  "webp_sha256": "8af112f50cfeff3cc2f5fc72ef21ddc156db76274b5e67423632d0074ba7baba",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual1",
+  "file": "에브이_anime_25d_gloss_f_casual1.webp",
+  "source_png_sha256": "ef23495bec9950c67bb2a1198ec7579bd72ebc608433cd7791fd94fe3df8e6d7",
+  "webp_sha256": "d4f1f4e1f91afbe1a4a096eb367c767b9015506a43fbf47e47c8ba2f7f444540",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual2",
+  "file": "에브이_anime_25d_gloss_f_casual2.webp",
+  "source_png_sha256": "037b835d2962f0d6cee9236c6838b2f05ef3a3e226b8cda8ce3dda22144580e3",
+  "webp_sha256": "a1977719ea22ae1aac772c725e00018448eb3d26fb066bf26d75d213065442b1",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual3",
+  "file": "에브이_anime_25d_gloss_f_casual3.webp",
+  "source_png_sha256": "46587051e78fce22b0e2da1350085fc72ae7639b63848e701d4d71da926662e8",
+  "webp_sha256": "4ee92eedacb82703b99876f4d2fd0f789b7f4c79e0e57a08ec76a374dedb8e84",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual4",
+  "file": "에브이_anime_25d_gloss_f_casual4.webp",
+  "source_png_sha256": "e9bbc119a2482cb45788e6cf7de0a449e23a952452aa6a9049cba5f5b522bab6",
+  "webp_sha256": "9f17e5527532640f10be1123d10cfe2caa4018a004b6cc52ed1050f821ad9d54",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual5",
+  "file": "에브이_anime_25d_gloss_f_casual5.webp",
+  "source_png_sha256": "9e7060d11d7335f804f22d35b3948a261e700006c72e4f86d5307137f826fabe",
+  "webp_sha256": "30b60de9df80783daf014a94c1f268da726c86e07be0f131879230df36bc1db9",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual6",
+  "file": "에브이_anime_25d_gloss_f_casual6.webp",
+  "source_png_sha256": "bc3ac951689431379b9c21670296ba86c7b1d776cf51bb1c03b6741a89f34783",
+  "webp_sha256": "be0186f8c130211de47b95de59d9e7bed23a4847d8baf30da25ae92518f6e3b5",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual7",
+  "file": "에브이_anime_25d_gloss_f_casual7.webp",
+  "source_png_sha256": "128d013a001fdb2de1e016b2bcaa9e61c20f90c83338bb625b4f845ad278adcc",
+  "webp_sha256": "c2645c38536c77965cbd47e500823c5a228f798e4b2790646c24dd46a324a468",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual8",
+  "file": "에브이_anime_25d_gloss_f_casual8.webp",
+  "source_png_sha256": "64270214f369392ebbe6fb39ee8c8cd806015f630970027b8d050605f4090b85",
+  "webp_sha256": "a2c3ab2ad15d474c06507fb62d609a564461882420250cf5e9d811e356c14085",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual9",
+  "file": "에브이_anime_25d_gloss_f_casual9.webp",
+  "source_png_sha256": "e539a90c31c3d66f736c2eed1dd6fdb75fa04191daa22b8bbec119fa96629266",
+  "webp_sha256": "d33917caeabb0a66ab83a1f9bf1a61ae35c274a66a6b00c473c5b69648628ed3",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual10",
+  "file": "에브이_anime_25d_gloss_f_casual10.webp",
+  "source_png_sha256": "6e5343f63f299ced909e7ec9afd7de2b10002a12317a523c9c7907ae75bd91ff",
+  "webp_sha256": "5b519fa2a4ab961dd611d8582601bfd233375d0b92c000612d41fbe700ad77cf",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ },
+ {
+  "slot": "casual90",
+  "file": "에브이_anime_25d_gloss_f_casual90.webp",
+  "source_png_sha256": "d486dd89c805cb72f37fa21c6e21d25cbb3d3472a26743de66e3ac35768333e2",
+  "webp_sha256": "fe5c8e74a51d6f58c1d97ae7e31178116c57607944c89316aa4b33e0db1fed67",
+  "pixels": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "card": "에브이",
+  "shard": 4,
+  "reference_png_sha256": "90791217c042be4c98262524d48ca2b62cdaf1e63d4129991695f331158c7629"
+ }
+]

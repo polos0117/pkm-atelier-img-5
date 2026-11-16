@@ -1,0 +1,79 @@
+{
+ "1": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "1fa2a7abfbd13d6aea2f80adb237a18cdac230bb541ebf803677fa5e8901f9ea"
+ },
+ "2": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "3b1359683cec7363a958b76705f85aa8ce871e0bf1f5e2f7afd21136987db5d6"
+ },
+ "3": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "d66f458004d1fddd797b128875bc99f532c1dde91b362e314a91f95c5325504f"
+ },
+ "4": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "0852357984f682623bb639f0d218b6366f57498c7485126e048e54eeec80fe8c"
+ },
+ "5": {
+  "same": false,
+  "authorized_free_design": true,
+  "reason": "Free-design instruction explicitly requires authoring SCENE after reading outfit catalog; fixed character, style and body paragraphs preserved.",
+  "style_kept": true,
+  "submitted_sha256": "27a48b4ff598f570561293a597f82d5fb9f5709800b2f59f1d20e9d75427fe48"
+ },
+ "6": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "e58e4dc7bd09573ea150af5aabcc315716642b9bd75ca863b97979b4acf9abf2"
+ },
+ "7": {
+  "same": false,
+  "authorized_free_design": true,
+  "reason": "Free-outfit instruction explicitly requires replacing its Outfit line with an original design absent from catalog.",
+  "style_kept": true,
+  "submitted_sha256": "9736d8b3da4d8ac421cfba94cfb88898e2ee580253710e558b83191083a28bd0"
+ },
+ "8": {
+  "same": false,
+  "authorized_free_design": true,
+  "reason": "Free-design instruction explicitly requires authoring SCENE after reading outfit catalog; fixed character, style and body paragraphs preserved.",
+  "style_kept": true,
+  "submitted_sha256": "8ab43509da353a5f64fb53e1a7991314aad2f28d30341b3d72e8a228588592b3"
+ },
+ "9": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "e9d5dfc2a2abbe2f71e0c49411154f3aedf478cfc6c23922b567bcbdc5827089"
+ },
+ "10": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "794274d4d898c0d9bf14efb2bf283d26a80407a8e4c2aa7cfe0db4b3b4135c07"
+ },
+ "90": {
+  "same": true,
+  "authorized_free_design": false,
+  "reason": "",
+  "style_kept": true,
+  "submitted_sha256": "974874ed21d4fdac2711e79ad2993bf7b3df5684ec7e778ebaf4653108e6b62e"
+ }
+}

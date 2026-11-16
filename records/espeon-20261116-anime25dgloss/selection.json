@@ -1,0 +1,29 @@
+{
+ "card": "에브이",
+ "style": "anime_25d_gloss",
+ "status": "selected",
+ "images": [
+  {
+   "number": 1,
+   "path": "/workspace/scratch/cb12a9effe5d/generated_images/exec-8dbeb609-2591-4dde-a714-8f371e7cde06.png",
+   "design": "standard"
+  },
+  {
+   "number": 2,
+   "path": "/workspace/scratch/cb12a9effe5d/generated_images/exec-d46ffd10-c216-40be-bd7c-3453a9fc88ff.png",
+   "design": "standard"
+  },
+  {
+   "number": 3,
+   "path": "/workspace/scratch/cb12a9effe5d/generated_images/exec-9dfd64aa-a560-4754-b0a1-c7e78fa613ed.png",
+   "design": "gpt_free"
+  },
+  {
+   "number": 4,
+   "path": "/workspace/scratch/cb12a9effe5d/generated_images/exec-e83c5e1b-0b5e-4418-919e-16e23e4cb863.png",
+   "design": "gpt_free"
+  }
+ ],
+ "selected": 4,
+ "reference": "/workspace/scratch/cb12a9effe5d/generated_images/exec-e83c5e1b-0b5e-4418-919e-16e23e4cb863.png"
+}
