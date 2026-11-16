@@ -1,0 +1,171 @@
+{
+  "review": "visual review of returned originals",
+  "reference": "selected mecha candidate 4",
+  "no_regeneration_for_exposure": true,
+  "candidates_preserved": true,
+  "cuts": {
+    "light": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Both arms and both legs joined normally. Resting right hand and open left hand; partly overlapped fingers."
+      }
+    },
+    "casual1": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Both forearms connect to their shoulders; clasped gloved hands overlap naturally, some fingers occluded; legs outside waist crop."
+      }
+    },
+    "casual2": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Cup hand connects through forearm to near shoulder; grip partly occludes fingers. Far arm descends out of crop; legs outside crop."
+      }
+    },
+    "casual3": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two forearms support her face, both hands partly hidden at cheeks; two bent legs and two feet visible."
+      }
+    },
+    "casual4": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Coin hand and viewer handle hand each connect to their matching shoulders; grip occlusion. Two legs, one supported on plinth."
+      }
+    },
+    "casual5": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms, relaxed near hand and far hand resting on rail; fingers overlap naturally; two legs and two boots."
+      }
+    },
+    "casual6": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Five fingers on racket grip, other hand occluded in skirt pocket; both arms connected; legs outside waist crop."
+      }
+    },
+    "casual8": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Both arms and both relaxed hands present, with naturally overlapping fingers; two upper legs extend below crop."
+      }
+    },
+    "casual9": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Fan hand shows pinching grip with partial finger occlusion; bench hand has five fingers; both arms and both legs naturally connected."
+      }
+    },
+    "casual90": {
+      "identity": "same face, garnet eyes, dark hair with white accents",
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; soft colored contours with glossy skin and material-specific clothing highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "visual_checked": true,
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms from matching shoulders, one loupe grip and one ring grip with partial finger occlusion; two knees visible, lower legs cropped."
+      }
+    }
+  },
+  "blocked": {
+    "casual7": {
+      "status": "output_moderation_blocked",
+      "request_id": "ed4a8d7a-f2fe-49d9-94ed-63dbd4faac4a",
+      "attempts": 1,
+      "regenerated": false
+    },
+    "casual10": {
+      "status": "output_moderation_blocked",
+      "request_id": "252175fe-895d-4c8f-98ea-8666a20717a4",
+      "attempts": 1,
+      "regenerated": false
+    }
+  },
+  "counts": {
+    "requested_images": 12,
+    "published_images": 10,
+    "blocked_images": 2
+  },
+  "diversity": {
+    "visual_checked": true,
+    "evidence": "Karaoke costume, recording-booth close-up, lodge lounging pose, harbor viewpoint stance, stairwell lean, tennis-court portrait, opera usher walk, ferry-terminal seated portrait and jewelry appraisal have distinct places, activities and framing."
+  }
+}

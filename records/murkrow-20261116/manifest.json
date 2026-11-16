@@ -1,0 +1,137 @@
+{
+  "card": "니로우",
+  "style": "anime_25d_gloss",
+  "selection": 4,
+  "files": [
+    {
+      "slot": "light",
+      "file": "니로우_light_anime_25d_gloss_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a606a2af40091ea8ca492ec66a008e4338dd8216c3090130143899a51afbc740",
+      "original_sha256": "281081259b3696e2723cd73914ea98dd0da51a437a80f6798854899a5739d0bf",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "90b28d4a13e29bef37bf60a4a43844138c2bd89c3e36d5aa4d98aa92e4b77eee"
+    },
+    {
+      "slot": "casual2",
+      "file": "니로우_anime_25d_gloss_f_casual2.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "969cbeb10db4888573ceec0478b612151caed1bb530f0825cc04bf1aafe323a6",
+      "original_sha256": "879eb6d3c0f64aa2a7e03eafe0faf52f7ee7c41e848a5008f7c42150364b1284",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "401e7dad1650a0d5b84835d8c9a34d3be6f4e6845f460773753ab372c792bb43"
+    },
+    {
+      "slot": "casual8",
+      "file": "니로우_anime_25d_gloss_f_casual8.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5d030e23775445ee8efabebffc4a2327e1b1e2578a422b9546b612c4e4068e06",
+      "original_sha256": "233044f681c8e6cfdfd9c356e6eed142fba5d157599bab199ac2c1ff7e9df5ff",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "5fc3493f8668f74c74e82d5008bcbaaed10030a9474189fc9d98693e6902d9cf"
+    },
+    {
+      "slot": "casual3",
+      "file": "니로우_anime_25d_gloss_f_casual3.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4e82e5c086a72635bdea107c17893ae7a0a621a65d2a23fb8072d30d3c969f51",
+      "original_sha256": "b5a0ca238a0c3f6ad286ca3b34bce691144e36aab279ea96b125917cabe06f09",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "a34140ae3e1dbfdea58cb0515f83f5cf06457e0f563b3626452c78c2ade54e36"
+    },
+    {
+      "slot": "casual5",
+      "file": "니로우_anime_25d_gloss_f_casual5.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "99aad1739273a4713009c21d419254f499620fe7a18336ae4dfea2e59a487372",
+      "original_sha256": "07c375b360ef198f86ed09e45d3390f2640690eac38cb4bd30600dc4dbe269f8",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "af859e29d58f07e3d41c350292d723a60a910d3e1b9df6212f7bd1cf484878bc"
+    },
+    {
+      "slot": "casual6",
+      "file": "니로우_anime_25d_gloss_f_casual6.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "177760aca5bacc9185e4a845848d98bf806e238d5aa457cfd66ad25d33c39157",
+      "original_sha256": "def1233e22dfed7c37a78713d32b5d292fea61700726863e319315d4e0d225f2",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "e3edc46f919b7a79ce2ae159204cca0bfb013c770d69a707395288fa10a4d879"
+    },
+    {
+      "slot": "casual1",
+      "file": "니로우_anime_25d_gloss_f_casual1.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3276da0b51de6fe655ea020964b55d0d23e2834a93b15769eb55cf1b1da6db2f",
+      "original_sha256": "22b689e43f7fb144c197b8b5a87c75e82dfd137ce9d9e3d5289b3dc903037c8b",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "193466ebd2599170b292c4aaf3f418ca84e89526dee6b726c827ff4b71135547"
+    },
+    {
+      "slot": "casual4",
+      "file": "니로우_anime_25d_gloss_f_casual4.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ae80eba430400a35e4b97ec873a40555f6b8ab0147838aa710c6e05ec8b955f4",
+      "original_sha256": "c8a1b4d45106795c672877970803bd30d2ec67c088f821c724473d64631b64b2",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "56a1bcabb7547229f5418651116764ec5d5c8db2bb9527af0aba679d18198234"
+    },
+    {
+      "slot": "casual9",
+      "file": "니로우_anime_25d_gloss_f_casual9.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2d92f05292cd8b1ae9636eed97060ff01f27ba79037c64600eed717d7387aea4",
+      "original_sha256": "73e948de147838fc3f444dba0d275786133fe40a631cbe81221a2d4a6cb5c552",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "b3f9bffa9013490ac5703b030ac0a83eaacd004837200be89f0bd5ef27565865"
+    },
+    {
+      "slot": "casual90",
+      "file": "니로우_anime_25d_gloss_f_casual90.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "27125f997715b0164154eadd8160dbb83c4466065c1ad65dd686493465364f42",
+      "original_sha256": "a5656b105a5049052eacfb725a57de998b08de2a9bb599fcdaaae6f59f7f258b",
+      "reference": "light selected candidate 4",
+      "prompt_sha256": "bb817dc215303703dbd9b329202809e541e3b75b9dc95167f3949fbee81c9132"
+    }
+  ]
+}
