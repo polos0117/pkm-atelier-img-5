@@ -1,0 +1,155 @@
+{
+ "card": "두코",
+ "selected_mecha": 1,
+ "style": "anime_25d_gloss",
+ "counts": {
+  "light": 1,
+  "casual": 10,
+  "own": 1,
+  "total": 12
+ },
+ "anatomy": {
+  "tool": "unavailable: mediapipe not installed",
+  "review": "visual review of all returned images; no floating or duplicated limbs observed; cropped and gripping fingers reviewed in context"
+ },
+ "policy": "Returned images retained; no regeneration for exposure censorship. Unavailable output requests retried unchanged; only casual6 configured exposure lowered to moderate.",
+ "blocked_group_requests": [
+  "ded505fe-3db3-4eb7-9dd5-3acb48c6ce70",
+  "25f0316d-3ae2-435c-8fdd-7711e69dea02"
+ ],
+ "slots": {
+  "light": {
+   "visual_evidence": "Green-white hair with curled strands, green eyes, flower ornament and broad segmented wing binders; both arms link to shoulders, legs and five-finger glove hands read naturally. Extra thigh openings beyond the specified two areas preserved as generated.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "note",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual1": {
+   "visual_evidence": "Chest-up hotel mirror scene, near arm holds compact at face height, far arm continues out of crop; same green eyes and green-white curls, midnight blue halter bolero; profile framing follows plan.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual2": {
+   "visual_evidence": "Over-shoulder chest-up boardgame lounge, right hand holds flower cup near mouth, far arm outside crop; pink zip-collar work-inspired clothing and warm indoor light.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual3": {
+   "visual_evidence": "Rear three-quarter alley pose with face over shoulder, camera held low by her right hand, left arm hangs naturally; grey costume uniform, warm alley background.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual4": {
+   "visual_evidence": "Night ferry walkway, green-yellow floral bodysuit costume, camera lowered in her right hand; left hand relaxed, two clear legs, same green-white curls.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual5": {
+   "visual_evidence": "Festival headland, one knee raised on podium step, right hand holds navy pennant and left rests on railing; ivory tailored waistcoat and coral culottes; arms connected and feet planted.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual6": {
+   "visual_evidence": "Seated against studio wall checking a camera held with both hands; green-gold Ysera costume, same face and green-white curls; fingers wrap camera naturally; successful configured exposure moderate.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "note",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual7": {
+   "visual_evidence": "Planetarium recliner, right arm on armrest and left hand holds star map on lap; lavender peplum halter and ivory shorts; both arm-to-shoulder connections readable.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual8": {
+   "visual_evidence": "Waterfall pool edge squat, right hand holds sunglasses and left rests on bent knee; red lace kebaya over opaque red bodice, knees and ankles connected naturally; full body visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual9": {
+   "visual_evidence": "Seated in tailor room holding a tool, other hand on lap, knees together, teal fitted sports outfit and ski boots; selected ski-suit wording resolves visually as a one-piece sports suit; preserved as generated.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual10": {
+   "visual_evidence": "Waist-up outdoor practice field, hands clasp in front of chest, blue swimwear and open blue cover-up; same face, two connected forearms and natural interlaced fingers.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  },
+  "casual90": {
+   "visual_evidence": "Balloon cart in sunny plaza, yellow apron and white halter, hands clasp in front, same face and curls; balloon artist environment clearly visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Softly shaded nose, cheeks, lips and chin, delicate coloured facial contours and glossy dimensional clothing materials."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Preserved returned rendering; casual6 uses moderate configuration, light includes additional thigh openings."
+   }
+  }
+ },
+ "skipped": []
+}

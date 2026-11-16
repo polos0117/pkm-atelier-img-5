@@ -1,0 +1,158 @@
+[
+ {
+  "slot": "casual1",
+  "file": "두코_anime_25d_gloss_f_casual1.webp",
+  "raw_sha256": "c78df896cbe442d66c42c36c66334619637cb2c57e1346d16ccac10c34aadcdf",
+  "webp_sha256": "e6e9839b2e117b26c31ec9c1b47c9cb32e25492409f8e93e890dacdf854c078d",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual2",
+  "file": "두코_anime_25d_gloss_f_casual2.webp",
+  "raw_sha256": "477afd1d59b85f91f08ba297261ad845208ac92b64941b1c905e45534f1281e4",
+  "webp_sha256": "fcf9379f7e40bab61e333ac80a18e48b1752c1d1967856693331a6e3989e19f2",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual3",
+  "file": "두코_anime_25d_gloss_f_casual3.webp",
+  "raw_sha256": "d15c9e92e51202e451590159825f3f68a69a830f0a097a9762bd56987d8f70a7",
+  "webp_sha256": "351bd63d45ef36678ddb081c3436dec66b0c701c5b9e8b87fc566060a6103c03",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual4",
+  "file": "두코_anime_25d_gloss_f_casual4.webp",
+  "raw_sha256": "a28764953d0603ae2bf2e04d7aa84e5752cda05c0d40803eae319a63ba7fe20b",
+  "webp_sha256": "c9c94955928dac8f94eba766a3bac682fe37a7078d175895866f3d9c0046ff96",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual5",
+  "file": "두코_anime_25d_gloss_f_casual5.webp",
+  "raw_sha256": "08d327d7cba1de2c242b2f4047caa2a53e2f6056be298519ceb285a5b5197110",
+  "webp_sha256": "51bc0d7066af8f9a631cfcca5f58ae9a0f779e7dfddfeab33456f1f40fe1f042",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "gpt_free"
+ },
+ {
+  "slot": "casual6",
+  "file": "두코_anime_25d_gloss_f_casual6.webp",
+  "raw_sha256": "90e88f2b5a65d75c915d1f82a49688fb0a3e58c26054f533b426d930a8155d6c",
+  "webp_sha256": "ada16f51c5322efc651f785373f79b7811541107e9fad2ae48eff19573b393a2",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual7",
+  "file": "두코_anime_25d_gloss_f_casual7.webp",
+  "raw_sha256": "0b243a43c6eaa75e2d674756c68fcefb2dd6726f3ee6b619a0e94965f7cf9113",
+  "webp_sha256": "2218187cdd72c100b7e29877e4c1f2068fe557c40d4edc0b629ca1a3664505a9",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "gpt_free"
+ },
+ {
+  "slot": "casual8",
+  "file": "두코_anime_25d_gloss_f_casual8.webp",
+  "raw_sha256": "659b778a3db08aef7e8a52d4ed603193926cb206e2801f418ddf9fbd46f6a758",
+  "webp_sha256": "bfe33222b8fa34c7810c78a059c7c7ef64a0b81fdad6235ce44b502d0d5569af",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual9",
+  "file": "두코_anime_25d_gloss_f_casual9.webp",
+  "raw_sha256": "0e5055a27cf3a0fe515c073fe8c7e8d891060a6530a5cfaefc3fcb55e4afb889",
+  "webp_sha256": "661554e0bbd0492f5d80303a9a72cc6df1c34a0e3d9a46fbfb013de2ac93ac3e",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual10",
+  "file": "두코_anime_25d_gloss_f_casual10.webp",
+  "raw_sha256": "f28a112af101b07c903f4e56dbebc67ba26e450bb63fc3cb5026c2d1c26784d7",
+  "webp_sha256": "5b68c4cd2fe602bde4c5004e9f48ab6240b2a3fb5c2faa83bfc80e83bc5254e6",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "casual90",
+  "file": "두코_anime_25d_gloss_f_casual90.webp",
+  "raw_sha256": "259c3cbce774215d385ab37d0557091f58f14427a90e5983df44aefe9e8ed004",
+  "webp_sha256": "b76379f484f86d364bbf9651c198bc11e5f5d6c98fcb505f49f8d31020b98662",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "light",
+  "design": "planned"
+ },
+ {
+  "slot": "light",
+  "file": "두코_light_anime_25d_gloss_f.webp",
+  "raw_sha256": "ae1c61f4004842d9beaa87d605ef2bc30f2c8b7cbb718d4f1abbdc77e4867bc2",
+  "webp_sha256": "ab04659f9d7592f6098f12e85ba81233336dd939616f76d4d24db2dc6cf4f1b3",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "reference": "none",
+  "design": "house"
+ }
+]

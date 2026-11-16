@@ -1,0 +1,57 @@
+{
+ "card": "두코",
+ "style": "anime_25d_gloss",
+ "status": "generation_complete_pending_publication",
+ "worktree": "/workspace/scratch/3a0528d42438/skiploom",
+ "branch": "work/skiploom-20261116",
+ "candidates": [
+  {
+   "number": 1,
+   "image": "/workspace/scratch/3a0528d42438/generated_images/exec-80abb02b-79d1-477c-b42b-904049b77d43.png",
+   "sha256": "ae1c61f4004842d9beaa87d605ef2bc30f2c8b7cbb718d4f1abbdc77e4867bc2",
+   "design": "house",
+   "prompt": "/workspace/scratch/3a0528d42438/skiploom-pack/candidate1-prompt.txt",
+   "style_25d": "pass; softly shaded facial structure and dimensional materials",
+   "notes": "Preserved as generated; thigh openings beyond requested exposure noted, no regeneration."
+  },
+  {
+   "number": 2,
+   "image": "/workspace/scratch/3a0528d42438/generated_images/exec-d8783642-506a-495e-a7ea-f7d0627d5ecd.png",
+   "sha256": "94c6146204cfaa4384bbab8fc3d7ba7ac41945e47c4339cd55ed67aa55d4ec9d",
+   "design": "house",
+   "prompt": "/workspace/scratch/3a0528d42438/skiploom-pack/candidate2-prompt.txt",
+   "style_25d": "pass; softly shaded facial structure and dimensional materials",
+   "notes": "Preserved as generated; thigh openings beyond requested exposure noted, no regeneration."
+  },
+  {
+   "number": 3,
+   "image": "/workspace/scratch/3a0528d42438/generated_images/exec-8de77026-900b-4a3c-b5aa-2d54abb29cc7.png",
+   "sha256": "91873ac61a4ee54761d03bee82fcbc136b18ec1ee07eec2e6f8f17b4d06ed8a4",
+   "design": "gpt_free",
+   "prompt": "/workspace/scratch/3a0528d42438/skiploom-pack/candidate3-prompt.txt",
+   "style_25d": "pass; softly shaded facial structure and dimensional materials",
+   "notes": "Preserved as generated; thigh openings beyond requested exposure noted, no regeneration."
+  },
+  {
+   "number": 4,
+   "image": "/workspace/scratch/3a0528d42438/generated_images/exec-458a89b1-000c-4d7b-af0b-c89dc57463e8.png",
+   "sha256": "eb87e147163d99882bc54112e40e2f496454731625e5f12a2ec55408a40c89d3",
+   "design": "gpt_free",
+   "prompt": "/workspace/scratch/3a0528d42438/skiploom-pack/candidate4-prompt.txt",
+   "style_25d": "pass; softly shaded facial structure and dimensional materials",
+   "notes": "Preserved as generated; thigh openings beyond requested exposure noted, no regeneration."
+  }
+ ],
+ "selected": 1,
+ "reservation_commit": "7ca948dff33278b7a026598e541107b9544c854d",
+ "output_moderation_events": [
+  "ded505fe-3db3-4eb7-9dd5-3acb48c6ce70",
+  "25f0316d-3ae2-435c-8fdd-7711e69dea02"
+ ],
+ "counts": {
+  "light": 1,
+  "casual": 10,
+  "own": 1
+ },
+ "all_generated_images_preserved": true
+}
