@@ -1,0 +1,178 @@
+{
+  "light": {
+    "accepted": true,
+    "observations": "Both arms connected; relaxed raised palm and lowered gloved hand; overlapping legs, visible boots; rendered facial gradients.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms connected; relaxed raised palm and lowered gloved hand; overlapping legs, visible boots; rendered facial gradients.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "0e493f9a689bdcddbebfc8039bffff474ba74b5c75ba0bc653fdf6e8991493f2"
+  },
+  "casual5": {
+    "accepted": true,
+    "observations": "Laundromat scene, phone held in one connected hand and other hand rests on counter. Result differs from planned pose, crop and costume colour.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "weaker",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Laundromat scene, phone held in one connected hand and other hand rests on counter. Result differs from planned pose, crop and costume colour.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "de37f3ccaf49bca47e2c642670181e001da3f1d6085836eb22eed39871445eed"
+  },
+  "casual6": {
+    "accepted": true,
+    "observations": "Ferry lunch, both forearms connected in front of body, tomato and tray visible; legs partly cropped; face and hair match.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Ferry lunch, both forearms connected in front of body, tomato and tray visible; legs partly cropped; face and hair match.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "6ae6d4679f827c71341abfc2cfa0239899e206b260907312ee08b674b2f5f00a"
+  },
+  "casual7": {
+    "accepted": true,
+    "observations": "Camp close-up, raised V-sign hand has two extended fingers and folded digits; opposite arm continues below frame; legs outside crop.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Camp close-up, raised V-sign hand has two extended fingers and folded digits; opposite arm continues below frame; legs outside crop.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "394ca7c4e9e67133cf8b23cae4c1d3f65a92d2e55262ca1b997760c9b3ce901d"
+  },
+  "casual8": {
+    "accepted": true,
+    "observations": "Lodge close-up; raised open palm has five digits, elbow connected; opposite shoulder and upper arm continue below frame; legs outside crop.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Lodge close-up; raised open palm has five digits, elbow connected; opposite shoulder and upper arm continue below frame; legs outside crop.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "1485abf0f43247ede356cec2fb23b2f730f64fdd192c8471a6a61cc41d24eb5b"
+  },
+  "casual9": {
+    "accepted": true,
+    "observations": "Bakery romper, both arms connected and lowered; fingers partly overlapping; legs and boots visible.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Bakery romper, both arms connected and lowered; fingers partly overlapping; legs and boots visible.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "743bc6a6fdaefea3bf5ea39e5ee89753b77abd8d2d29ecd4942a62e8df5ec8d4"
+  },
+  "casual10": {
+    "accepted": true,
+    "observations": "Pokemon costume, two connected arms with five-fingered gloves, legs continue below crop; wings are costume, not anatomy.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Pokemon costume, two connected arms with five-fingered gloves, legs continue below crop; wings are costume, not anatomy.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "54d85601743819b90d9f2f454150ece0af7c3b4936db5353857dc13855d632fd"
+  },
+  "casual90": {
+    "accepted": true,
+    "observations": "Pruning specialist, arms meet clasped gloves naturally; fingers partly occluded by clasp; lower legs out of crop. Tools, ladder and belt pincer visible.",
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft coloured facial edges and graduated nose, cheek and chin shading; fine strands and material-specific clothing highlights."
+    },
+    "exposure": {
+      "verdict": "match",
+      "reason": "Observed outfit and bare skin retained without regeneration."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Pruning specialist, arms meet clasped gloves naturally; fingers partly occluded by clasp; lower legs out of crop. Tools, ladder and belt pincer visible.",
+      "overlay_checked": false,
+      "note": "Manual visual inspection; occluded or out-of-frame parts not counted as visible."
+    },
+    "image_sha256": "97ac044cdf06962c501a64faa38aa34c4f02f59bdb875edc8a62e514af87dcb7"
+  }
+}

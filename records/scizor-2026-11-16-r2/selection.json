@@ -1,0 +1,16 @@
+{
+  "card": "핫삼",
+  "style": "anime_25d_gloss",
+  "status": "selected",
+  "variants": {
+    "1": "/workspace/scratch/158e191e44e1/generated_images/exec-f025bb63-6520-4347-a697-7f2c638aed2c.png",
+    "2": "/workspace/scratch/158e191e44e1/generated_images/exec-c2aaebf4-3a2f-4cb1-8b7d-5093ed9067c7.png",
+    "3": "/workspace/scratch/158e191e44e1/generated_images/exec-cbe07918-3621-4c8b-a360-d776ae43cd0a.png",
+    "4": "/workspace/scratch/158e191e44e1/generated_images/exec-da1212d7-0d92-4c6e-ac66-5e5e1f46ffa6.png"
+  },
+  "no_regenerate_for_exposure": true,
+  "worktree": "/workspace/scratch/158e191e44e1/scizor",
+  "branch": "task/scizor-20261116-r2",
+  "selected": 1,
+  "reference": "/workspace/scratch/158e191e44e1/generated_images/exec-f025bb63-6520-4347-a697-7f2c638aed2c.png"
+}

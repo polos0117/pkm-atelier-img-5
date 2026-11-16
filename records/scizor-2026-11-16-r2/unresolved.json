@@ -1,0 +1,12 @@
+{
+  "slots": [
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4"
+  ],
+  "status": "result_unavailable",
+  "error": "First parallel group ended on image moderation error; no result returned or local output for any slot. No resubmission. Slot attribution of rejection unavailable.",
+  "request_id": "a3495213-af96-4518-8a84-2d991c490f2f",
+  "moderation_category": "sexual"
+}
