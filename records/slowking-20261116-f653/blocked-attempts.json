@@ -1,0 +1,18 @@
+{
+ "initial_batch": {
+  "error": "moderation_blocked; missing results 3/4",
+  "request_id": "0a24a6b5-4211-4e62-a92f-0672461ace91",
+  "note": "No 3/4 image files returned; 3 later succeeded unchanged, 4 moderate succeeded"
+ },
+ "casual4": [
+  "0b99cc6a-4b5e-49bb-9f28-e0d83e563352"
+ ],
+ "casual10": [
+  "95f42510-91f5-4fd8-ac5c-5f584d9f9045",
+  "f88e8146-d1f8-4bba-86c0-8a84260e79e9",
+  "18550ca4-7b58-47ed-b526-df7800d295b6",
+  "969598b7-7dee-4950-842d-2037591b596c",
+  "11460c50-a1bf-4b21-8bf5-68f210d57420"
+ ],
+ "no_successful_image_regenerated_for_exposure": true
+}

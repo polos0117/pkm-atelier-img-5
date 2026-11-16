@@ -1,0 +1,18 @@
+{
+  "3": {
+    "design": "gpt_free",
+    "reason": "IMAGE_RULES free-scene design exception; all outside-SCENE rules preserved"
+  },
+  "7": {
+    "design": "gpt_outfit",
+    "reason": "IMAGE_RULES outfit-free exception, only Outfit line replaced"
+  },
+  "9": {
+    "design": "gpt_free",
+    "reason": "IMAGE_RULES free-scene design exception; all outside-SCENE rules preserved"
+  },
+  "reference": {
+    "selected": 2,
+    "file": "/workspace/scratch/f653b953cb20/generated_images/exec-b6b52b51-5716-4f8d-824f-6d2b42e1b9e4.png"
+  }
+}

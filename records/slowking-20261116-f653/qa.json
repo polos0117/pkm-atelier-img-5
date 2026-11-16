@@ -1,0 +1,230 @@
+{
+ "casual1": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual2": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One hand visible with index finger raised; other hand below crop. Both shoulder/upper-arm connections present.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual3": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual4": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Final rendered at moderate after output blocks; successful final image retained."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual5": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual6": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual7": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual8": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual9": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual10": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Original bridal-lace scene returned no image after documented steps; planner selected slip_wedding and final generated at bold. Previous generated cuts retained."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "casual90": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Right hand holds rod, grip occludes some fingers; left arm continues below crop. No detached hand.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ },
+ "light": {
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Soft dimensional nose, cheek and lip shading, coloured contours and layered hair highlights; luminous skin midtones."
+  },
+  "exposure": {
+   "verdict": "match",
+   "note": "Clothing retained as generated; no successful image regenerated for exposure."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed; visual review",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connected through wrist and forearm; grip/crop occlusion noted. See contact sheet review.",
+   "overlay_checked": false,
+   "note": "No detached or duplicated limbs observed; cropped limbs continue naturally beyond frame."
+  }
+ }
+}

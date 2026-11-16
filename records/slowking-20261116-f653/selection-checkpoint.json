@@ -1,0 +1,46 @@
+{
+  "card": "야도킹",
+  "style": "anime_25d_gloss",
+  "worktree": "/workspace/scratch/f653b953cb20/slowking",
+  "branch": "work/slowking-f653b953",
+  "prompt": "candidate1/light-prompt.txt",
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/f653b953cb20/generated_images/exec-764675e3-8a7f-424d-8cb9-c46c378678ff.png",
+      "sha256": "29c62396b059fdb9e993ba854184cb7866f68fbf39e23d3c9720129b4d2a43ce",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/f653b953cb20/generated_images/exec-b6b52b51-5716-4f8d-824f-6d2b42e1b9e4.png",
+      "sha256": "67ea2ac3ee2f146ca35287e04d29fdaf5d2c6038f71cf8925308138521112823",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/f653b953cb20/generated_images/exec-71805d29-37fc-4a8a-a9b1-54005d313d99.png",
+      "sha256": "47e1a530c16e0d6df778427109bb864302fc35a1b5c46c09eb53f619e70c064c",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/f653b953cb20/generated_images/exec-9ecb85d1-390b-4f0b-afac-c09bf5ab7aae.png",
+      "sha256": "2b54012c8cb2397468f4beb9fc021f1127111ab6464505f66cf5cf957f2d7b8f",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "status": "awaiting_user_selection"
+}
