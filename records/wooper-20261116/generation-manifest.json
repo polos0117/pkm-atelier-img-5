@@ -1,0 +1,68 @@
+[
+  {
+    "slot": "casual1",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual1-actual.txt",
+    "reason": "free_outfit_as_instructed",
+    "sha256": "40e6af592ed85fb7c2ae7750eb7d721f889cad1b437a29fc796129f1a61a0495"
+  },
+  {
+    "slot": "casual2",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual2-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "3a704719af87637c9a5db4faa0db46601cd98bd9e5f52c3774c35a10e802dfba"
+  },
+  {
+    "slot": "casual3",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual3-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "556d43df792012c01e59a21f7d7832d061714abc1e90537d0816ed11f78c57b1"
+  },
+  {
+    "slot": "casual4",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual4-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "3cfa97272c54cb075a3c13265aaf72969ea3cd3d10f3d0af7567eb2eb8ee4d1b"
+  },
+  {
+    "slot": "casual5",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual5-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "28eddf0d6b7dcda1fd192a9274004aa61030a646eb63d992427b6070a505440c"
+  },
+  {
+    "slot": "casual6",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual6-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "3cd412354683cf09942b3b3ba03865a1c5f96ef3d978a6d665ac52d3a79ecef5"
+  },
+  {
+    "slot": "casual7",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual7-actual.txt",
+    "reason": "gpt_free_scene_as_instructed",
+    "sha256": "119c9e0a1c373518924a63673a772756fe0319eae24b172542812cf477845c3e"
+  },
+  {
+    "slot": "casual8",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual8-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "1876fdbb8a3b6e67e898a09becefca93f2c728d574610a6a3e2950c5edd40b31"
+  },
+  {
+    "slot": "casual9",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual9-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "10d4d1d56decf308f705ee802f064f7599de000a4cf5a887fd27c8a44bce2cf3"
+  },
+  {
+    "slot": "casual10",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual10-actual.txt",
+    "reason": "gpt_free_scene_as_instructed",
+    "sha256": "7682a102540fdd94c146d505a5c1767d0d9e4c87a00aaeedac15c7b54f7bce88"
+  },
+  {
+    "slot": "casual90",
+    "prompt_file": "/workspace/scratch/084abb2b3ae0/wooper-pack/casual90-actual.txt",
+    "reason": "generator_exact",
+    "sha256": "db9de4ac700db5ff98900b8b06e46cb011d284f15316ec2be5d41f9585fe659a"
+  }
+]
