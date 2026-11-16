@@ -1,0 +1,405 @@
+{
+  "card": "통통코",
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "comparison": [
+    "왕구리",
+    "꼬지모",
+    "마릴"
+  ],
+  "policy": "Generated images retained; no exposure-based regeneration. Failed requests returned no image; cuts 7 and 9 replanned; cut 9 exposure lowered to moderate.",
+  "blocked_requests": [
+    {
+      "slot": "casual7",
+      "request_id": "059db45e-3b38-4da0-bc38-82ee3cc01a68"
+    },
+    {
+      "slot": "casual9",
+      "request_id": "54a19f84-027c-439b-a6d6-3ea8ddadc4b9"
+    },
+    {
+      "slot": "casual9",
+      "request_id": "e4543a61-2db8-437f-8b12-a7662123723b"
+    }
+  ],
+  "cuts": [
+    {
+      "slot": "light",
+      "file": "통통코_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "30d63952e397a045b6fdc6020950dfca1e45f10eee7197aed95376ef86aa2049",
+      "sha256": "c0f7bbea87bd17b62f79cda7fd470566e312f817922135ef32510c24660eafae",
+      "submitted_sha256": "ef34d7f4a8d8c1531823ed6d28745b997404ecbd8eada257461c18f7d9d8bda6",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "분홍 단발·흰색 머리 포인트·분홍 눈, 전신 경장과 잎 드론. 펼친 손과 내려간 손이 팔과 연결. 허벅지 장갑 틈은 설계보다 넓게 나왔으며 그대로 보존."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "분홍 단발·흰색 머리 포인트·분홍 눈, 전신 경장과 잎 드론. 펼친 손과 내려간 손이 팔과 연결. 허벅지 장갑 틈은 설계보다 넓게 나왔으며 그대로 보존."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "분홍 단발·흰색 머리 포인트·분홍 눈, 전신 경장과 잎 드론. 펼친 손과 내려간 손이 팔과 연결. 허벅지 장갑 틈은 설계보다 넓게 나왔으며 그대로 보존."
+      }
+    },
+    {
+      "slot": "casual1",
+      "file": "통통코_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "e561447ce8266b9f0c6d93d8b7e722d73304dc5661d5ecb115d57053b41b14e1",
+      "sha256": "52c06a66bf7f681ea3091fe3e83119a4c27be01979d3f19d98b13a4b9ac70595",
+      "submitted_sha256": "e8b4913fe7d3202f6cfcd79d0b394da7d382b532391b1f226cd3d9301a2e06bd",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "거실 소파와 스탠드 조명, 붉은 스카프·흰 크롭 상의·검정 하의. 화면 왼쪽 팔이 귀 옆 손으로 연결되고 반대 팔은 아래 프레임으로 이어짐. 허리샷보다 아래로 더 담김."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "거실 소파와 스탠드 조명, 붉은 스카프·흰 크롭 상의·검정 하의. 화면 왼쪽 팔이 귀 옆 손으로 연결되고 반대 팔은 아래 프레임으로 이어짐. 허리샷보다 아래로 더 담김."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "거실 소파와 스탠드 조명, 붉은 스카프·흰 크롭 상의·검정 하의. 화면 왼쪽 팔이 귀 옆 손으로 연결되고 반대 팔은 아래 프레임으로 이어짐. 허리샷보다 아래로 더 담김."
+      }
+    },
+    {
+      "slot": "casual2",
+      "file": "통통코_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "1f1da4df1724cec55f1eb8872c0361cf5d4d3f711414cd63a9c9ce74897e3f72",
+      "sha256": "16dc982b3a716253ecb192a963f2e2746f3665f5193716e8570abe775e707a83",
+      "submitted_sha256": "f402dca2583197d64b35ac300cb3dfc08ff31de4b3a982ad2d9a26174ef1812b",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "작업장 공구와 노란 홀터 의상, 검지를 입술에 댄 정면 초상. 나머지 손가락은 자연스럽게 접힘. 얼굴과 어깨의 부드러운 명암 및 광택."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "작업장 공구와 노란 홀터 의상, 검지를 입술에 댄 정면 초상. 나머지 손가락은 자연스럽게 접힘. 얼굴과 어깨의 부드러운 명암 및 광택."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "작업장 공구와 노란 홀터 의상, 검지를 입술에 댄 정면 초상. 나머지 손가락은 자연스럽게 접힘. 얼굴과 어깨의 부드러운 명암 및 광택."
+      }
+    },
+    {
+      "slot": "casual3",
+      "file": "통통코_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "a05041fdcea22e70a705bd8b194b5853e180df842a1fdc744da8b91271896920",
+      "sha256": "1c8c42f4b69337eb5900547fcdf749ea952c151c24fc16e50cae9cde078dc6a5",
+      "submitted_sha256": "fdf533153fe0d04b68e2979079bd5da26b07fccdc6b72e7074ba34ae0d4e1355",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "빗방울과 열매 시장, 머리 위 고글·가죽 비행 재킷. 뺨에 닿는 손이 손목·아래팔과 이어지고 반대 팔은 프레임 밖. 계획대로 초상 범위."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "빗방울과 열매 시장, 머리 위 고글·가죽 비행 재킷. 뺨에 닿는 손이 손목·아래팔과 이어지고 반대 팔은 프레임 밖. 계획대로 초상 범위."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "빗방울과 열매 시장, 머리 위 고글·가죽 비행 재킷. 뺨에 닿는 손이 손목·아래팔과 이어지고 반대 팔은 프레임 밖. 계획대로 초상 범위."
+      }
+    },
+    {
+      "slot": "casual4",
+      "file": "통통코_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "cf21f4863b0505687fee2557826adc545f1c4eb1268a48e435bd2ecc847327e5",
+      "sha256": "7552a9a95fb3863246978c3e8f94c53b5b7a4134565604f224c107af3303f0f0",
+      "submitted_sha256": "07e9d47612fa0f59b4a2ea4bc8457a143711d2b951e918613b2ee30a40c6fac7",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "카페 의자에 앉아 한 손에 접은 천, 다른 손은 무릎 위. 아이보리 메이드 의상과 교차한 무릎. 얼굴은 완전 측면보다 완만한 3/4로 나옴."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "카페 의자에 앉아 한 손에 접은 천, 다른 손은 무릎 위. 아이보리 메이드 의상과 교차한 무릎. 얼굴은 완전 측면보다 완만한 3/4로 나옴."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "카페 의자에 앉아 한 손에 접은 천, 다른 손은 무릎 위. 아이보리 메이드 의상과 교차한 무릎. 얼굴은 완전 측면보다 완만한 3/4로 나옴."
+      }
+    },
+    {
+      "slot": "casual5",
+      "file": "통통코_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "7d8d6ca2785e8ebf195a0782cecd669d5561bfe428645c1deabf052d0fbc880a",
+      "sha256": "19b6aba19c3be9d67c441a66f28cf75e7901d5f05392522b3e9b91dd60ac81ca",
+      "submitted_sha256": "3053217c7349570f71b6e5e63799d1209fc1b380dda8cfa0bd18a6560bee2b44",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "풀 마당의 통통코 동료 한 마리, 파랑 롬퍼와 계단 위 한 발. 오른손은 허리, 반대 손은 허벅지에 얹힘. 양손과 팔 연결을 확인. 의상 옆트임은 계획보다 작음."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "풀 마당의 통통코 동료 한 마리, 파랑 롬퍼와 계단 위 한 발. 오른손은 허리, 반대 손은 허벅지에 얹힘. 양손과 팔 연결을 확인. 의상 옆트임은 계획보다 작음."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "풀 마당의 통통코 동료 한 마리, 파랑 롬퍼와 계단 위 한 발. 오른손은 허리, 반대 손은 허벅지에 얹힘. 양손과 팔 연결을 확인. 의상 옆트임은 계획보다 작음."
+      }
+    },
+    {
+      "slot": "casual6",
+      "file": "통통코_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "9a4fad070fd67190cd85d6ba68dd76c2e48ecf4cc51a2076fe01b5c7ff25bfa9",
+      "sha256": "8308696d0995f27da3c88e5c2637b8aced360a9b57a5b0bd60e1d2ac6227220b",
+      "submitted_sha256": "4e53985db8f82214a65e55b585d98246384d00b2fb833e150368b3623b8d8e7a",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "수족관 큰 물탱크와 따뜻한 벽등, 주황 사리 블라우스풍 상의. 양어깨와 팔은 아래 프레임으로 자연스럽게 이어짐. 눈을 낮춘 가까운 구도."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "수족관 큰 물탱크와 따뜻한 벽등, 주황 사리 블라우스풍 상의. 양어깨와 팔은 아래 프레임으로 자연스럽게 이어짐. 눈을 낮춘 가까운 구도."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "수족관 큰 물탱크와 따뜻한 벽등, 주황 사리 블라우스풍 상의. 양어깨와 팔은 아래 프레임으로 자연스럽게 이어짐. 눈을 낮춘 가까운 구도."
+      }
+    },
+    {
+      "slot": "casual7",
+      "file": "통통코_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "4a731b3c094adddfa001232359032b7d7920f5371d035f82aba1a86f1f5352e8",
+      "sha256": "351c74455cac37593ebdb516a79eb8c0327f575f5c6e85e879d84bb456071fc5",
+      "submitted_sha256": "2d3a3a0a4ff273ead42d8614fd20a8663bf9824050d55c21e12165e209a77a83",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "구름 낀 계곡 위 케이블카 벤치, 분홍 통통코 후드와 잎 장식 드레스. 한 손은 좌석·다른 손은 무릎 위, 팔이 각각 어깨와 연결. 돌아보는 얼굴과 발끝까지 담김."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "구름 낀 계곡 위 케이블카 벤치, 분홍 통통코 후드와 잎 장식 드레스. 한 손은 좌석·다른 손은 무릎 위, 팔이 각각 어깨와 연결. 돌아보는 얼굴과 발끝까지 담김."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "구름 낀 계곡 위 케이블카 벤치, 분홍 통통코 후드와 잎 장식 드레스. 한 손은 좌석·다른 손은 무릎 위, 팔이 각각 어깨와 연결. 돌아보는 얼굴과 발끝까지 담김."
+      }
+    },
+    {
+      "slot": "casual8",
+      "file": "통통코_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "f69d8eaae74d7b672b8eefed37e282af166056cfef7502324d2cfabc2ca4e1a5",
+      "sha256": "f4097fe7cdb1ca32cc0df86c730bcd97bf816aacb4d9e52210af9ede07a6b6f5",
+      "submitted_sha256": "fe626d2c970527f1a903e412b32434c0c4f690c5b4be4b289e00e9c1189a3bb7",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "해안 전차 선로와 벤치, 주황 롬퍼, 한 손의 바람개비와 반대 손의 무릎 지지. 손목과 팔 두 개가 분명히 연결. 반쯤 감긴 눈과 편안한 입매."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "해안 전차 선로와 벤치, 주황 롬퍼, 한 손의 바람개비와 반대 손의 무릎 지지. 손목과 팔 두 개가 분명히 연결. 반쯤 감긴 눈과 편안한 입매."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "해안 전차 선로와 벤치, 주황 롬퍼, 한 손의 바람개비와 반대 손의 무릎 지지. 손목과 팔 두 개가 분명히 연결. 반쯤 감긴 눈과 편안한 입매."
+      }
+    },
+    {
+      "slot": "casual9",
+      "file": "통통코_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "2c88fe9191fe95a88add6c408f350a773f3788172771d6a79112ed584aa6e9b0",
+      "sha256": "b7c7b61e0f1817a38127e3813a7d69334e2587ee3bf4b523733393f5597c3293",
+      "submitted_sha256": "514c4174c3121f87b6f6cedcb62866b7d4cb5af9bbfa8897ff1d927a2e2db3d0",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "수영장 벤치의 회색 안감 크로셰 수영복, 두 손을 무릎 위에 둠. 얼굴은 하늘 쪽, 가슴과 골반이 천으로 가려짐. 분홍 통통코 파우치가 테이블 위."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "수영장 벤치의 회색 안감 크로셰 수영복, 두 손을 무릎 위에 둠. 얼굴은 하늘 쪽, 가슴과 골반이 천으로 가려짐. 분홍 통통코 파우치가 테이블 위."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "수영장 벤치의 회색 안감 크로셰 수영복, 두 손을 무릎 위에 둠. 얼굴은 하늘 쪽, 가슴과 골반이 천으로 가려짐. 분홍 통통코 파우치가 테이블 위."
+      }
+    },
+    {
+      "slot": "casual10",
+      "file": "통통코_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "559283104c71d042ba8a82d00d4f8da47f458c3046a5ff563d4dcb54eb416897",
+      "sha256": "0ee11d2aa4383974f2f5ad40d249def65f92477194df339c30cd53c625cc43ad",
+      "submitted_sha256": "043f3c76eb4b84a47077bb6edffc6fc8bb79965a066e6b30578604968ad7c796",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "강변 정자에서 두 팔을 따로 올려 스트레칭, 흰 크롭 상의와 파랑 스코트. 양손 다섯 손가락과 팔 연결이 보임. 한 손에 연줄이 추가되고 구두가 계획의 평평한 샌들 대신 굽 있음."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "강변 정자에서 두 팔을 따로 올려 스트레칭, 흰 크롭 상의와 파랑 스코트. 양손 다섯 손가락과 팔 연결이 보임. 한 손에 연줄이 추가되고 구두가 계획의 평평한 샌들 대신 굽 있음."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "강변 정자에서 두 팔을 따로 올려 스트레칭, 흰 크롭 상의와 파랑 스코트. 양손 다섯 손가락과 팔 연결이 보임. 한 손에 연줄이 추가되고 구두가 계획의 평평한 샌들 대신 굽 있음."
+      }
+    },
+    {
+      "slot": "casual90",
+      "file": "통통코_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "original_sha256": "8ac7779b32fb69adc1fb358b3194193949774c4a695f5d8dacbe0c0de2fd65ea",
+      "sha256": "80dcd4943f99bd8ba557cbeba8d8f2dcd8ee610e0ff2beef863a02619a4b8dd2",
+      "submitted_sha256": "1999a66087b9548d6c10b397b8889fb72b282704b17309eea1e738b5a27f79d0",
+      "submitted_same": true,
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "볼·콧등·입술·턱의 부드러운 입체 음영, 가는 색 윤곽, 가닥별 머리 하이라이트와 피부 광택"
+      },
+      "anatomy": {
+        "method": "visual inspection",
+        "evidence": "광장 풍선 가판과 헬륨통, 노랑 앞치마·분홍 짧은 치마. 오른손이 풍선줄을 쥐고 왼팔은 옆으로 내려감. 걸음 중 발끝과 다리 연결 확인."
+      },
+      "identity": {
+        "verdict": "match",
+        "evidence": "기준 2번의 분홍색 단발·흰색 포인트·분홍 눈·짧고 부드러운 턱선 유지"
+      },
+      "scene": {
+        "evidence": "광장 풍선 가판과 헬륨통, 노랑 앞치마·분홍 짧은 치마. 오른손이 풍선줄을 쥐고 왼팔은 옆으로 내려감. 걸음 중 발끝과 다리 연결 확인."
+      },
+      "exposure": {
+        "verdict": "observed_preserved",
+        "evidence": "광장 풍선 가판과 헬륨통, 노랑 앞치마·분홍 짧은 치마. 오른손이 풍선줄을 쥐고 왼팔은 옆으로 내려감. 걸음 중 발끝과 다리 연결 확인."
+      }
+    }
+  ],
+  "look_check": {
+    "ok": true,
+    "dup_below": 215,
+    "nearest_duplicate": 228,
+    "notes": "No duplicate_of or same_as_own; two crowd warnings are above rejection threshold."
+  }
+}
