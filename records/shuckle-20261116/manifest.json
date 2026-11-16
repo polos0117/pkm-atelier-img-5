@@ -1,0 +1,178 @@
+[
+  {
+    "slot": "light",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_light_anime_25d_gloss_f.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "f49e9a3facd873a535a8e47b87f27d3e2d216c1999bd99d22938b6f04874b1e9",
+    "source_sha256": "fa8256de58aa32f345892382252b5767135ba4b442869693e9f401fa862e09e7",
+    "submitted_sha256": "e0c60708340f177ee474a3be23064664e7223ac0b9339459b1a45136bec79770",
+    "reference": null
+  },
+  {
+    "slot": "casual1",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual1.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "d5f71c50d18afde5b427747d3f92307ee1b3ab4475f9635c8f00a3485e135680",
+    "source_sha256": "e2798c8dc7563b2fd6d21ce189fa3b1fe253442c6feea44d46fc1aba62853de0",
+    "submitted_sha256": "13f1b110b12be74c80ee40d905f092f8ef2cd899120d2d2593d0dc5c6826f2c2",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual2",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual2.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "7973824b7bf0a1eaf15e906685e156578f8294d6c1db90587a299a2c4681c6ed",
+    "source_sha256": "1ffcb84e44da1663414154fd40d54ce3653599d56bb357be7c97ca3249a715d0",
+    "submitted_sha256": "b0e83ee151580f8cdd843f04c730fcefba1d924903b9bcb12375567ea7032e09",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual3",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual3.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "1a62305111ec34a7c81fa6185d54f96e9ff5a5657fa4c2ff10dfb277c534e982",
+    "source_sha256": "61240391da17887483a0f9ad6d26c9f0ebff8fbd7eef4ba3c87d06adaa9a371c",
+    "submitted_sha256": "995505cbc739af8edfd002587d397d70cb154ca502c8dc38de63437963d33db5",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual5",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual5.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "7497a403686b0a8494dc450ec50c2a62b3eb1363db462c4a730070f1fd853ac4",
+    "source_sha256": "99f48a46b92e18b8368b004fa50c44fe6df45e6149d54f7b3e609f234133b840",
+    "submitted_sha256": "bbaf0bc7adff8aeca87933b017783d3d497c8f022af2ccfd464d6c2287367257",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual6",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual6.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "e0c508ee7918467c72bfcc24f5f6a3ad2707be4d0c5b214dfb4754d91aab95c7",
+    "source_sha256": "729a745d1fd36458bd4a96976e4744a44eb893afb4a787addfabc4c9e5090c8e",
+    "submitted_sha256": "43ce020551981c5898b6f67a7e8e0c2e39234a08545486c2a25692421d8e02d9",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual7",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual7.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "550a31db46a262de127e126b12c401b62de1036b5ac241d57a7dba4a178463e2",
+    "source_sha256": "d45aadcd37e109f4b5a782fddd3ae9fdc1216bd495c8c4a5ffc7735fe1a4bf13",
+    "submitted_sha256": "a2cb324620316e2087a7bc90206599ac425ffc33fae04eb209f9a8bf377858ab",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual8",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual8.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "6b31829ce145697c5ef9de37b294f1be3d3296c9aa9459a40f8c484e0459535e",
+    "source_sha256": "a7859ff9cfdec01b4f4fa6de4409158583ae224a779779f4095fec47fa06313e",
+    "submitted_sha256": "68d866e9b4bcd710fad66ba6dd0ff022b4253c0a8073ff43e5af80448e9b887f",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual9",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual9.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "5e9a5091d714e2449b22422393db27bd35a1bcb120d12d59332da35a927da194",
+    "source_sha256": "40deffda9c9060ca5bc8a8e08284f6a88d9ce24c9ca04334918e8606f75ddea6",
+    "submitted_sha256": "b028fe03127f176a78765e992ef6fc0f61258c122cb7203267a52a4396aa86fb",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual10",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual10.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "34944f8a3ad51b5f82ff0bd00419e1e367d385fe1937458ddbbe75fe1648da2c",
+    "source_sha256": "ec1cff1f0020edaf658c84e808f5ed24b50cd3992a072666fa02a9ca1f0a74be",
+    "submitted_sha256": "0d87d101a8fe077bf324c730821df3db54b23459056c83a13346757335b896b1",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual90",
+    "card": "단단지",
+    "style": "anime_25d_gloss",
+    "filename": "단단지_anime_25d_gloss_f_casual90.webp",
+    "shard": 4,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "c1f62a70c2d278c1242386c474a94b059d27bed09302fea676700806b7268522",
+    "source_sha256": "2cbe1edfda4312bc506627c12cba92feee50d83e2da5fe5785dcf77fa3489e0b",
+    "submitted_sha256": "9b3d94aa4ce1936489122f78cc60dfae91b63d7df262205b910a8a247bc53bdd",
+    "reference": "단단지_light_anime_25d_gloss_f.webp"
+  }
+]

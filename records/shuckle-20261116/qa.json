@@ -1,0 +1,197 @@
+{
+  "light": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms and legs connected; both hands open, some fingers overlap in relaxed pose. Face has blended nose, cheek and lip shading. Upper-thigh openings differ from fixed design; retained without exposure-based regeneration.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Both arms and legs connected; both hands open, some fingers overlap in relaxed pose. Face has blended nose, cheek and lip shading. Upper-thigh openings differ from fixed design; retained without exposure-based regeneration."
+  },
+  "casual1": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms, both hands visible at hip and thigh; extended fingers visible, some overlap. Both legs and feet present. Full-body step pose; head faces more toward camera than planned.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms, both hands visible at hip and thigh; extended fingers visible, some overlap. Both legs and feet present. Full-body step pose; head faces more toward camera than planned."
+  },
+  "casual2": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Brushing hand connected to forearm; four fingers visible around brush, thumb partly hidden; other arm extends past frame. Both shoulders connect to upper arms. Legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Brushing hand connected to forearm; four fingers visible around brush, thumb partly hidden; other arm extends past frame. Both shoulders connect to upper arms. Legs outside crop."
+  },
+  "casual3": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connected and holding/polishing ball; fingers partly hidden by ball and cloth. Two legs and feet visible. One companion. Side view and nighttime setting match. Free outfit chosen by image model.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Both hands connected and holding/polishing ball; fingers partly hidden by ball and cloth. Two legs and feet visible. One companion. Side view and nighttime setting match. Free outfit chosen by image model."
+  },
+  "casual5": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms; supporting hand and cup hand show fingers, some obscured by cup. Both bent legs present. Free scene chosen by image model, mauve wrap swim outfit at outdoor mineral pool.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms; supporting hand and cup hand show fingers, some obscured by cup. Both bent legs present. Free scene chosen by image model, mauve wrap swim outfit at outdoor mineral pool."
+  },
+  "casual6": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms; watering-can grip partly occluded, floor hand has five fingers. Two legs, one foot visible, other hidden by kneeling pose and fabric. Watering activity clear.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms; watering-can grip partly occluded, floor hand has five fingers. Two legs, one foot visible, other hidden by kneeling pose and fabric. Watering activity clear."
+  },
+  "casual7": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms, both relaxed hands show five digits with slight overlap. Legs partly outside crop. Brown vest and trousers; shoulder slipping retained. Camera/head angle differs from plan; no anatomy defect observed.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms, both relaxed hands show five digits with slight overlap. Legs partly outside crop. Brown vest and trousers; shoulder slipping retained. Camera/head angle differs from plan; no anatomy defect observed."
+  },
+  "casual8": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms, both hands on counter with five digits or partially overlapped fingers. Legs outside crop. Jessica-inspired purple-gold corset costume; front view differs from planned rear three-quarter view.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms, both hands on counter with five digits or partially overlapped fingers. Legs outside crop. Jessica-inspired purple-gold corset costume; front view differs from planned rear three-quarter view."
+  },
+  "casual9": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms; both gloved hands rest on rail, fingers partly overlapping. Two thighs visible, lower legs outside crop. Red-yellow Shuckle costume and fabric shell backpack read as costume.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms; both gloved hands rest on rail, fingers partly overlapping. Two thighs visible, lower legs outside crop. Red-yellow Shuckle costume and fabric shell backpack read as costume."
+  },
+  "casual10": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms, chin hand in loose fist partly hides fingers; supporting hand shows five digits. Two bent legs partly cropped; both shoulders connect naturally. Pink sari-inspired outfit at marble bath.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two connected arms, chin hand in loose fist partly hides fingers; supporting hand shows five digits. Two bent legs partly cropped; both shoulders connect naturally. Pink sari-inspired outfit at marble bath."
+  },
+  "casual90": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two shoulders and upper arms connected. Jar hand shows four fingers; thumb hidden by jar. Other arm extends beyond lower frame, legs outside crop. Jam workshop, checked apron, kerchief and jam jar clearly present.",
+      "overlay_checked": false,
+      "note": "Visually inspected at original resolution; occlusion and crop recorded without inventing hidden anatomy."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "根拠": "Soft blended cheek, nose and lip shading; layered hair strands; material-specific fabric or armor shading."
+    },
+    "note": "Two shoulders and upper arms connected. Jar hand shows four fingers; thumb hidden by jar. Other arm extends beyond lower frame, legs outside crop. Jam workshop, checked apron, kerchief and jam jar clearly present."
+  },
+  "casual4": {
+    "status": "blocked",
+    "attempts": 1,
+    "request_id": "39c1a4e0-1360-46c4-b976-4010092fb505",
+    "reason": "Image tool output moderation: sexual",
+    "regenerated": false,
+    "note": "No output file returned; no retry per user instruction."
+  }
+}
