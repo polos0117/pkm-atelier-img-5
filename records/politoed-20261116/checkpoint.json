@@ -1,7 +1,7 @@
 {
   "card": "왕구리",
   "selected": 2,
-  "status": "generated_12_ready_to_publish",
+  "status": "images_published_registration_pending",
   "images": [
     {
       "slot": "light",
@@ -99,5 +99,6 @@
       "submitted_sha256": "c75b526a35082d8cb7dc65ec221cbca26423476f4be07341a74402677e1c4471",
       "submitted_same": true
     }
-  ]
+  ],
+  "image_commit": "26e44b8c8c8d30b7c779f43dd40e4ab2ffe223c4"
 }
