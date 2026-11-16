@@ -1,0 +1,20 @@
+{
+ "slot": "casual1",
+ "status": "complete",
+ "original_sha256": "b2c12ff34f94fcdb71d6f075ca0a6f3b134c57f203e9067af1660498ada9a666",
+ "webp_sha256": "ae4508fdaa7f51f3a5dd87224c2dfd44b25be8379817ebb2b683343cbb489688",
+ "submitted_same": true,
+ "anatomy": {
+  "tool": "unavailable: mediapipe not installed",
+  "issue": "ok",
+  "overlay_checked": false,
+  "note": "Visual review: both arms connected, hands relaxed and attached, visible fingers coherent; legs continue below knee crop."
+ },
+ "edits": [
+  {
+   "reason": "Remove background game crest",
+   "original_sha256": "47b5d39ff9cec7c31173d4654cafcf32d871b6cdff4fe632750ea5536791a08c",
+   "prompt": "Remove only the gold lion crest from blue upper-left hanging banner; preserve the character and scene."
+  }
+ ]
+}
