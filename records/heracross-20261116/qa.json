@@ -1,0 +1,228 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two attached arms, both open hands with five visible fingers, both legs and boots present.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Two attached arms, both open hands with five visible fingers, both legs and boots present."
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Pastry grip partly hides fingers; other hand supported on bench; both arms attached.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Pastry grip partly hides fingers; other hand supported on bench; both arms attached."
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Phone grip fingers partly occluded. Both shoulders and upper arms continue naturally into crop; lower body outside chest crop.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Phone grip fingers partly occluded. Both shoulders and upper arms continue naturally into crop; lower body outside chest crop."
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Camera grip partly hides fingers; empty hand visible; both arms connected, lower legs cropped.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Camera grip partly hides fingers; empty hand visible; both arms connected, lower legs cropped."
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Screwdriver hand grip partly hides fingers; opposite hand partly cropped at bottom and rests on work surface; shoulders connect to arms.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Screwdriver hand grip partly hides fingers; opposite hand partly cropped at bottom and rests on work surface; shoulders connect to arms."
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Phone grip partly occludes fingers; empty other hand visible. Both legs and sandals visible.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Phone grip partly occludes fingers; empty other hand visible. Both legs and sandals visible."
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Tote-strap grip partly hides fingers; other hand pocketed, forearm connected.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Tote-strap grip partly hides fingers; other hand pocketed, forearm connected."
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two hands present, one resting on bench and one on knee; two legs, feet and toes visible.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Two hands present, one resting on bench and one on knee; two legs, feet and toes visible."
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand on raised knee, other hand grips fan; both legs and boots present.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "One hand on raised knee, other hand grips fan; both legs and boots present."
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Hush hand shows index and folded remaining fingers, thumb overlaps. Both shoulder/arm origins connected; second arm exits bottom frame.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Hush hand shows index and folded remaining fingers, thumb overlaps. Both shoulder/arm origins connected; second arm exits bottom frame."
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Thumbs-up hand has folded four fingers; opposite hand on hip with partial overlap. Both arms connected.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible anatomy checked manually; hidden/cropped parts not counted as visible."
+    },
+    "style_25d": {
+      "judgment": "match",
+      "evidence": "Soft dimensional shading on nose, cheeks, jaw and skin, colored fine contours; layered hair highlights and material reflections."
+    },
+    "exposure": {
+      "judgment": "match",
+      "note": "Generated image retained as returned; no recreation for exposure."
+    },
+    "composition_note": "Thumbs-up hand has folded four fingers; opposite hand on hip with partial overlap. Both arms connected."
+  },
+  "casual5": {
+    "status": "blocked",
+    "request_id": "22305e81-38f8-4095-a0d1-460af0cdffdd",
+    "reason": "image generator safety rejection; no image returned",
+    "attempts": 1
+  }
+}

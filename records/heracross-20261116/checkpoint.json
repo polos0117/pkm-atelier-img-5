@@ -1,0 +1,10 @@
+{
+  "selected_candidate": 3,
+  "stage": "partial_generated_pending_publication",
+  "generated": 11,
+  "requested": 12,
+  "missing": [
+    "casual5"
+  ],
+  "original_png_uploaded": false
+}

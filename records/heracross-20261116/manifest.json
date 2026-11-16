@@ -1,0 +1,123 @@
+[
+  {
+    "slot": "light",
+    "file": "헤라크로스_light_glossy_promo_f.webp",
+    "shard": 0,
+    "original_sha256": "403448ee09eb3c54303b56a6041f76d3e782ff04bd623eed306205376614dc45",
+    "sha256": "63ba08783f005dcbe5cfb4b46bcccca356fe729ee55b20d857770b0fabd7491f",
+    "prompt_sha256": "c9acc5e41e42f4eeda51b1dce3ab3d238ba4b03713477e79f93a65cd705dd9cd",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual1",
+    "file": "헤라크로스_glossy_promo_f_casual1.webp",
+    "shard": 0,
+    "original_sha256": "59abda3546b7acdd73e37cc02fe8a4faf322ab4e35826c9c30f38a9601fa484e",
+    "sha256": "45abb2bcd2a262f43625b68229cf6d707e0e2061a7e2f402279cc627dd07550a",
+    "prompt_sha256": "408a131aa97d4e6f406b7fdd58e2e42a3a803ace2b8e35d373db7fb4c1b8211d",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual2",
+    "file": "헤라크로스_glossy_promo_f_casual2.webp",
+    "shard": 0,
+    "original_sha256": "a1d07f4008c2e5793c74e2742d29a67d42c2f8979c1f304a21bba0a1cf7c28c7",
+    "sha256": "a757aede443cde40c3cda88d6a252e457a4a44498c1f5c8c99356718b0564947",
+    "prompt_sha256": "3a384c033d95d02ca4fdf291caa7fa98e47e2d96374ad93a551711a96a12223f",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual3",
+    "file": "헤라크로스_glossy_promo_f_casual3.webp",
+    "shard": 0,
+    "original_sha256": "094c31b40964bf0b8681c0c00e5c83d3a9165e9cbf7725ea614c02579ec5ee22",
+    "sha256": "74ae47a9fee3ea64fda72a2fff5f77b868434689aafd5b663ebcb35bd8a7902f",
+    "prompt_sha256": "0c24eda49c5b4d2f4e76bb10ba5953691f3890df3301c547a07cb3a7a0af17f2",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual4",
+    "file": "헤라크로스_glossy_promo_f_casual4.webp",
+    "shard": 4,
+    "original_sha256": "ccbff30263350c66cbf95cfc2c3062167fa3c9660eaef86cb2bb65fae215c2e9",
+    "sha256": "1fe118b099144c028728b6c9b813680d77562c9955148948e8282cd0de58639e",
+    "prompt_sha256": "c4914afd27f11022640dc234f8c6539dbc3ab447a8d1992c65a4e89d06522c12",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual6",
+    "file": "헤라크로스_glossy_promo_f_casual6.webp",
+    "shard": 4,
+    "original_sha256": "0708fc6b3e18f308455c3337a484f90abcc00c79687a5004154ed9f4e5563559",
+    "sha256": "9a56b6fa5959ed9a01f7e54f4667d5f30c8bbf131e7a04017ebfd1885a490d97",
+    "prompt_sha256": "c0cf606e978871b83c779d2098eaac17871b3123892ced53e58ac26f4eef915c",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual7",
+    "file": "헤라크로스_glossy_promo_f_casual7.webp",
+    "shard": 4,
+    "original_sha256": "35c353439cf6e48aefb4e238d3a9bbb0fc313e9a75fc39ab98c49bfdddccc06b",
+    "sha256": "59d5ca9f1506cb20ceec4f87d877bcdac8331190efde19ed6c44c4a03af310d9",
+    "prompt_sha256": "7855722b154ede673e59000d420740974fc71dc554944ff08ae34b967288703f",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual8",
+    "file": "헤라크로스_glossy_promo_f_casual8.webp",
+    "shard": 4,
+    "original_sha256": "5f32063df2b607d975741b2fe21e9ecb48d798c2b2a317c7951eab72cba3714f",
+    "sha256": "a8ed26f44080d0e4e1f5d9159e3923a34393438b02f83159ba0b4ed89491b263",
+    "prompt_sha256": "1da23ef535d6c5095d56b1f6ff16858d9d8af83b1488bdca520d073614ecbfe6",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual9",
+    "file": "헤라크로스_glossy_promo_f_casual9.webp",
+    "shard": 4,
+    "original_sha256": "4805d00bdef9dd870e95c05505260e7f1264e315aad62e03606ead023d79b6ec",
+    "sha256": "318bdc1198ef4d1f5f7cdc2bc275b2abe1839391871a481073d22554874ae62f",
+    "prompt_sha256": "c9c76719587d23cb0f7691d7ffea2b29866a0749ce3e56a4b81004c8508fcef8",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual10",
+    "file": "헤라크로스_glossy_promo_f_casual10.webp",
+    "shard": 4,
+    "original_sha256": "a13ad6d9468d1959d88d664ff20659beaaffd59d83bdfed6ebc6dcce304f97af",
+    "sha256": "bf60eeaf6019e424357cdd4086ad399b55cf2283cedf983e7a32f0f3a72bbf70",
+    "prompt_sha256": "dca11633cb831bb0cc6f77664a3aff43d63695b070dddbc19c720e7cc2d7f7fe",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  },
+  {
+    "slot": "casual90",
+    "file": "헤라크로스_glossy_promo_f_casual90.webp",
+    "shard": 4,
+    "original_sha256": "1517099360b56b67928108ed53d56046f621a11f2381ef79fb349d830952761e",
+    "sha256": "189a8c5ece9e3305e230b864aad9a77b2df46052327ce95ab888726e40a42640",
+    "prompt_sha256": "6c9df986e00becedbd399f5cd7bc57d6b8b15a40b49d5d46f8aa69e6926135da",
+    "width": 1024,
+    "height": 1536,
+    "format": "WEBP"
+  }
+]
