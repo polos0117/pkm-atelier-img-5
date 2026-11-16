@@ -1,0 +1,44 @@
+{
+  "card": "솜솜코",
+  "style": "anime_25d_gloss",
+  "status": "selected",
+  "candidates": [
+    {
+      "n": 1,
+      "path": "/workspace/scratch/9f198e3ff6c3/generated_images/exec-617a1c4a-d6e4-4045-9ce0-1451a5f14462.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "338293469f2f26670647088fa061bf6cca5c8bb8ce0abad86eca8ff9eef2ab9e"
+    },
+    {
+      "n": 2,
+      "path": "/workspace/scratch/9f198e3ff6c3/generated_images/exec-c7f32b57-448e-4f2a-a6bd-e578fe5456e5.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b52dfd1d4e7152be173b5466a22dd220022ebdd68c0b0d597a75efa633ae24e5"
+    },
+    {
+      "n": 3,
+      "path": "/workspace/scratch/9f198e3ff6c3/generated_images/exec-5f1ffa47-b2ae-496e-8b0b-5f9b3f4c7063.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d121f0fc1ebfff96a17e5ff16816edba0e99eac3595d004bfda3737a2d7d191c"
+    },
+    {
+      "n": 4,
+      "path": "/workspace/scratch/9f198e3ff6c3/generated_images/exec-9a7de47c-c524-4e31-8f6f-8d6296085fa4.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d732cdc316c3dc37bedacc64b5f326c7f01030ae3171477046876e724dfd2da7"
+    }
+  ],
+  "selected": 1
+}

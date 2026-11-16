@@ -1,0 +1,158 @@
+[
+ {
+  "slot": "light",
+  "file": "솜솜코_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "338293469f2f26670647088fa061bf6cca5c8bb8ce0abad86eca8ff9eef2ab9e",
+  "webp_sha256": "177280382f237ce8aa471ddff47c113e3266a3bf6610425eeb9c6afcc279eb10",
+  "submitted_sha256": "ba95eb3ffef6486e593f80979e0dd01bc03b3f073058f70297357f8ecc99e2bc",
+  "submitted_same": true,
+  "reference": "none"
+ },
+ {
+  "slot": "casual1",
+  "file": "솜솜코_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "a25e6b1c7efb54a07c1e6522c04111d3fdbd3d1ac1a9e45319d579d459d170c8",
+  "webp_sha256": "e1458683b05f21a043ff1b531553539da353447d323b881c340edc903c55ddf4",
+  "submitted_sha256": "b09ffaded0b23a4915cbd5566544d769828a6eb637827b2efcbceecefe349b96",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual2",
+  "file": "솜솜코_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "cac4cd9c6ea9b5dd2f1110df436db2c832fa83890c0da9dfb19e792365654e56",
+  "webp_sha256": "0cc928eda14350d42ba2928a184861814fffea96f343750ff2840fdfdff26d8e",
+  "submitted_sha256": "8b7bf82f93a637c01e830f963a38ac0460b47b4a3bacea83d70de8fc938aed9d",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual3",
+  "file": "솜솜코_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "4c2bc4d29614947804dfeae59f78349212001a80a421577b5ae8a900aea91d30",
+  "webp_sha256": "ac20a229439ca28fb00cd77aa35cb14002b5cae1bdfc8fbd32391822a350a9a0",
+  "submitted_sha256": "cdc531982cf72f04e755a10a21db562698a9b9daff9d1e49b70bc63bf4f78789",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual4",
+  "file": "솜솜코_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "e0ecc8bba9870012e754c88ca6944bd96a81ccfc88991e8cf4a706cb7b0f4c37",
+  "webp_sha256": "6d60b8a7a61008648fc878db1d552f8d98cdf84860ae2bca2d3e6b5412ecb5c2",
+  "submitted_sha256": "4159b1087d3762e86b22d407a91002dbaa9c08e5311ec43e3c50200682867757",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual5",
+  "file": "솜솜코_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "6404a4f30de689fb61120875bce7cd9449bed3079527fc0c28fb3a6092ca753c",
+  "webp_sha256": "1f29a95ddd36f89b9ea73a5fce54e00b64ea59330c773943dd70300abb84566a",
+  "submitted_sha256": "a837a2786cd13e310bf9fd7899c9562f667f9854bc9ca10e4fe56bc1dd28801c",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual6",
+  "file": "솜솜코_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "89e83b826335b57173110808b4e2ff3bdaf2176b0276b778647be44d5c2e50e1",
+  "webp_sha256": "c709929ee0dcc190163602a71ae53e3b923c3da9f27f1dd5096e551ca629844d",
+  "submitted_sha256": "60ee042b9982ba07349171a7e56c0844f0191e55ece36469319434c0041f8bdd",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual7",
+  "file": "솜솜코_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "459db2fbc1be6a2d354f5f7a3ed20b21dc10e818cfca24a94f5fa42171798af9",
+  "webp_sha256": "90d69c2260df7e804cfac86c165b06354263a195c9e3f60e56aaaea7eef3414a",
+  "submitted_sha256": "c937a77c500b0d1980aa9d66a497fcc13e9263bbbc9c4569aff99485d86cd38a",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual8",
+  "file": "솜솜코_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "c3b51b7b4fe13701d7cec9d1e68d845b798f740bcc673912efbb94fe12108a82",
+  "webp_sha256": "a90c7bb4cf1163db350ead50d3fc0c28bad20dfa2f8ba94f7ff6650b5e4b83ac",
+  "submitted_sha256": "adad9a66a4c64ca182558f8a359c225ad4c1c770ca17bf4acfefe4198c6bcdb9",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual9",
+  "file": "솜솜코_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "eebe2bc30bf4179b9dccee34943871a8c6a009ab533225327750367535341f80",
+  "webp_sha256": "ac348567dd4f8bdd624b9b1f59d9f0b0b10c5d690eed3817ced18fab3d643549",
+  "submitted_sha256": "85ba047398f559b634b35d4ecc438836d19c9010d17326ae86f6f48a02c652ba",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual10",
+  "file": "솜솜코_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "520017cb2bfc2f9228acd8b82afeefb9d7b24f0966d25e42e1db76aacb97c506",
+  "webp_sha256": "312824c72c79922aade4b15b52158c8e8ec117fc99f64f760301a72cda40b5ea",
+  "submitted_sha256": "2fb20437e35fd8bbe2610a0ac2cf7a11005a9eeebaa3b178f8c63a6fa65f41b2",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ },
+ {
+  "slot": "casual90",
+  "file": "솜솜코_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "32960745f03eb7cdf27eb165ebaff5309fec59b7b6e79a555260295ec60e2eac",
+  "webp_sha256": "c2402854d6b7e50d0500af0dd3faaf47ed0fe582a970bc4525be689a37fe4d45",
+  "submitted_sha256": "0ae1a9362f83328722368d16a61b8204d72647b59f15ce2da9489a14487598de",
+  "submitted_same": true,
+  "reference": "selected light 1"
+ }
+]

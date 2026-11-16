@@ -1,0 +1,307 @@
+{
+ "card": "솜솜코",
+ "selected_mecha": 1,
+ "style": "anime_25d_gloss",
+ "counts": {
+  "light": 1,
+  "casual": 10,
+  "own": 1,
+  "total": 12
+ },
+ "comparison": [
+  "두코",
+  "통통코",
+  "왕구리"
+ ],
+ "policy": "Returned images retained; no exposure-based regeneration. Two unavailable costume output requests replanned before a covered costume image was returned.",
+ "cuts": [
+  {
+   "slot": "light",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Blue and white voluminous curls, navy eyes, blue close-fitting hard-surface armor and leaf/dandelion drones; two arms and two legs visibly connected; both open glove hands show natural finger groups. Additional bare thigh area preserved."
+   },
+   "scene": {
+    "evidence": "Blue and white voluminous curls, navy eyes, blue close-fitting hard-surface armor and leaf/dandelion drones; two arms and two legs visibly connected; both open glove hands show natural finger groups. Additional bare thigh area preserved."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Blue and white voluminous curls, navy eyes, blue close-fitting hard-surface armor and leaf/dandelion drones; two arms and two legs visibly connected; both open glove hands show natural finger groups. Additional bare thigh area preserved."
+   }
+  },
+  {
+   "slot": "casual1",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Rainy lakeside at dusk, yellow lined crochet bikini, right fingers hold strap; the other arm continues naturally below crop. Wider crop than planned, with upper waist visible. Same curls and softly shaded face."
+   },
+   "scene": {
+    "evidence": "Rainy lakeside at dusk, yellow lined crochet bikini, right fingers hold strap; the other arm continues naturally below crop. Wider crop than planned, with upper waist visible. Same curls and softly shaded face."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Rainy lakeside at dusk, yellow lined crochet bikini, right fingers hold strap; the other arm continues naturally below crop. Wider crop than planned, with upper waist visible. Same curls and softly shaded face."
+   }
+  },
+  {
+   "slot": "casual2",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Campsite stove and table, rose-pink halter knit and Poké Ball held beside face. Right hand fingers wrap the ball naturally, opposite arm exits frame. Crop shows more torso than planned."
+   },
+   "scene": {
+    "evidence": "Campsite stove and table, rose-pink halter knit and Poké Ball held beside face. Right hand fingers wrap the ball naturally, opposite arm exits frame. Crop shows more torso than planned."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Campsite stove and table, rose-pink halter knit and Poké Ball held beside face. Right hand fingers wrap the ball naturally, opposite arm exits frame. Crop shows more torso than planned."
+   }
+  },
+  {
+   "slot": "casual3",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Convention ring lights, white and gold Selendis-inspired lingerie costume, raised near hand with five fingers and lowered far arm; both legs and feet connected. Pose is rear three-quarter rather than strict profile; preserved."
+   },
+   "scene": {
+    "evidence": "Convention ring lights, white and gold Selendis-inspired lingerie costume, raised near hand with five fingers and lowered far arm; both legs and feet connected. Pose is rear three-quarter rather than strict profile; preserved."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Convention ring lights, white and gold Selendis-inspired lingerie costume, raised near hand with five fingers and lowered far arm; both legs and feet connected. Pose is rear three-quarter rather than strict profile; preserved."
+   }
+  },
+  {
+   "slot": "casual4",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Library shelves, warm lamps and black mechanic-style jumpsuit; right hand holds phone at chest height with curled fingers, left hand in pocket. Two arms trace to shoulders."
+   },
+   "scene": {
+    "evidence": "Library shelves, warm lamps and black mechanic-style jumpsuit; right hand holds phone at chest height with curled fingers, left hand in pocket. Two arms trace to shoulders."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Library shelves, warm lamps and black mechanic-style jumpsuit; right hand holds phone at chest height with curled fingers, left hand in pocket. Two arms trace to shoulders."
+   }
+  },
+  {
+   "slot": "casual5",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Room window reflections, brown opaque lingerie-style dress, both forearms folded; near hand on opposite upper arm, other hand partly hidden. Wider crop than planned. Face identity retained."
+   },
+   "scene": {
+    "evidence": "Room window reflections, brown opaque lingerie-style dress, both forearms folded; near hand on opposite upper arm, other hand partly hidden. Wider crop than planned. Face identity retained."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Room window reflections, brown opaque lingerie-style dress, both forearms folded; near hand on opposite upper arm, other hand partly hidden. Wider crop than planned. Face identity retained."
+   }
+  },
+  {
+   "slot": "casual6",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Airport lounge bench with aircraft beyond windows, coral travel romper and pale shoes; right hand on armrest and left hand on knee, both arms connected. Seated legs and ankles natural."
+   },
+   "scene": {
+    "evidence": "Airport lounge bench with aircraft beyond windows, coral travel romper and pale shoes; right hand on armrest and left hand on knee, both arms connected. Seated legs and ankles natural."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Airport lounge bench with aircraft beyond windows, coral travel romper and pale shoes; right hand on armrest and left hand on knee, both arms connected. Seated legs and ankles natural."
+   }
+  },
+  {
+   "slot": "casual7",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Veranda, blue puff-sleeve costume dress with white pompoms and leaf trim; both hands support her in front and are cropped at bottom edge. Generated neckline is deeper and sleeves sit lower than the requested covered dress; preserved without regeneration."
+   },
+   "scene": {
+    "evidence": "Veranda, blue puff-sleeve costume dress with white pompoms and leaf trim; both hands support her in front and are cropped at bottom edge. Generated neckline is deeper and sleeves sit lower than the requested covered dress; preserved without regeneration."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Veranda, blue puff-sleeve costume dress with white pompoms and leaf trim; both hands support her in front and are cropped at bottom edge. Generated neckline is deeper and sleeves sit lower than the requested covered dress; preserved without regeneration."
+   }
+  },
+  {
+   "slot": "casual8",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Garden at golden hour, ivory-sage fan peplum romper, one small Jumpluff beside feeding bowl; right hand on hip and left on raised thigh. One foot on stone step, other leg straight, both feet visible."
+   },
+   "scene": {
+    "evidence": "Garden at golden hour, ivory-sage fan peplum romper, one small Jumpluff beside feeding bowl; right hand on hip and left on raised thigh. One foot on stone step, other leg straight, both feet visible."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Garden at golden hour, ivory-sage fan peplum romper, one small Jumpluff beside feeding bowl; right hand on hip and left on raised thigh. One foot on stone step, other leg straight, both feet visible."
+   }
+  },
+  {
+   "slot": "casual9",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Sailing ship rigging and black bat costume; gloved right index at lips, remaining fingers curled; other arm exits crop naturally. Same navy eyes and blue-white curls."
+   },
+   "scene": {
+    "evidence": "Sailing ship rigging and black bat costume; gloved right index at lips, remaining fingers curled; other arm exits crop naturally. Same navy eyes and blue-white curls."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Sailing ship rigging and black bat costume; gloved right index at lips, remaining fingers curled; other arm exits crop naturally. Same navy eyes and blue-white curls."
+   }
+  },
+  {
+   "slot": "casual10",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Indoor lazy river and ivory inflatable ring, terracotta-ivory folded swimsuit; right hand grips handle with thumb obscured, left relaxed on ring. Both knees drawn up and lower legs hidden naturally by ring and water."
+   },
+   "scene": {
+    "evidence": "Indoor lazy river and ivory inflatable ring, terracotta-ivory folded swimsuit; right hand grips handle with thumb obscured, left relaxed on ring. Both knees drawn up and lower legs hidden naturally by ring and water."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Indoor lazy river and ivory inflatable ring, terracotta-ivory folded swimsuit; right hand grips handle with thumb obscured, left relaxed on ring. Both knees drawn up and lower legs hidden naturally by ring and water."
+   }
+  },
+  {
+   "slot": "casual90",
+   "style_25d": {
+    "verdict": "match",
+    "evidence": "Soft gradients on cheeks, nose, lips and jaw, fine coloured facial contours, separated hair strands and glossy skin highlights."
+   },
+   "identity": {
+    "verdict": "match",
+    "evidence": "Same navy eyes, rounded soft face and blue-white voluminous curls as selected candidate 1."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "method": "visual inspection of whole image and enlarged visible hands",
+    "evidence": "Night balloon stand, yellow apron and puff shoulder accent; right hand grips balloon ribbons by face, opposite arm below crop. Head turned back, face near frontal, same blue-white curls."
+   },
+   "scene": {
+    "evidence": "Night balloon stand, yellow apron and puff shoulder accent; right hand grips balloon ribbons by face, opposite arm below crop. Head turned back, face near frontal, same blue-white curls."
+   },
+   "exposure": {
+    "verdict": "preserved_as_generated",
+    "evidence": "Night balloon stand, yellow apron and puff shoulder accent; right hand grips balloon ribbons by face, opposite arm below crop. Head turned back, face near frontal, same blue-white curls."
+   }
+  }
+ ]
+}

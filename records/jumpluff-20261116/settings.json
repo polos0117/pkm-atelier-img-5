@@ -1,0 +1,818 @@
+{
+ "version": 4,
+ "card": "솜솜코",
+ "no": 189,
+ "style": "anime_25d_gloss",
+ "plan": "/workspace/scratch/9f198e3ff6c3/jumpluff-pack/PLAN.json",
+ "note": "고칠 수 있는 칸만 있다. 자리마다 고정인 것(출력·인물 기준·장갑 폼·폭주 기준·첨부)은 tools/prompt-pack.cjs 가 정한다. 다 쓰면 build.",
+ "slots": {
+  "light": {
+   "motifs": "",
+   "formOverride": "",
+   "headFeature": "",
+   "faceDesignOn": true,
+   "params": {
+    "body type": "an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy"
+   },
+   "scene": {
+    "expr": "",
+    "pose": "",
+    "orient": "",
+    "frame": "",
+    "lens": "",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "",
+    "outfit": "",
+    "custom": "",
+    "action": {
+     "category": "",
+     "example": "",
+     "timing": "",
+     "equipment": "",
+     "power": "",
+     "effects": "",
+     "speed": "",
+     "environment": ""
+    }
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "mecha": {
+    "set": {
+     "silhouette": "light_agile"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "grass"
+     },
+     {
+      "key": "aura",
+      "type": "flying"
+     },
+     {
+      "key": "ground",
+      "type": "grass"
+     }
+    ]
+   },
+   "mecha_auto": {
+    "set": {
+     "silhouette": "light_agile"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "grass"
+     },
+     {
+      "key": "aura",
+      "type": "flying"
+     },
+     {
+      "key": "ground",
+      "type": "grass"
+     }
+    ]
+   },
+   "mecha_recent": [
+    "segmented_parts",
+    "halo_crown",
+    "tail_unit",
+    "slim_suit",
+    "skirt_plate",
+    "long_coat_plate",
+    "float_units",
+    "skirt_plate",
+    "skirt_plate",
+    "heavy_assault"
+   ],
+   "mecha_why": ""
+  },
+  "casual1": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "now / travel_lake / swimwear / crochet_bikini / stand / chest_up",
+    "v2": {
+     "era": {
+      "key": "now",
+      "ko": "지금 현실",
+      "en": "present-day real world"
+     },
+     "place": {
+      "key": "travel_lake",
+      "ko": "호숫가",
+      "en": "a lakeside of flat rocks and still water"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "swimwear",
+      "ko": "수영복",
+      "en": "modern swimwear, fully lined and secure during movement"
+     },
+     "item": {
+      "key": "crochet_bikini",
+      "ko": "크로셰 비키니",
+      "en": "a fully lined crochet-knit bikini in a sunny resort colour"
+     },
+     "posture": {
+      "key": "stand",
+      "ko": "서기",
+      "en": "standing"
+     },
+     "frame": "chest_up",
+     "body": {
+      "key": "front_3q",
+      "ko": "3/4 정면",
+      "en": "body turned three-quarters toward the camera"
+     },
+     "hands": "strap · out"
+    },
+    "garments": [
+     "bikini"
+    ],
+    "expose": [
+     "deep V neckline",
+     "high-cut leg"
+    ],
+    "lead": "detail",
+    "color": {
+     "key": "yellow",
+     "ko": "옐로 · 머스터드",
+     "en": "butter yellow and mustard",
+     "words": [
+      "yellow",
+      "mustard",
+      "lemon",
+      "butter",
+      "gold",
+      "golden"
+     ]
+    },
+    "situ": null,
+    "free": "",
+    "cosplay": null
+   }
+  },
+  "casual2": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "in_pokemon / berry_camp / dongtan / sit_chair / face_close / ball_raise",
+    "v2": {
+     "era": {
+      "key": "in_pokemon",
+      "ko": "포켓몬 세계 안",
+      "en": "inside the Pokémon world, as if she simply lives there"
+     },
+     "place": {
+      "key": "berry_camp",
+      "ko": "야영 조리장",
+      "en": "an outdoor cooking site at a campsite with a camp stove and a folding table"
+     },
+     "role": null,
+     "use": {
+      "key": "ball_raise",
+      "ko": "몬스터볼을 얼굴 옆에 든다",
+      "en": "raises a Poké Ball beside her face",
+      "prop": "몬스터볼"
+     },
+     "ofam": {
+      "key": "dongtan",
+      "ko": "동탄룩",
+      "en": "a body-hugging, curve-tracing going-out outfit in the Korean 'Dongtan look' style"
+     },
+     "item": {
+      "key": "",
+      "ko": "자동 — 계열 안에서 장면에 맞게",
+      "en": ""
+     },
+     "posture": {
+      "key": "sit_chair",
+      "ko": "의자에 앉기",
+      "en": "seated on a chair"
+     },
+     "frame": "face_close",
+     "body": {
+      "key": "front_3q",
+      "ko": "3/4 정면",
+      "en": "body turned three-quarters toward the camera"
+     },
+     "hands": "prop · out"
+    },
+    "garments": [
+     "knit_top",
+     "skirt"
+    ],
+    "expose": [
+     "plunging neckline",
+     "cropped hem"
+    ],
+    "lead": "action",
+    "color": {
+     "key": "pink",
+     "ko": "핑크 · 로즈",
+     "en": "rose pink and blush",
+     "words": [
+      "pink",
+      "rose",
+      "blush",
+      "fuchsia",
+      "magenta"
+     ]
+    },
+    "situ": null,
+    "free": "",
+    "cosplay": null
+   }
+  },
+  "casual3": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "now / stage_convention / game_cosplay / gc_lingerie / stand / full_body",
+    "v2": {
+     "era": {
+      "key": "now",
+      "ko": "지금 현실",
+      "en": "present-day real world"
+     },
+     "place": {
+      "key": "stage_convention",
+      "ko": "코스프레 행사",
+      "en": "a convention photo zone under ring lights"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "game_cosplay",
+      "ko": "게임 코스프레",
+      "en": "a daring adult cosplay of a video-game character"
+     },
+     "item": {
+      "key": "gc_lingerie",
+      "ko": "란제리",
+      "en": "a daring adult cosplay of a video-game character, cut as a lace bralette and high-waisted briefs with garter straps"
+     },
+     "posture": {
+      "key": "stand",
+      "ko": "서기",
+      "en": "standing"
+     },
+     "frame": "full_body",
+     "body": {
+      "key": "side",
+      "ko": "옆모습",
+      "en": "body in side profile"
+     },
+     "hands": "wave · down"
+    },
+    "garments": [
+     "crop_top"
+    ],
+    "expose": [
+     "sweetheart neckline",
+     "bare midriff"
+    ],
+    "lead": "light",
+    "color": null,
+    "situ": null,
+    "free": "",
+    "cosplay": {
+     "game": "starcraft",
+     "game_ko": "스타크래프트",
+     "game_en": "StarCraft",
+     "character": "Selendis",
+     "character_ko": "",
+     "cut": "lingerie",
+     "cut_ko": "란제리",
+     "round": 1,
+     "kind": "assigned",
+     "used": [],
+     "text": "a daring adult cosplay of Selendis from StarCraft — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps",
+     "again": null,
+     "note": "그대로 그린다"
+    }
+   }
+  },
+  "casual4": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "now / library_reading / roleplay / mechanic_jumpsuit / stand / waist_up / phone_look",
+    "v2": {
+     "era": {
+      "key": "now",
+      "ko": "지금 현실",
+      "en": "present-day real world"
+     },
+     "place": {
+      "key": "library_reading",
+      "ko": "도서관 열람실",
+      "en": "a quiet library reading room with tall bookshelves, reading desks and big windows"
+     },
+     "role": null,
+     "use": {
+      "key": "phone_look",
+      "ko": "휴대폰을 본다",
+      "en": "holds a smartphone at chest height, screen toward her",
+      "prop": "휴대폰"
+     },
+     "ofam": {
+      "key": "roleplay",
+      "ko": "역할극·직업 의상",
+      "en": "a playful adult event costume inspired by an occupation or role — clearly a costume, not a real uniform, no real insignia"
+     },
+     "item": {
+      "key": "mechanic_jumpsuit",
+      "ko": "정비용 점프수트",
+      "en": "a fitted mechanic's work jumpsuit with rolled sleeves and no real logos"
+     },
+     "posture": {
+      "key": "stand",
+      "ko": "서기",
+      "en": "standing"
+     },
+     "frame": "waist_up",
+     "body": {
+      "key": "front_3q",
+      "ko": "3/4 정면",
+      "en": "body turned three-quarters toward the camera"
+     },
+     "hands": "prop · pocket"
+    },
+    "garments": [
+     "jumpsuit"
+    ],
+    "expose": [
+     "deep V neckline",
+     "cutout waist"
+    ],
+    "lead": "place",
+    "color": {
+     "key": "black",
+     "ko": "블랙 · 차콜",
+     "en": "black with charcoal accents",
+     "words": [
+      "black",
+      "charcoal",
+      "jet",
+      "onyx"
+     ]
+    },
+    "situ": null,
+    "free": "",
+    "cosplay": null
+   }
+  },
+  "casual5": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "in_pokemon / pw_room / lingerie / lean_wall / chest_up",
+    "v2": {
+     "era": {
+      "key": "in_pokemon",
+      "ko": "포켓몬 세계 안",
+      "en": "inside the Pokémon world, as if she simply lives there"
+     },
+     "place": {
+      "key": "pw_room",
+      "ko": "포켓몬 세계 내 방",
+      "en": "her own room in a small house of a Pokémon-world town, a shelf of travel gear by the window"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "lingerie",
+      "ko": "란제리풍",
+      "en": "tasteful lingerie-inspired fashion, fully opaque and securely fitted, with full intimate coverage"
+     },
+     "item": {
+      "key": "",
+      "ko": "자동 — 계열 안에서 장면에 맞게",
+      "en": ""
+     },
+     "posture": {
+      "key": "lean_wall",
+      "ko": "벽에 기대 서기",
+      "en": "standing, leaning back against a wall"
+     },
+     "frame": "chest_up",
+     "body": {
+      "key": "front_3q",
+      "ko": "3/4 정면",
+      "en": "body turned three-quarters toward the camera"
+     },
+     "hands": "arms_crossed · arms_crossed"
+    },
+    "garments": [
+     "slip"
+    ],
+    "expose": [
+     "plunging neckline",
+     "mini length"
+    ],
+    "lead": "place",
+    "color": {
+     "key": "brown",
+     "ko": "카멜 · 초콜릿",
+     "en": "camel and chocolate brown",
+     "words": [
+      "brown",
+      "camel",
+      "tan",
+      "chocolate",
+      "beige",
+      "khaki",
+      "taupe",
+      "caramel"
+     ]
+    },
+    "situ": null,
+    "free": "",
+    "cosplay": null
+   }
+  },
+  "casual6": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "release / evening_gala / subculture / emo / sit_lean / three_quarter / cup_wrap",
+    "v2": {
+     "era": {
+      "key": "release",
+      "ko": "첫 등장 무렵 현실",
+      "en": "the real world around the year her Pokémon first appeared"
+     },
+     "place": {
+      "key": "evening_gala",
+      "ko": "갈라 만찬장",
+      "en": "a candlelit gala dinner hall"
+     },
+     "role": null,
+     "use": {
+      "key": "cup_wrap",
+      "ko": "두 손으로 잔을 감싼다",
+      "en": "holds a cup in both hands, wrapped around its warm sides",
+      "prop": "잔·컵"
+     },
+     "ofam": {
+      "key": "subculture",
+      "ko": "서브컬처",
+      "en": "a subculture street look"
+     },
+     "item": {
+      "key": "emo",
+      "ko": "이모",
+      "en": "emo — a fitted striped long-sleeve top, a studded belt, skinny jeans and checkered sneakers"
+     },
+     "posture": {
+      "key": "sit_lean",
+      "ko": "앉아 앞으로 기울이기",
+      "en": "seated, leaning slightly forward toward the table, forearms near its edge"
+     },
+     "frame": "three_quarter",
+     "body": {
+      "key": "side",
+      "ko": "옆모습",
+      "en": "body in side profile"
+     },
+     "hands": "prop · prop"
+    },
+    "garments": [
+     "trousers"
+    ],
+    "expose": [
+     "sweetheart neckline",
+     "strapless top"
+    ],
+    "lead": "action",
+    "color": null,
+    "situ": null,
+    "free": "장면 자유(자유 장면)",
+    "cosplay": null
+   }
+  },
+  "casual7": {
+   "scene": "",
+   "outfit": "an opaque blue Jumpluff-inspired costume dress with short puff sleeves, a modest round neckline, a fitted waist and a knee-length A-line skirt; small leaf-shaped fabric trim and three soft white pompom accents express the creature motif; plain flat shoes",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "outfit": "Two requests returned no image; replace the revealing costume with a fully covering everyday costume dress while retaining the creature costume category."
+   },
+   "exposure": "moderate",
+   "exposure_why": "No returned image for the first two costume requests (c6103d5d-09b2-49fa-b5ed-191db998039c and 68c620e1-a304-407a-b8b0-3c57bbe13988). Use a more covered costume and different pose.",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "now / home_veranda / pokemon_costume / pc_bodysuit / kneel / environmental",
+    "v2": {
+     "era": {
+      "key": "now",
+      "ko": "지금 현실",
+      "en": "present-day real world"
+     },
+     "place": {
+      "key": "home_veranda",
+      "ko": "볕 드는 베란다",
+      "en": "a sunny enclosed veranda with drying racks overhead, floor cushions and a sliding glass door"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "pokemon_costume",
+      "ko": "포켓몬 코스튬",
+      "en": "a daring adult costume version of {costume}"
+     },
+     "item": {
+      "key": "pc_bodysuit",
+      "ko": "바디수트형",
+      "en": "a daring adult costume version of {costume}, cut as a high-cut bodysuit with sheer thigh-high tights"
+     },
+     "posture": {
+      "key": "kneel",
+      "ko": "무릎 꿇기",
+      "en": "kneeling on the ground"
+     },
+     "frame": "environmental",
+     "body": {
+      "key": "side",
+      "ko": "옆모습",
+      "en": "body in side profile"
+     },
+     "hands": "natural · natural"
+    },
+    "garments": [
+     "bodysuit",
+     "leggings"
+    ],
+    "expose": [
+     "deep V neckline",
+     "halter neck"
+    ],
+    "lead": "detail",
+    "color": null,
+    "situ": null,
+    "free": "",
+    "cosplay": null
+   }
+  },
+  "casual8": {
+   "scene": "Her one companion is a small Jumpluff floating just above the grass beside the feeding bowl.",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "scene": "The selected companion scene does not specify a species; choose Jumpluff, one companion only."
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "in_pokemon / partner_garden / adventure / aviatrix / step_up / full_body",
+    "v2": {
+     "era": {
+      "key": "in_pokemon",
+      "ko": "포켓몬 세계 안",
+      "en": "inside the Pokémon world, as if she simply lives there"
+     },
+     "place": {
+      "key": "partner_garden",
+      "ko": "조용한 정원",
+      "en": "a quiet garden with a feeding bowl set on the grass"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "adventure",
+      "ko": "모험가",
+      "en": "an adventurer's outfit — a rugged ranch, explorer or pirate look, practical pieces worn short and fitted"
+     },
+     "item": {
+      "key": "aviatrix",
+      "ko": "비행사",
+      "en": "a vintage aviatrix look — a cropped leather flight jacket over a fitted top, high-waisted jodhpurs, goggles pushed up on her head and tall boots"
+     },
+     "posture": {
+      "key": "step_up",
+      "ko": "한 발 올려 서기",
+      "en": "standing with one foot up on a step, the other leg straight"
+     },
+     "frame": "full_body",
+     "body": {
+      "key": "front_3q",
+      "ko": "3/4 정면",
+      "en": "body turned three-quarters toward the camera"
+     },
+     "hands": "hip · natural"
+    },
+    "garments": [
+     "jacket"
+    ],
+    "expose": [
+     "plunging neckline",
+     "off-shoulder neckline"
+    ],
+    "lead": "light",
+    "color": null,
+    "situ": null,
+    "free": "옷 자유",
+    "cosplay": null
+   }
+  },
+  "casual9": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "fantasy / fx_pirate_ship / halloween / hw_bat / stand / face_close",
+    "v2": {
+     "era": {
+      "key": "fantasy",
+      "ko": "무대·환상",
+      "en": "a stylised stage, editorial or fantasy setting not bound to a real year"
+     },
+     "place": {
+      "key": "fx_pirate_ship",
+      "ko": "해적선 갑판",
+      "en": "the deck of a tall wooden sailing ship at sea — rigging, a ship's wheel, coiled ropes, wooden stairs up to the quarterdeck and billowing sails"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "halloween",
+      "ko": "할로윈 코스튬",
+      "en": "a daring adult Halloween costume"
+     },
+     "item": {
+      "key": "hw_bat",
+      "ko": "박쥐",
+      "en": "a bat costume — a black satin bustier mini dress with scalloped bat-wing sleeves and a small bat-ear headband"
+     },
+     "posture": {
+      "key": "stand",
+      "ko": "서기",
+      "en": "standing"
+     },
+     "frame": "face_close",
+     "body": {
+      "key": "front",
+      "ko": "정면",
+      "en": "body facing the camera"
+     },
+     "hands": "shush · out"
+    },
+    "garments": [
+     "dress",
+     "lingerie_set"
+    ],
+    "expose": [
+     "sweetheart neckline",
+     "side cutouts"
+    ],
+    "lead": "action",
+    "color": {
+     "key": "black",
+     "ko": "블랙 · 차콜",
+     "en": "black with charcoal accents",
+     "words": [
+      "black",
+      "charcoal",
+      "jet",
+      "onyx"
+     ]
+    },
+    "situ": null,
+    "free": "",
+    "cosplay": null
+   }
+  },
+  "casual10": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": "",
+   "guide": {
+    "tree": 2,
+    "path": "now / sports_range / active / ski_suit / lean_wall / three_quarter",
+    "v2": {
+     "era": {
+      "key": "now",
+      "ko": "지금 현실",
+      "en": "present-day real world"
+     },
+     "place": {
+      "key": "sports_range",
+      "ko": "양궁장",
+      "en": "an archery range of targets on a green field"
+     },
+     "role": null,
+     "use": null,
+     "ofam": {
+      "key": "active",
+      "ko": "운동복",
+      "en": "activewear made for the activity"
+     },
+     "item": {
+      "key": "ski_suit",
+      "ko": "스키웨어 — 몸에 붙는 스키 수트",
+      "en": "a sleek fitted one-piece ski suit with goggles pushed up on her head"
+     },
+     "posture": {
+      "key": "lean_wall",
+      "ko": "벽에 기대 서기",
+      "en": "standing, leaning back against a wall"
+     },
+     "frame": "three_quarter",
+     "body": {
+      "key": "rear_3q",
+      "ko": "뒤 3/4",
+      "en": "body turned three-quarters away from the camera"
+     },
+     "hands": "natural · natural"
+    },
+    "garments": [
+     "swimsuit"
+    ],
+    "expose": [
+     "deep V neckline",
+     "open back"
+    ],
+    "lead": "place",
+    "color": null,
+    "situ": null,
+    "free": "갈래 · 상황 자유(자유 장면)",
+    "cosplay": null
+   }
+  },
+  "casual90": {
+   "guide": {
+    "own": "풍선 가게 점장",
+    "level": "bold",
+    "place": "a plaza balloon stand — a helium tank, a cart of balloon bundles, a bench, a sunny flower bed",
+    "scene": "she is the stand manager glancing back over her shoulder, holding a bunch of balloons beside her face, floating along with the wind",
+    "outfit": "a balloon seller look fitted to her body — a bright apron over a fitted halter top and short pleated skirt, bare shoulders and legs, sandals, a fluffy dandelion-puff shoulder piece",
+    "prop": "a bunch of colorful balloons",
+    "note": "캐릭터만의 컷 — 채울 칸이 없다(글은 표 data/casual-own.json 에서). 단계를 내릴 때는 계획기 --own --own-level"
+   }
+  }
+ }
+}

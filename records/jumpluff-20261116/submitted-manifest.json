@@ -1,0 +1,62 @@
+[
+ {
+  "slot": "light",
+  "submitted_sha256": "ba95eb3ffef6486e593f80979e0dd01bc03b3f073058f70297357f8ecc99e2bc",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual1",
+  "submitted_sha256": "b09ffaded0b23a4915cbd5566544d769828a6eb637827b2efcbceecefe349b96",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "submitted_sha256": "8b7bf82f93a637c01e830f963a38ac0460b47b4a3bacea83d70de8fc938aed9d",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "submitted_sha256": "cdc531982cf72f04e755a10a21db562698a9b9daff9d1e49b70bc63bf4f78789",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual4",
+  "submitted_sha256": "4159b1087d3762e86b22d407a91002dbaa9c08e5311ec43e3c50200682867757",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual5",
+  "submitted_sha256": "a837a2786cd13e310bf9fd7899c9562f667f9854bc9ca10e4fe56bc1dd28801c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual6",
+  "submitted_sha256": "60ee042b9982ba07349171a7e56c0844f0191e55ece36469319434c0041f8bdd",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual7",
+  "submitted_sha256": "c937a77c500b0d1980aa9d66a497fcc13e9263bbbc9c4569aff99485d86cd38a",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual8",
+  "submitted_sha256": "adad9a66a4c64ca182558f8a359c225ad4c1c770ca17bf4acfefe4198c6bcdb9",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual9",
+  "submitted_sha256": "85ba047398f559b634b35d4ecc438836d19c9010d17326ae86f6f48a02c652ba",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual10",
+  "submitted_sha256": "2fb20437e35fd8bbe2610a0ac2cf7a11005a9eeebaa3b178f8c63a6fa65f41b2",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual90",
+  "submitted_sha256": "0ae1a9362f83328722368d16a61b8204d72647b59f15ce2da9489a14487598de",
+  "submitted_same": true
+ }
+]
