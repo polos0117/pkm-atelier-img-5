@@ -1,0 +1,239 @@
+{
+  "card": "침바루",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "generated_total": 11,
+  "expected_total": 12,
+  "blocked": [
+    "casual4"
+  ],
+  "regeneration": false,
+  "cuts": {
+    "light": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "두 팔과 두 다리 연결. 오른손은 느슨한 주먹으로 일부 손가락 겹침, 왼손은 펼친 손바닥; 갑옷이 손목과 발을 덮음."
+      },
+      "submitted_sha256": "e330b48eafb53cf6c4838a359002d06ae908d490f78f027ac9c6678e282a9697",
+      "submitted_same": true,
+      "original_sha256": "6e53b4796913b4aa6d8f56811cfa0bc2d4c561f927412d4ee832ae16dec7f731"
+    },
+    "casual1": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "한 손으로 볼을 쥐어 손가락 일부 가림. 반대 팔은 어깨에서 아래 프레임 밖으로 이어짐. 얼굴 클로즈업으로 다리 프레임 밖."
+      },
+      "submitted_sha256": "4ec056f8de9204627140ce0903f045a89fec015389406d3bd0d36f4a35108226",
+      "submitted_same": true,
+      "original_sha256": "3498f38292d6dfb2bb226dedef9df0221bb13f831000587bf1070684180e847e"
+    },
+    "casual2": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "두 팔은 양 어깨에서 카운터 위 두 손으로 이어짐. 손가락 일부는 접지·겹침. 허리 위 구도라 다리 프레임 밖."
+      },
+      "submitted_sha256": "e1d610cd2887a56072eceb6988439ca8a1a2d346d148693f0ed885d6002e7b3e",
+      "submitted_same": true,
+      "original_sha256": "81307784b6b22126553be151f5dfa5d601bed2920577914295d197ce208cd134"
+    },
+    "casual3": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "두 팔은 옆으로 자연스럽게 이어지고 양손 손가락 일부 겹침. 두 다리와 발은 계단 위·아래에 연결."
+      },
+      "submitted_sha256": "17487d27e31d5b206ec177a32fd19d6eed13e576988742f9531f4b91b927b55c",
+      "submitted_same": true,
+      "original_sha256": "1ee514215ffaf1eaf6787a602e7d2ae4ee755e7202f105cde02e6d87179e92e3"
+    },
+    "casual5": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "오른손은 컵을 쥐어 손가락 일부 가림, 왼손은 카운터에 놓임. 무릎 위 구도에서 발은 프레임 밖."
+      },
+      "submitted_sha256": "aa5160b547e011d48d3a1d5a837f3d09bfa001974d30994bf860966665879b34",
+      "submitted_same": true,
+      "original_sha256": "4c012fa4e7a13dd27b965fc9fa607e59a6127cb8e694c3dd6ba1e57987caf485"
+    },
+    "casual6": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "오른팔은 내려와 옆에, 왼팔은 허벅지 위 손으로 연결. 스케이트를 신은 두 발과 다리 연결; 손가락 일부 겹침."
+      },
+      "submitted_sha256": "be590609a369338c2aa189cae1179dd39d921ced50f73a19ef64c3197d647a6a",
+      "submitted_same": true,
+      "original_sha256": "774f53e167ae29400858acf6d550619e64de89a33ab9924ee80f527c13262870"
+    },
+    "casual7": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "가슴 위 구도. 양 어깨에서 위팔이 연결되며 손과 다리는 프레임 밖."
+      },
+      "submitted_sha256": "ba9e6fc0120f2dfc366504dcbf267ee16178f60913aa6cb75e9b61a0c965fd7c",
+      "submitted_same": true,
+      "original_sha256": "a3487832ac100ca72cdf4c0cc5ab2db6cd5d23f522f0463be03f39308d825933"
+    },
+    "casual8": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "오른손으로 고리를 쥐어 손가락 일부 가림, 왼손은 옆으로 펴져 다섯 손가락이 보임. 두 팔과 두 다리·부츠 연결."
+      },
+      "submitted_sha256": "be0eff6da737e33969fdc1c54fdba22abbd2e08ab6a7a29f2e7f2106af7194e5",
+      "submitted_same": true,
+      "original_sha256": "3098062105c18e23456ed8be525f272e45efa009bea50f6340638fed4dec4a98"
+    },
+    "casual9": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "두 팔이 옆으로 이어짐. 한 손은 무릎 위, 반대 손은 옆으로 내려져 손가락 일부 겹침. 두 다리와 발 연결."
+      },
+      "submitted_sha256": "85370e9a96bdf79d296fd578725b986c49217e4514728f265ed64db13e1c8925",
+      "submitted_same": true,
+      "original_sha256": "dcc6435668fe09bd14b112efc23276728542a0c7d8b817f3eec48c290e98abe2"
+    },
+    "casual10": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "두 어깨·팔·손이 의자 팔걸이 쪽으로 이어짐. 오른손 손가락 네 개와 엄지 일부가 보이며 다른 손은 가장자리에서 일부 가림. 다리는 프레임 밖."
+      },
+      "submitted_sha256": "a94ade1e8d689a259f52865ad8544c36cc21acf6f488980f1b40c6cc8e3eb9fc",
+      "submitted_same": true,
+      "original_sha256": "60b7663cfddb8434f60e85d25d0d6c18af848fb8d3b37f65db842c889db20fab"
+    },
+    "casual90": {
+      "status": "accepted",
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_style": "visually consistent with selected mecha 2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible finger groups checked; grip/overlap and cropped hands are described in note.",
+        "overlay_checked": false,
+        "note": "두 어깨·위팔·팔꿈치가 가슴 앞에서 맞잡은 두 손으로 이어짐. 손가락은 맞잡은 자세로 일부 겹침. 무릎 꿇은 두 다리와 옆으로 접힌 발 일부가 보임."
+      },
+      "submitted_sha256": "33488446d4e7d753cd481b28c62e394f51306043bb67db7db33af2949567102c",
+      "submitted_same": true,
+      "original_sha256": "664a00589830ca633d18a333f50193cc15990442e9e5e3867abb32baed738268"
+    },
+    "casual4": {
+      "status": "blocked",
+      "tries": 1,
+      "request_id": "ebed991c-4370-4f25-bf13-ebd2c4f9c860",
+      "regenerated": false
+    }
+  }
+}

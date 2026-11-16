@@ -1,0 +1,13 @@
+{
+  "status": "ready_for_publication_with_one_blocked_slot",
+  "card": "침바루",
+  "selected": 2,
+  "manifest": "manifest.json",
+  "blocked": [
+    "casual4"
+  ],
+  "originals": "session generated_images, sha256 recorded; no PNG originals committed",
+  "submitted_prompts": "*-submitted.txt",
+  "expected": 12,
+  "available": 11
+}

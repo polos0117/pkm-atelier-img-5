@@ -1,0 +1,123 @@
+[
+  {
+    "slot": "light",
+    "source_sha256": "6e53b4796913b4aa6d8f56811cfa0bc2d4c561f927412d4ee832ae16dec7f731",
+    "file": "침바루_light_anime_25d_gloss_f.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "0feec083cf204a58eebf17ce50dc9e5ef57ec265d6ba0bbee2aaafdcd76ce3f2",
+    "shard": 4,
+    "reference": "text only"
+  },
+  {
+    "slot": "casual1",
+    "source_sha256": "3498f38292d6dfb2bb226dedef9df0221bb13f831000587bf1070684180e847e",
+    "file": "침바루_anime_25d_gloss_f_casual1.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "a5c270758a5a98f80787929cc9072691bb76e97dfc2abe78f78264306677be5b",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual2",
+    "source_sha256": "81307784b6b22126553be151f5dfa5d601bed2920577914295d197ce208cd134",
+    "file": "침바루_anime_25d_gloss_f_casual2.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "6af83697be00b1d584d6aa33fe3599a1eb2a745420fd8618ecf8e328775f94ba",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual3",
+    "source_sha256": "1ee514215ffaf1eaf6787a602e7d2ae4ee755e7202f105cde02e6d87179e92e3",
+    "file": "침바루_anime_25d_gloss_f_casual3.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "db421286c247ed2663a9b21fd394522e26a13dace64255f26eff2f313bb3881e",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual5",
+    "source_sha256": "4c012fa4e7a13dd27b965fc9fa607e59a6127cb8e694c3dd6ba1e57987caf485",
+    "file": "침바루_anime_25d_gloss_f_casual5.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "23cde2a1fadaa9754d354d40d9e805e1f1ae26f09cb2b326da7c16ff7ea724f2",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual6",
+    "source_sha256": "774f53e167ae29400858acf6d550619e64de89a33ab9924ee80f527c13262870",
+    "file": "침바루_anime_25d_gloss_f_casual6.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "6cfa78006877e17fd739c5a2058b91057d19b9aba35bbb51582dba352cfbe685",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual7",
+    "source_sha256": "a3487832ac100ca72cdf4c0cc5ab2db6cd5d23f522f0463be03f39308d825933",
+    "file": "침바루_anime_25d_gloss_f_casual7.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "f1671ce7a5605b266fcc14b5e5a471c03b7a3b26a7142fb62fd39b6d94fb667a",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual8",
+    "source_sha256": "3098062105c18e23456ed8be525f272e45efa009bea50f6340638fed4dec4a98",
+    "file": "침바루_anime_25d_gloss_f_casual8.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "01b9df45742814777b4f6381b4ac5becc5def730dbfec46a035eb047d56770f1",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual9",
+    "source_sha256": "dcc6435668fe09bd14b112efc23276728542a0c7d8b817f3eec48c290e98abe2",
+    "file": "침바루_anime_25d_gloss_f_casual9.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "df84d86fc687e1e1d2641b30725fd1da81c90e7bf5908e03403f82aa9954732c",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual10",
+    "source_sha256": "60b7663cfddb8434f60e85d25d0d6c18af848fb8d3b37f65db842c889db20fab",
+    "file": "침바루_anime_25d_gloss_f_casual10.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "77e22513b6bb04d965a203b8dc1f440c12677176b307835efd934271bc5a0430",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  },
+  {
+    "slot": "casual90",
+    "source_sha256": "664a00589830ca633d18a333f50193cc15990442e9e5e3867abb32baed738268",
+    "file": "침바루_anime_25d_gloss_f_casual90.webp",
+    "width": 1024,
+    "height": 1536,
+    "format": "webp",
+    "sha256": "396b38bedb9a631a1f01b860d6af1fa008a35e138bccd5c7d6c2a60162a9eb99",
+    "shard": 4,
+    "reference": "selected mecha candidate 2"
+  }
+]

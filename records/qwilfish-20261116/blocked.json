@@ -1,0 +1,11 @@
+[
+  {
+    "slot": "casual4",
+    "status": "blocked",
+    "request_id": "ebed991c-4370-4f25-bf13-ebd2c4f9c860",
+    "reason": "image tool moderation_blocked (output, sexual)",
+    "tries": 1,
+    "regenerated": false,
+    "user_instruction": "생성 이미지는 노출검열을 이유로 재생성하지 않는다"
+  }
+]

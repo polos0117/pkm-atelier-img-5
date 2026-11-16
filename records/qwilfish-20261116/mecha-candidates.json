@@ -1,0 +1,31 @@
+{
+  "card": "침바루",
+  "style": "anime_25d_gloss",
+  "status": "awaiting_user_selection",
+  "candidates": [
+    {
+      "number": 1,
+      "original": "/workspace/scratch/57f490afa6de/generated_images/exec-55d2dffc-53ce-4184-897d-1db5c4e75cad.png",
+      "sha256": "9f7a953f34c082be4546cfd30452278062d1ad8caa9a8c9e6c24a550345d21d6",
+      "prompt": "/workspace/scratch/57f490afa6de/candidates/base/light-prompt.txt"
+    },
+    {
+      "number": 2,
+      "original": "/workspace/scratch/57f490afa6de/generated_images/exec-4118c3c0-1ede-457c-a460-c3a618291b60.png",
+      "sha256": "6e53b4796913b4aa6d8f56811cfa0bc2d4c561f927412d4ee832ae16dec7f731",
+      "prompt": "/workspace/scratch/57f490afa6de/candidates/base/light-prompt.txt"
+    },
+    {
+      "number": 3,
+      "original": "/workspace/scratch/57f490afa6de/generated_images/exec-98a07289-d359-4619-bb56-9cd2b2d7a5fc.png",
+      "sha256": "39210185a1bf45c6e3ad0a89479a603b9b22facd1507dcc77b7afa4ce614316f",
+      "prompt": "/workspace/scratch/57f490afa6de/candidates/base/light-prompt.txt"
+    },
+    {
+      "number": 4,
+      "original": "/workspace/scratch/57f490afa6de/generated_images/exec-586bb486-4d0b-46b2-b22c-eff2c971751d.png",
+      "sha256": "0e1587a64342ebda3d43959f120022082189fd4aab9e93ff45ae9f9890508569",
+      "prompt": "/workspace/scratch/57f490afa6de/candidates/base/light-prompt.txt"
+    }
+  ]
+}
