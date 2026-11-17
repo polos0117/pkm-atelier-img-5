@@ -3,7 +3,13 @@
  "style": "anime_25d_gloss",
  "selected": 1,
  "image_count": 12,
- "stage": "published_images_pending_registration",
+ "stage": "registered_complete",
  "originals": "Session only; PNG originals excluded from image repository",
- "generation_incident": "Initial concurrent 5-8 group returned one output safety block without a slot identifier; no images returned. Exact unchanged submissions subsequently produced all four results. No returned image was regenerated."
+ "generation_incident": "Initial concurrent 5-8 group returned one output safety block without a slot identifier; no images returned. Exact unchanged submissions subsequently produced all four results. No returned image was regenerated.",
+ "image_commit": "21570cae28cbab8bff2983b5e5ae8018cffc52ed",
+ "thumbnail_commit": "7c2bc52",
+ "code_commit": "142e9e1de2b79a82d72ae4e8caac1e02a747790f",
+ "registration_verified": 12,
+ "thumbnail_verified": 12,
+ "previous_glossy_promo_preserved": true
 }
