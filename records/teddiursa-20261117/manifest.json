@@ -1,0 +1,122 @@
+[
+  {
+    "slot": "light",
+    "filename": "깜지곰_light_anime_25d_gloss_f.webp",
+    "original_sha256": "92998ff02da1d29c66ce0cc5cfb9aaa0d115bcdb678c7b6d1c765fdc1beadaa0",
+    "webp_sha256": "d735d742ce38cbf0e27fdc1d957926d635794b64fee3ca995174896293aa4f0b",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual1",
+    "filename": "깜지곰_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "aa1e7712899df85ad058a446d7a90e5d2673ffffd819efd55601b150ebd6e640",
+    "webp_sha256": "1fa84232b3c025777b89170328fdbbedc124023d3544b66dea95cf473931f895",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual2",
+    "filename": "깜지곰_anime_25d_gloss_f_casual2.webp",
+    "original_sha256": "866afb041bb949e7ec9e19ccb26231b6aa703765e2edcc09e63dff5c9864c4d9",
+    "webp_sha256": "441a24836beee60f8ce74ebc9311a1b805ba5038b5fd942e9d3da7ce2d720f62",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual3",
+    "filename": "깜지곰_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "a75a2200c52156e3bb3e495d76d74e36be5a8b77cdcfedca34bbaccbd6cc52ae",
+    "webp_sha256": "1b5e280304d2ce126749497db51190894084e8bd26e0bf82abe61bbe4650ce94",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual4",
+    "filename": "깜지곰_anime_25d_gloss_f_casual4.webp",
+    "original_sha256": "4d26129edfa43097298cf9ca215f932954cdfdd874abba7b896cbb519e287488",
+    "webp_sha256": "358713041bc1e6521e55feb705c9691fdd3691538d2074c139fe676ff386909f",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual5",
+    "filename": "깜지곰_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "94552344d0a2e007d4632d8eae476073b9c803bba017112a130cd0f952707aa1",
+    "webp_sha256": "501842725077890a80c974b306f9c4da15510d6e41de3bb9867efeaeff830403",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual6",
+    "filename": "깜지곰_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "0915411c65a77b2fc1495ba4f5479163a3a5fb2de6ac69f157c66e198f4f0a3d",
+    "webp_sha256": "5cdd5842d725f997663f723a04103c8db16041d2caa08ac5fb0c45c8260f1bd1",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual7",
+    "filename": "깜지곰_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "facdd25448173c68ef07874aa467c278361e6befe50bb0ba7f1cf9444fd3d101",
+    "webp_sha256": "06f14441db459f39bf30db923cd19ec51e5ff7da7629e64d45714f968eb011a3",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual8",
+    "filename": "깜지곰_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "2c6f3bdfeb9c7a1243dd0aea37eea2c130532a671bd494721788053819282e8e",
+    "webp_sha256": "bc077ca4330d30f6103800455080ea0cba4d4c31100a59158dde94d1cf4b232b",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual9",
+    "filename": "깜지곰_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "924fec6ce2594cbad41700a08ed8fe0c96552a48ffe4ee1933bf938f8ac47da6",
+    "webp_sha256": "8aead8820e4501dd58327b9dc56e215c9db02ccc73beaa26a8bba2d44723f5c4",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual10",
+    "filename": "깜지곰_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "619252443e0eb033f0a8ec4bb716e7cbfdc3c63315ceb3cdfd0fa83f3dccffdf",
+    "webp_sha256": "e18023905e25837e8e2d915045abc9d302482d6b21b403e48a22da74fc1f91ab",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual90",
+    "filename": "깜지곰_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "fc6f021347e3d4ef7d9e69295c8c80240e83b34297b75bea0ccf17b95a4b9459",
+    "webp_sha256": "6b84a9c003cfd0d5356e0908d4b912ae27caf1ee574e1a60b9f7ff6e105ef019",
+    "size": [
+      1024,
+      1536
+    ]
+  }
+]
