@@ -1,0 +1,79 @@
+{
+  "light": {
+    "submitted_sha256": "84af156c36da89235416976431cc100b335b2a55898c9b60f7fa510a120e4ecc",
+    "record_prompt_same": true,
+    "generator_template_same": false,
+    "authorised_exception": "selected GPT free mecha design",
+    "verified_at": "2026-11-17T08:01:34.804595+00:00"
+  },
+  "casual2": {
+    "submitted_sha256": "b4bce91b4112bdeaaf62136d7a77225e1fa2305e1c0bc08688b51c554eec6ab1",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.805130+00:00"
+  },
+  "casual3": {
+    "submitted_sha256": "0fcd54734c1d83785b8cc93ba286115a2d4e6505c69dd656319d2b777b9f41c7",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.805366+00:00"
+  },
+  "casual4": {
+    "submitted_sha256": "2292a69c18b2f5b2ff0f72a9c1cfba9de53d7933d159b214310c6735922e71eb",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.805870+00:00"
+  },
+  "casual5": {
+    "submitted_sha256": "cbf60003b95ab939c7cf133c09ae6da5baab9a803d8d8ccef9114da3ab995eb9",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.806308+00:00"
+  },
+  "casual6": {
+    "submitted_sha256": "13f92e908b55a2c1d71dbb4df2ea7acfc081ec4dbef247d7abd737ab5f167ec5",
+    "record_prompt_same": true,
+    "generator_template_same": false,
+    "authorised_exception": "GPT free scene",
+    "verified_at": "2026-11-17T08:01:34.806520+00:00"
+  },
+  "casual7": {
+    "submitted_sha256": "ae2ce639210c73a0d04b2fbb36112f21be478a7e9efe2cc5e1986c328f162299",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.806569+00:00"
+  },
+  "casual8": {
+    "submitted_sha256": "2a2e271aa4e88e7d916ce1be7beb687f8c8030717ec35606a959e139a8c758dc",
+    "record_prompt_same": true,
+    "generator_template_same": false,
+    "authorised_exception": "GPT free scene",
+    "verified_at": "2026-11-17T08:01:34.806907+00:00"
+  },
+  "casual9": {
+    "submitted_sha256": "472313b52f42fb74dca70a823d9e0c15e5c644a7d3cc021329fa133f84d4f27f",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.807391+00:00"
+  },
+  "casual10": {
+    "submitted_sha256": "b7fad134284c2fb2407505c23529a05816b94c65b6955c9bb80952d6d24b028f",
+    "record_prompt_same": true,
+    "generator_template_same": false,
+    "authorised_exception": "GPT free outfit",
+    "verified_at": "2026-11-17T08:01:34.807770+00:00"
+  },
+  "casual90": {
+    "submitted_sha256": "18f5a8dc65319ab573d1e5e421cca142c324e3e2dbdfc54ab0e41063eb241ce5",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "authorised_exception": null,
+    "verified_at": "2026-11-17T08:01:34.808338+00:00"
+  }
+}

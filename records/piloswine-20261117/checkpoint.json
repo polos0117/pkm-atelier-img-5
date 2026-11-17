@@ -2,7 +2,7 @@
   "card": "메꾸리",
   "style": "anime_25d_gloss",
   "selected_candidate": 3,
-  "status": "ready_to_publish_with_blocked_slot",
+  "status": "registered_with_blocked_slot",
   "generated_slots": [
     "light",
     "casual2",
@@ -19,10 +19,28 @@
   "blocked_slots": [
     "casual1"
   ],
-  "request_count": 12,
   "image_count": 11,
   "existing_images_preserved": true,
   "reference_sha256": "4654c99bca3f0c65ddc45ff8d8249b4b171dc5c844e7f7e0e6c2e6545717b715",
   "note": "No regenerated outputs; one blocked call left empty per user. New style separate from existing glossy_promo.",
-  "qa": "qa.json"
+  "qa": "qa.json",
+  "final_slots_requested": 12,
+  "final_images_registered": 11,
+  "selection_candidates_generated": 4,
+  "generation_calls": 15,
+  "blocked_calls": 1,
+  "image_commit": "aac88689aa855c82edab0b1e30ce90be385988a7",
+  "thumbnail_commit": "835ae1495f76ada64d656b520bd2c4dbbb0b783b",
+  "code_commit": "f776ef0f2684b8540f0c1acf5b64aa07a6bb3998",
+  "thumbnail_workflow": {
+    "run_id": 44042699006,
+    "conclusion": "success"
+  },
+  "registration_workflow": {
+    "run_id": 44042899483,
+    "conclusion": "success"
+  },
+  "registered_slots_verified": true,
+  "thumbnail_count_verified": 11,
+  "submission_audit": "submission-audit.json"
 }
