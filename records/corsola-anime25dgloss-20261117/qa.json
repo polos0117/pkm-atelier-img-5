@@ -44,14 +44,16 @@
   {
    "slot": "casual3",
    "file": "코산호_anime_25d_gloss_f_casual3.webp",
-   "original_sha256": "d551d9041d05465c5c2d73a4e2a4189f022279c98d95ebcd05df5fea5dc49380",
-   "webp_sha256": "a55d0916e715d21ba84a001ee0816bd7f06f6889d48f121a8748e79a71752189",
+   "original_sha256": "3df161c547486a89b2d58f705755126a695e4c14b4268f9e3138f6c6bf0572a1",
+   "webp_sha256": "ce19e469229d82e600cae1df9a54334777cac86f599d6024fca199406b47e198",
    "prompt_sha256": "eec9f5efcea92d3c267329c84aff19e5b35ddfc21a91c0aed835edf098874848",
-   "qa": "Camera held in both hands; Soldier 76 palette. Background includes recognizable Overwatch logo despite no-logo prompt; warning retained, no exposure-based regeneration.",
+   "qa": "Localized background logo removal completed; navy banner now blank. Face, pink bob, costume, camera, two arms/hands and rendering preserved. Exposure unchanged.",
    "style_25d": {
     "result": "pass",
     "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
-   }
+   },
+   "previous_original_sha256": "d551d9041d05465c5c2d73a4e2a4189f022279c98d95ebcd05df5fea5dc49380",
+   "correction_reason": "IMAGE_RULES actual-logo removal; not exposure censorship"
   },
   {
    "slot": "casual4",
