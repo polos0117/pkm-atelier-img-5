@@ -1,0 +1,32 @@
+{
+  "card": "딜리버드",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 3,
+  "status": "registered_with_one_blocked_slot",
+  "generated": 11,
+  "requested": 12,
+  "missing": [
+    "casual6"
+  ],
+  "image_commit": "180797d7954bd96ad7b7afab61ef69ef220ef9f0",
+  "thumbnail_commit": "67ffc5428470dc931e5ac7684bfc9cbbab3bda5a",
+  "thumbnail_workflow": {
+    "run_id": 44084215838,
+    "conclusion": "success"
+  },
+  "registry_commit": "ea5a4cfba74404c8b3115a913e17734f64bcd9a0",
+  "verification": {
+    "remote_image_and_record_blobs": 49,
+    "remote_registry_blob": "0f6d6da4d9fcb495f43ee93cd0d073a3254f16d6",
+    "thumbnails": 11,
+    "legacy_entries_preserved": true,
+    "force_push": false,
+    "deletions": false
+  },
+  "reference": {
+    "path": "img/딜리버드_light_anime_25d_gloss_f.webp",
+    "original_sha256": "see qa.json images[slot=light]",
+    "selected_design": "gpt_free"
+  },
+  "recovery": "casual6 has no returned image and is intentionally unregistered. Existing successful images must not be regenerated for exposure. qa.json contains original/WebP/submitted hashes and anatomy review for every published slot."
+}
