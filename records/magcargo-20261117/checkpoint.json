@@ -1,0 +1,180 @@
+{
+  "card": "마그카르고",
+  "status": "generated_pending_publication",
+  "selected": 2,
+  "reference_sha256": "efabe0e8a59bd8cb97ff3447b130547bda74ee606848bca9b23086f0dc0e1113",
+  "count": 12,
+  "slots": [
+    {
+      "slot": "light",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "efabe0e8a59bd8cb97ff3447b130547bda74ee606848bca9b23086f0dc0e1113",
+      "output": "마그카르고_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4e3a2be90f2ec3c2921672cee9b77279a415777898af51fa57e201301b81567f",
+      "reference": "user selected 2"
+    },
+    {
+      "slot": "casual1",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "cf019bb46a96149bb93669ff23a6599cb03c36d7f6c1f5ed79aa00e3c1204295",
+      "output": "마그카르고_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1eb1a2697ea4178c900328a9ebd0b22991078bfb84d826a406170aacf1c8e668",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual2",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "ee0fbfe5149567de0677c4f9fd7e6bfce3cecd480ecd9bbdcfca6bb9362ca5f7",
+      "output": "마그카르고_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ee49dd60502693c36fd6bd8fc0374f3de2f249acc1727bf9ead793fb8d9bb8f3",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual3",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "e912c35e1d55ceac70bc9e77146ca8e017ce9d90b94012326e978e8cdbe9e06b",
+      "output": "마그카르고_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "71e7d6f1e25ae3095296ed65a9a24f0709868328d18df966cbc08fcf6b045cb2",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual4",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "230d39b2ebdc90fd8516fd78baee1bac0c7631eeb4aec61663329a5015348529",
+      "output": "마그카르고_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "54a5bc396542dba636f2237bacb0bbba45702a3e57579867944f001e195d6fcf",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual5",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "8cdc2b73df3f1586d797459b07930545fa6c21cb131d3c94d39612b6d8647379",
+      "output": "마그카르고_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f850529d531f3079cd26463cc271fdadcd2329187b7f17b3e9d67aeb72fdc835",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual6",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "499d8e57bf331a991a44e7f588192ff9010a806585c73d987b9175f9b574bc37",
+      "output": "마그카르고_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1d33f5e328961f06123f3ca98f212fc4a856c59c0835325ec334e25153ae381e",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual7",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "345b15e4281667795c9a58bfd8fc8cceecd1e3a4bf5a74177737d6a3082922a4",
+      "output": "마그카르고_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bcf788642b8883f6dab532e4f974812b39dd902bd4ed8a6aa987f7cb1fb4b368",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual8",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "834af0e600be11897abf1981c4bd41a920c568b490f99bdf47fdac121883615f",
+      "output": "마그카르고_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "212ba31e42ecfc831028a39117ebe8299b55f4d122dc837d6dde611ad0db7ae9",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual9",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "881c124432d15ba2e2d10e3ee1b5f7d752dd0a7c585e68bb763285dfeaf90168",
+      "output": "마그카르고_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "238bec603a200d10c5dc6353480af2e202edec149b039d422852427eba8a4f32",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual10",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "3af303e1f50ac20042196223d342ef2662a0993123432494556147d6425b8602",
+      "output": "마그카르고_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e87c6921668be89da09163d48e8f5302dac32022a0f01059dcc1f5eecc00033a",
+      "reference": "selected candidate 2"
+    },
+    {
+      "slot": "casual90",
+      "card": "마그카르고",
+      "style": "anime_25d_gloss",
+      "original_sha256": "1314d8361c9f0e81a7b0de104eb3655ebe17970d68b1c8b5f14458623425f87c",
+      "output": "마그카르고_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2ec95c8b5a6e4dc373ee0d6364c7fc34d57488b505a855d71434e281eef7d2fc",
+      "reference": "selected candidate 2"
+    }
+  ],
+  "no_censorship_regeneration": true,
+  "generation_tool": "built-in image_gen",
+  "anatomy_tool": "unavailable: mediapipe not installed"
+}

@@ -1,0 +1,45 @@
+{
+  "card": "마그카르고",
+  "style": "anime_25d_gloss",
+  "status": "selected_generating_casual",
+  "candidates": [
+    {
+      "number": 1,
+      "original": "/workspace/scratch/0b1ef8fca9f4/generated_images/exec-37fe6502-d9ca-40a8-a3d6-d572a7a65664.png",
+      "sha256": "126309ee6e82c91846f0a412b6444af0aa1863b298429016998bbffcc3d2ef5d",
+      "design": "standard",
+      "prompt": "/workspace/scratch/0b1ef8fca9f4/magcargo-pack/candidate1-submitted.txt"
+    },
+    {
+      "number": 2,
+      "original": "/workspace/scratch/0b1ef8fca9f4/generated_images/exec-789f3c48-69c7-4382-a1fb-74cb112fda03.png",
+      "sha256": "efabe0e8a59bd8cb97ff3447b130547bda74ee606848bca9b23086f0dc0e1113",
+      "design": "standard",
+      "prompt": "/workspace/scratch/0b1ef8fca9f4/magcargo-pack/candidate2-submitted.txt"
+    },
+    {
+      "number": 3,
+      "original": "/workspace/scratch/0b1ef8fca9f4/generated_images/exec-313d8463-407e-43f4-9fdd-1a67ed6c0938.png",
+      "sha256": "4022f7c74a76cc7f315f23be1f3c186ce4a4bea2eca7258261d051426ff437b1",
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/0b1ef8fca9f4/magcargo-pack/candidate3-submitted.txt"
+    },
+    {
+      "number": 4,
+      "original": "/workspace/scratch/0b1ef8fca9f4/generated_images/exec-d57a98ff-689d-4338-9942-80cfb55da34f.png",
+      "sha256": "c9b8ec6dd3198c10d3fc39bc6f2cad91b871b8eb9fc7d9d74d33d7f12f4d8352",
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/0b1ef8fca9f4/magcargo-pack/candidate4-submitted.txt"
+    }
+  ],
+  "no_censorship_regeneration": true,
+  "selected": 2,
+  "reference": {
+    "number": 2,
+    "original": "/workspace/scratch/0b1ef8fca9f4/generated_images/exec-789f3c48-69c7-4382-a1fb-74cb112fda03.png",
+    "sha256": "efabe0e8a59bd8cb97ff3447b130547bda74ee606848bca9b23086f0dc0e1113",
+    "design": "standard",
+    "prompt": "/workspace/scratch/0b1ef8fca9f4/magcargo-pack/candidate2-submitted.txt"
+  },
+  "reservation_commit": "31454dd8fcb5c8095a9d1b59476552e5d1661b2c"
+}

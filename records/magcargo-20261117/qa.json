@@ -1,0 +1,194 @@
+{
+  "light": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "팔 둘·다리 둘 연결, 한 손 펼침 다섯 손가락, 반대 손 주먹으로 일부 가림.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "팔 둘·다리 둘 연결, 한 손 펼침 다섯 손가락, 반대 손 주먹으로 일부 가림."
+    },
+    "regeneration": false
+  },
+  "casual1": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "팔 둘 연결. 머리 뒤 손은 가림. 잔 잡은 손 다섯 손가락 일부 겹침. 두 다리와 발 연결.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "팔 둘 연결. 머리 뒤 손은 가림. 잔 잡은 손 다섯 손가락 일부 겹침. 두 다리와 발 연결."
+    },
+    "regeneration": false
+  },
+  "casual2": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔에서 이어진 맞잡은 두 손. 손가락은 교차하여 일부 가림. 하체 프레임 밖.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔에서 이어진 맞잡은 두 손. 손가락은 교차하여 일부 가림. 하체 프레임 밖."
+    },
+    "regeneration": false
+  },
+  "casual3": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "오른손 젓가락 그립 다섯 일부 겹침. 왼손은 팔이 프레임 아래로 이어져 가림.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "오른손 젓가락 그립 다섯 일부 겹침. 왼손은 팔이 프레임 아래로 이어져 가림."
+    },
+    "regeneration": false
+  },
+  "casual4": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔 두 손 턱 받침, 손가락 일부 가림. 두 다리·발 연결. 계획의 서기 대신 엎드린 결과, 그대로 보존.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "양팔 두 손 턱 받침, 손가락 일부 가림. 두 다리·발 연결. 계획의 서기 대신 엎드린 결과, 그대로 보존."
+    },
+    "regeneration": false
+  },
+  "casual5": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "오른손 고구마 그립 다섯 일부 가림, 왼손 벤치 위 다섯. 팔·다리 둘 연결.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "오른손 고구마 그립 다섯 일부 가림, 왼손 벤치 위 다섯. 팔·다리 둘 연결."
+    },
+    "regeneration": false
+  },
+  "casual6": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔과 두 장갑 손 연결, 양손 손가락 다섯 확인.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔과 두 장갑 손 연결, 양손 손가락 다섯 확인."
+    },
+    "regeneration": false
+  },
+  "casual7": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔과 양손 연결, 양손 다섯 손가락 일부 겹침.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔과 양손 연결, 양손 다섯 손가락 일부 겹침."
+    },
+    "regeneration": false
+  },
+  "casual8": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 어깨와 위팔 연결, 손과 하체는 프레임 밖.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 어깨와 위팔 연결, 손과 하체는 프레임 밖."
+    },
+    "regeneration": false
+  },
+  "casual9": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔과 두 손 연결, 양손 다섯 일부 겹침. 두 다리 접힘 자연스러움.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔과 두 손 연결, 양손 다섯 일부 겹침. 두 다리 접힘 자연스러움."
+    },
+    "regeneration": false
+  },
+  "casual10": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔·두 손·두 다리 연결. 양손 다섯 손가락. 들어올린 발과 지지한 발 분리.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔·두 손·두 다리 연결. 양손 다섯 손가락. 들어올린 발과 지지한 발 분리."
+    },
+    "regeneration": false
+  },
+  "casual90": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱과 피부의 그라데이션 및 광택, 가는 색 윤곽과 재질별 음영 유지"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "두 팔에서 장갑 손으로 연결. 두 손 송풍관 그립, 손가락 일부 가림. 하체 일부 프레임 밖.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔에서 장갑 손으로 연결. 두 손 송풍관 그립, 손가락 일부 가림. 하체 일부 프레임 밖."
+    },
+    "regeneration": false
+  }
+}
