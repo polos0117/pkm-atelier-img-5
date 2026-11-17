@@ -1,0 +1,252 @@
+{
+  "card": "대포무노",
+  "style": "anime_25d_gloss",
+  "sex": "f",
+  "canonical_candidate": 2,
+  "assets": [
+    {
+      "slot": "light",
+      "number": null,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-42cd68a4-bcb1-4036-90d8-9b3fb862ffda.png",
+      "filename": "대포무노_light_anime_25d_gloss_f.webp",
+      "design": "project",
+      "selected_candidate": 2,
+      "original_sha256": "0f9c387026b1a1bb2b067a0ef13c3d9710f4b1246737c2355a6209614b8f9bdc",
+      "webp_sha256": "e08abbf909b3f90eb50d5cdf1d151990757a8d2915ac369c04873af860d99245",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "7fe98f6b0fe39ab73407d6c71f336f5d09bf374d709c53158de7bbcf8684e20d",
+      "submitted_same": true,
+      "reference": null
+    },
+    {
+      "slot": "casual1",
+      "number": 1,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-0be32048-062d-4851-acac-ea06f909f9a4.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual1.webp",
+      "design": "project",
+      "original_sha256": "00e467511d9483f39665c5a68614e0db1a1c7ebcfaadf79c54830355a1ccd7e4",
+      "webp_sha256": "efd467b1299e23b4bef2da697d17f7ad4f5855878dd472d97a91d4609d410325",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "930fe257fd06756f046f85e478966954b6c262f6c471e578a69740dff9d57c7b",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual2",
+      "number": 2,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-da7be261-bd50-40c6-843c-d9090c22ebd6.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual2.webp",
+      "design": "project",
+      "original_sha256": "82dd4db7c63c69e2549bc1793857a61175d5529b605e29dd9fee8c51953e3139",
+      "webp_sha256": "25a911ef35fbe1da19905713cb8704d97780453dd6614c71df3835a1361a784b",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "999bd34213aa9cfbe7024a688aa7547bc5c859e1494c8f60daa1c81442739c75",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual3",
+      "number": 3,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-d12c496a-1f42-4702-b3f4-aaee26d74a69.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual3.webp",
+      "design": "gpt_free",
+      "original_sha256": "fbe74ddd40090f563bec5bea0f6ad78107804aa3f375b37ed2feaf9e9a7a2535",
+      "webp_sha256": "74c126d95c9937bef43bddd0c394f5227c81786cbde5bdb85240533ae5333bf9",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "e939333534e0597c587a7a0f9c191faca9f2e37cb7c84b8eb0507a8520ee88a8",
+      "submitted_same": false,
+      "reference": "selected candidate 2 / light",
+      "allowed_difference": "IMAGE_RULES: authored free-scene SCENE, fixed identity/style/body/expression/axes retained"
+    },
+    {
+      "slot": "casual4",
+      "number": 4,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-c5b25a2e-d938-4502-84a4-73011a43eaae.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual4.webp",
+      "design": "project",
+      "original_sha256": "5ba7995bca44f261f33cb8008871442db4305068b5a731baeaeb84dada2dcd1c",
+      "webp_sha256": "07b230390eedb67758105b620acbaca1ffe0a2f1a123bcf7f80c9b3020cb3a42",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "d5260baae4744470dfa35352241aa6ab5c0505372a920f2419989ea291e1cbcf",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual5",
+      "number": 5,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-11e2b0ca-6f22-41d1-bf4e-f3e28ec75ee1.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual5.webp",
+      "design": "project",
+      "original_sha256": "a0a90a20368a21c13309cfdcab8564b842b8c2d729e17bc80580516e39d1775b",
+      "webp_sha256": "892644457f221a41c9e0d216437d17664b8dc2d5f5320f220e14324f7d9035f4",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "51ee65856d52c7e523619a19e224634a14fb2c3c56067b8fe396cefb83c3fbf4",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual6",
+      "number": 6,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-2db95e34-a81c-435d-816a-08366ebdc06e.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual6.webp",
+      "design": "project",
+      "original_sha256": "84139859b720ad94e4e7e8b791520c49ff7d3d1f7d618d548d409079509790a1",
+      "webp_sha256": "88fba25069cedaa8aeaafd669f68249c1e5fef2e7b2fd82e53adca15ab467fad",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "50c15cb83e5ff5198982b5068ca657dbaf09f2eb1355eb1a8c76c5a622d09810",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual7",
+      "number": 7,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-8aebf8e2-98bf-4aa8-ad4c-b459ca3dfd33.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual7.webp",
+      "design": "project",
+      "original_sha256": "3b47c43842d19c87667b56789e18fb2f366ccf8327c349aaccf432338f11a305",
+      "webp_sha256": "89ce7e4229040a9141cfc4e19f7bc7af2a515d49ba0323cfe055c2a8c04109d4",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "79c08f89abd2a8ea9deff63fa49de8278640c92c4518aed50fc05cece115aa5c",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual8",
+      "number": 8,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-068f810d-685b-4a7d-9e98-25e4df05ab2e.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual8.webp",
+      "design": "project",
+      "original_sha256": "ece85557a34e83f71f7161a54cb110dbd95ea5e0585ba700589e735433ae5dd7",
+      "webp_sha256": "436c61af6d5b1234355effb55b186a5af7b61e5f6948616c19b0f24e9c89f80c",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "c9f8e4927188d22d0850cd0128292fb12983ed2d8bddbd2ae9c1c30f9724e5ba",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual9",
+      "number": 9,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-3347376a-c0ef-43d8-9e80-1089941a5de5.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual9.webp",
+      "design": "project",
+      "original_sha256": "24a7d6526d79542cb5a0a4d1a0eea11898c74879798a2b9a481b7c60f55b2b14",
+      "webp_sha256": "9ebc8db319af934f95feac32dfac043eea28f30871c148594f33d083a4399c89",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "c82bde92630c3d9372c9fd2d5cd105a4f88703c79093887be1af1fa671d4e839",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    },
+    {
+      "slot": "casual10",
+      "number": 10,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-83afc02a-84d1-427f-b838-f5c9dc06b4ff.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual10.webp",
+      "design": "gpt_free",
+      "original_sha256": "9a1eee8dffcec0a6376e1f6f87bfc7328f0ce329da3c40b00317bf6bb743946e",
+      "webp_sha256": "98a90768a8190e4740f77404a08555d783331ed1b1dbb2e00067dd2ec53de591",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "8b0c78ebebc12f0d18ecf4f090520e7f2b74bd41445edb41e1b16f0727b05453",
+      "submitted_same": false,
+      "reference": "selected candidate 2 / light",
+      "allowed_difference": "IMAGE_RULES: authored free-scene SCENE, fixed identity/style/body/expression/axes retained"
+    },
+    {
+      "slot": "casual90",
+      "number": 90,
+      "path": "/workspace/scratch/b152da64be74/generated_images/exec-d55eb2ca-45ac-4310-b367-60396deba641.png",
+      "filename": "대포무노_anime_25d_gloss_f_casual90.webp",
+      "design": "project",
+      "original_sha256": "76e2cede92393e9392d4caf358015246e98df38590e31d5c9e4d3f67c208801d",
+      "webp_sha256": "215177b21c690c468a137f5ec0c74ee18a1658c1efaaccd5e54efd74f3b12323",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "shard": 4,
+      "submitted_sha256": "af8137c747d2ef6cc1a9483f6149a7e8e524022d53604e3564fcedf7b80db23e",
+      "submitted_same": true,
+      "reference": "selected candidate 2 / light"
+    }
+  ],
+  "originals": "PNG originals remain in generated session files; only hashes and WebP are committed."
+}
