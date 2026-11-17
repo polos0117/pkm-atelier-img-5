@@ -2,17 +2,17 @@
   "card": "꾸꾸리",
   "style": "anime_25d_gloss",
   "selected": 1,
-  "stage": "refill_generated_pending_registration",
+  "stage": "registered_complete",
   "image_count": 12,
   "requested_count": 12,
   "blocked": [],
   "no_regeneration_due_to_censorship": true,
   "previous_glossy_promo_preserved": true,
-  "image_commit": "debb11180b59661cfb40a6654c9c88f61ad896c3",
-  "thumbnail_commit": "4cdd9d5b94b272607adc8274d3b5d306ed6752aa",
-  "code_commit": "da727076cfbd9c555cd559ad399275795a5d15a0",
-  "registration_verified": 10,
-  "thumbnail_verified": 10,
+  "image_commit": "7debac6ad71a9871d5c3df43c99ae58c87ffda65",
+  "thumbnail_commit": "190330e0a1e88e8e9ff36594effc8c754ef1be07",
+  "code_commit": "84b2708533dd50e503579b0b3e8ce762c12cf0b9",
+  "registration_verified": 12,
+  "thumbnail_verified": 12,
   "workflow": "success",
   "blocked_slots_not_regenerated": [],
   "refill_slots": [
@@ -20,5 +20,6 @@
     "casual10"
   ],
   "refill_user_request": "구도 재설정, 안되면 재설계",
-  "refill_redesign_required": false
+  "refill_redesign_required": false,
+  "previous_image_commit": "debb11180b59661cfb40a6654c9c88f61ad896c3"
 }

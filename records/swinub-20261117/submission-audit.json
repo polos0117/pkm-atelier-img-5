@@ -8,12 +8,19 @@
     "returned_image": true
   },
   "casual2": {
-    "submitted_sha256": "e657bb77c1f817c9f7cb252cdcc16040be536d83295d03eca830d12cf595fb09",
-    "prompt_sha256": "e657bb77c1f817c9f7cb252cdcc16040be536d83295d03eca830d12cf595fb09",
+    "submitted_sha256": "23e1794d3dfb8d25f4e7f07c17569f0d05d83a0bcf49ed4628ced32bbcfe5f0f",
     "same": true,
-    "authorized_free_design": false,
-    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
-    "returned_image": false
+    "returned_image": true,
+    "verification": "exact prompt verified before generation",
+    "revision": "user_requested_composition",
+    "previous_attempt": {
+      "submitted_sha256": "e657bb77c1f817c9f7cb252cdcc16040be536d83295d03eca830d12cf595fb09",
+      "prompt_sha256": "e657bb77c1f817c9f7cb252cdcc16040be536d83295d03eca830d12cf595fb09",
+      "same": true,
+      "authorized_free_design": false,
+      "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+      "returned_image": false
+    }
   },
   "casual3": {
     "submitted_sha256": "477835c2d01255491b2205b7ce116e2d20b8e083c39aac00bac8d745a63e0936",
@@ -72,12 +79,19 @@
     "returned_image": true
   },
   "casual10": {
-    "submitted_sha256": "226826173954fae28d88bb5dfb1374471eb29123fe2c21610d4dc5655bb8b111",
-    "prompt_sha256": "226826173954fae28d88bb5dfb1374471eb29123fe2c21610d4dc5655bb8b111",
+    "submitted_sha256": "d795c81f18cdec1be174dbd455ae24c1c548668724ee4bdc18ed913b0b0f68ca",
     "same": true,
-    "authorized_free_design": false,
-    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
-    "returned_image": false
+    "returned_image": true,
+    "verification": "exact prompt verified before generation",
+    "revision": "user_requested_composition",
+    "previous_attempt": {
+      "submitted_sha256": "226826173954fae28d88bb5dfb1374471eb29123fe2c21610d4dc5655bb8b111",
+      "prompt_sha256": "226826173954fae28d88bb5dfb1374471eb29123fe2c21610d4dc5655bb8b111",
+      "same": true,
+      "authorized_free_design": false,
+      "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+      "returned_image": false
+    }
   },
   "casual90": {
     "submitted_sha256": "2001cafe0a0dd6ad4963c51a6684ef9d68dcd0709e7665db156f535ae9f6a49d",
