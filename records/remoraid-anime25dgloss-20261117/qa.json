@@ -1,0 +1,265 @@
+{
+ "card": "총어",
+ "selected_candidate": 3,
+ "style": "anime_25d_gloss",
+ "total": 12,
+ "warnings": [
+  "casual9 far arm occluded; planned hand jobs not achieved",
+  "Minor pose/outfit variations retained as described per image"
+ ],
+ "no_exposure_based_regeneration": true,
+ "images": [
+  {
+   "slot": "light",
+   "file": "총어_light_anime_25d_gloss_f.webp",
+   "original_sha256": "454bf4530f635688e0b026cd09c1ac30f87e3f4bd4864384921e7a5caa806f84",
+   "webp_sha256": "0f8a1177374a2f721b71efcb2f07f32d12ec486d3d69545293986feabc98d2eb",
+   "submitted_sha256": "9227bfce888bb0469eed0fea8d095f84556444574e2ab7c7bff96838b494d84e",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Selected GPT design 3. Gray short bob, teal eyes, full figure, floating waist and ankle armor rings. Both hands visible, empty relaxed left glove and open right glove; natural arms and feet.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "stronger",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual1",
+   "file": "총어_anime_25d_gloss_f_casual1.webp",
+   "original_sha256": "1e50d0d185ca692bc5aa48fed6fd97eaac19627ae28ef6e1743ac96fac39aa19",
+   "webp_sha256": "8391c9329b2f58c81ea60af19a837f7f7a4c7cdf0a2924c2d3a9b097144dce70",
+   "submitted_sha256": "771f936ee1b20cba547558002a80598125b769a68dae6aed74788f776f45c39d",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Christie-inspired white cropped stage jacket and black halter detail, microphone in right gloved hand. Chest crop as planned, left arm continues below the crop. Face remains short and softly rounded.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual2",
+   "file": "총어_anime_25d_gloss_f_casual2.webp",
+   "original_sha256": "e6465f9e121e3b86369a645400d6dc97a4db0090e4aae3f7d99689a32b0d2bcf",
+   "webp_sha256": "e7825db3b8df6da62391fefe87600f0852778777e14a138c80911bf1b0b98313",
+   "submitted_sha256": "4b5cf020d130c42d6b100b9231cb7947788e62810c772ac291abf5e73d0108c4",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Magenta cropped shirt and work apron, seated with knees together, right hand holds Poke Ball and left hand rests on knee; one Remoraid companion at feeding bowl. Both legs and boots visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual3",
+   "file": "총어_anime_25d_gloss_f_casual3.webp",
+   "original_sha256": "f42ca82dbdda856a8e19e6c0a3368203344dd9c377faa6019a6c2a039ef75fa9",
+   "webp_sha256": "06019b2bdfb788862b241e04bf287e6fd4b9e266645d22a27ec31c664908b9ea",
+   "submitted_sha256": "179ce539f2d39ef922d3e962cfec75874ebe6add96c3bff38bf3bb78c745889e",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Charcoal long-sleeve hooded swimsuit with cutout waist and deep V neckline, camera held low, head turned toward viewer. Both wrists and hands connect naturally. Planned rear-three-quarter reads closer to side-three-quarter; retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual4",
+   "file": "총어_anime_25d_gloss_f_casual4.webp",
+   "original_sha256": "604d60d4dc80a3f4ab7a28d5b7d1419ce2ac0eac2b1db44eef8cff3bb5dfd71a",
+   "webp_sha256": "e21c16e7b64ecd897ffabf56bc91f1ca6581e1aa74d8db8640ef96fdd2797cd9",
+   "submitted_sha256": "f6c3c4154915784804479fa38592a1db1abed937b93187d51634d57f67bce36d",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Plum/champagne scroll-panel couture with side waist opening; both hands encircle cup. Museum statues and night windows. Actual cup is lifted near mouth rather than low over work surface; retained as pose detail.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual5",
+   "file": "총어_anime_25d_gloss_f_casual5.webp",
+   "original_sha256": "2877619ac074e70deaaad348dbc18911013826c7e00fb83ecd8686af191b9d06",
+   "webp_sha256": "205fdcaf7ccf13a86aa6373ae193a3c46c70341b993a8e62b2d4d4c81fdcd2b5",
+   "submitted_sha256": "79f57649133c3bc6c914cf643b4eab01645dd5a813b6df3b3c4d3f1bd4d88020",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Coral uniform costume with gold shoulder decorations, both hands hold corresponding headphone cups. Chest framing, no doubled arms; face and skin shade consistently.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual6",
+   "file": "총어_anime_25d_gloss_f_casual6.webp",
+   "original_sha256": "6913e80d09d819849b9904fb55794e85ebfe5cf7e9011f0cfca88a09929a96fc",
+   "webp_sha256": "91574a85874ebee2c87988cc3101d5c713e2c0da8dda0497bf2e55673522cc64",
+   "submitted_sha256": "1031b37fce6a4853b0fd3835b4ce3c33f5959840f77ce1a3c3b6722430702c2d",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Caramel sari-blouse set, crouching on pier sweeping leaves with right hand and left on knee. Connected arms, legs and feet; dimensional facial shading and fabric folds.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual7",
+   "file": "총어_anime_25d_gloss_f_casual7.webp",
+   "original_sha256": "72ed963fe162614775c33bb83840c582996ee6f8deaaabd93fa306656e6556f0",
+   "webp_sha256": "aa2addd95ef8b6f5502241609a22004620eb2b434e8bdfd352eb4c7d8179b4d0",
+   "submitted_sha256": "5aa97bcfc21152f852242af8bac803946218085582de7c7105c1e4e5195fad51",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Emerald/cream custom swimwear on dry pontoon, one leg raised onto padded rail, both feet and both hands visible; one hand grips paddle and other on rail. No wardrobe failure. Design is a connected suit rather than planned separate shorts; retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual8",
+   "file": "총어_anime_25d_gloss_f_casual8.webp",
+   "original_sha256": "152b4e783c2c51422595581819982c0e9430537d176cfc7f731d0d86c2d6f499",
+   "webp_sha256": "b7eac4602d81c17cc02fea1a2e9c1d5dc015ae794283ac3513dd5217f4a99b11",
+   "submitted_sha256": "ca47566aca07237908cc2de6530e091165557dfc1f7089b044de13ca167b35ff",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Remoraid costume with striped gray fitted bodice, fin skirt and eye headband, lantern carried low in right hand and left relaxed. Full body, joined arms/legs and coherent fingers. Outfit is two-piece rather than bodysuit; retained, no exposure-based regeneration.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "stronger",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual9",
+   "file": "총어_anime_25d_gloss_f_casual9.webp",
+   "original_sha256": "ece7a34b97f6cacef21a88408e4b6249421b938dd093509feea4e5e43db4d474",
+   "webp_sha256": "3615c79cf2286e78fda4568107cb24e0d995841ec94784264cfd33ae03ecb879",
+   "submitted_sha256": "1234c8468f2da226b41dc298c9b8c0896d97087ba82c724d6cb6e432330d4fff",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Terracotta custom playsuit at bowling return, surprised expression and left hand resting on a ball. Only one arm visible; far right arm is occluded by torso with no detached limb. Planned side assignments and second hand on guard rail not achieved; warning retained for user review.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual10",
+   "file": "총어_anime_25d_gloss_f_casual10.webp",
+   "original_sha256": "de732f1410528a28bff1215e74d0d36fbd2d102c3abdb8f0782eab7934a5e280",
+   "webp_sha256": "c64d2fd5c18e539b4d0546341b69f5df7c044f62b6eacb154e734954e665fc88",
+   "submitted_sha256": "9094831d73faf87ca1571ffb303cd651222dd817a3842e0d075a3396ffb100e4",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Powder-blue traditional Chinese-inspired collar and embroidered fitted top, orchard face close-up with right fingers at cheek. Other arm naturally leaves frame. Gray bob and teal eyes retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  },
+  {
+   "slot": "casual90",
+   "file": "총어_anime_25d_gloss_f_casual90.webp",
+   "original_sha256": "e71e7c5197adab3dd10063e3f342f3417dea9773b03ea7a76544bce02784f178",
+   "webp_sha256": "bbc45bbf9c78da3d758c97e70cb8d6e0b2e3f44fb8b091d0094f19f518237871",
+   "submitted_sha256": "41fa373488b411308a77b33a3ee35ed49997d46f716c9572682948e479dd7252",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "qa": "Night street-food apprentice flipping takoyaki, snowy town, happi-style jacket and white headband. Both hands connect naturally through forearms, holding two picks instead of single shared pick; retained as minor prop deviation.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended shadows along nose, cheek, jaw and lips; colored fine facial outlines, dimensional soft skin with bright sheen and separately rendered fabric or armor."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Visible clothing and planned crop reviewed; original result preserved."
+   }
+  }
+ ]
+}

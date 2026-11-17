@@ -1,0 +1,67 @@
+{
+  "card": "총어",
+  "no": 223,
+  "style": "anime_25d_gloss",
+  "status": "planning_casual",
+  "branch": "task/remoraid-20261117",
+  "designs": [
+    "ours",
+    "ours",
+    "gpt_free",
+    "gpt_free"
+  ],
+  "free_design_basis": "IMAGE_RULES.md section 3 light-free.txt",
+  "selected": 3,
+  "no_exposure_regeneration": true,
+  "candidates": [
+    {
+      "number": 1,
+      "design": "ours",
+      "original": "/workspace/scratch/9b949b4d3ed9/generated_images/exec-b9d9371e-ee60-4d1c-bb51-221ecd76e372.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "782028d00a884060d475124f3fea2dd894e9e3c1f7a1b07944c5b28312337e1d",
+      "prompt": "/workspace/scratch/9b949b4d3ed9/remoraid-pack/candidate1-prompt.txt",
+      "review": "Full figure and both arms visible, silver-gray hard armor, water effects, soft shaded anime face. Thigh openings exceed specified coverage; preserved for user selection without regeneration."
+    },
+    {
+      "number": 2,
+      "design": "ours",
+      "original": "/workspace/scratch/9b949b4d3ed9/generated_images/exec-82147343-10db-4516-a487-99e2415aca5b.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2e70f828131fd401bcc001ad52c5261f4287638ef1ab5bed2da68a270a250669",
+      "prompt": "/workspace/scratch/9b949b4d3ed9/remoraid-pack/candidate2-prompt.txt",
+      "review": "Full figure and both arms visible, silver-gray hard armor, water effects, soft shaded anime face. Thigh openings exceed specified coverage; preserved for user selection without regeneration."
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/9b949b4d3ed9/generated_images/exec-25fbdb7d-f991-41f7-b9aa-d9dbaa2f33db.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "454bf4530f635688e0b026cd09c1ac30f87e3f4bd4864384921e7a5caa806f84",
+      "prompt": "/workspace/scratch/9b949b4d3ed9/remoraid-pack/candidate3-prompt.txt",
+      "review": "Full figure and both arms visible, silver-gray hard armor, water effects, soft shaded anime face. Thigh openings exceed specified coverage; preserved for user selection without regeneration."
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/9b949b4d3ed9/generated_images/exec-616d7dc2-2799-452a-982e-37d367b48b59.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "e6df6893e3be16429641ee9508bd2c1ea8be0ba01dbff5671c3a910208d4e34f",
+      "prompt": "/workspace/scratch/9b949b4d3ed9/remoraid-pack/candidate4-prompt.txt",
+      "review": "Full figure and both arms visible, silver-gray hard armor, water effects, soft shaded anime face. Thigh openings exceed specified coverage; preserved for user selection without regeneration."
+    }
+  ],
+  "sheet": "/workspace/scratch/9b949b4d3ed9/remoraid-selection-sheet.png"
+}
