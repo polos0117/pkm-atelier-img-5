@@ -1,0 +1,42 @@
+{
+  "card": "딜리버드",
+  "style": "anime_25d_gloss",
+  "status": "selected_casuals_planning",
+  "branch": "work/delibird-91f3ef",
+  "designs": {
+    "1": "generator",
+    "2": "generator",
+    "3": "gpt_free",
+    "4": "gpt_free"
+  },
+  "authorization": "commit images and dex data then normal push main after selected image and casuals complete; no force push or deletion",
+  "base_prompt_sha256": "ef8bdcd5a3598decd4370413c667f2687bb3e2bba05fe90a7e603568a5f6c3ed",
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/91f3ef043f23/delibird-pack/candidate1-original.png",
+      "sha256": "d624da1457b3e9fcac51fe882cafcd8ff008ccb68791231488dc21924da4e112",
+      "design": "generator"
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/91f3ef043f23/delibird-pack/candidate2-original.png",
+      "sha256": "59a822f07a185a1dc90fb364ebe1ab8c66679c96549998674481740069719dd9",
+      "design": "generator"
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/91f3ef043f23/delibird-pack/candidate3-original.png",
+      "sha256": "a66ef9449451e844eb8d40030e552c6c4049239758ef52777f44c931fa292f92",
+      "design": "gpt_free"
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/91f3ef043f23/delibird-pack/candidate4-original.png",
+      "sha256": "c96e317ff319b1f46fc96cbe0e3e8ac2afb9b09e4204f23c5059b55ba5277083",
+      "design": "gpt_free"
+    }
+  ],
+  "sheet": "/workspace/scratch/91f3ef043f23/delibird-selection-sheet.png",
+  "selected_candidate": 3
+}

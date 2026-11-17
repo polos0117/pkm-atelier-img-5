@@ -1,0 +1,352 @@
+{
+ "card": "딜리버드",
+ "selected_candidate": 3,
+ "style": "anime_25d_gloss",
+ "generated": 11,
+ "requested": 12,
+ "missing": [
+  "casual6"
+ ],
+ "blocked": [
+  {
+   "slot": "casual6",
+   "reason": "Output moderation_blocked sexual",
+   "request_id": "bdb97efc-eef7-4b10-8169-1adc67fa924d",
+   "output_returned": false,
+   "tries": 1
+  }
+ ],
+ "no_exposure_based_regeneration": true,
+ "images": [
+  {
+   "slot": "light",
+   "file": "딜리버드_light_anime_25d_gloss_f.webp",
+   "original_sha256": "a66ef9449451e844eb8d40030e552c6c4049239758ef52777f44c931fa292f92",
+   "webp_sha256": "25ff1d9c80f8f6957eef9da1ad37f37a1d4fa887ddf74657c7c4aa2ea119cc2e",
+   "submitted_sha256": "e9fd135d59e41fbb7de27344f89ce051475a62c5fdd0704b094e71579ede9017",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Selected candidate 3: red and white wavy bob, teal eyes, short rounded face, halo and articulated shoulder plates; right hand is loosely closed, left palm open. Both arms, legs and boots connect naturally; fist fingers partly occluded.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Selected candidate 3: red and white wavy bob, teal eyes, short rounded face, halo and articulated shoulder plates; right hand is loosely closed, left palm open. Both arms, legs and boots connect naturally; fist fingers partly occluded.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual1",
+   "file": "딜리버드_anime_25d_gloss_f_casual1.webp",
+   "original_sha256": "a1a748857059f614235d85ad7fd83b5c3932bb5495e9d9417b902f0012b1b15d",
+   "webp_sha256": "316256d3175f094238ecb6fb632d746fda2d114ea41e0bbd7acd75d316120f1a",
+   "submitted_sha256": "22b46d15b6b142d448ca9bf7628ee07f49cd18660fac117bfab07d22ab6e0a0d",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Jessie-inspired knit dress, red headband and brown glove; right hand holds microphone with fingers wrapping its shaft, thumb partly hidden. Far left shoulder/upper arm is occluded by body or crop, no detached hand. Same red-white bob and teal eyes.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Jessie-inspired knit dress, red headband and brown glove; right hand holds microphone with fingers wrapping its shaft, thumb partly hidden. Far left shoulder/upper arm is occluded by body or crop, no detached hand. Same red-white bob and teal eyes.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual2",
+   "file": "딜리버드_anime_25d_gloss_f_casual2.webp",
+   "original_sha256": "707387e77e609cf503584466520dc28be9ba2b73da31585125a7aa77463d08c6",
+   "webp_sha256": "f62d06bc4a36a9523423a1fa1f2f32c4461f09092edea0efe632e46931b63131",
+   "submitted_sha256": "c8697a83a1394e90bfda845ef0640d1ad56ad1e6f9e82c231c673bf671e38792",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Teal original ring-toss costume, raised right hand grips wooden ring with thumb opposed to curled fingers; left palm rests on counter with five separated fingers. Both arms clearly joined through elbows. Original head ornament persisted, retained as minor source detail.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Teal original ring-toss costume, raised right hand grips wooden ring with thumb opposed to curled fingers; left palm rests on counter with five separated fingers. Both arms clearly joined through elbows. Original head ornament persisted, retained as minor source detail.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual3",
+   "file": "딜리버드_anime_25d_gloss_f_casual3.webp",
+   "original_sha256": "5ae9835a3ccd9b28cac6e2d9bf7fbb6c938783e086d559f796cd2abedd7f2292",
+   "webp_sha256": "a357249b6ddcaa91c0471bad05b48ee70463650d317cb2bdebf6f00202de43ea",
+   "submitted_sha256": "3c54515f79ccdf4da7b723f43fefab13490a25ea994dc42ed2e2dd0b81fc586e",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Olive swimsuit and open patterned yukata in rainy kitchen. Right fingers grip small screwdriver, left palm rests on knee with five fingers. Both legs and feet visible, knees together. Expression is a faint smile rather than sad smile; retained.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Olive swimsuit and open patterned yukata in rainy kitchen. Right fingers grip small screwdriver, left palm rests on knee with five fingers. Both legs and feet visible, knees together. Expression is a faint smile rather than sad smile; retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual4",
+   "file": "딜리버드_anime_25d_gloss_f_casual4.webp",
+   "original_sha256": "2c67dad42a3598a9164ea03a1ccb77e56088b665c7d667676627fff8da5aa8ae",
+   "webp_sha256": "25203b864bd4b8dec0303bba043c45a70cb13106986c003741b1c76042e9aedf",
+   "submitted_sha256": "5d6b6a1a132bbbb1ff8d576e4c754b0dcd9539e556832feac9022d1e81f6cd7f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Khaki palazzo and cropped top in game lounge. Right fingers hold mug handle, thumb partly obscured; five left fingers rest over knee, both elbows joined. Feet have coherent five toes each. Head tilt and actual hand placement reviewed.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Khaki palazzo and cropped top in game lounge. Right fingers hold mug handle, thumb partly obscured; five left fingers rest over knee, both elbows joined. Feet have coherent five toes each. Head tilt and actual hand placement reviewed.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual5",
+   "file": "딜리버드_anime_25d_gloss_f_casual5.webp",
+   "original_sha256": "9de50c43830106e2d3151cd25d859d706b863636b91d97f3bc1da63533460abb",
+   "webp_sha256": "fa7a96078fafa813e44f661e39f6c00eb86bc2790a665180ec7a8012b851b587",
+   "submitted_sha256": "97054ada26272889062f056ba72e07692f347c598669f5fdc33a084c892eb2c0",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "White/black/gold Delibird corset costume beside jazz piano. Right gloved hand grips phone, left glove rests on railing. Two separate connected arms; fingers naturally curve around phone or rail. Profile closer to three-quarter rather than exact side; retained.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "White/black/gold Delibird corset costume beside jazz piano. Right gloved hand grips phone, left glove rests on railing. Two separate connected arms; fingers naturally curve around phone or rail. Profile closer to three-quarter rather than exact side; retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual7",
+   "file": "딜리버드_anime_25d_gloss_f_casual7.webp",
+   "original_sha256": "c4e7c738ed9dc3eae41a780e64bceb9f84739fa0cb08aa87b91ba24fb7f05650",
+   "webp_sha256": "8342eb8c4fdd088a8b4e178e440ae698456ca8bffe761adafaa3b1c67d82bd8c",
+   "submitted_sha256": "0d8f1468de2332f235c6d606c2b315a0c6fdf48a28542c9cb238deadcdf92f16",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Kneeling in garden with one Delibird companion. Right hand polishes ball with cloth, left hand cradles ball; both forearms connect to corresponding shoulders, some fingers hidden by ball and cloth. Feet and knees partly occluded by kneeling pose. Head halo persisted and outfit is adapted free design; retained.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Kneeling in garden with one Delibird companion. Right hand polishes ball with cloth, left hand cradles ball; both forearms connect to corresponding shoulders, some fingers hidden by ball and cloth. Feet and knees partly occluded by kneeling pose. Head halo persisted and outfit is adapted free design; retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual8",
+   "file": "딜리버드_anime_25d_gloss_f_casual8.webp",
+   "original_sha256": "f0c72dc1859738c51ef9971c4b738b58f568e425301b919275b2c2aa630fff24",
+   "webp_sha256": "c80d4b758242264226890312b6d39d8657663ea038cf261ebaa5f207cd8459c8",
+   "submitted_sha256": "cb60550685ccca1c9c88ee67fb282fa8d1638873693d6ee2bdf6eabedebcb043",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Aubergine ensemble in cable-car gondola. Right hand supports cup from below, left fingers curve around upper cup, both wrists connect to forearms and elbows. Both hands visible with some fingers hidden by cup. Head ornament persisted; retained.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Aubergine ensemble in cable-car gondola. Right hand supports cup from below, left fingers curve around upper cup, both wrists connect to forearms and elbows. Both hands visible with some fingers hidden by cup. Head ornament persisted; retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual9",
+   "file": "딜리버드_anime_25d_gloss_f_casual9.webp",
+   "original_sha256": "d77cee907ee2bdbfa28764bfa2cd3f3d0852458f63fb474797b39665dfe03eb5",
+   "webp_sha256": "4cf976d7c79a2b6861bcc2f1b9ad21f26eee952627e0c1f83a5f9c73640fa564",
+   "submitted_sha256": "797da236a01d91098ec1a638abb8422eb0cc18428103e553acdfabe68053160e",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Lemon babydoll slip at futuristic spa. Right hand on hip, left hand rests on raised leg rather than relaxed free at side. Both hands have natural five-finger structure; two legs with correct knee direction and feet; five toes per visible foot. Retained as minor pose variation.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Lemon babydoll slip at futuristic spa. Right hand on hip, left hand rests on raised leg rather than relaxed free at side. Both hands have natural five-finger structure; two legs with correct knee direction and feet; five toes per visible foot. Retained as minor pose variation.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual10",
+   "file": "딜리버드_anime_25d_gloss_f_casual10.webp",
+   "original_sha256": "6cd3fb2374d8d055f0b72a0a3c9ffc6c7299bb6ad215aa47ac8eac2f758453ad",
+   "webp_sha256": "898c8c51e5f2fe914e70e789378e5a18292d61fe7e4754d548a42de1f375a1cc",
+   "submitted_sha256": "35e3d129f5a885137f5dba1b4aea18aa6e10a01d004ce5e3f9b35dc4a4270a5f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Black vinyl fitted stage jacket and strapless top in autumn alley, right hand grips umbrella with thumb opposing curled fingers; left arm runs down to hand partly cut by lower frame. No detached wrist. Facial proportions and bob maintained.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Black vinyl fitted stage jacket and strapless top in autumn alley, right hand grips umbrella with thumb opposing curled fingers; left arm runs down to hand partly cut by lower frame. No detached wrist. Facial proportions and bob maintained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  },
+  {
+   "slot": "casual90",
+   "file": "딜리버드_anime_25d_gloss_f_casual90.webp",
+   "original_sha256": "a5c191d8911dfcd8466a2df87c3e086624694b63346a5544426d6c10037ee693",
+   "webp_sha256": "06f57eef4e50cbef52833d3388e09b98a86aac87bc756845e6a5b75eddbc9824",
+   "submitted_sha256": "7e47cd77b220bd6a59be3e61845c2bf9dee6580ddee69a8980431318bb30b9ff",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Red postal jacket and short skirt, snowy street, parcel low in right hand and left hand loose at side. Right fingers partly hidden by parcel ribbon, left fingers coherent, two joined arms and two striding legs. Fur-trimmed hat and boots with cloth sack, no readable text.",
+    "overlay_checked": false,
+    "note": "Manual full-image review with separate close-up contact sheet for visible hands; cropped or gripped fingers marked as occluded."
+   },
+   "qa": "Red postal jacket and short skirt, snowy street, parcel low in right hand and left hand loose at side. Right fingers partly hidden by parcel ribbon, left fingers coherent, two joined arms and two striding legs. Fur-trimmed hat and boots with cloth sack, no readable text.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended dimensional shading on nose, cheeks, lip and jaw; fine colored face outlines, smooth glossy skin and separately rendered detailed cloth or armor."
+   },
+   "exposure": {
+    "result": "retained",
+    "evidence": "Generated output preserved; no exposure-based regeneration."
+   }
+  }
+ ]
+}

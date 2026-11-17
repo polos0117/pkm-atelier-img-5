@@ -1,0 +1,117 @@
+{
+ "storage": {
+  "last": "딜리버드",
+  "cards": {
+   "딜리버드": {
+    "style": "anime_25d_gloss",
+    "identityMode": "create",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {
+     "body type": "lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust"
+    },
+    "locks": {},
+    "mode": "action",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "street_cafe",
+      "act": "coffee_takeout",
+      "ofam": "everyday",
+      "item": ""
+     }
+    },
+    "mecha": {
+     "set": {
+      "silhouette": "wing_binder"
+     },
+     "fx": [
+      {
+       "key": "hand",
+       "type": "ice"
+      },
+      {
+       "key": "seams",
+       "type": "flying"
+      },
+      {
+       "key": "trail",
+       "type": "ice"
+      }
+     ]
+    }
+   }
+  }
+ },
+ "prompt": "Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\nSource: Delibird (딜리버드), ice / flying type.\nSubject: A female mecha personification character with Delibird as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\nOutput: one dynamic action image that is also this form's card art.\n\n1. STYLE\nHigh-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\n2. CHARACTER\nFace — her own structure, not the style's default face: oval face, balanced length, medium width; soft rounded jaw; almond eyes, medium size, downturned outer corners, close-set; fine soft arches; small delicate nose; bow-shaped upper lip.\nHair: long wind-wing hair (long hair streaming back like a pair of swept wings), side-swept bangs.\nHair color: her main hair color is the creature's own main color; white for her flying type runs through it as the accent, in streaks and at the tips.\nImpression (reads even at card size): an elegant, graceful woman in her early twenties with very fair skin; a poised, quiet gaze; garnet red eyes; a fine winged eyeliner.\nIdentity (chosen details override the automatic look)\nbody type: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nProportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.\nBody: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\nHands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. ARMOR — LIGHT\nCostume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.\nArmor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\nSilhouette: a pair of large wing binders spread symmetrically behind her back as the main shape — each wing built from several broad, flat, hard-edged armor panels layered and staggered over one another on a jointed frame, fanning outward like stacked mechanical panels, not feathers — with light body armor. Solid hard-surface plates that read as armor, not cloth.\nColours: white, black, light yellow.\nWear: the white, hollow, and bag-like tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the two, three-pointed crests become a crest-shaped headpiece; the white feathers become a feathered or ruffled collar and trim; its markings (black markings; single white spot) become painted lines and patterns on her plates and undersuit.\nExposure: armor and undersuit open by design only at a deep neckline window with cleavage, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\n4. SCENE\nComposition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\nPose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\nType effects: One open hand conjuring a pale blue icy glow amid floating ice crystals and snowflakes. A pale sky-blue glow with white wind streaks pulses along her armor seams and joints. A light trail of floating ice crystals and snowflakes streams back from her heels and back armor.\n\n5. CONSTRAINTS\nOne figure only.\nAvoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.",
+ "generation": {
+  "tool": "image_gen",
+  "submitted_sha256": "e9fd135d59e41fbb7de27344f89ce051475a62c5fdd0704b094e71579ede9017",
+  "submitted_same": true,
+  "reference_original_sha256": null,
+  "design": "gpt_free",
+  "free_prompt": "Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\nSource: Delibird (딜리버드), ice / flying type.\nSubject: A female mecha personification character with Delibird as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\nOutput: one dynamic action image that is also this form's card art.\n\n1. STYLE\nHigh-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\n2. CHARACTER\nFace — her own structure, not the style's default face: a refined adult woman with a short midface, a softly rounded heart-shaped face, a small soft chin, softly hooded almond eyes, fine arched brows, a delicate nose and gently curved lips.\nHair: a sculpted shoulder-length wavy bob with airy side bangs and two curled winglike side locks.\nHair color: her main hair color is the creature's own main color; white for her flying type runs through it as the accent, in streaks and at the tips.\nImpression (reads even at card size): a graceful woman in her mid-twenties with very fair skin, clear teal eyes, fine bronze eyeliner and a welcoming confident smile.\nIdentity (chosen details override the automatic look)\nbody type: lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nProportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.\nBody: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\nHands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. ARMOR — LIGHT\nCostume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.\nArmor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\nSilhouette: a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape. Her signature construction turns the hollow bag-shaped tail into folded, overlapping hollow-chamber belt armor tapering into the fixed long white rear sash, and the three-pointed crests into the triple-faceted crown. Solid hard-surface plates, not cloth.\nColours: white, black, light yellow.\nWear: the white, hollow, and bag-like tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the two, three-pointed crests become a crest-shaped headpiece; the white feathers become a feathered or ruffled collar and trim; its markings (black markings; single white spot) become painted lines and patterns on her plates and undersuit.\nExposure: armor and undersuit open by design only at a deep neckline window with cleavage, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\n4. SCENE\nComposition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\nPose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\nType effects: A fine ring of frost crystals encircles her open palm without touching her fingers; slender white wind ribbons spiral behind the halo.\nSetting: a bright snow-covered mountain postal station courtyard, distant warm windows and pale winter sky, no signs or letters.\n\n5. CONSTRAINTS\nOne figure only.\nAvoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.\n",
+  "free_design_reason": "Authorized GPT free-design slot in IMAGE_RULES.md section 3; invariants preserved"
+ }
+}
