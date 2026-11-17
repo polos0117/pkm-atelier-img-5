@@ -2,7 +2,7 @@
   "card": "꾸꾸리",
   "style": "anime_25d_gloss",
   "selected": 1,
-  "stage": "generated_partial_pending_registration",
+  "stage": "registered_partial_complete",
   "image_count": 10,
   "requested_count": 12,
   "blocked": [
@@ -10,5 +10,15 @@
     "casual10"
   ],
   "no_regeneration_due_to_censorship": true,
-  "previous_glossy_promo_preserved": true
+  "previous_glossy_promo_preserved": true,
+  "image_commit": "debb11180b59661cfb40a6654c9c88f61ad896c3",
+  "thumbnail_commit": "4cdd9d5b94b272607adc8274d3b5d306ed6752aa",
+  "code_commit": "da727076cfbd9c555cd559ad399275795a5d15a0",
+  "registration_verified": 10,
+  "thumbnail_verified": 10,
+  "workflow": "success",
+  "blocked_slots_not_regenerated": [
+    "casual2",
+    "casual10"
+  ]
 }

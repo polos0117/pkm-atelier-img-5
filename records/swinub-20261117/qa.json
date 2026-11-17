@@ -275,160 +275,210 @@
       "result": "accepted_with_notes",
       "observed": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결."
+        "판정": "match",
+        "근거": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual1": {
       "result": "accepted_with_notes",
       "observed": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임."
+        "판정": "match",
+        "근거": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual3": {
       "result": "accepted_with_notes",
       "observed": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적."
+        "판정": "match",
+        "근거": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual4": {
       "result": "accepted_with_notes",
       "observed": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐."
+        "판정": "match",
+        "근거": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual5": {
       "result": "accepted_with_notes",
       "observed": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠."
+        "판정": "match",
+        "근거": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual6": {
       "result": "accepted_with_notes",
       "observed": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐."
+        "판정": "match",
+        "근거": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual7": {
       "result": "accepted_with_notes",
       "observed": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지."
+        "판정": "match",
+        "근거": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual8": {
       "result": "accepted_with_notes",
       "observed": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임."
+        "판정": "match",
+        "근거": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual9": {
       "result": "accepted_with_notes",
       "observed": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐."
+        "판정": "match",
+        "근거": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual90": {
       "result": "accepted_with_notes",
       "observed": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨.",
       "style_25d": {
-        "verdict": "match",
-        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+        "판정": "match",
+        "근거": "얼굴의 코·입술·턱에 부드럽게 이어지는 입체 음영, 머리카락의 가닥 하이라이트, 천의 주름과 광택이 보임. 피부는 매끈한 중간톤으로 렌더링됨."
       },
       "exposure": {
-        "verdict": "match",
-        "evidence": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨."
+        "판정": "match",
+        "근거": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨."
       },
       "anatomy": {
         "verdict": "no_obvious_extra_or_disconnected_limbs",
         "visible_hand_notes": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨."
+      },
+      "anatomy_visual": {
+        "extra_limbs_observed": false,
+        "hand_connection": "visible hands remain connected through wrists and forearms; occluded fingers are not claimed visible",
+        "tool": "unavailable: mediapipe not installed"
       }
     },
     "casual2": {

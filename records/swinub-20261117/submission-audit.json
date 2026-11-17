@@ -1,0 +1,90 @@
+{
+  "casual1": {
+    "submitted_sha256": "05a0fa1968608341c8f7e8a1d1d085bf531eb949554860c120eee12db18c1cae",
+    "prompt_sha256": "05a0fa1968608341c8f7e8a1d1d085bf531eb949554860c120eee12db18c1cae",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual2": {
+    "submitted_sha256": "e657bb77c1f817c9f7cb252cdcc16040be536d83295d03eca830d12cf595fb09",
+    "prompt_sha256": "e657bb77c1f817c9f7cb252cdcc16040be536d83295d03eca830d12cf595fb09",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": false
+  },
+  "casual3": {
+    "submitted_sha256": "477835c2d01255491b2205b7ce116e2d20b8e083c39aac00bac8d745a63e0936",
+    "prompt_sha256": "477835c2d01255491b2205b7ce116e2d20b8e083c39aac00bac8d745a63e0936",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual4": {
+    "submitted_sha256": "2829b445d611d3c10d6318f84f51490d47a881d636bccd9528803c0f8159075e",
+    "prompt_sha256": "2829b445d611d3c10d6318f84f51490d47a881d636bccd9528803c0f8159075e",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual5": {
+    "submitted_sha256": "0a954dabd6bcdbd1024dec121be02f0fc313d2f0b53e54edaff4b519a13b2d5e",
+    "prompt_sha256": "5c76f14ade68b64dafd59aa02793aafead0fa7885e86e6602ca033375b28f72e",
+    "same": false,
+    "authorized_free_design": true,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual6": {
+    "submitted_sha256": "3a55d0cafb4281b3e008f8cd3bf7001f8a7c8587c5f94964e7bb9bf9586108a5",
+    "prompt_sha256": "d94b7c3cdc522d697869dda1c51bb05f35bd21d953f24551a407a63bb6123413",
+    "same": false,
+    "authorized_free_design": true,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual7": {
+    "submitted_sha256": "db5d0ab3c2e09beb82e6491cbe731e00d1fca3f711b682a841b2a2d5adcc4e09",
+    "prompt_sha256": "db5d0ab3c2e09beb82e6491cbe731e00d1fca3f711b682a841b2a2d5adcc4e09",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual8": {
+    "submitted_sha256": "ddb22c9ed9d0b1760aa3668753dee58bc5dff9021d93ed5fd66ae2e3d74cfa73",
+    "prompt_sha256": "ddb22c9ed9d0b1760aa3668753dee58bc5dff9021d93ed5fd66ae2e3d74cfa73",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual9": {
+    "submitted_sha256": "17fe10e300fc275a9e84e98843f7de3aed9df52233a3baf8b1588e67d18cc1c8",
+    "prompt_sha256": "17fe10e300fc275a9e84e98843f7de3aed9df52233a3baf8b1588e67d18cc1c8",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  },
+  "casual10": {
+    "submitted_sha256": "226826173954fae28d88bb5dfb1374471eb29123fe2c21610d4dc5655bb8b111",
+    "prompt_sha256": "226826173954fae28d88bb5dfb1374471eb29123fe2c21610d4dc5655bb8b111",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": false
+  },
+  "casual90": {
+    "submitted_sha256": "2001cafe0a0dd6ad4963c51a6684ef9d68dcd0709e7665db156f535ae9f6a49d",
+    "prompt_sha256": "2001cafe0a0dd6ad4963c51a6684ef9d68dcd0709e7665db156f535ae9f6a49d",
+    "same": true,
+    "authorized_free_design": false,
+    "verification": "post-generation exact-file audit; submissions loaded directly from saved files",
+    "returned_image": true
+  }
+}
