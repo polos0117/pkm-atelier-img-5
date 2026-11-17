@@ -1,0 +1,22 @@
+{
+  "card": "링곰",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "status": "complete",
+  "slots": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "reservation_commit": "7fc41511e2b1fde8c94492898a75f561b74d3188",
+  "regeneration_count": 0
+}

@@ -1,0 +1,79 @@
+{
+  "casual1": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual1-prompt.txt",
+    "sha256": "d9a1abceacc64d3bc50d11332f85560de9281803a2fc96dc3c6275b643e0d379",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual2": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual2-free-final.txt",
+    "sha256": "c7929ecf2f6bc4cdc7f4fddc752ca2624aae30f23dc54ab33f8f154212b0c3b2",
+    "design": "gpt_free",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual3": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual3-prompt.txt",
+    "sha256": "d45e9e611bc4bbffc8ad733626b0ff576ef4fcddc5b206705427b11320025b3f",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual4": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual4-prompt.txt",
+    "sha256": "64f68840e6198a8fa287a5920a8823134ffb89d861165ed956315820d5a2dc59",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual5": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual5-prompt.txt",
+    "sha256": "e9a38a3960a79a918828c7eaac86dffeea86d788045779368b8b46a14278bd26",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual6": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual6-prompt.txt",
+    "sha256": "d555d79f642f94becc0fb0abfb016b3e8ccee0db023f321c46393866c6bedda5",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual7": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual7-prompt.txt",
+    "sha256": "0f6bfbefc5a2966e49ebf6954df86c3581a5084a0b5d653df94eaf94eb304b1b",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual8": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual8-prompt.txt",
+    "sha256": "697d8a9dae502940dc15557052c0485b42ef7e878b2f7136eb9cb12320dcc244",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual9": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual9-free-final.txt",
+    "sha256": "9c77dd1a9e88fc74bd3393f18db63abf313cfdad6d021eb00ace71dbfe764d9c",
+    "design": "gpt_free",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual10": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual10-prompt.txt",
+    "sha256": "6463a80975ecbddc71cd746bf342fd293c77aeafaa5d3436f56fd36af83d2b41",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  },
+  "casual90": {
+    "file": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/casual90-prompt.txt",
+    "sha256": "be86214203cca2dfa032ee74b0a6d95c2a1f91f95e85bcb6e248dacab2b97fd1",
+    "design": "generator",
+    "same": true,
+    "reference": "/workspace/scratch/6c723e9b8d6a/ursaring-pack/mecha4.png"
+  }
+}

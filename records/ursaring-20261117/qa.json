@@ -1,0 +1,320 @@
+{
+  "card": "링곰",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 4,
+  "reference": "mecha4.png",
+  "no_regeneration_for_exposure": true,
+  "regeneration_count": 0,
+  "skipped": [],
+  "slots": {
+    "light": {
+      "file": "링곰_light_anime_25d_gloss_f.webp",
+      "observed": "갈색 경장 메카, 귀 장식과 크림색 고리형 허리 프레임, 단발 웨이브, 양손과 두 발이 모두 보이는 전신.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "갈색 경장 메카, 귀 장식과 크림색 고리형 허리 프레임, 단발 웨이브, 양손과 두 발이 모두 보이는 전신.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "갈색 경장 메카, 귀 장식과 크림색 고리형 허리 프레임, 단발 웨이브, 양손과 두 발이 모두 보이는 전신."
+      },
+      "regenerated": false,
+      "webp_sha256": "e7a1c1b364eb37ae5a8dd1747096eae4e0f15bfb5438cf3c090ad949dd592c58"
+    },
+    "casual1": {
+      "file": "링곰_anime_25d_gloss_f_casual1.webp",
+      "observed": "거실에서 백금색 여행자 코스프레를 입고 레코드와 재킷을 양손에 든 상반신.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "거실에서 백금색 여행자 코스프레를 입고 레코드와 재킷을 양손에 든 상반신.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "거실에서 백금색 여행자 코스프레를 입고 레코드와 재킷을 양손에 든 상반신."
+      },
+      "regenerated": false,
+      "webp_sha256": "1bf26ac8759f1b740f0e26a5a4b04a1d9ee9973730da5eac42f27f2409364a44"
+    },
+    "casual2": {
+      "file": "링곰_anime_25d_gloss_f_casual2.webp",
+      "observed": "축제 종 옆 남색 역할극 의상, 한 팔은 위로 뻗어 종에 닿고 반대 손은 허리에 연결됨.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "축제 종 옆 남색 역할극 의상, 한 팔은 위로 뻗어 종에 닿고 반대 손은 허리에 연결됨.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "축제 종 옆 남색 역할극 의상, 한 팔은 위로 뻗어 종에 닿고 반대 손은 허리에 연결됨."
+      },
+      "regenerated": false,
+      "webp_sha256": "8d55aa9e8a590b10c5d409f31f34d035d2b04308278bbc01ddb3691f509180fe"
+    },
+    "casual3": {
+      "file": "링곰_anime_25d_gloss_f_casual3.webp",
+      "observed": "바 배경의 검정 크로셰 수영복, 한 손 엄지 올리기와 반대 손 허리 자세.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "바 배경의 검정 크로셰 수영복, 한 손 엄지 올리기와 반대 손 허리 자세.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "바 배경의 검정 크로셰 수영복, 한 손 엄지 올리기와 반대 손 허리 자세."
+      },
+      "regenerated": false,
+      "webp_sha256": "295e015f3148d8f0b74988238aca77d2a8c92cd5684f1188f62e609f0569c968",
+      "notes": [
+        "계획은 크로셰 비키니지만 실제로는 앞 중앙이 연결된 모노키니로 생성됨. 결과를 보존함."
+      ]
+    },
+    "casual4": {
+      "file": "링곰_anime_25d_gloss_f_casual4.webp",
+      "observed": "눈 내리는 야외 온천, 녹색 교차형 상의와 쇼츠·어깨 케이프, 계단에 한 발을 올린 전신.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "눈 내리는 야외 온천, 녹색 교차형 상의와 쇼츠·어깨 케이프, 계단에 한 발을 올린 전신.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "눈 내리는 야외 온천, 녹색 교차형 상의와 쇼츠·어깨 케이프, 계단에 한 발을 올린 전신."
+      },
+      "regenerated": false,
+      "webp_sha256": "5557721a7eb37190173dc7ea7e6b59038c31e351738c5acb551461d0b74e123d"
+    },
+    "casual5": {
+      "file": "링곰_anime_25d_gloss_f_casual5.webp",
+      "observed": "눈 내리는 공중 정원, 갈색 링곰 바디수트와 타이츠·부츠를 입고 옆으로 누운 전신.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "눈 내리는 공중 정원, 갈색 링곰 바디수트와 타이츠·부츠를 입고 옆으로 누운 전신.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "눈 내리는 공중 정원, 갈색 링곰 바디수트와 타이츠·부츠를 입고 옆으로 누운 전신."
+      },
+      "regenerated": false,
+      "webp_sha256": "f61ba0095c968799c4590c0e58d86ac6b855d82e2b12c279978a4eb67f2003c5"
+    },
+    "casual6": {
+      "file": "링곰_anime_25d_gloss_f_casual6.webp",
+      "observed": "분장실 배경 검정 란제리풍 상의, 한 손은 어깨끈을 잡고 반대 팔은 프레임 밖으로 이어짐.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "분장실 배경 검정 란제리풍 상의, 한 손은 어깨끈을 잡고 반대 팔은 프레임 밖으로 이어짐.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "분장실 배경 검정 란제리풍 상의, 한 손은 어깨끈을 잡고 반대 팔은 프레임 밖으로 이어짐."
+      },
+      "regenerated": false,
+      "webp_sha256": "a6ac699de609f66da947f05923e094f3a3460b16018ec5d8dafad295d4d3931b"
+    },
+    "casual7": {
+      "file": "링곰_anime_25d_gloss_f_casual7.webp",
+      "observed": "뜰에서 무릎을 꿇고 링곰 동료 머리에 한 손을 얹고 반대 손은 허벅지에 둠. 크림색 작업복.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "뜰에서 무릎을 꿇고 링곰 동료 머리에 한 손을 얹고 반대 손은 허벅지에 둠. 크림색 작업복.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "뜰에서 무릎을 꿇고 링곰 동료 머리에 한 손을 얹고 반대 손은 허벅지에 둠. 크림색 작업복."
+      },
+      "regenerated": false,
+      "webp_sha256": "b22a6b4c1a5185f8a5eec2e255b9e693531b0e483ca6b561a2609952054e45c4"
+    },
+    "casual8": {
+      "file": "링곰_anime_25d_gloss_f_casual8.webp",
+      "observed": "수영장 장비실 배경 분홍 홀터 의상과 큰 리본, 검지를 입술에 대는 얼굴 확대.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "수영장 장비실 배경 분홍 홀터 의상과 큰 리본, 검지를 입술에 대는 얼굴 확대.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "수영장 장비실 배경 분홍 홀터 의상과 큰 리본, 검지를 입술에 대는 얼굴 확대."
+      },
+      "regenerated": false,
+      "webp_sha256": "7197d6a7f44b116a9ca5f830ac09dbef5a90df44fde0fa8c6eff2fd9f8e9ddb3"
+    },
+    "casual9": {
+      "file": "링곰_anime_25d_gloss_f_casual9.webp",
+      "observed": "과수원 해먹 휴식, 주황색 허리 컷아웃 롬퍼, 양팔과 양손을 해먹 가장자리에 자연스럽게 둠.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "과수원 해먹 휴식, 주황색 허리 컷아웃 롬퍼, 양팔과 양손을 해먹 가장자리에 자연스럽게 둠.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "과수원 해먹 휴식, 주황색 허리 컷아웃 롬퍼, 양팔과 양손을 해먹 가장자리에 자연스럽게 둠."
+      },
+      "regenerated": false,
+      "webp_sha256": "22bfe26466be03585961e80c06f7091e81d53f8686b3675678db8c763ac46905",
+      "notes": [
+        "계획의 느슨한 표정보다 웃음이 밝게 생성됨. 실제 표정 차이를 기록하고 보존함."
+      ]
+    },
+    "casual10": {
+      "file": "링곰_anime_25d_gloss_f_casual10.webp",
+      "observed": "테라코타색 비닐 재킷·쇼츠·롱부츠를 입고 아치가 있는 거리에서 걷는 전신, 양손이 팔에 연결됨.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "테라코타색 비닐 재킷·쇼츠·롱부츠를 입고 아치가 있는 거리에서 걷는 전신, 양손이 팔에 연결됨.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "테라코타색 비닐 재킷·쇼츠·롱부츠를 입고 아치가 있는 거리에서 걷는 전신, 양손이 팔에 연결됨."
+      },
+      "regenerated": false,
+      "webp_sha256": "cde27a9fb020bf73ad8e13203f798a84f0899da8488f0790101061c7f89d2a39",
+      "notes": [
+        "계획의 자동차 운전석 장소와 걷기 자세가 서로 충돌했고 결과는 아치가 있는 거리의 걷는 장면으로 생성됨. 실제 장소 차이를 기록하고 결과를 보존함."
+      ]
+    },
+    "casual90": {
+      "file": "링곰_anime_25d_gloss_f_casual90.webp",
+      "observed": "벌통과 꿀이 있는 언덕 양봉장, 한 무릎을 꿇고 꿀병을 들며 반대 손으로 지면을 짚음.",
+      "style_25d": {
+        "result": "pass",
+        "evidence": "코·입술·턱의 부드러운 음영과 어깨·팔의 광택, 머리카락 층과 재질별 반사가 보임."
+      },
+      "identity": {
+        "result": "pass",
+        "evidence": "선택 4번의 짧은 갈색 웨이브·금빛 눈·브론즈 피부와 부드러운 턱 비율을 유지함."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "evidence": "벌통과 꿀이 있는 언덕 양봉장, 한 무릎을 꿇고 꿀병을 들며 반대 손으로 지면을 짚음.",
+        "hands": "보이는 손은 손목과 팔에 이어짐. 얼굴 확대 컷과 소품을 쥔 손은 일부 손가락·반대 손이 가려져 보이는 범위만 확인함."
+      },
+      "exposure_actual": {
+        "result": "as_generated",
+        "evidence": "벌통과 꿀이 있는 언덕 양봉장, 한 무릎을 꿇고 꿀병을 들며 반대 손으로 지면을 짚음."
+      },
+      "regenerated": false,
+      "webp_sha256": "0667f35989bf54154ae4d22abfe43463297dff643011e8612fb63cb49b59ca87"
+    }
+  }
+}
