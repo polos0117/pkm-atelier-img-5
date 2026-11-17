@@ -1,0 +1,19 @@
+{
+  "selected": 1,
+  "user_reply": "1",
+  "style": "anime_25d_gloss",
+  "canonical_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71",
+  "candidates_generated": 4,
+  "candidate_regenerations": 0,
+  "casual_regenerations": 1,
+  "face_reason": "User explicitly selected candidate 1. Preserve her short soft oval face, violet eyes, blue-violet hair with pale streaks and adult hourglass figure.",
+  "compared_characters": [
+    "총어",
+    "대포무노",
+    "딜리버드"
+  ],
+  "comparison_evidence": "Viewed current light-image thumbnails: silver bob, red braided hair, and red-white winged design respectively; Mantine is distinct through violet eyes, long winged sidelocks, pale streaks and segmented tail armor.",
+  "prior_style_preserved": "glossy_promo",
+  "reservation_commit": "0d33bb57d5b5c26467a7dd889281d1739481ca75",
+  "correction_reason": "casual9 scene diversity; not exposure censorship"
+}

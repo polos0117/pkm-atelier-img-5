@@ -1,0 +1,158 @@
+[
+  {
+    "slot": "casual1",
+    "file": "만타인_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "4281c0f176afe3b31b60ac330cf9a8d2eedd41c8a3253d1e1da7b948dafa04b9",
+    "sha256": "ed6848e68123d22a03b6d3dbe126d757b188698ed44485272617998b9b2085cf",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 266876,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual10",
+    "file": "만타인_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "e5afdab729b9056e8f706339968bd26926b980fd7bf4ec12a9de71447bbd1467",
+    "sha256": "dacc8ed370bc27b9a656dc1abdda1bfd1e07b7fa797ccf3b23d2fc34806691da",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 187044,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual2",
+    "file": "만타인_anime_25d_gloss_f_casual2.webp",
+    "original_sha256": "58b6b3dfd849106b018263d771062d220e6431958f920551a8822a5939a2e4b4",
+    "sha256": "f096d50a7c8b437d8beb6cd9c2affcad0c336893d6094fcfd4ef1d2863997f4f",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 174446,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual3",
+    "file": "만타인_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "f6216259ea39a3fb0c7a691bc4716ba11672ceef73ba6124355277d0fda8de8c",
+    "sha256": "168da6ff889ede9c7e3975773ea14dfe2375db889f48c0f07dd970308f2b3b60",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 361428,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual4",
+    "file": "만타인_anime_25d_gloss_f_casual4.webp",
+    "original_sha256": "5350d0f38a5e63a8bd4be416c9958b45511f3a35f31dae60bb8d6ecea3b8c02a",
+    "sha256": "28ecc08e6b88d513cff4f47f86eb831359ef17d9666f7af041687ff92927d8c6",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 289064,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual5",
+    "file": "만타인_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "376575a7fa73a9b8a2918dc4886541944af3951261f53a168fea2953a3c5c341",
+    "sha256": "d3f6dcd9f7bb39ca32965af4d1eba529baca814a4ff5e15117a2c8d3fa7d8215",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 351134,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual6",
+    "file": "만타인_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "ca973b00df76750ecef1eebbf46a5bb9e39594b5c50928c916faa1e259a696fa",
+    "sha256": "318890535b5cbf6c3091f55bfef04e1caa5d7d9f3e5ce5b05f67fe3ee9426a89",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 219832,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual7",
+    "file": "만타인_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "6ab4b2fedb59a82352dcc12ce076f8f967d8466ad1625477d349623fa965ff74",
+    "sha256": "2c495719bfb04f004ea0a6d5ba509dd17e34d334c19a9be9b9e49c4c835765cb",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 339250,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual8",
+    "file": "만타인_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "9af873645bf78e16e96c232d3d87a9d58a6f811670da7b2fdad36920d01a9774",
+    "sha256": "109e452b34c6421fdf87afa9f74441254d890691134988355439fbf8fd9a22fe",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 371734,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual9",
+    "file": "만타인_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "a409458ff8a6e946cfbdcafe9e5ce1bad0aa9f1e7ddd06da1954901c5d02fe12",
+    "sha256": "6f0fa2e50ddb4bc071c0987dabdf5e65f88e7ffce79000813dc9f436280bba53",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 251942,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "casual90",
+    "file": "만타인_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "2e4539d47e36db9d271c830b7238091fe2344279d8a3b3adbafe7a5ebecbd1d6",
+    "sha256": "b9f5d9c1d5d4809ae65b37d5f11e4754fed6dd048f9776b148bf7af420af6476",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 268170,
+    "shard": 4,
+    "reference_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71"
+  },
+  {
+    "slot": "light",
+    "file": "만타인_light_anime_25d_gloss_f.webp",
+    "original_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71",
+    "sha256": "52af3382ffbcd181f387b769de441f2903a729c04697a1a170284c13dfe158b5",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 343398,
+    "shard": 4,
+    "reference_sha256": null
+  }
+]

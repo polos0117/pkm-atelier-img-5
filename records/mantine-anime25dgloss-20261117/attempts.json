@@ -1,0 +1,17 @@
+{
+  "casual9": [
+    {
+      "attempt": 1,
+      "original_sha256": "a409458ff8a6e946cfbdcafe9e5ce1bad0aa9f1e7ddd06da1954901c5d02fe12",
+      "accepted": false,
+      "reason": "Scene duplicates casual4",
+      "retained_in_session": true
+    },
+    {
+      "attempt": 2,
+      "original_sha256": "a409458ff8a6e946cfbdcafe9e5ce1bad0aa9f1e7ddd06da1954901c5d02fe12",
+      "accepted": true,
+      "reason": "Distinct kite festival scene"
+    }
+  ]
+}

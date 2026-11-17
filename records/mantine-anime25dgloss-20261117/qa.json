@@ -1,0 +1,237 @@
+{
+  "reviewer": "gpt",
+  "accepted": true,
+  "tool": "unavailable: mediapipe not installed; visual review performed on full-size originals",
+  "count": 12,
+  "slots": {
+    "casual1": {
+      "accepted": true,
+      "image_sha256": "4281c0f176afe3b31b60ac330cf9a8d2eedd41c8a3253d1e1da7b948dafa04b9",
+      "webp_sha256": "ed6848e68123d22a03b6d3dbe126d757b188698ed44485272617998b9b2085cf",
+      "observations": "Night food stall; Mantine corset costume with short flared skirt and headpiece, walking/turned-back three-quarter crop; right hand grips camera, left hangs relaxed. Two arms connected; five on open hand, grip fingers partly hidden.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Night food stall; Mantine corset costume with short flared skirt and headpiece, walking/turned-back three-quarter crop; right hand grips camera, left hangs relaxed. Two arms connected; five on open hand, grip fingers partly hidden."
+      }
+    },
+    "casual10": {
+      "accepted": true,
+      "image_sha256": "e5afdab729b9056e8f706339968bd26926b980fd7bf4ec12a9de71447bbd1467",
+      "webp_sha256": "dacc8ed370bc27b9a656dc1abdda1bfd1e07b7fa797ccf3b23d2fc34806691da",
+      "observations": "Warm backstage dressing room; tangerine bandeau bikini, leaning on vanity, turned head and waist-up crop. Both hands on surface, each joins to visible forearm and shoulder, five fingers each with mild overlaps.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Warm backstage dressing room; tangerine bandeau bikini, leaning on vanity, turned head and waist-up crop. Both hands on surface, each joins to visible forearm and shoulder, five fingers each with mild overlaps."
+      }
+    },
+    "casual2": {
+      "accepted": true,
+      "image_sha256": "58b6b3dfd849106b018263d771062d220e6431958f920551a8822a5939a2e4b4",
+      "webp_sha256": "f096d50a7c8b437d8beb6cd9c2affcad0c336893d6094fcfd4ef1d2863997f4f",
+      "observations": "Dark editorial studio; Hayate-inspired black/red gown, side-lying with head on left hand, right palm on floor. Two arms and two legs connected; fingers at cheek and resting palm partly occluded; rear foot partly covered by dress.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Dark editorial studio; Hayate-inspired black/red gown, side-lying with head on left hand, right palm on floor. Two arms and two legs connected; fingers at cheek and resting palm partly occluded; rear foot partly covered by dress."
+      }
+    },
+    "casual3": {
+      "accepted": true,
+      "image_sha256": "f6216259ea39a3fb0c7a691bc4716ba11672ceef73ba6124355277d0fda8de8c",
+      "webp_sha256": "168da6ff889ede9c7e3975773ea14dfe2375db889f48c0f07dd970308f2b3b60",
+      "observations": "Rainy city penthouse; turquoise vinyl jacket/skirt/boots, seated on chair; one hand holds sunglasses, other on knee. Two arms and two legs connected; grip partially occluded, resting hand five fingers visible.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Rainy city penthouse; turquoise vinyl jacket/skirt/boots, seated on chair; one hand holds sunglasses, other on knee. Two arms and two legs connected; grip partially occluded, resting hand five fingers visible."
+      }
+    },
+    "casual4": {
+      "accepted": true,
+      "image_sha256": "5350d0f38a5e63a8bd4be416c9958b45511f3a35f31dae60bb8d6ecea3b8c02a",
+      "webp_sha256": "28ecc08e6b88d513cff4f47f86eb831359ef17d9666f7af041687ff92927d8c6",
+      "observations": "Free scene realized as daylight seaside suspended chair: pale lined crochet resort outfit, one hand holds a cocktail, other rests at chair rail with small motif ornament. Two arms connected, visible fingers partly hidden by cup/loose grip; knees and legs naturally extend through crop. Scene differs from bar, studio, stairs and bath.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Free scene realized as daylight seaside suspended chair: pale lined crochet resort outfit, one hand holds a cocktail, other rests at chair rail with small motif ornament. Two arms connected, visible fingers partly hidden by cup/loose grip; knees and legs naturally extend through crop. Scene differs from bar, studio, stairs and bath."
+      }
+    },
+    "casual5": {
+      "accepted": true,
+      "image_sha256": "376575a7fa73a9b8a2918dc4886541944af3951261f53a168fea2953a3c5c341",
+      "webp_sha256": "d3f6dcd9f7bb39ca32965af4d1eba529baca814a4ff5e15117a2c8d3fa7d8215",
+      "observations": "Neon bar; scarlet embroidered lace top over opaque underlayer, waist-up frontal view. One hand extends toward viewer, other rests at collarbone; five fingers per visible hand, matching wrists and shoulders. No duplicate limb.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Neon bar; scarlet embroidered lace top over opaque underlayer, waist-up frontal view. One hand extends toward viewer, other rests at collarbone; five fingers per visible hand, matching wrists and shoulders. No duplicate limb."
+      }
+    },
+    "casual6": {
+      "accepted": true,
+      "image_sha256": "ca973b00df76750ecef1eebbf46a5bb9e39594b5c50928c916faa1e259a696fa",
+      "webp_sha256": "318890535b5cbf6c3091f55bfef04e1caa5d7d9f3e5ce5b05f67fe3ee9426a89",
+      "observations": "Swimming club equipment room; yellow workwear, close portrait, right fingertips at cheek, left shoulder and arm descend out of frame. Five fingers partly overlapping near cheek; no floating hand or shoulder-only torso. Legs out of frame as planned.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Swimming club equipment room; yellow workwear, close portrait, right fingertips at cheek, left shoulder and arm descend out of frame. Five fingers partly overlapping near cheek; no floating hand or shoulder-only torso. Legs out of frame as planned."
+      }
+    },
+    "casual7": {
+      "accepted": true,
+      "image_sha256": "6ab4b2fedb59a82352dcc12ce076f8f967d8466ad1625477d349623fa965ff74",
+      "webp_sha256": "2c495719bfb04f004ea0a6d5ba509dd17e34d334c19a9be9b9e49c4c835765cb",
+      "observations": "Open-air hot spring at sunset; black silk robe/slip, standing profile while drying hair with a towel. Two arms and two legs joined; gripping fingers partly covered by towel, both feet visible with toes partly overlapping due angle. Retained side view from planner.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Open-air hot spring at sunset; black silk robe/slip, standing profile while drying hair with a towel. Two arms and two legs joined; gripping fingers partly covered by towel, both feet visible with toes partly overlapping due angle. Retained side view from planner."
+      }
+    },
+    "casual8": {
+      "accepted": true,
+      "image_sha256": "9af873645bf78e16e96c232d3d87a9d58a6f811670da7b2fdad36920d01a9774",
+      "webp_sha256": "109e452b34c6421fdf87afa9f74441254d890691134988355439fbf8fd9a22fe",
+      "observations": "Bright hillside town stairs; ivory cross-front capelet and coral balloon shorts, walking full-body with a lantern in right hand and relaxed left arm. Two arms/two legs joined, fingers partly folded around handle, left hand relaxed; feet visible.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Bright hillside town stairs; ivory cross-front capelet and coral balloon shorts, walking full-body with a lantern in right hand and relaxed left arm. Two arms/two legs joined, fingers partly folded around handle, left hand relaxed; feet visible."
+      }
+    },
+    "casual9": {
+      "accepted": true,
+      "image_sha256": "a409458ff8a6e946cfbdcafe9e5ce1bad0aa9f1e7ddd06da1954901c5d02fe12",
+      "webp_sha256": "6f0fa2e50ddb4bc071c0987dabdf5e65f88e7ffce79000813dc9f436280bba53",
+      "observations": "Corrected original event costume: peach petal bustier and emerald shorts on wooden seaside kite platform, seated with legs folded together, right hand on kite handle and left open toward flying kite. Two arms/two legs joined, open left hand five fingers, right grip partially occluded; toes visible. Actual place, activity, pose, framing, outfit and prop all differ from casual4.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Corrected original event costume: peach petal bustier and emerald shorts on wooden seaside kite platform, seated with legs folded together, right hand on kite handle and left open toward flying kite. Two arms/two legs joined, open left hand five fingers, right grip partially occluded; toes visible. Actual place, activity, pose, framing, outfit and prop all differ from casual4."
+      }
+    },
+    "casual90": {
+      "accepted": true,
+      "image_sha256": "2e4539d47e36db9d271c830b7238091fe2344279d8a3b3adbafe7a5ebecbd1d6",
+      "webp_sha256": "b9f5d9c1d5d4809ae65b37d5f11e4754fed6dd048f9776b148bf7af420af6476",
+      "observations": "Surf school instructor in rain on beach; fitted zip rash vest and board shorts with wave sash, hands clasped in front at chest height. Two upper arms and forearms connected; both hands and thumbs visible, interlaced fingers partly occluded; legs below planned waist-up crop.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "Surf school instructor in rain on beach; fitted zip rash vest and board shorts with wave sash, hands clasped in front at chest height. Two upper arms and forearms connected; both hands and thumbs visible, interlaced fingers partly occluded; legs below planned waist-up crop."
+      }
+    },
+    "light": {
+      "accepted": true,
+      "image_sha256": "125cc43a9a3a8978d391adf6248939668d7b46558bed3cc86ad67ffb3142ef71",
+      "webp_sha256": "52af3382ffbcd181f387b769de441f2903a729c04697a1a170284c13dfe158b5",
+      "observations": "User-selected candidate 1; standing adult in blue-violet thin hard armor, pale-streaked winged hair, violet eyes and articulated tail. Two joined arms and legs; hands visible, loose-grip fingers partly occluded. Extra thigh opening retained as selected; no exposure regeneration.",
+      "exposure": {
+        "result": "match_or_retained_variation",
+        "note": "Opaque coverage of intimate areas; variations retained, no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe missing",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "2 visible or below planned crop",
+        "hands": "Five digits on each fully visible hand; grip, interlace and frame occlusions described in observations.",
+        "overlay_checked": false,
+        "note": "User-selected candidate 1; standing adult in blue-violet thin hard armor, pale-streaked winged hair, violet eyes and articulated tail. Two joined arms and legs; hands visible, loose-grip fingers partly occluded. Extra thigh opening retained as selected; no exposure regeneration."
+      }
+    }
+  },
+  "diversity_comparison": "Viewed every final original and current light thumbnails of 총어, 대포무노, 딜리버드. Twelve final images have different locations, clothing silhouettes, activities or framing. casual9 first result duplicated casual4 and was preserved and corrected once for scene diversity, with all fixed style/face/body lines retained. No result was regenerated for exposure censorship."
+}

@@ -1,0 +1,189 @@
+{
+ "version": 4,
+ "card": "만타인",
+ "no": 226,
+ "style": "anime_25d_gloss",
+ "plan": "/workspace/scratch/9ddd40e58738/mantine-pack/PLAN.json",
+ "note": "고칠 수 있는 칸만 있다. 자리마다 고정인 것(출력·인물 기준·장갑 폼·폭주 기준·첨부)은 tools/prompt-pack.cjs 가 정한다. 다 쓰면 build.",
+ "slots": {
+  "light": {
+   "motifs": "",
+   "formOverride": "",
+   "headFeature": "",
+   "faceDesignOn": true,
+   "params": {
+    "body type": "hourglass-figured — full bust and hips, distinctly narrow-waisted"
+   },
+   "scene": {
+    "expr": "",
+    "pose": "",
+    "orient": "",
+    "frame": "",
+    "lens": "",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "",
+    "outfit": "",
+    "custom": "",
+    "action": {
+     "category": "",
+     "example": "",
+     "timing": "",
+     "equipment": "",
+     "power": "",
+     "effects": "",
+     "speed": "",
+     "environment": ""
+    }
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "mecha": {
+    "set": {
+     "silhouette": "tail_unit"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "flying"
+     },
+     {
+      "key": "seams",
+      "type": "water"
+     },
+     {
+      "key": "ground",
+      "type": "flying"
+     }
+    ]
+   },
+   "mecha_auto": {
+    "set": {
+     "silhouette": "tail_unit"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "flying"
+     },
+     {
+      "key": "seams",
+      "type": "water"
+     },
+     {
+      "key": "ground",
+      "type": "flying"
+     }
+    ]
+   },
+   "mecha_recent": [],
+   "mecha_why": ""
+  },
+  "casual1": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual2": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual3": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual4": {
+   "scene": "On the open upper deck of a quiet daytime coastal ferry, she reclines sideways in a suspended woven lounge chair, watching a low cloud drift over the sea through half-lowered eyes. Her right arm runs from her right shoulder forward along the chair arm, with her right hand resting open on its rail; her left elbow rests visibly on the other armrest and her left hand loosely holds a small folded paper glider at chest height. Both arms remain in front of her body and clearly joined to their shoulders. Knees together with her lower legs extended toward the deck. Compose a knee-up vertical view from a slightly elevated angle, her torso and face turned gently toward the viewer, the horizon and empty ferry deck behind her. A small manta-shaped keyring hangs on the chair rail. She wears a terracotta sculpted asymmetric wrap bustier with a narrow single diagonal shoulder strap and curved open waist sections, paired with cream pleated culotte shorts and a slim woven belt; all fabric is opaque and her chest and pelvis remain securely covered. Warm midday sea light, no other person.",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "scene": "장면 자유 컷: 만타인의 활공에서 종이 글라이더와 바다를 보는 휴식을 연상. 다른 컷의 바·분장실·작업실 장면과 분리하고 카탈로그에 없는 비대칭 뷔스티에와 큐롯 조합 설계."
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual5": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual6": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual7": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual8": {
+   "scene": "",
+   "outfit": "a fitted ivory cross-front cropped capelet top with integrated opaque bandeau cups, a single bare shoulder and open waist, paired with coral balloon shorts shaped by asymmetric folded side panels and tan flat sandals",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "outfit": "옷 자유 지정 컷: 카탈로그에 없는 케이프렛 상의와 접힌 패널 벌룬 쇼츠 조합을 설계. 계획의 장소·동작·구도 유지."
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual9": {
+   "scene": "At a seaside kite festival before the crowds arrive, she sits sideways on a broad low wooden platform with her knees folded comfortably together to her right, carefully sending a small fabric kite upward for its first test. Her right arm extends forward from the shoulder, her right hand holding a single wooden kite handle; her left arm extends outward and slightly upward from the left shoulder, her left palm open after releasing the kite. Each hand has one job and both arms are fully readable in front of her torso. Compose a full-body vertical image from level with her seated face, with the empty beach and the kite diagonally above in the background. Category: an original adult event costume for a kite festival. Outfit: an opaque peach petal-cup bustier held by a narrow emerald halter collar, fitted emerald high-waisted shorts with broad sculpted ribbon-shaped side panels, a slim gold waist clasp and flat cream ankle-strap sandals; bare shoulders and midriff by design, chest and pelvis securely covered. Exposure situation: the deliberate upward reach of the kite release shows the designed open underarm and waist sections of the fitted festival costume, with the outfit staying securely fastened and opaque; no clothing accident, wind-lifted hem or transparent fabric. A manta-shaped kite fitting is the one small source motif. Bright gentle morning light, no other person.",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "scene": "갈래·상황 자유 컷: 연 축제 이벤트 의상과 연을 띄우는 뻗기 동작. 카탈로그의 의상 및 상황 목록에 없는 축제복 구조와 팔을 뻗어 설계된 옆구리 개방부가 보이는 상황을 사용."
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual10": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  }
+ }
+}

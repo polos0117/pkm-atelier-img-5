@@ -1,0 +1,12 @@
+{
+  "slot": "casual9",
+  "reason": "Actual image duplicates casual4: seaside reclining chair, cocktail, similarly seated pose and resort context. Replace the SCENE brief with the detailed original kite-festival design allowed for the GPT free-scene slot. Preserve all fixed lines. Not an exposure correction.",
+  "original_result": {
+    "slot": "casual9",
+    "path": "/workspace/scratch/9ddd40e58738/generated_images/exec-4738ed7e-5448-4bf1-a01a-a40d7e22ff66.png",
+    "hint": "Generated images are saved to /workspace/scratch/9ddd40e58738/generated_images as /workspace/scratch/9ddd40e58738/generated_images/exec-4738ed7e-5448-4bf1-a01a-a40d7e22ff66.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "status": "generated"
+  },
+  "correction_limit": 1,
+  "submitted_prompt": "/workspace/scratch/9ddd40e58738/mantine-pack/casual9-prompt.txt"
+}
