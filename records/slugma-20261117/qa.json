@@ -1,0 +1,241 @@
+{
+ "light": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Visible hands connect through wrists to the correct forearms; grips and crop obscure some fingers. No detached or extra hands observed."
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual1": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both hands grip the book; fingers partly occluded.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual2": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "One visible hand makes a V sign; the other arm continues outside the chest-up crop.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "Crop hides lower limbs"
+ },
+ "casual3": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both visible arms and hands connect correctly; full legs visible.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual4": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "One raised hand shows five separated fingers; other arm exits crop.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "Crop hides lower limbs"
+ },
+ "casual5": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "One hand grips towel, other palm on tile; kneeling leg anatomy visible.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual6": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "One hand holds folded cape, the other supports on bench; lower legs cropped.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual7": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Crossed arms; one hand visible, other partly obscured by forearm.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "Crop hides lower limbs"
+ },
+ "casual8": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both hands rest on lounger, one Vulpix separate from her body.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "Crop hides lower limbs"
+ },
+ "casual9": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both hands rest on stool and knee; two crossed seated legs.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual10": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both hands hold citrus pieces, two legs to footstool.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ },
+ "casual90": {
+  "style_25d": {
+   "verdict": "match",
+   "evidence": "Soft blended cheek, nose and lip shading, coloured fine contours and dimensional fabric/armor highlights visible."
+  },
+  "anatomy": {
+   "method": "visual",
+   "checker": "unavailable - model weights not installed",
+   "heads": 1,
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two gloved hands grip a single blowpipe; fingers partly occluded by grip.",
+   "overlay_checked": false
+  },
+  "exposure": {
+   "verdict": "retained",
+   "note": "Generated result preserved without censorship-based regeneration."
+  },
+  "note": "No extra limbs observed"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "light": {
+  "submitted_sha256": "7b7cdb0f9aeeb5dd670a30a3f711a948067c10e128f262b7e4f0c1b519f93ce3",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual2": {
+  "submitted_sha256": "c08e72760c57e47edbc0d14e615ca612c28eb3ceed75b5e7e8bb2bb071ad30ca",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual6": {
+  "submitted_sha256": "df4874c67922be3334c9556e6bd38941a891a819ac072e8e2ef1c3dd5cacc89f",
+  "same": false,
+  "authorized_free_design": true
+ },
+ "casual9": {
+  "submitted_sha256": "e347f00defd24ad2cd53349c9851fa96d56fdc0783e44405fecbf7260a11ad75",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual4": {
+  "submitted_sha256": "8127c389e557fdb118db57a6b1b9c00affdead5147037624c155036b05da91c3",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual90": {
+  "submitted_sha256": "789957ec0e6b0f9640e1a8d672c35c46fbc42f06fe6952ef370f87512e1f034c",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual1": {
+  "submitted_sha256": "ccbf3fa8549fca1adfc3f7dcc2e251da1a18e4643e176ed56f9f596bede03397",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual7": {
+  "submitted_sha256": "579e36fd7a1f1672fcefcbdd7fa42886d59c28b5faab9b1b6673ffc57870d465",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual10": {
+  "submitted_sha256": "eea8e6610153c78caae12f66ebfc07201fc4273c3396a9cc7727bd64808b88e0",
+  "same": false,
+  "authorized_free_design": true
+ },
+ "casual3": {
+  "submitted_sha256": "fbd9813d5f2b458a7e8f878f84a30fc8dfac68f8529c97104cab915b0fb16776",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual5": {
+  "submitted_sha256": "8b7393c05748b091658f3e2516bb858ad488a9b33c79d14313b8294efdc6dd1e",
+  "same": true,
+  "authorized_free_design": false
+ },
+ "casual8": {
+  "submitted_sha256": "4008eb1e1465d48def5d3b05bbf8a4829239405da9f375aaa2b119a844da11af",
+  "same": false,
+  "authorized_free_design": true
+ }
+}
