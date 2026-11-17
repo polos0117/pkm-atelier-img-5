@@ -1,0 +1,229 @@
+{
+  "light": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Open hand has five fingers; other hand is a relaxed gloved fist with curled fingers partly occluded. Arms and legs joined naturally.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Selected by user; full body."
+    }
+  },
+  "casual2": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms connect to shoulders; both hands visible resting on pavement/knee, fingers partly overlap in relaxed pose. Both bent legs and feet coherent.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Both arms connect to shoulders; both hands visible resting on pavement/knee, fingers partly overlap in relaxed pose. Both bent legs and feet coherent."
+    }
+  },
+  "casual3": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Chest-up portrait; one hand gathers hair, other arm continues naturally outside crop; legs outside crop. No detached hand.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Chest-up portrait; one hand gathers hair, other arm continues naturally outside crop; legs outside crop. No detached hand."
+    }
+  },
+  "casual4": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms extend from shoulders to hands braced on worktable; fingers overlap in perspective. Two connected legs and feet visible.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Both arms extend from shoulders to hands braced on worktable; fingers overlap in perspective. Two connected legs and feet visible."
+    }
+  },
+  "casual5": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Prone poolside pose with two connected forearms and clasped gloved hands; fingers partly occluded in clasp; two bent legs with boots.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Prone poolside pose with two connected forearms and clasped gloved hands; fingers partly occluded in clasp; two bent legs with boots."
+    }
+  },
+  "casual6": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand flat on seat, other palm raised to glass; five fingers in each visible hand; both legs connected and naturally foreshortened.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "One hand flat on seat, other palm raised to glass; five fingers in each visible hand; both legs connected and naturally foreshortened."
+    }
+  },
+  "casual7": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms and two relaxed hands, digits partly overlap by thighs; two connected legs.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Two connected arms and two relaxed hands, digits partly overlap by thighs; two connected legs."
+    }
+  },
+  "casual8": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand on bench and one pointing to leaf, fingers in pointing hand curled/occluded; lifted leg and other leg connect correctly, visible toes naturally grouped.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "One hand on bench and one pointing to leaf, fingers in pointing hand curled/occluded; lifted leg and other leg connect correctly, visible toes naturally grouped."
+    }
+  },
+  "casual9": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands rest on knees with five gloved fingers; kneeling legs connect coherently, footwear intact.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Both hands rest on knees with five gloved fingers; kneeling legs connect coherently, footwear intact."
+    }
+  },
+  "casual10": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both forearms reach tub rim, relaxed hands visible with fingertips at waterline; submerged legs not countable.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Both forearms reach tub rim, relaxed hands visible with fingertips at waterline; submerged legs not countable."
+    }
+  },
+  "casual90": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms reach forward to hold the shaved-ice bowl; one hand is partly hidden by bowl. Two seated legs are connected and visible.",
+      "overlay_checked": false,
+      "note": "Manual original and enlarged-crop review; occlusion/crop recorded rather than inferring hidden digits."
+    },
+    "composition": {
+      "size": [
+        1024,
+        1536
+      ],
+      "face_hair_skin": "matches selected candidate 3",
+      "note": "Both arms reach forward to hold the shaved-ice bowl; one hand is partly hidden by bowl. Two seated legs are connected and visible."
+    }
+  },
+  "casual1": {
+    "status": "blocked",
+    "attempts": 1,
+    "request_id": "64712e9e-63f3-4bf6-8b49-f0e33f6d1843",
+    "reason": "output moderation sexual",
+    "regenerated": false
+  }
+}

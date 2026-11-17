@@ -1,0 +1,40 @@
+{
+  "card": "메꾸리",
+  "style": "anime_25d_gloss",
+  "status": "selected",
+  "candidates": {
+    "1": {
+      "design": "generator",
+      "prompt": "selection/light-prompt.txt",
+      "submitted_sha256": "412274256a97a87465b8e0e22df1ffb73626955c77e65f6291348f0875918e6e",
+      "submitted_same": true,
+      "original": "/workspace/scratch/2373f4beba0b/generated_images/exec-a8cce2ab-ec56-404f-8b7d-18bad30c7597.png",
+      "sha256": "85272d7694b597c2a2c7046db38960b3279d7b7d55787b4229b71b1c6ae3c167"
+    },
+    "2": {
+      "design": "generator",
+      "prompt": "selection/light-prompt.txt",
+      "submitted_sha256": "412274256a97a87465b8e0e22df1ffb73626955c77e65f6291348f0875918e6e",
+      "submitted_same": true,
+      "original": "/workspace/scratch/2373f4beba0b/generated_images/exec-d2ded5bc-2990-4d91-b331-1c404b7951c4.png",
+      "sha256": "c87aa64b4afa6be370d366159026cb4ffe3e30a1a3a7f28a039b41e604d743c4"
+    },
+    "3": {
+      "design": "gpt_free",
+      "prompt": "selection/candidate3-prompt.txt",
+      "submitted_sha256": "84af156c36da89235416976431cc100b335b2a55898c9b60f7fa510a120e4ecc",
+      "submitted_same": true,
+      "original": "/workspace/scratch/2373f4beba0b/generated_images/exec-6aff9d13-22b0-4ddd-9463-528ca92592c5.png",
+      "sha256": "4654c99bca3f0c65ddc45ff8d8249b4b171dc5c844e7f7e0e6c2e6545717b715"
+    },
+    "4": {
+      "design": "gpt_free",
+      "prompt": "selection/candidate4-prompt.txt",
+      "submitted_sha256": "e4717e75e113ce489e24064c3caf37c2936ed58e1a8a3cf6559c6cd8df855f53",
+      "submitted_same": true,
+      "original": "/workspace/scratch/2373f4beba0b/generated_images/exec-b31910f5-e46c-4971-aba9-025245b65f92.png",
+      "sha256": "61835a664129d660309650f15cb94f68f20b7d6b9007d79dd8d118917bec6517"
+    }
+  },
+  "selected": 3
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "slot": "light",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "4654c99bca3f0c65ddc45ff8d8249b4b171dc5c844e7f7e0e6c2e6545717b715",
+    "sha256": "c3547c80e12e91b29a5173695218445f08faca9abbf2480f5bc1c0428076c404",
+    "prompt_sha256": "84af156c36da89235416976431cc100b335b2a55898c9b60f7fa510a120e4ecc"
+  },
+  {
+    "slot": "casual2",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "de9e8d6e297f2d5e62f0d9a0b8191780b0a8c08e656765f9be974341e5ad0b72",
+    "sha256": "62a6f29a58bc26152513124c22b0ed984071ebe004223f82085dc2762a189674",
+    "prompt_sha256": "b4bce91b4112bdeaaf62136d7a77225e1fa2305e1c0bc08688b51c554eec6ab1"
+  },
+  {
+    "slot": "casual3",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "5f4e8de0b5bf4d1196515d316e94434f50ccd704cb340d936ac2e0c7916111fb",
+    "sha256": "0c83014dd1c7fa1d4816c8726ef5b322dcb2cd236fc143881c6f407c22c7b399",
+    "prompt_sha256": "0fcd54734c1d83785b8cc93ba286115a2d4e6505c69dd656319d2b777b9f41c7"
+  },
+  {
+    "slot": "casual4",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "fd0897bfa92edb9ea0bd34e08ad9a14d0f61ae2bb28f22431cc7c8ce243736b8",
+    "sha256": "519898a0ec1a4a50b563296ff67aa548fa84a9508b0575a97cb4ff46500af323",
+    "prompt_sha256": "2292a69c18b2f5b2ff0f72a9c1cfba9de53d7933d159b214310c6735922e71eb"
+  },
+  {
+    "slot": "casual5",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "664578db32c5bcb5c5238b4ba3d3346e2f393d66e90ab54a46411915bd568b9c",
+    "sha256": "cee7bc973ca2c8e09db68ed5f57518977e1fd11e6dc636e104f8b3c3dd4192cc",
+    "prompt_sha256": "cbf60003b95ab939c7cf133c09ae6da5baab9a803d8d8ccef9114da3ab995eb9"
+  },
+  {
+    "slot": "casual6",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "751fda165075ed9f7a75d20ac36135c406e9996078219b06999a8d7b7f243704",
+    "sha256": "ff890edbd4afcdc8493eac83f3e486be9d66d3ec7dbe37c59fc3290d6f617c74",
+    "prompt_sha256": "13f92e908b55a2c1d71dbb4df2ea7acfc081ec4dbef247d7abd737ab5f167ec5"
+  },
+  {
+    "slot": "casual7",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "f87ce45f97627ad5be9379186963d6259e52c94514c486090f7d289b3658dc7b",
+    "sha256": "20b1cbd7ef814e0647240df9503d7197bcfa4dba638889ba2d68a116f62dbfc8",
+    "prompt_sha256": "ae2ce639210c73a0d04b2fbb36112f21be478a7e9efe2cc5e1986c328f162299"
+  },
+  {
+    "slot": "casual8",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "1e8a47f7b27f4bd6bafe3cc52bb55a56943f3d25fb949a588cdd51862eddb554",
+    "sha256": "5ee94d67ddaf6a1cc31cf65629a7ad882efd92fbc15851dcc321502f865a81ab",
+    "prompt_sha256": "2a2e271aa4e88e7d916ce1be7beb687f8c8030717ec35606a959e139a8c758dc"
+  },
+  {
+    "slot": "casual9",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "85799777c834df16d9bda1edbaf8237ba12ae96caf6d93b643aaab8bc103366c",
+    "sha256": "415ef788fc5510b01b30b6bbcf3323749538b512a0fdc420f801b3748c97b9bc",
+    "prompt_sha256": "472313b52f42fb74dca70a823d9e0c15e5c644a7d3cc021329fa133f84d4f27f"
+  },
+  {
+    "slot": "casual10",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "3a2324fb2c0851eab5ebd2c77373c39a8538c6d899443642d2a30fbba9aa4a7c",
+    "sha256": "9a6d996c77b7473aef48da40016e95c8902f400cf40e869b16e717c8e47afe8d",
+    "prompt_sha256": "b7fad134284c2fb2407505c23529a05816b94c65b6955c9bb80952d6d24b028f"
+  },
+  {
+    "slot": "casual90",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "35db9f514693b0d0e34e651e134a4f0f21cbf0d7ab2f0101b85bdbd6bd646801",
+    "sha256": "78f97aaf3abe5aff3b6586fbeb9064ca305d6dd5753e25514a151f5285fc6101",
+    "prompt_sha256": "18f5a8dc65319ab573d1e5e421cca142c324e3e2dbdfc54ab0e41063eb241ce5"
+  }
+]

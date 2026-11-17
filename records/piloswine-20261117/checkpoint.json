@@ -1,0 +1,28 @@
+{
+  "card": "메꾸리",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 3,
+  "status": "ready_to_publish_with_blocked_slot",
+  "generated_slots": [
+    "light",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "blocked_slots": [
+    "casual1"
+  ],
+  "request_count": 12,
+  "image_count": 11,
+  "existing_images_preserved": true,
+  "reference_sha256": "4654c99bca3f0c65ddc45ff8d8249b4b171dc5c844e7f7e0e6c2e6545717b715",
+  "note": "No regenerated outputs; one blocked call left empty per user. New style separate from existing glossy_promo.",
+  "qa": "qa.json"
+}
