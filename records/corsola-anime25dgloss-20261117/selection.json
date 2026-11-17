@@ -1,0 +1,51 @@
+{
+  "card": "코산호",
+  "style": "anime_25d_gloss",
+  "status": "awaiting_user_selection",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "atelier",
+      "original": "/workspace/scratch/7960c2653c16/generated_images/exec-2582c82d-2e3e-4b15-b6b4-7ac85ca33dd8.png",
+      "sha256": "9b167aceaab4cc6e97ba3ae7cb82ddd8fdd52fc55022664818c69333f68be315",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/7960c2653c16/corsola-pack/light-prompt.txt"
+    },
+    {
+      "number": 2,
+      "design": "atelier",
+      "original": "/workspace/scratch/7960c2653c16/generated_images/exec-49c55cd7-91b0-4bf4-abb2-072ea75a2335.png",
+      "sha256": "dd20f0104a93c34871daf53bc06b7598781ddec35c89ba1f03314b45ee158e35",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/7960c2653c16/corsola-pack/light-prompt.txt"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/7960c2653c16/generated_images/exec-f6bce0fe-a6ba-4fa6-99c6-7b9b90f131ac.png",
+      "sha256": "26b80493ce99690a4111c6718b592b0d572a6d9b32212a747c4d43cd89b8ac82",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/7960c2653c16/corsola-pack/candidate3-prompt.txt"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/7960c2653c16/generated_images/exec-338566c0-a17c-4f03-9331-fa237077083d.png",
+      "sha256": "e30c9b807cafaa02b5bcf41266141b9e471791b67391a4e3c5a5f868f8be1622",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/7960c2653c16/corsola-pack/candidate4-prompt.txt"
+    }
+  ]
+}

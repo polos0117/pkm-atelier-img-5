@@ -1,0 +1,115 @@
+{
+ "storage": {
+  "last": "코산호",
+  "cards": {
+   "코산호": {
+    "style": "anime_25d_gloss",
+    "identityMode": "create",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {
+     "body type": "slender-limbed yet full-busted with rounded hips and a narrow waist"
+    },
+    "locks": {},
+    "mode": "action",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "street_cafe",
+      "act": "coffee_takeout",
+      "ofam": "everyday",
+      "item": ""
+     }
+    },
+    "mecha": {
+     "set": {
+      "silhouette": "full_armor"
+     },
+     "fx": [
+      {
+       "key": "hand",
+       "type": "rock"
+      },
+      {
+       "key": "seams",
+       "type": "water"
+      },
+      {
+       "key": "orbit",
+       "type": "rock"
+      }
+     ]
+    }
+   }
+  }
+ },
+ "prompt": "Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\nSource: Corsola (코산호), water / rock type.\nSubject: A female mecha personification character with Corsola as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\nOutput: one dynamic action image that is also this form's card art.\n\n1. STYLE\nHigh-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\n2. CHARACTER\nFace — her own structure, not the style's default face: angular face, balanced length, medium width; narrow tapered chin; open rounded eyes, medium size, downturned outer corners, wide-set; long arched brows; small delicate nose; bow-shaped upper lip.\nHair: medium blocky layers (thick, blocky layered hair with heavy squared-off ends), no bangs.\nHair color: her main hair color is the creature's own main color; khaki brown for her rock type runs through it as the accent, in streaks and at the tips.\nImpression (reads even at card size): a stoic, steadfast woman in her early twenties with very fair skin; a firm, unwavering gaze; rose pink eyes; no eyeliner, natural strong brows.\nIdentity (chosen details override the automatic look)\nbody type: slender-limbed yet full-busted with rounded hips and a narrow waist\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nProportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.\nBody: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\nHands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.\nAnatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.\n\n3. ARMOR — LIGHT\nCostume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.\nArmor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\nSilhouette: complete armor with plates joined from neck to feet except where her shoulders and upper thighs show, dense visible seams and joints. Solid hard-surface plates that read as armor, not cloth.\nColours: light blue, pink.\nWear: the smaller, blunt horn becomes a horned circlet or hair ornament.\nExposure: armor and undersuit open by design only at bare shoulders and upper arms, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\n4. SCENE\nComposition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\nPose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\nType effects: One open hand conjuring a sandy-gold glow amid orbiting rock fragments. A cyan-blue water glow pulses along her armor seams and joints. Orbiting rock fragments circle slowly around her.\n\n5. CONSTRAINTS\nOne figure only.\nAvoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.",
+ "generation": {
+  "tool": "image_gen",
+  "submitted_sha256": "dc85efdd3a697a59e40f22d642b37f6132be4baf021d5335eb44353f2f24c8c4",
+  "reference_original_sha256": null,
+  "design": "gpt_free",
+  "free_prompt": "Design brief — your own take on this character. A full-body vertical 2:3 (1024×1536) card image of a female mecha personification of Corsola (코산호), water / rock type — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit.\n\nYou design her yourself: invent her face, hairstyle, makeup, expression, setting and type effects as a fresh, original take — do not follow any earlier design of this character. Her style, colours, hair colour, body type, armor form, creature features, exposure, pose and framing are NOT free: take them from our design below.\n\nStyle (fixed — ours): High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nCreature features (fixed — ours, worn as costume, nothing carried or mounted): the smaller, blunt horn becomes a horned circlet or hair ornament.\n\nColours (fixed — ours): light blue, pink.\n\nHair colour (fixed — ours): her main hair color is the creature's own main color; khaki brown for her rock type runs through it as the accent, in streaks and at the tips. Only the hairstyle is yours.\n\nBody type (fixed — ours): slender-limbed yet full-busted with rounded hips and a narrow waist.\n\nArmor (fixed — ours): one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor. Rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.\n\nSilhouette (choose one of ours, then add your own idea): pick ONE of these mecha silhouettes and keep its overall shape — 1) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 2) one long segmented mechanical tail reaching from the back of her waist, tipped with an ornament; 3) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape; 4) complete armor with plates joined from neck to feet except where her shoulders and upper thighs show, dense visible seams and joints; 5) mecha armor shaped like a medieval knight's plate — big rounded pauldrons, a breastplate, layered plates below the waist, a head ornament instead of a helmet so her face shows; 6) heavy assault bulk — big, thick shoulder and leg armor, a broad upper silhouette and large thrusters on the back and legs, while the torso stays fitted and the waist narrow. Then add one signature idea of your own drawn from the creature, built into the construction of the armor itself rather than as a print or a loose accessory — e.g. plates layered like its shell, petals, feathers or scales, an edge or fin cut into the shape of its ears, tail or flame.\n\nType effects (yours): one or two water and rock effects of your own design around her hands, armor seams or surroundings; effects stay off her fingers.\n\nFace (yours, within this): a refined adult woman's face with a short midface and a soft, gently rounded jaw with a small soft chin — never a long face or a heavy jaw.\n\nExposure (fixed — ours): armor and undersuit open by design only at bare shoulders and upper arms, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.\n\nComposition (fixed): Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.\n\nPose (fixed — ours): Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nEye colour (your choice): ours is rose pink eyes — keep it or choose your own.\n\nChoose silhouette 3, floating ring bands around the waist and ankles with light body armor. Signature construction: porous coral-like ceramic chambers built as rounded scalloped armor rims, with small branching mechanical struts inside the hovering rings. Face: soft oval adult face with a short midface and small rounded chin, narrow violet eyes, softly straight brows, understated rosy makeup and a poised confident expression. Hair: rose-pink chin-length softly waved bob tucked behind one ear, khaki-brown underlayers and tips. Setting: a sunlit white-stone marine observatory terrace above a deep blue ocean. Thin water ribbons thread the hovering mineral rings, creating small sparkling droplets outside her fingers. Both hands clearly visible, five fingers each.\nOne figure only. Natural adult proportions about 7.5 heads tall; one head, two arms, two legs and natural hands with five fingers. No text, lettering, logo or watermark.\n"
+ }
+}

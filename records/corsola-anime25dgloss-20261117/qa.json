@@ -1,0 +1,153 @@
+{
+ "card": "코산호",
+ "selected_candidate": 4,
+ "style": "anime_25d_gloss",
+ "total": 12,
+ "no_exposure_based_regeneration": true,
+ "images": [
+  {
+   "slot": "light",
+   "file": "코산호_light_anime_25d_gloss_f.webp",
+   "original_sha256": "e30c9b807cafaa02b5bcf41266141b9e471791b67391a4e3c5a5f868f8be1622",
+   "webp_sha256": "531d864175fe4275d94974d76fa7203521aca669332d947f3cd872b44e13a926",
+   "prompt_sha256": "dc85efdd3a697a59e40f22d642b37f6132be4baf021d5335eb44353f2f24c8c4",
+   "qa": "User chose candidate 4; pink bob and violet eyes, floating coral rings, standing full-body. Two hands and feet read coherently.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual1",
+   "file": "코산호_anime_25d_gloss_f_casual1.webp",
+   "original_sha256": "7c549445b4799c4ee1c6461e90284a885368f0618131a3e0fa1a66e174c8b39c",
+   "webp_sha256": "6e372c0fe3634dcbf4c7a5623277d8c31e49f18745dcedd0fed53505defa6942",
+   "prompt_sha256": "8bd615f957f26e07786203b0260bef408a0077901948258d92e9e153ee338cb6",
+   "qa": "Clasped hands; camel silk and bathroom. Fingers overlap naturally; face and material gradients visible.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual2",
+   "file": "코산호_anime_25d_gloss_f_casual2.webp",
+   "original_sha256": "aee8657b90b1867ad9987833699ecf3e87804035fb924c131dd91b65f749f3c2",
+   "webp_sha256": "e81d1b7f3df7c8fb7377103ffb4dfd496b3d4e60fdf8c91b0f21ef8eb23b9b85",
+   "prompt_sha256": "c114ab1d859c85938097e4fa1d3b780cb75f5c71eb48fcba7e6cf57860376d05",
+   "qa": "Seated park scene with companion Corsola; both hands connected, petal culottes and copper top. One leg folded.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual3",
+   "file": "코산호_anime_25d_gloss_f_casual3.webp",
+   "original_sha256": "d551d9041d05465c5c2d73a4e2a4189f022279c98d95ebcd05df5fea5dc49380",
+   "webp_sha256": "a55d0916e715d21ba84a001ee0816bd7f06f6889d48f121a8748e79a71752189",
+   "prompt_sha256": "eec9f5efcea92d3c267329c84aff19e5b35ddfc21a91c0aed835edf098874848",
+   "qa": "Camera held in both hands; Soldier 76 palette. Background includes recognizable Overwatch logo despite no-logo prompt; warning retained, no exposure-based regeneration.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual4",
+   "file": "코산호_anime_25d_gloss_f_casual4.webp",
+   "original_sha256": "067798b1b93e10ee3ae31ac65dd6020c4c90710c492090e1aa12fe7a772df4b9",
+   "webp_sha256": "dc1f0c574ba17edf5804b72a4610a0aa56368efd8e6f6627157f69adcbc35c4f",
+   "prompt_sha256": "aeb13298725d2e82e6324eb365c6ab06eba973d5eb2f67560bc6517fd4fa172b",
+   "qa": "Profile face, fingers touching hair, opera lobby. Close crop hides lower body and other hand as planned.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual5",
+   "file": "코산호_anime_25d_gloss_f_casual5.webp",
+   "original_sha256": "43089a4222560684de43abc151acf550309df6fcbc5b24f2e55fde3ec043f7d3",
+   "webp_sha256": "58caf5e07ae598f440adc002d53b275d20a0c4e774e63e40fed09f94b0c13532",
+   "prompt_sha256": "83fd0e6b4ba7be7bdcde92198537f2ebe4844bac0731f1d09bff1a8314a4cb0a",
+   "qa": "Pastry at mouth and paper bag in left hand; short hairstyle retained. Harbor bakery, own pistachio/charcoal outfit.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual6",
+   "file": "코산호_anime_25d_gloss_f_casual6.webp",
+   "original_sha256": "b4bc81774b800ac70203a0c85b40c4b88f4defad2998f109ae7d6aeaf394eaf2",
+   "webp_sha256": "7d9f16d215fa40edc9ae4fb4776cc2c778566e0b11bfefdc528634029691ce24",
+   "prompt_sha256": "f10c26aad46b181368503da9f283f484278e6c197b221352b47907080efda594",
+   "qa": "Rainy riverside, translucent outer chiffon with opaque inner slip. Profile face visible. Arms connect to relaxed hands.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual7",
+   "file": "코산호_anime_25d_gloss_f_casual7.webp",
+   "original_sha256": "abf54e59d288d4db84233795181585ae5904204fe014226624a0f44a28785a7c",
+   "webp_sha256": "a2be7cf6e6f0b480fd045b70809f42fa26c43a7365f7211e8084816eddc28b01",
+   "prompt_sha256": "5812e0074f1ad26d77c120ae1fbbeacdec8291c4a5d859e1f851c346e1e29db6",
+   "qa": "Corsola costume and chapel; tight chest crop, hands outside frame. Face and skin retain gradient rendering.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual8",
+   "file": "코산호_anime_25d_gloss_f_casual8.webp",
+   "original_sha256": "b41b600af78e4435d703e848aeb81b46149690167c3e2a0b4dc7c773d0e0f756",
+   "webp_sha256": "d0dd06f298bf34415e092d9cf9cd093ef5ce0b470eb586b6d34aa6dc1096dc1b",
+   "prompt_sha256": "02d2d55f6182a6433d127a5ef6bc9e3f191aace650fb416d26f263a7536ffaed",
+   "qa": "Pool balance step, both hands visible, one on railing. Two feet connected naturally, dark blue swimwear.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual9",
+   "file": "코산호_anime_25d_gloss_f_casual9.webp",
+   "original_sha256": "fce4b9d280c5053aac83e505e7ad0fc33352c9776a0210c737b2e0d6e2a78485",
+   "webp_sha256": "7426fa9dca90e103daf7831583e27cebdfbd291c311b3cb57c5dd4304ba10935",
+   "prompt_sha256": "e82bffff97db1986d2c502c913db1a5c0f3e0fbe34e35a10f6ceabae3a568260",
+   "qa": "Lavender bikini and karaoke room, leaned-back standing. Both hands on rail; actual front orientation differs from planned rear 3/4; logged.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual10",
+   "file": "코산호_anime_25d_gloss_f_casual10.webp",
+   "original_sha256": "da4195404086e2c9fa0bdf3202c771b816bb526a829dff8de5d8a0008dca1d07",
+   "webp_sha256": "10dafc7455d992d9f14d21338492d96aef40ec1be0ba0b4aba6372011ea70d2d",
+   "prompt_sha256": "279e8df4ee39e694f1555e7bd124f14eb757dde5f46e318ada04555cac74934f",
+   "qa": "Space-age ivory sleeveless outfit on stair landing. Chest crop, arms leave frame naturally; no extra limbs.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  },
+  {
+   "slot": "casual90",
+   "file": "코산호_anime_25d_gloss_f_casual90.webp",
+   "original_sha256": "3681ce44fb7e894641a9325746708c3969ce9d76f7753461a052dfc35fc6d3b0",
+   "webp_sha256": "fcc1a8b0b2099341d23d26bd5078f85acaf9153bd5f9eb1815d39583bfdd24d6",
+   "prompt_sha256": "a7259d5cefeef506a5827bf441d3acc5e2f14ccf08559afbb8aec1ef09d7043d",
+   "qa": "Squatting aquarium apprentice; coral held in left hand, right hand rests on knee; sandals and toes coherent.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Soft face gradients around nose, cheeks and lips, glossy skin highlights and material-specific dimensional rendering."
+   }
+  }
+ ]
+}
