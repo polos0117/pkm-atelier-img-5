@@ -1,0 +1,13 @@
+{
+  "card": "델빌",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "status": "generated_and_visually_reviewed",
+  "total": 12,
+  "original_pngs": "session only; hashes in generation-calls.json and qa.json",
+  "manifest": "manifest.json",
+  "destination_repository": "polos0117/pkm-atelier-img-5",
+  "branch": "main",
+  "reservation_commit": "daf517f872c02adaec1399b761ab724262442720",
+  "regenerations": 0
+}
