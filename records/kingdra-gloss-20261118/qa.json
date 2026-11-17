@@ -1,0 +1,190 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Open palm five fingers; lowered flexed hand partly occluded; both legs connected.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Glass grip and knee hand are attached; folded fingers partly occluded.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One fan hand visible with five fingers; other arm continues beyond crop.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers on each hand, two arms and legs connected; crouch readable.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Right index at lips; other fingers bent; left arm continues below crop.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Thumbs-up fingers folded; hip hand visible and connected.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Token grip partly occludes fingertips; lid hand has five fingers.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false,
+    "generation": {
+      "design": "gpt_free",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Kingdra (킹드라) personified, water / dragon type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: the open passenger deck of a small harbor ferry in clear morning light, a picnic table beside the rail and distant white harbor buildings.\nActivity: she has just discovered that the lid of her takeaway breakfast basket doubles as a little game board, and pauses with amused surprise before her first move.\nOutfit: her own fitted apricot linen mini dress built from overlapping, curved origami pleats at the neckline and a single diagonal waist bridge joining a fitted bodice to a rounded tulip skirt; an open upper back, bare shoulders and a side waist opening, opaque and securely covering chest and pelvis. This is a fashion dress, not her species costume.\nPOSTURE: seated sideways at the picnic bench, torso gently turned toward the camera.\nCOMPOSITION: knees-up portrait, both arms clearly visible, eye-level three-quarter view; bright ferry wake behind her.\nRIGHT HAND: her right forearm comes forward from the right shoulder, right hand holding one wooden game token over the basket lid.\nLEFT HAND: her left forearm rests on the table from the left shoulder, left hand holding the edge of the basket lid.\nA small spiral-shaped key ring hangs from the basket handle, the only source motif.\nEXPRESSION: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Camera grip occludes fingers, free hand has five; legs below crop.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Rook hand and lowered hand each five fingers; kneeling feet attached.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false,
+    "generation": {
+      "design": "gpt_free",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Kingdra (킹드라) personified, water / dragon type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a seaside public garden with an oversized outdoor chessboard, low dunes and a white pavilion in bright midday sun.\nActivity: during a swimwear-themed summer event she kneels beside a giant chess rook, suddenly realizing her playful move has left her queen unprotected.\nOutfit: an original adult swimwear design in saturated raspberry — a sculptural opaque one-piece made from two broad curved panels joined by a secure central twist, with a smooth continuous waistband, asymmetrical bare shoulder and rounded side-waist openings; secure chest and pelvic coverage throughout.\nMomentary situation: her raised knee rests beside the chessboard and her torso turns toward the distant queen piece, bringing the side waist opening and high-cut leg into view naturally; the suit stays fully fastened and opaque.\nPOSTURE: kneeling upright on her left knee, right foot planted forward, torso turned gently toward the camera.\nCOMPOSITION: full-body vertical portrait from a slightly elevated three-quarter front view, both hands and both shoulders unobstructed.\nRIGHT HAND: her right arm reaches forward from the right shoulder, right palm resting on top of the giant rook.\nLEFT HAND: her left arm descends from the left shoulder, left hand open beside her raised right knee.\nA spiral-shell-shaped path marker beside the board provides a subtle source motif; no other person appears.\nEXPRESSION: raised inner brows, wide unsettled eyes, mouth slightly open, faint blush across the cheeks and nose. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n"
+    }
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Chin hand partly occluded; planted hand attached with bent fingers.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Hip hand and rim hand connected, five fingers each.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Knee hand and chair hand connected; five fingers with partial overlaps.",
+      "overlay_checked": false,
+      "issue": "ok"
+    },
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Soft nose, cheek and lip gradients, shaded hair strands and glossy skin highlights; matches the selected face."
+    },
+    "regenerated": false
+  }
+}

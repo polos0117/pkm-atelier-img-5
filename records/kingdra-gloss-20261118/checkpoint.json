@@ -1,0 +1,206 @@
+{
+  "card": "킹드라",
+  "style": "anime_25d_gloss",
+  "stage": "generated_ready_to_publish",
+  "candidates": [
+    {
+      "number": 1,
+      "path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-e68d2974-03a2-4485-94a2-83d5003ba021.png",
+      "sha256": "929a53e5cd854dd497096178b160e52ca33afa73fdff11734c540999762be694",
+      "design": "atelier",
+      "prompt": "/workspace/scratch/8d4fd36fce3e/kingdra-pack/candidate1/light-prompt.txt"
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-8723dabe-bc62-41ff-b067-37b3c91a73b9.png",
+      "sha256": "840bb9aa9f5bab8d21f28a48740a1b184ef3c0726a5715c8e1dd17a8481da847",
+      "design": "atelier",
+      "prompt": "/workspace/scratch/8d4fd36fce3e/kingdra-pack/candidate2/light-prompt.txt"
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-a23d2610-5493-42dc-8993-a03a9ff4a358.png",
+      "sha256": "5fcdd7bbe250d49b45f6e1d63e013aec805c0a31f510b096427256546c33ecce",
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/8d4fd36fce3e/kingdra-pack/candidate3/light-prompt.txt"
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-cd9675a9-8222-44ea-a0a1-0bc50690a9e4.png",
+      "sha256": "e470a51e76125c64a0116a7cf2544e6e12e461500c4a4f95e9ed8e0902cdce79",
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/8d4fd36fce3e/kingdra-pack/candidate4/light-prompt.txt"
+    }
+  ],
+  "selected": 1,
+  "manifest": [
+    {
+      "slot": "light",
+      "file": "킹드라_light_anime_25d_gloss_f.webp",
+      "source_sha256": "929a53e5cd854dd497096178b160e52ca33afa73fdff11734c540999762be694",
+      "sha256": "ae1045c9bb6d6460959ef6199aca01ef39cce900d8dee4bc3ea2536da54610de",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "text only",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-e68d2974-03a2-4485-94a2-83d5003ba021.png"
+    },
+    {
+      "slot": "casual1",
+      "file": "킹드라_anime_25d_gloss_f_casual1.webp",
+      "source_sha256": "8e679b4ec7b26c4b66ad2bf0e7719e4e950a2a82cd9135d7dfef11f2da023564",
+      "sha256": "67d290f61a98827b94f850bf46681d2082eb890eaa96ba2a47cd79ea7aa5613c",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-92df73ba-bb6b-4506-8d9a-94a82191cdbb.png"
+    },
+    {
+      "slot": "casual2",
+      "file": "킹드라_anime_25d_gloss_f_casual2.webp",
+      "source_sha256": "e78e8ae9994d11dc84810862a9993add031296e5428dd9298a50da724b954ec7",
+      "sha256": "a8e999334e167477d9c8d39c5fa3ba2d11edb737b7ec6538f2cf840d18db4c07",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-ee6c8a70-47b1-4f3a-b2d3-e0b77c9d3eaa.png"
+    },
+    {
+      "slot": "casual3",
+      "file": "킹드라_anime_25d_gloss_f_casual3.webp",
+      "source_sha256": "628687faba562117612246b19123dc1b88a24bb2e9b39405221385386a932004",
+      "sha256": "7c782a4b02f52fbbb43cdd5d4ec56e9a530e6a658a08450f3dbb09b22fd23c16",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-f5aa4390-a89f-4e85-af15-a9bbc36b435d.png"
+    },
+    {
+      "slot": "casual4",
+      "file": "킹드라_anime_25d_gloss_f_casual4.webp",
+      "source_sha256": "6b27ca1ac2677fa47d119ba1b578da88db1e4547657ff24fd2e0ac8de9a3eee7",
+      "sha256": "f002fc1785525fa47e477797a42353b0d41c2e91f31e2590d7b6e9721b4a73a7",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-5f4722b6-9595-4c0f-8d76-ee7875b33ef2.png"
+    },
+    {
+      "slot": "casual5",
+      "file": "킹드라_anime_25d_gloss_f_casual5.webp",
+      "source_sha256": "eb951a4074e0692c4694eec723c996bbfd6751ded1be3d988affda4b2d222d64",
+      "sha256": "acfc56ecab434a2985ed9cadefb12fb1b896bcea4f9e1b838821b4c4613d9d86",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-22206c92-6cdf-46b3-a83a-d96adaa582c9.png"
+    },
+    {
+      "slot": "casual6",
+      "file": "킹드라_anime_25d_gloss_f_casual6.webp",
+      "source_sha256": "9068bd0996292aa30d2493176a0103255c7c850b1daf04196a1d1fd9a70473c3",
+      "sha256": "72c8248bd3fd60dd9b5051703a9f379acded8ea0f0088d3cb39be6c23e4af3ac",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-fc371564-8036-423c-8241-3d743ad68ea0.png"
+    },
+    {
+      "slot": "casual7",
+      "file": "킹드라_anime_25d_gloss_f_casual7.webp",
+      "source_sha256": "6c765c9fedf5d45b17fb4f738dad11433835577283e25a3f5cf3a90200e6c3d3",
+      "sha256": "0612082d0d5a6b86bf26c70a333eeb1f222103022a0f4a09996865ee64b14f0b",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-c965a87f-5579-4f08-90ba-24db56a9699b.png"
+    },
+    {
+      "slot": "casual8",
+      "file": "킹드라_anime_25d_gloss_f_casual8.webp",
+      "source_sha256": "4804fd434c76006364ffa426716dbb8c8c5f2b54e17e9a42e0dacb64214ee100",
+      "sha256": "9208a8dd7223ecf9b615abd854b5a78a33a94ef4e5c5f53f6575ad87e5adf238",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-a768a8fa-5451-410a-9f2e-692af3b93b31.png"
+    },
+    {
+      "slot": "casual9",
+      "file": "킹드라_anime_25d_gloss_f_casual9.webp",
+      "source_sha256": "4ad11d214afa3e36aa5d863c9971455da8b76c5d1e186257a2872f21614bdad4",
+      "sha256": "64619965e0d8a88001da6e897acbeb6cfe6e82c86425e2503a716d82aa6f300a",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-769f3261-57f8-4459-9e34-1d18082a1864.png"
+    },
+    {
+      "slot": "casual10",
+      "file": "킹드라_anime_25d_gloss_f_casual10.webp",
+      "source_sha256": "bac39b01910e0e527dac725a2d99d9c15bf35481c052e6f81477b2f346b76fd2",
+      "sha256": "9d40b7becbbc26c239aa93902eb0ad93ec75d5261052a04a7927b130e5818374",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-92114937-8e79-42ac-a585-15b9b7a42e8e.png"
+    },
+    {
+      "slot": "casual90",
+      "file": "킹드라_anime_25d_gloss_f_casual90.webp",
+      "source_sha256": "dc2e211793caace8094f6bf9d21e0c0cf59b5c749ede6c3764417c7849b6b281",
+      "sha256": "a523fbc155d2a83cfbfa87d6c36ef25ed5b53eed1d6577669bf3654b2bf3483a",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "base": "selected candidate 1",
+      "source_path": "/workspace/scratch/8d4fd36fce3e/generated_images/exec-82cd618e-dc12-4aa1-99fe-3ce74c9f50f9.png"
+    }
+  ],
+  "face_basis": {
+    "design": "atelier",
+    "reason": "User selected candidate 1",
+    "evidence": "data/face-design.json faces 230; species seahorse silhouette, calm narrow eyes and long wavy hair",
+    "selected_sha256": "929a53e5cd854dd497096178b160e52ca33afa73fdff11734c540999762be694",
+    "compared_candidates": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}
