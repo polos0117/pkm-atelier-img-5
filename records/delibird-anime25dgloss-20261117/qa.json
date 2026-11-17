@@ -2,20 +2,9 @@
  "card": "딜리버드",
  "selected_candidate": 3,
  "style": "anime_25d_gloss",
- "generated": 11,
+ "generated": 12,
  "requested": 12,
- "missing": [
-  "casual6"
- ],
- "blocked": [
-  {
-   "slot": "casual6",
-   "reason": "Output moderation_blocked sexual",
-   "request_id": "bdb97efc-eef7-4b10-8169-1adc67fa924d",
-   "output_returned": false,
-   "tries": 1
-  }
- ],
+ "missing": [],
  "no_exposure_based_regeneration": true,
  "images": [
   {
@@ -199,6 +188,42 @@
    }
   },
   {
+   "slot": "casual6",
+   "file": "딜리버드_anime_25d_gloss_f_casual6.webp",
+   "original_sha256": "372bb41ee5ac3b4864296cf5bee82b4ec6c8ef8ecb2d8f6c1228e0739914a459",
+   "webp_sha256": "ef53d9eea1bf67f22a55ee14874447e2aba6c8ac7328e818ddb11c43b2533b54",
+   "submitted_sha256": "55e2b35b88e2d4241e8157dc3f3ccd1e380539a114f9bcf8f0d1f1d6745a1d18",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "anatomy": {
+    "issue": "ok",
+    "tool": "unavailable: No module named 'mediapipe'",
+    "arms": 2,
+    "legs": "below waist-up crop",
+    "hands": "Both hands visible and connected through their wrists to forearms and elbows. Each has five fingers, thumbs partly hidden by brochure; four long fingers read separately on each side. No extra or detached limbs.",
+    "overlay_checked": false,
+    "note": "Manual full-resolution review: brochure held below waist, arms trace back to matching shoulders."
+   },
+   "qa": "Ivory opaque lace dress with bateau neckline and short sleeves. Museum brochure held in both hands, level camera and waist-up crop; red-white bob, teal eyes and softly rounded face retained.",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "Blended nose, cheek, lip and jaw shading, colored fine facial outlines and dimensional lace fabric."
+   },
+   "redesign": {
+    "user_requested": true,
+    "changes": [
+     "waist-up rather than face close-up",
+     "camera at eye level",
+     "both hands holding brochure",
+     "formal lined lace dress",
+     "calm attentive smile"
+    ]
+   }
+  },
+  {
    "slot": "casual7",
    "file": "딜리버드_anime_25d_gloss_f_casual7.webp",
    "original_sha256": "c4e7c738ed9dc3eae41a780e64bceb9f84739fa0cb08aa87b91ba24fb7f05650",
@@ -348,5 +373,16 @@
     "evidence": "Generated output preserved; no exposure-based regeneration."
    }
   }
- ]
+ ],
+ "blocked_history": [
+  {
+   "slot": "casual6",
+   "reason": "Output moderation_blocked sexual",
+   "request_id": "bdb97efc-eef7-4b10-8169-1adc67fa924d",
+   "output_returned": false,
+   "tries": 1
+  }
+ ],
+ "blocked": [],
+ "status": "complete"
 }

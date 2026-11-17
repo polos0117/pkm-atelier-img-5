@@ -10,7 +10,7 @@ OUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her 
 
 FRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.
 
-CROP: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image. Both shoulders and upper arms show and run on past the edge — never an armless torso.
+CROP: a waist-up portrait including her head, shoulders, elbows and both hands; leave clear margins above her head and below her hands. The scene composition determines the framing.
 
 ERA: set this scene in the real world around 1999, when her Pokémon first appeared. Clothing, hair, devices and interiors of that time, keeping two or three recognisable parts of the chosen outfit; no smartphones or modern devices that did not exist then. Period everyday fashion only, not her armor.
 
@@ -18,18 +18,18 @@ SCENE (chosen):
 Place: a grand museum hall with marble statues at night
 Time of day: warm lamplight or candlelight indoors, the rest in shadow.
 Light direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.
-Outfit: a white lace bridal lingerie set with a short veil
+Outfit: a fully lined ivory lace formal bridal dress with a fitted bodice, a soft bateau neckline, short lace sleeves and a flowing skirt, with a short veil. The dress is opaque, elegant and securely fitted.
 Outfit colours: ivory and warm cream — her own colour choice for this outfit, not her species' colours.
-Cut: plunging neckline and cutout waist built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.
+Cut: a gently fitted waist and a bateau neckline; the opaque dress covers the torso, chest and hips.
 POSTURE: standing.
-COMPOSITION: a close-up of her face and hair; body facing the camera; camera slightly below, looking up at her; a wall or backdrop of the place close behind her.
+COMPOSITION: a waist-up portrait with her face, both shoulders, both elbows and both hands fully inside the frame. Her body is turned gently three-quarters toward the camera, her face almost frontal, chin level. Camera at her eye level, with a marble statue and museum arch softly visible behind her. No low angle or extreme close-up.
 Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
-RIGHT HAND: her own right index finger rests against her lips in a hush.
-LEFT HAND: her own left hand rests low, below the frame edge — that arm runs down from her shoulder out of frame.
+RIGHT HAND: her right arm descends naturally from her shoulder, elbow bent gently at waist height; her right hand holds one unmarked museum brochure low in front of her waist.
+LEFT HAND: her left arm descends naturally from her shoulder, elbow gently bent; her left hand rests lightly over the lower edge of the brochure, with both wrists and forearms visible.
 GAZE: she looks into the camera.
-EXPRESSION: heavy drooping eyelids, soft unfocused eyes, softened slack mouth, brow low and relaxed. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.
+EXPRESSION: a calm, attentive gaze and a small closed-lip smile as she pauses in front of an exhibition. Show it only with her brows, eyelids and mouth corners; keep her face shape and features exactly as in the attached image.
 overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
-skin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest
+skin_exposure: moderate — a naturally dressed formal portrait, with hands and face visible; the opaque dress covers her torso, chest and hips.
 action_level: mostly posed — a paused or held moment of the selected activity
 source_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy
 separates_preference: balanced — choose either a one-piece outfit or separates to suit the scene

@@ -2,12 +2,10 @@
   "card": "딜리버드",
   "style": "anime_25d_gloss",
   "selected_candidate": 3,
-  "status": "registered_with_one_blocked_slot",
-  "generated": 11,
+  "status": "complete",
+  "generated": 12,
   "requested": 12,
-  "missing": [
-    "casual6"
-  ],
+  "missing": [],
   "image_commit": "180797d7954bd96ad7b7afab61ef69ef220ef9f0",
   "thumbnail_commit": "67ffc5428470dc931e5ac7684bfc9cbbab3bda5a",
   "thumbnail_workflow": {
@@ -28,5 +26,11 @@
     "original_sha256": "see qa.json images[slot=light]",
     "selected_design": "gpt_free"
   },
-  "recovery": "casual6 has no returned image and is intentionally unregistered. Existing successful images must not be regenerated for exposure. qa.json contains original/WebP/submitted hashes and anatomy review for every published slot."
+  "recovery": "All twelve slots now have returned images. qa.json includes preserved first blocked attempt and successful user-requested redesign of casual6.",
+  "refill6": {
+    "source_original_sha256": "372bb41ee5ac3b4864296cf5bee82b4ec6c8ef8ecb2d8f6c1228e0739914a459",
+    "webp_sha256": "ef53d9eea1bf67f22a55ee14874447e2aba6c8ac7328e818ddb11c43b2533b54",
+    "submitted_sha256": "55e2b35b88e2d4241e8157dc3f3ccd1e380539a114f9bcf8f0d1f1d6745a1d18",
+    "design": "user_requested_redesign"
+  }
 }
