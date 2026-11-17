@@ -1,0 +1,25 @@
+{
+  "slot": "casual8",
+  "status": "completed",
+  "original_sha256": "3603ef77ae0beb2bacaf496108e1cc7a135b09b59654f8ec83af67dfc92f1db4",
+  "file": "무장조_anime_25d_gloss_f_casual8.webp",
+  "webp_sha256": "86068954918e51a08bd3046f54d34e4eeb8bf7048d4e808334f8069a3ac2cc16",
+  "size": [
+    1024,
+    1536
+  ],
+  "submitted_sha256": "880cd482bcaa07ccf808033c1329e21689d78b00d02b00c6a0448a376c23bcc5",
+  "reason": "Explicit user composition revision and redesign authorization; previous slot had no returned image.",
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "hands": "Two hands joined through wrists and elbows to matching shoulders. Rope grip partly hides fingers; rail hand has five digits. No extra or detached hands observed.",
+    "legs": "two; lower portions outside crop",
+    "overlay_checked": false
+  },
+  "style_25d": {
+    "status": "match",
+    "note": "Soft blended facial gradients, delicate colored contours, cloth weave and dimensional material highlights; reference face and silver feathered hair preserved."
+  }
+}
