@@ -2,7 +2,7 @@
   "card": "대포무노",
   "style": "anime_25d_gloss",
   "selected_candidate": 2,
-  "stage": "generated_and_visually_reviewed_pending_publication",
+  "stage": "registered_complete",
   "generated": 12,
   "requested": 12,
   "casual_cuts": [
@@ -275,5 +275,15 @@
       "submitted_same": true,
       "reference": "selected candidate 2 / light"
     }
-  ]
+  ],
+  "image_commit": "27a09137e20c5f0d6c12e24ca26d5500f696c5a3",
+  "thumbnail_commit": "bad725edcc5e149ad7abb0a30ec2f0be5c9d83ab",
+  "registration_workflow_run": 44081064219,
+  "source_commit": "7349edc157ff619fe84ac01f23d5c574fcb782e2",
+  "workflow_results": {
+    "thumbnail": "success",
+    "registration": "success"
+  },
+  "verified_registered_files": 12,
+  "all_shards": 4
 }
