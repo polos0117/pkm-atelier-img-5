@@ -1,0 +1,299 @@
+[
+  {
+    "slot": "light",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_light_anime_25d_gloss_f.webp",
+    "shard": 4,
+    "original_sha256": "90b11bd5d8e930d81658adea9fbe5745fd98f4240a0828527cddab7f3d9a22ee",
+    "sha256": "fb52c4c03e04c7b05324223d789230d6496763f872f9993a87f6f26b93e6a653",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": null,
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Two connected armored arms and legs; open hand fingers spread, relaxed opposite hand partly curled.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual1",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual1.webp",
+    "shard": 4,
+    "original_sha256": "dfddc631942e6d1018a09d93fbed5399564c1a661e767f3d4a961640589c330d",
+    "sha256": "7e27fed92c51c300f6e061ab1962af8c14a508687cafce7fca0c201d95390673",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Seated, two connected arms and legs. Five fingers on resting hand; cloth grip partly hides fingers.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual2",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual2.webp",
+    "shard": 4,
+    "original_sha256": "6dc3b7566e82dc1f4b8011c73a0f129987d9318c4b9f1f19be8f4220577c139f",
+    "sha256": "7b6f47cde926cab3739f05af87ecfd27a051405c335d94a84b42acd0793986bd",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Reclining on yacht; two connected arms and legs. Supporting hand and face-resting hand visible; overlapping fingers partly occluded.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual3",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual3.webp",
+    "shard": 4,
+    "original_sha256": "6803a962defb79e26247b42a1efdf773d28c2dbb17faa58f567a4f1c65d4ef0c",
+    "sha256": "cc1a0d3319007edf442d227fcb382d0a8f087b0b51234128856c1bf90f0c834d",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Two connected arms; both hands visible, bag grip partially occluded. Lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual4",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual4.webp",
+    "shard": 4,
+    "original_sha256": "216fccee4cdaf9242a24c9106c6a1ad732310e0c28435441fb2292aa8dd01263",
+    "sha256": "09dfeb562a6100005536cb27dc44fa59731476eb835bbdd7b2704e8cf33760d5",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Both shoulders connect through upper arms and forearms to interlaced hands; fingers overlap. Lower body outside crop.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual5",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual5.webp",
+    "shard": 4,
+    "original_sha256": "094766ff0a26beeceb671b0289d2dfab3a64f11c3a13ccd5719c1eeafd34e3b0",
+    "sha256": "67010a5da8a0b852becd8a1e3962ff33e5aea544b072c319be3df46a5eec69e2",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Both upper arms connect to shoulders; fan hand joins wrist and elbow; other forearm exits crop. Lower body outside crop.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual6",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual6.webp",
+    "shard": 4,
+    "original_sha256": "8d09d6fe7567db4ce85189f707648e882856ce452e17c08ab6ed8f37ecbc328a",
+    "sha256": "de945e64f6b17f5f049fe0f9c79f5f7dab02d67bec1ff459aa4c076d55de4801",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Both shoulders and upper arms connect; raised hand joins wrist and arm, fingers in hair partly hidden; opposite hand outside crop.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual7",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual7.webp",
+    "shard": 4,
+    "original_sha256": "7a754236ccefa5873c767f5676306f6b555c7fd4398848467cca0b350b02d622",
+    "sha256": "3b4e8871f73e934aa26c5fa1eb75d137735908fe89d65d1744bdf2b2889abf48",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Both arms join shoulders and hands; cup grip partly occluded; resting hand has five fingers. Crossed legs are connected, feet partly outside frame.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual9",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual9.webp",
+    "shard": 4,
+    "original_sha256": "4e712a76609d68a1874a3bfd409b25fc9a9aaf76640226045c5676893cff7367",
+    "sha256": "8fa4b90862519717d2785c2be56cba5cabb8384436a318eff55f61e9b686fd88",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Two connected arms and legs; map grips partly hide fingers; boots connect to legs.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual10",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual10.webp",
+    "shard": 4,
+    "original_sha256": "9ee9285bb239457ad5a2cb7e74b31817bb0e1c9f5d3e8f21444377584f68266a",
+    "sha256": "a7f8e6a69356cc69a7bf1f31e514d1d0898e90f1429248a5b9eb222e1ef6dab2",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Two connected arms and hands; hip hand five digits; ear hand partly obscured by hair. Lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  },
+  {
+    "slot": "casual90",
+    "card": "무장조",
+    "style": "anime_25d_gloss",
+    "file": "무장조_anime_25d_gloss_f_casual90.webp",
+    "shard": 4,
+    "original_sha256": "77f0fd0366ddf2c76466b39afb25617da24a86dba698e42be8f59859ed24b975",
+    "sha256": "70ddd05da39ea7c92c845be6b40032e1b73d8391807cc067877bc7d9de6342e6",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "무장조_light_anime_25d_gloss_f.webp",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "2; outside crop where applicable",
+      "hands": "Two connected arms and hands; foil grip partly hides fingers, hip hand five digits. Lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Visual review at returned original resolution; no detached or duplicated limbs observed."
+    },
+    "exposure": {
+      "status": "match",
+      "note": "Rendered costume preserved; no regeneration for exposure."
+    }
+  }
+]

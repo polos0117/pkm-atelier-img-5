@@ -1,0 +1,15 @@
+{
+  "status": "ready_for_publication",
+  "selected": 1,
+  "reference_file": "무장조_light_anime_25d_gloss_f.webp",
+  "reference_sha256": "fb52c4c03e04c7b05324223d789230d6496763f872f9993a87f6f26b93e6a653",
+  "missing": [
+    "casual8"
+  ],
+  "original_selection": "/workspace/scratch/5b2cd999964e/skarmory-selection-sheet.png",
+  "faces": {
+    "reason": "User selected candidate 1; retain its adult angular face, narrow steel-blue eyes, straight nose and thin lips.",
+    "source": "data/face-design.json faces[227] and selected reference",
+    "comparison": "No separate facial comparison images generated."
+  }
+}

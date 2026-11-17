@@ -1,0 +1,47 @@
+{
+ "session": "skarmory-20261117-5b2c",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "무장조",
+   "species": "skarmory-20261117",
+   "own_only": true,
+   "cuts": [
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_workshop",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a fencing foil",
+     "preset": "stand_inspect",
+     "use": "sig_hold",
+     "posture": "stand",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "natural",
+     "legs": "",
+     "gaze": "at_prop",
+     "time": "lamplight",
+     "light": "low_warm",
+     "view": "foreground",
+     "own": "all",
+     "placeText": "a fencing hall — a long strip of floor with lines, a rack of foils, a wall of protective masks, polished wooden floor",
+     "scene": "she is a fencer with one hand on her hip, looking down along the blade of a fencing foil in the other hand",
+     "outfit": "a fencer look fitted to her body — a fitted white fencing jacket cut short at the hips over a short pleated fencing skirt, bare legs, white shoes, a silver feather-shaped crest on the jacket",
+     "job_ko": "펜싱 선수",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3"
+    }
+   ]
+  }
+ ]
+}
