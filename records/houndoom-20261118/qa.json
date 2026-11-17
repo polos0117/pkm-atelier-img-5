@@ -1,0 +1,206 @@
+{
+ "light": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual1": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual2": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "outside frame",
+   "hands": "visible hands connected to matching forearms; fingers partly hidden by grip or crop",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual3": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual4": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual5": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual6": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "outside frame",
+   "hands": "visible hands connected to matching forearms; fingers partly hidden by grip or crop",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual7": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "outside frame",
+   "hands": "visible hands connected to matching forearms; fingers partly hidden by grip or crop",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual8": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual9": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "outside frame",
+   "hands": "visible hands connected to matching forearms; fingers partly hidden by grip or crop",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual10": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ },
+ "casual90": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "both attached to matching arms; five-finger hands with fingers overlapping at grips",
+   "overlay_checked": false,
+   "issue": "ok",
+   "note": "visual inspection; no detached or extra limb observed"
+  },
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "blended facial volume at nose, lips, cheeks and glossy skin highlights"
+  },
+  "reference_identity": "selected candidate 3; amber eyes, black high ponytail with red-orange tips",
+  "regenerated": false
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "casual1": [
+  {
+   "slot": "casual1",
+   "at": "2026-11-17T21:34:07.328Z",
+   "prompt_sha256": "e4cfbcd97d84d631c87894d8a0d702b1e125d0c9ac3954ffb9412fd78fbaf25c",
+   "submitted_sha256": "e4cfbcd97d84d631c87894d8a0d702b1e125d0c9ac3954ffb9412fd78fbaf25c",
+   "same": true,
+   "prompt_words": 1079,
+   "submitted_words": 1079,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual2": [
+  {
+   "slot": "casual2",
+   "at": "2026-11-17T21:34:07.448Z",
+   "prompt_sha256": "5cd453109dea74c91adb8b68014600e60df68d569818c0cc8f511fe23aa4f5fa",
+   "submitted_sha256": "5cd453109dea74c91adb8b68014600e60df68d569818c0cc8f511fe23aa4f5fa",
+   "same": true,
+   "prompt_words": 1221,
+   "submitted_words": 1221,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual4": [
+  {
+   "slot": "casual4",
+   "at": "2026-11-17T21:34:07.560Z",
+   "prompt_sha256": "f81b30f840d4308db9f264cb74ac7d97888a3cf4d1ef20ce813b4b63865934b4",
+   "submitted_sha256": "f81b30f840d4308db9f264cb74ac7d97888a3cf4d1ef20ce813b4b63865934b4",
+   "same": true,
+   "prompt_words": 1073,
+   "submitted_words": 1073,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual5": [
+  {
+   "slot": "casual5",
+   "at": "2026-11-17T21:34:07.640Z",
+   "prompt_sha256": "8e43e36bf0feaf9d03e22ebe3c98b03939997b102276c683315e33147d150296",
+   "submitted_sha256": "8e43e36bf0feaf9d03e22ebe3c98b03939997b102276c683315e33147d150296",
+   "same": true,
+   "prompt_words": 1076,
+   "submitted_words": 1076,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual6": [
+  {
+   "slot": "casual6",
+   "at": "2026-11-17T21:34:07.725Z",
+   "prompt_sha256": "5aece7297d4826ebd8f3206b7d3d3eb95ee3f9750cf19705cb8292e6ef98a013",
+   "submitted_sha256": "5aece7297d4826ebd8f3206b7d3d3eb95ee3f9750cf19705cb8292e6ef98a013",
+   "same": true,
+   "prompt_words": 1204,
+   "submitted_words": 1204,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual7": [
+  {
+   "slot": "casual7",
+   "at": "2026-11-17T21:34:07.817Z",
+   "prompt_sha256": "8d09b7f0701a72b8448a3882cba0dcb202fc574b5a8c2c8c81c4d8707905f21f",
+   "submitted_sha256": "8d09b7f0701a72b8448a3882cba0dcb202fc574b5a8c2c8c81c4d8707905f21f",
+   "same": true,
+   "prompt_words": 1207,
+   "submitted_words": 1207,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual8": [
+  {
+   "slot": "casual8",
+   "at": "2026-11-17T21:34:07.923Z",
+   "prompt_sha256": "ef61ec7cc560fb9b4292e265773d419b856c26b93061479182c44eacacd05258",
+   "submitted_sha256": "ef61ec7cc560fb9b4292e265773d419b856c26b93061479182c44eacacd05258",
+   "same": true,
+   "prompt_words": 1002,
+   "submitted_words": 1002,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual9": [
+  {
+   "slot": "casual9",
+   "at": "2026-11-17T21:34:08.031Z",
+   "prompt_sha256": "f3d184b1d8d9dc26c414dd581e25a7979bf9ddee73f97febc6464911f0c114c0",
+   "submitted_sha256": "f3d184b1d8d9dc26c414dd581e25a7979bf9ddee73f97febc6464911f0c114c0",
+   "same": true,
+   "prompt_words": 1140,
+   "submitted_words": 1140,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual90": [
+  {
+   "slot": "casual90",
+   "at": "2026-11-17T21:34:08.142Z",
+   "prompt_sha256": "23a5c221094cf9d9575125ea4a46373d6aa3a77edd27dddbcba1eefeb7905de4",
+   "submitted_sha256": "23a5c221094cf9d9575125ea4a46373d6aa3a77edd27dddbcba1eefeb7905de4",
+   "same": true,
+   "prompt_words": 1054,
+   "submitted_words": 1054,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual3": {
+  "submitted_sha256": "c485bec09ce3644c8163bf86149edebe93c82e605a22115fbdc413b8624dca6b",
+  "same": false,
+  "authorized_exception": "GPT free scene as required by IMAGE_RULES; all text outside SCENE retained"
+ },
+ "casual10": {
+  "submitted_sha256": "0fc609601a1cd69267ed6b92fc50381e9c1b872bd6bc5d4a5f49ff17f10b84b5",
+  "same": false,
+  "authorized_exception": "GPT free scene as required by IMAGE_RULES; all text outside SCENE retained"
+ }
+}

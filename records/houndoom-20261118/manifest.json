@@ -1,0 +1,158 @@
+[
+ {
+  "slot": "light",
+  "file": "헬가_light_anime_25d_gloss_f.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "7040fdc2d36f09d12561212ca87e87af97a609a56447a702e70d46a74bd51ddf",
+  "webp_sha256": "d846ee92e70da9515df921cd47dd330a4fb3d2d1250fb1ddab307db8c4b071df",
+  "submitted_sha256": "0ba6bd3cecfe0e616dba8944f7fc1aac319e4265514f360043baf4b0fe146189",
+  "reference": "user selected candidate 3"
+ },
+ {
+  "slot": "casual1",
+  "file": "헬가_anime_25d_gloss_f_casual1.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "ef16e0ef32f0cdd7f71760b88a588ea72da9a9fd4d3373cdf02560d9c43c22b1",
+  "webp_sha256": "857ce2ebfbd6ad98cf74320358b5bfd5d7904f2251f31fc200732745d6a00cb4",
+  "submitted_sha256": "e4cfbcd97d84d631c87894d8a0d702b1e125d0c9ac3954ffb9412fd78fbaf25c",
+  "reference": "light"
+ },
+ {
+  "slot": "casual2",
+  "file": "헬가_anime_25d_gloss_f_casual2.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "c4f5c8a0ddb4230f89707a50bea0979fc0c5ae28d5e4b97cf16aa34cd5f0b485",
+  "webp_sha256": "3a67b48b117ff3039e1bb403e51804274f85e381d78fd7582192c669ddb48819",
+  "submitted_sha256": "5cd453109dea74c91adb8b68014600e60df68d569818c0cc8f511fe23aa4f5fa",
+  "reference": "light"
+ },
+ {
+  "slot": "casual3",
+  "file": "헬가_anime_25d_gloss_f_casual3.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "d25e3784b7e04d88ddfa3e47cd62965081f24148b6c7b83a6979988343c04d0a",
+  "webp_sha256": "f6fb2c383a1f88ab8a6526d7ca4ccc2ace6f60c2904f59d8ad3a4f028258aea6",
+  "submitted_sha256": "c485bec09ce3644c8163bf86149edebe93c82e605a22115fbdc413b8624dca6b",
+  "reference": "light"
+ },
+ {
+  "slot": "casual4",
+  "file": "헬가_anime_25d_gloss_f_casual4.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "076eb85fc5657f2ffa1e4e1c7ccb7cf6f7e215608f10234a617c375e71c1c41f",
+  "webp_sha256": "fce311d8835939cff91031d094bc01d4c525366ff26424333c785336aa50a785",
+  "submitted_sha256": "f81b30f840d4308db9f264cb74ac7d97888a3cf4d1ef20ce813b4b63865934b4",
+  "reference": "light"
+ },
+ {
+  "slot": "casual5",
+  "file": "헬가_anime_25d_gloss_f_casual5.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "b61b98d0a3d71441322b3c5e1f39c8e7505b5f9ff5bc1d29b875c8d48f2b1e00",
+  "webp_sha256": "7a12f0737ec654b8e07244f8cde7c5476506a68373dcbd1168cb6f1bbc023141",
+  "submitted_sha256": "8e43e36bf0feaf9d03e22ebe3c98b03939997b102276c683315e33147d150296",
+  "reference": "light"
+ },
+ {
+  "slot": "casual6",
+  "file": "헬가_anime_25d_gloss_f_casual6.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "b74226a3703796fdbb3a2554caa5d1d491dc70875f1c7b5641cbef04410bf219",
+  "webp_sha256": "8869d969d1a1bab628d396a8aa7867b94a1d5b8e66da17571d6fece2b64e0c06",
+  "submitted_sha256": "5aece7297d4826ebd8f3206b7d3d3eb95ee3f9750cf19705cb8292e6ef98a013",
+  "reference": "light"
+ },
+ {
+  "slot": "casual7",
+  "file": "헬가_anime_25d_gloss_f_casual7.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "14e6fd3d892c4361bc4667cd6652a1b2f6b7864cd45978fc00217fc76dfb18f6",
+  "webp_sha256": "be9ae7cbf517d6cf9de820f0ad5e9db0bc293722a62d8660cfbb5152f7dd382e",
+  "submitted_sha256": "8d09b7f0701a72b8448a3882cba0dcb202fc574b5a8c2c8c81c4d8707905f21f",
+  "reference": "light"
+ },
+ {
+  "slot": "casual8",
+  "file": "헬가_anime_25d_gloss_f_casual8.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "3b8242f3ff80ff87ce3c4bd534e5b924f74e54315b3ed94eff86ec09531fe6f8",
+  "webp_sha256": "0d4f7e2fa1330a518b8427eae87d501242ef3f62b3b6abfc7a9fe368d8989680",
+  "submitted_sha256": "ef61ec7cc560fb9b4292e265773d419b856c26b93061479182c44eacacd05258",
+  "reference": "light"
+ },
+ {
+  "slot": "casual9",
+  "file": "헬가_anime_25d_gloss_f_casual9.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "040b45ed462080d2b60d99da878abe6258758bd7773bb0402f64169fdda22870",
+  "webp_sha256": "c5b6b90074646784e619f2d67cdd24ff6baa07bf4ef3c2151538bcc655de8d7f",
+  "submitted_sha256": "f3d184b1d8d9dc26c414dd581e25a7979bf9ddee73f97febc6464911f0c114c0",
+  "reference": "light"
+ },
+ {
+  "slot": "casual10",
+  "file": "헬가_anime_25d_gloss_f_casual10.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "8c87ba8b9f0eb95232b66f381310b99bee9878bd83b15ef5f895b7244fc4b765",
+  "webp_sha256": "54abc0eee509b168b547e84da0207e09f1a3ff1e88363baca49f7f38345a2092",
+  "submitted_sha256": "0fc609601a1cd69267ed6b92fc50381e9c1b872bd6bc5d4a5f49ff17f10b84b5",
+  "reference": "light"
+ },
+ {
+  "slot": "casual90",
+  "file": "헬가_anime_25d_gloss_f_casual90.webp",
+  "shard": 4,
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "7998f519812d4674ff3e1e0310f48746cce5a5f2fbb95b464bdf916c1f982b6b",
+  "webp_sha256": "c7904059962d8da5bf701acfdfaf2e9d6f243bd01b471d03270b3acb692c34d6",
+  "submitted_sha256": "23a5c221094cf9d9575125ea4a46373d6aa3a77edd27dddbcba1eefeb7905de4",
+  "reference": "light"
+ }
+]
