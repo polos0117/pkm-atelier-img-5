@@ -1,0 +1,14 @@
+{
+  "card": "꾸꾸리",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "stage": "generated_partial_pending_registration",
+  "image_count": 10,
+  "requested_count": 12,
+  "blocked": [
+    "casual2",
+    "casual10"
+  ],
+  "no_regeneration_due_to_censorship": true,
+  "previous_glossy_promo_preserved": true
+}

@@ -1,0 +1,447 @@
+{
+  "card": "꾸꾸리",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "no_censorship_regeneration": true,
+  "blocked_slots": [
+    "casual2",
+    "casual10"
+  ],
+  "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "method": "visual inspection; visible limbs and hands assessed, occluded fingers not inferred"
+  },
+  "casual_look": {
+    "crowd_below": 245,
+    "cuts": [
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual1.webp",
+        "near": [
+          [
+            "꼬부기_anime_25d_gloss_f_casual6.webp",
+            248
+          ],
+          [
+            "키링키_glossy_promo_f_casual1.webp",
+            251
+          ],
+          [
+            "푸린_anime_25d_f_casual2.webp",
+            252
+          ],
+          [
+            "메리프_anime_25d_gloss_f_casual1.webp",
+            259
+          ],
+          [
+            "깨봉이_glossy_promo_f_casual1.webp",
+            262
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual3.webp",
+        "near": [
+          [
+            "독파리_anime_25d_gloss_f_casual9.webp",
+            287
+          ],
+          [
+            "링곰_anime_25d_gloss_f_casual1.webp",
+            289
+          ],
+          [
+            "캥카_anime_25d_gloss_f_casual5.webp",
+            299
+          ],
+          [
+            "구구_anime_gloss_f_casual7.webp",
+            300
+          ],
+          [
+            "디그다_anime_25d_gloss_f_casual8.webp",
+            302
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual4.webp",
+        "near": [
+          [
+            "부우부_anime_25d_gloss_f_casual7.webp",
+            256
+          ],
+          [
+            "뿔충이_anime_25d_gloss_f_casual16.webp",
+            261
+          ],
+          [
+            "삐_anime_25d_gloss_f_casual7.webp",
+            262
+          ],
+          [
+            "브케인_anime_25d_gloss_f_casual2.webp",
+            264
+          ],
+          [
+            "이브이_anime_25d_gloss_f_casual5.webp",
+            266
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual5.webp",
+        "near": [
+          [
+            "캐터피_anime_25d_gloss_f_casual15.webp",
+            248
+          ],
+          [
+            "캥카_anime_25d_gloss_f_casual4.webp",
+            255
+          ],
+          [
+            "아르코_anime_25d_gloss_f_casual9.webp",
+            258
+          ],
+          [
+            "슬리퍼_anime_25d_gloss_f_casual7.webp",
+            263
+          ],
+          [
+            "니드퀸_anime_25d_gloss_f_casual7.webp",
+            267
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual6.webp",
+        "near": [
+          [
+            "딱구리_anime_25d_gloss_f_casual9.webp",
+            290
+          ],
+          [
+            "냐오히트_glossy_promo_f_casual3.webp",
+            291
+          ],
+          [
+            "캐터피_anime_25d_gloss_f_casual2.webp",
+            293
+          ],
+          [
+            "모래두지_anime_25d_gloss_f_casual1.webp",
+            296
+          ],
+          [
+            "이브이_anime_25d_gloss_f_casual8.webp",
+            296
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual7.webp",
+        "near": [
+          [
+            "구구_anime_25d_gloss_f_casual7.webp",
+            268
+          ],
+          [
+            "흉내내_glossy_promo_f_casual2.webp",
+            276
+          ],
+          [
+            "뚜벅쵸_anime_25d_f_casual4.webp",
+            278
+          ],
+          [
+            "맘복치_glossy_promo_f_casual3.webp",
+            283
+          ],
+          [
+            "삐삐_glossy_promo_f_casual2.webp",
+            286
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual8.webp",
+        "near": [
+          [
+            "레오꼬_glossy_promo_f_casual3.webp",
+            273
+          ],
+          [
+            "이상해풀_anime_25d_gloss_f_casual90.webp",
+            282
+          ],
+          [
+            "대포무노_glossy_promo_f_casual2.webp",
+            309
+          ],
+          [
+            "아쿠스타_anime_25d_gloss_f_casual5.webp",
+            311
+          ],
+          [
+            "부스터_glossy_promo_f_casual3.webp",
+            313
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual9.webp",
+        "near": [
+          [
+            "카포에라_glossy_promo_f_casual2.webp",
+            286
+          ],
+          [
+            "내룸벨트_glossy_promo_f_casual3.webp",
+            296
+          ],
+          [
+            "토쇠골_glossy_promo_f_casual1.webp",
+            314
+          ],
+          [
+            "네이티_anime_25d_gloss_f_casual10.webp",
+            316
+          ],
+          [
+            "데스니칸_glossy_promo_f_casual1.webp",
+            317
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/c34f1d9ad4e1/pkm-atelier-img-5/img/꾸꾸리_anime_25d_gloss_f_casual90.webp",
+        "near": [
+          [
+            "어지리더_glossy_promo_f_casual3.webp",
+            295
+          ],
+          [
+            "깜지곰_glossy_promo_f_casual1.webp",
+            309
+          ],
+          [
+            "푸크린_anime_25d_gloss_f_casual90.webp",
+            311
+          ],
+          [
+            "시라소몬_anime_25d_gloss_f_casual10.webp",
+            314
+          ],
+          [
+            "쏘드라_anime_25d_gloss_f_casual2.webp",
+            315
+          ]
+        ],
+        "same_as_own": []
+      }
+    ],
+    "dup_below": 215,
+    "ok": true
+  },
+  "slots": {
+    "light": {
+      "result": "accepted_with_notes",
+      "observed": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "갈색 경장, 짧게 뻗친 갈색 머리와 밝은 가닥, 호박빛 눈, 어깨와 배 노출; 두 팔과 두 다리의 자연스러운 연결."
+      }
+    },
+    "casual1": {
+      "result": "accepted_with_notes",
+      "observed": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "라이브 하우스 배경, 민트 란제리와 열린 로브, 가슴 위 크롭, 두 팔을 교차하여 한 손은 반대쪽 팔에 놓임."
+      }
+    },
+    "casual3": {
+      "result": "accepted_with_notes",
+      "observed": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "링 라이트 코스프레 행사장, 손을 펴 인사, 빨강·검정·금색 코스프레; 계획의 게임 캐릭터 복장 색 재현은 제한적."
+      }
+    },
+    "casual4": {
+      "result": "accepted_with_notes",
+      "observed": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "식물과 거리 풍경이 보이는 발코니, 노랑 오프숄더 셔츠, 얼굴 가까이 브이 손짓; 반대 팔은 화면 아래로 이어짐."
+      }
+    },
+    "casual5": {
+      "result": "accepted_with_notes",
+      "observed": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "설산 철도 플랫폼 벤치에서 군고구마 냄새를 맡음, 왼손은 음식 트레이, 오른손은 고구마; 살구 니트와 청록 퀼팅 쇼츠."
+      }
+    },
+    "casual6": {
+      "result": "accepted_with_notes",
+      "observed": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "미네랄 풀 가장자리에서 양손으로 몸을 지지, 파란 수영복; 손가락은 각각 분리되고 양팔이 어깨로 이어짐."
+      }
+    },
+    "casual7": {
+      "result": "accepted_with_notes",
+      "observed": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "야외 코트에서 한쪽 무릎을 꿇음, 초록 객실승무원 이벤트 의상; 한 손에 수건, 다른 손은 바닥을 지지."
+      }
+    },
+    "casual8": {
+      "result": "accepted_with_notes",
+      "observed": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "포켓몬센터 케어실 의자, 펄 화이트 꽃잎 패널 상의와 라벤더 스코트; 양손은 허벅지에 각각 놓임."
+      }
+    },
+    "casual9": {
+      "result": "accepted_with_notes",
+      "observed": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "산장 나무 탕 옆 벽에 기대 선 장면, 데님 블루 슬립과 로브, 어깨·쇄골·한쪽 허벅지 노출, 두 손 아래로 자연스럽게 이어짐."
+      }
+    },
+    "casual90": {
+      "result": "accepted_with_notes",
+      "observed": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨.",
+      "style_25d": {
+        "verdict": "match",
+        "evidence": "얼굴 코와 턱에 부드러운 입체 그라데이션, 피부에 국소 광택, 가닥 머리와 재질별 음영이 보임."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨."
+      },
+      "anatomy": {
+        "verdict": "no_obvious_extra_or_disconnected_limbs",
+        "visible_hand_notes": "빙수 기계와 시럽 병이 있는 가게, 흰 종이모자와 하늘색 앞치마; 두 손으로 빙수 그릇을 들고 향을 맡음, 계획보다 앉은 자세로 표현됨."
+      }
+    },
+    "casual2": {
+      "result": "output_blocked",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID daba3ee6-f250-492d-9336-8f701f8059aa. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "returned_image": false,
+      "regenerated": false
+    },
+    "casual10": {
+      "result": "output_blocked",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID d19afdf5-63a4-4ef0-b92f-e88ca3ffe261. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "returned_image": false,
+      "regenerated": false
+    }
+  }
+}

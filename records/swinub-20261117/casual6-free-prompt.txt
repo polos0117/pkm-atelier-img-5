@@ -1,0 +1,34 @@
+CHARACTER: the same woman as the attached image — Swinub (꾸꾸리) personified, ice / ground type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.
+
+FACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.
+
+BODY TYPE: toned athletic-curvy, full-busted with rounded hips — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.
+
+STYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.
+
+OUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).
+
+FRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.
+
+SCENE (chosen):
+Place: a sunlit indoor saltwater flotation pool lined with pale mineral stone, a wide shallow ledge and windows onto snowy mountain pines.
+Activity and momentary situation: after floating, she presses both open palms on the wide dry ledge beside her hips and raises her upper body out of the water to sit on the edge; as she lifts, the waterline drops below the swimsuit's designed open waist and reveals her midriff and the open sides of her ribcage. This exposure comes from the motion and the swimsuit's intended cut, with no slipping garment and no transparent fabric. Each arm comes forward from its own shoulder to one palm on the ledge; keep hands clear of the body outline. Do not specify feet beneath water.
+Outfit category: swimwear. Outfit: an original opaque ultramarine convertible swim set, a sculpted plunge swim top with a folded sail-like shoulder yoke, paired with high-waisted swim briefs that have solid diagonal bridge panels across oval side openings; silver edging follows the yoke and the hip openings. Bare shoulders, midriff and upper thighs, secure fully lined coverage of chest and pelvis.
+Composition: an eye-level knees-up portrait, body at a gentle frontal three-quarter angle and face clearly toward camera, pool ledge diagonal across the lower image; fresh ripples spread from the lift.
+Species touches: a small striped wooden bag charm by her folded towel, an oval ridged mineral-soap dish and a frost-patterned glass beside it recall her ground-and-ice identity without recolouring the swimsuit.
+EXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+source_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy
+
+WARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.
+
+ANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.
+
+BODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.
+
+HANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.
