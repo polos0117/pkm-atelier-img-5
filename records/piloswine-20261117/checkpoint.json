@@ -2,7 +2,7 @@
   "card": "메꾸리",
   "style": "anime_25d_gloss",
   "selected_candidate": 3,
-  "status": "registered_with_blocked_slot",
+  "status": "refill_published_registration_pending",
   "generated_slots": [
     "light",
     "casual2",
@@ -14,15 +14,14 @@
     "casual8",
     "casual9",
     "casual10",
-    "casual90"
-  ],
-  "blocked_slots": [
+    "casual90",
     "casual1"
   ],
+  "blocked_slots": [],
   "image_count": 11,
   "existing_images_preserved": true,
   "reference_sha256": "4654c99bca3f0c65ddc45ff8d8249b4b171dc5c844e7f7e0e6c2e6545717b715",
-  "note": "No regenerated outputs; one blocked call left empty per user. New style separate from existing glossy_promo.",
+  "note": "casual1 filled by user-requested composition revision; original blocked attempt retained in qa. Existing other images unchanged.",
   "qa": "qa.json",
   "final_slots_requested": 12,
   "final_images_registered": 11,
@@ -42,5 +41,12 @@
   },
   "registered_slots_verified": true,
   "thumbnail_count_verified": 11,
-  "submission_audit": "submission-audit.json"
+  "submission_audit": "submission-audit.json",
+  "final_images_prepared": 12,
+  "historically_blocked_slots": [
+    "casual1"
+  ],
+  "refilled_slots": [
+    "casual1"
+  ]
 }

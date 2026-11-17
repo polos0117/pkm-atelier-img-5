@@ -220,6 +220,20 @@
     }
   },
   "casual1": {
+    "status": "reviewed",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connected to the correct forearms; each has thumb and four fingers, some fingers overlap naturally at relaxed sides. Two feet coherent in sandals.",
+      "overlay_checked": false,
+      "note": "Manual full-resolution visual review; no detached or extra limbs."
+    },
+    "face_hair_skin": "matches selected mecha candidate 3",
+    "composition": "Full body with both feet and hands in frame; eye-level front three-quarter view."
+  },
+  "casual1_blocked_original": {
     "status": "blocked",
     "attempts": 1,
     "request_id": "64712e9e-63f3-4bf6-8b49-f0e33f6d1843",

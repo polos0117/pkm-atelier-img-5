@@ -75,5 +75,25 @@
     "generator_template_same": true,
     "authorised_exception": null,
     "verified_at": "2026-11-17T08:01:34.808338+00:00"
+  },
+  "casual1": {
+    "submitted_sha256": "db3f1cc2da2447b7cd8b714f1a18b10918b739a35eae2e7777429ebe0a3668ce",
+    "record_prompt_same": true,
+    "generator_template_same": true,
+    "user_request": "Change composition; redesign if needed",
+    "verification": [
+      {
+        "slot": "casual1",
+        "at": "2026-11-17T11:06:43.293Z",
+        "prompt_sha256": "db3f1cc2da2447b7cd8b714f1a18b10918b739a35eae2e7777429ebe0a3668ce",
+        "submitted_sha256": "db3f1cc2da2447b7cd8b714f1a18b10918b739a35eae2e7777429ebe0a3668ce",
+        "same": true,
+        "prompt_words": 993,
+        "submitted_words": 993,
+        "style_kept": true,
+        "missing": [],
+        "added": []
+      }
+    ]
   }
 }

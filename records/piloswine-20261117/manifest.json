@@ -163,5 +163,22 @@
     "original_sha256": "35db9f514693b0d0e34e651e134a4f0f21cbf0d7ab2f0101b85bdbd6bd646801",
     "sha256": "78f97aaf3abe5aff3b6586fbeb9064ca305d6dd5753e25514a151f5285fc6101",
     "prompt_sha256": "18f5a8dc65319ab573d1e5e421cca142c324e3e2dbdfc54ab0e41063eb241ce5"
+  },
+  {
+    "slot": "casual1",
+    "card": "메꾸리",
+    "style": "anime_25d_gloss",
+    "file": "메꾸리_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "shard": 4,
+    "original_sha256": "35d584a73949f5e638311df7c7a721494ecea3d7b9e529f02e811478d22e3741",
+    "sha256": "9f9ee03eab2fa9f16bf63cd4db3b287292b7fee095e138582ed7158f4f529574",
+    "prompt_sha256": "db3f1cc2da2447b7cd8b714f1a18b10918b739a35eae2e7777429ebe0a3668ce",
+    "reference": "selected candidate 3",
+    "reason": "user-requested composition change"
   }
 ]
