@@ -3,10 +3,7 @@
   "style": "anime_25d_gloss",
   "selected": 1,
   "no_censorship_regeneration": true,
-  "blocked_slots": [
-    "casual2",
-    "casual10"
-  ],
+  "blocked_slots": [],
   "anatomy": {
     "tool": "unavailable: mediapipe not installed",
     "method": "visual inspection; visible limbs and hands assessed, occluded fingers not inferred"
@@ -482,16 +479,376 @@
       }
     },
     "casual2": {
-      "result": "output_blocked",
-      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID daba3ee6-f250-492d-9336-8f701f8059aa. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
-      "returned_image": false,
-      "regenerated": false
+      "result": "accepted_with_notes",
+      "observed": "공원 벤치에 앉아 헤드폰을 잡는 정면 3/4 전신. 왼손은 무릎에 놓이고 두 발이 보임. 버건디 크로셰 수영복은 중앙 연결 패널이 있는 형태로 표현됨.",
+      "previous_attempt": {
+        "result": "output_blocked",
+        "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID daba3ee6-f250-492d-9336-8f701f8059aa. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+        "returned_image": false,
+        "regenerated": false
+      },
+      "user_authorized_revision": true,
+      "composition_revision": true,
+      "redesign_required": false,
+      "style_25d": {
+        "판정": "match",
+        "근거": "코·입술·턱의 부드러운 입체 음영, 머리카락 하이라이트와 의상 재질 결이 보임."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "공원 벤치에 앉아 헤드폰을 잡는 정면 3/4 전신. 왼손은 무릎에 놓이고 두 발이 보임. 버건디 크로셰 수영복은 중앙 연결 패널이 있는 형태로 표현됨."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "visual": "두 팔과 두 다리 연결은 자연스러우며 추가 팔다리가 보이지 않음. 손의 엄지 위치와 관절을 눈으로 확인; 가려진 손가락을 보인다고 세지 않음."
+      }
     },
     "casual10": {
-      "result": "output_blocked",
-      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID d19afdf5-63a4-4ef0-b92f-e88ca3ffe261. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
-      "returned_image": false,
-      "regenerated": false
+      "result": "accepted_with_notes",
+      "observed": "달빛 연못과 징검다리를 넓게 담은 정면 3/4 전신. 갈색 줄무늬 꾸꾸리 코스튬, 머리 장식, 양팔과 양다리, 가죽 장갑을 착용한 두 손이 보임.",
+      "previous_attempt": {
+        "result": "output_blocked",
+        "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID d19afdf5-63a4-4ef0-b92f-e88ca3ffe261. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")",
+        "returned_image": false,
+        "regenerated": false
+      },
+      "user_authorized_revision": true,
+      "composition_revision": true,
+      "redesign_required": false,
+      "style_25d": {
+        "판정": "match",
+        "근거": "코·입술·턱의 부드러운 입체 음영, 머리카락 하이라이트와 의상 재질 결이 보임."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "달빛 연못과 징검다리를 넓게 담은 정면 3/4 전신. 갈색 줄무늬 꾸꾸리 코스튬, 머리 장식, 양팔과 양다리, 가죽 장갑을 착용한 두 손이 보임."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "visual": "두 팔과 두 다리 연결은 자연스러우며 추가 팔다리가 보이지 않음. 손의 엄지 위치와 관절을 눈으로 확인; 가려진 손가락을 보인다고 세지 않음."
+      }
+    }
+  },
+  "refill": {
+    "slots": [
+      "casual2",
+      "casual10"
+    ],
+    "method": "composition_revision",
+    "look_check": {
+      "crowd_below": 245,
+      "cuts": [
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual1.webp",
+          "near": [
+            [
+              "꼬부기_anime_25d_gloss_f_casual6.webp",
+              248
+            ],
+            [
+              "키링키_glossy_promo_f_casual1.webp",
+              251
+            ],
+            [
+              "푸린_anime_25d_f_casual2.webp",
+              252
+            ],
+            [
+              "메리프_anime_25d_gloss_f_casual1.webp",
+              259
+            ],
+            [
+              "깨봉이_glossy_promo_f_casual1.webp",
+              262
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual10.webp",
+          "near": [
+            [
+              "야부엉_anime_25d_gloss_f_casual1.webp",
+              287
+            ],
+            [
+              "킹크랩_anime_25d_gloss_f_casual5.webp",
+              287
+            ],
+            [
+              "갸라도스_anime_25d_gloss_f_casual3.webp",
+              298
+            ],
+            [
+              "아리아도스_anime_25d_gloss_f_casual9.webp",
+              301
+            ],
+            [
+              "잠만보_anime_25d_gloss_f_casual2.webp",
+              305
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual2.webp",
+          "near": [
+            [
+              "질퍽이_anime_25d_gloss_f_casual2.webp",
+              275
+            ],
+            [
+              "아르코_anime_25d_gloss_f_casual9.webp",
+              288
+            ],
+            [
+              "파라스_anime_25d_gloss_f_casual3.webp",
+              294
+            ],
+            [
+              "단데기_anime_25d_f_casual1.webp",
+              296
+            ],
+            [
+              "캐터피_anime_25d_gloss_f_casual15.webp",
+              297
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual3.webp",
+          "near": [
+            [
+              "독파리_anime_25d_gloss_f_casual9.webp",
+              287
+            ],
+            [
+              "링곰_anime_25d_gloss_f_casual1.webp",
+              289
+            ],
+            [
+              "캥카_anime_25d_gloss_f_casual5.webp",
+              299
+            ],
+            [
+              "구구_anime_gloss_f_casual7.webp",
+              300
+            ],
+            [
+              "디그다_anime_25d_gloss_f_casual8.webp",
+              302
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual4.webp",
+          "near": [
+            [
+              "부우부_anime_25d_gloss_f_casual7.webp",
+              256
+            ],
+            [
+              "뿔충이_anime_25d_gloss_f_casual16.webp",
+              261
+            ],
+            [
+              "삐_anime_25d_gloss_f_casual7.webp",
+              262
+            ],
+            [
+              "브케인_anime_25d_gloss_f_casual2.webp",
+              264
+            ],
+            [
+              "이브이_anime_25d_gloss_f_casual5.webp",
+              266
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual5.webp",
+          "near": [
+            [
+              "캐터피_anime_25d_gloss_f_casual15.webp",
+              248
+            ],
+            [
+              "캥카_anime_25d_gloss_f_casual4.webp",
+              255
+            ],
+            [
+              "아르코_anime_25d_gloss_f_casual9.webp",
+              258
+            ],
+            [
+              "슬리퍼_anime_25d_gloss_f_casual7.webp",
+              263
+            ],
+            [
+              "니드퀸_anime_25d_gloss_f_casual7.webp",
+              267
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual6.webp",
+          "near": [
+            [
+              "딱구리_anime_25d_gloss_f_casual9.webp",
+              290
+            ],
+            [
+              "냐오히트_glossy_promo_f_casual3.webp",
+              291
+            ],
+            [
+              "캐터피_anime_25d_gloss_f_casual2.webp",
+              293
+            ],
+            [
+              "모래두지_anime_25d_gloss_f_casual1.webp",
+              296
+            ],
+            [
+              "이브이_anime_25d_gloss_f_casual8.webp",
+              296
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual7.webp",
+          "near": [
+            [
+              "구구_anime_25d_gloss_f_casual7.webp",
+              268
+            ],
+            [
+              "흉내내_glossy_promo_f_casual2.webp",
+              276
+            ],
+            [
+              "뚜벅쵸_anime_25d_f_casual4.webp",
+              278
+            ],
+            [
+              "맘복치_glossy_promo_f_casual3.webp",
+              283
+            ],
+            [
+              "삐삐_glossy_promo_f_casual2.webp",
+              286
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual8.webp",
+          "near": [
+            [
+              "레오꼬_glossy_promo_f_casual3.webp",
+              273
+            ],
+            [
+              "이상해풀_anime_25d_gloss_f_casual90.webp",
+              282
+            ],
+            [
+              "대포무노_glossy_promo_f_casual2.webp",
+              309
+            ],
+            [
+              "아쿠스타_anime_25d_gloss_f_casual5.webp",
+              311
+            ],
+            [
+              "부스터_glossy_promo_f_casual3.webp",
+              313
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual9.webp",
+          "near": [
+            [
+              "카포에라_glossy_promo_f_casual2.webp",
+              286
+            ],
+            [
+              "내룸벨트_glossy_promo_f_casual3.webp",
+              296
+            ],
+            [
+              "토쇠골_glossy_promo_f_casual1.webp",
+              314
+            ],
+            [
+              "네이티_anime_25d_gloss_f_casual10.webp",
+              316
+            ],
+            [
+              "데스니칸_glossy_promo_f_casual1.webp",
+              317
+            ]
+          ],
+          "same_as_own": []
+        },
+        {
+          "crowd": 0,
+          "duplicate_of": [],
+          "file": "../refill-images/img/꾸꾸리_anime_25d_gloss_f_casual90.webp",
+          "near": [
+            [
+              "어지리더_glossy_promo_f_casual3.webp",
+              295
+            ],
+            [
+              "깜지곰_glossy_promo_f_casual1.webp",
+              309
+            ],
+            [
+              "푸크린_anime_25d_gloss_f_casual90.webp",
+              311
+            ],
+            [
+              "시라소몬_anime_25d_gloss_f_casual10.webp",
+              314
+            ],
+            [
+              "쏘드라_anime_25d_gloss_f_casual2.webp",
+              315
+            ]
+          ],
+          "same_as_own": []
+        }
+      ],
+      "dup_below": 215,
+      "ok": true
     }
   }
 }

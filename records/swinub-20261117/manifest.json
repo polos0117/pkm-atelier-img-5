@@ -108,5 +108,29 @@
       1536
     ],
     "reference": "selected candidate 1"
+  },
+  {
+    "slot": "casual2",
+    "file": "꾸꾸리_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "77bfd329134e628ece9220409f022d979315d7de0c548d5f89b2ccc85b2beb0b",
+    "webp_sha256": "965f404efcb28e631eb4f67ab25c12240e6e812e0d5b8cf7416ecef094d96747",
+    "reference": "selected candidate 1",
+    "revision": "user_requested_composition"
+  },
+  {
+    "slot": "casual10",
+    "file": "꾸꾸리_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "741b8aa81e8048d0cc67136f42e97f3798baea9ce165e7dd648b9da92cdc0570",
+    "webp_sha256": "01b9bb628c3e2638e0b775d7d348cd6e88ab9315134e73d580980503b28cd1db",
+    "reference": "selected candidate 1",
+    "revision": "user_requested_composition"
   }
 ]
