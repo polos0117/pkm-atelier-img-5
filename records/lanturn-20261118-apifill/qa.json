@@ -1,0 +1,36 @@
+{
+ "card": "랜턴",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "랜턴_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual9": {
+   "image": "랜턴_anime_25d_gloss_f_casual9.webp",
+   "png_sha256": "1909cb8824749dfa998aa422a86158753071d7742b6d2fd3766a5ffa0cceeeba",
+   "webp_sha256": "ce737ee27f8a0a90ea2ea2c937f2ac8abc33fb312a3b79cc5a8b8f58e9162153",
+   "submitted_same": true,
+   "submitted_sha256": "6f69fffa9fbf191d0925b2eae6e97995ff4de5c98d986ee5c0ac272a07d175b8",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_1f1c0a7fdecf48c3b3345d7f36d06401",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_1f1c0a7fdecf48c3b3345d7f36d06401",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}
