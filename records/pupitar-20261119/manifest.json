@@ -1,0 +1,194 @@
+[
+ {
+  "slot": "light",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc",
+  "sha256": "51aed57fd84a1f433d67477f22301b23f5f2e659efdb76bc02c83844bbe456ec",
+  "submitted_sha256": "df2527b8e530b10da6a8f0baee00190eb0f915d4a73d404560bad68c8382557e",
+  "submitted_same": true,
+  "reference_sha256": null
+ },
+ {
+  "slot": "casual1",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "0290683c996c697496de28c6e27e75e17f31ef8ab671a8da11efeeefd9163295",
+  "sha256": "f285bebf42eb895092934a772043278cb439c0eedeb5b8b44547cd570ba6423c",
+  "submitted_sha256": "4cbdfdc1e09ba78703d87269fbde9fcdec75fd5c4a232b5c4573e50b0185c57d",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual2",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "f0970a0ba9aa36138d72f4147965a93f504a331ef969e1a294b8d22d4cb9246a",
+  "sha256": "d796af0028378aa20a0030400ee794eb67a35bee8fe6503a5af3bc2e102fb082",
+  "submitted_sha256": "acb04676dceaeecf683281e2e3aee3b46c8ffb9e446dd8d4a73845e107c0e5c1",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual3",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "c64bd5dec671c4b0dac6fb805aaadaf60f887cb10f63f54eb006a8398bb77ed0",
+  "sha256": "1d659796ea7880867750a9ae30b56dbc78a28765b15bfaeeb37eea706389bcd7",
+  "submitted_sha256": "ffab95a174114bc6f8fb97003977633e6e22bcd69d1dff6496438f14468c62de",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual4",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "602e90bc6a6cabc01ba2205e430a6c81922e7d8fee0224e2ea29646d5c7057b9",
+  "sha256": "086e73d13bef2876dff01206424e9f3d60a2d50870884c51f3bf9011c68f7dc3",
+  "submitted_sha256": "eb1d2a5b410cd0ab64b05e72005b7ddb7a0ace331cc1153b12d3a49757dba252",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual5",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "f60d47a09650f3d062221160f079ae9deefe3e3e1968ee131e58aa095464c3da",
+  "sha256": "319bc4ebd88b94fedce720bd33017b93a000e18e4c8dac4b048bb7470d5aa0d2",
+  "submitted_sha256": "931f40b3b2bc2e8f6544770e0c0edc32d7c0ca65aeee8bce051f2a87b0c18a20",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual6",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "e3e7ff5c7d734dde1b52ae57c2a7f9bd16efd380e3636c77a3ca23b89d7c71ec",
+  "sha256": "abe023fc50960ead0d8b545961c815690f5b9ddbcc6ded5a8c2a3a7df059523c",
+  "submitted_sha256": "03e1ac318098ca1a6293b9aac569a9c993aa64aa898e388914a63054671612f4",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual7",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "db57c3c2687b787bf2544422780e794e09c06bd77c19b8d859920c4ca73dac53",
+  "sha256": "019ed768e2045c6d94f596d2d9828e1cb603e3f8c065533b58f8411b0f4858a4",
+  "submitted_sha256": "18887eafdda371fc6a6192caa579651b07a3cf0f6eacde388e2e4eb431d56b06",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual8",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "4cf5e69c1512593cba337d39d814d0848cd6549b1e2841a5f9853f5f2eaf2e6d",
+  "sha256": "e5896289d4cf5e1fcb8abccafb4293ac8a74b69e0f3292995c7ce62f36aeefe6",
+  "submitted_sha256": "f236b98385222ad87f0933f342b12ced497b395feb2d6525bc50bbd8f1b98ae1",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual9",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "25e0d7814d8129aeb63e6acc09ea926f77a4a4c2f0c8b5e32b14174f8bdc5d5c",
+  "sha256": "723ff124a2b78a1ec9ef591d7f8d10bdae047f7fd344fc351857fdadc8eda5d9",
+  "submitted_sha256": "da7b903fe9c204b10ffc55250fba5b291728d14714a2a1d700d5b92f9315e436",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual10",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "a475983551f8b61c042bb207be3726b34512a482da2ab090a763c4d9fcb6dffa",
+  "sha256": "db2301533237a6d7cfa34651be717af40566659a5872c12dbb1f8ea8f4ae745e",
+  "submitted_sha256": "376630977db803f7d1dba68567737cc5e78bcfabb2211d7311e50d8ca8d76f7a",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ },
+ {
+  "slot": "casual90",
+  "card": "데기라스",
+  "style": "anime_25d_gloss",
+  "filename": "데기라스_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "59eae8c5ca574d326478d097cee770252ae2e5e44b638400f8d0cd23ec7489f1",
+  "sha256": "85894757b5f61601fb88706e33e5244ba9a1d31e5e4a5643d3cc1d1a38254dbd",
+  "submitted_sha256": "d0e1c50ac3a78cb94eaec054fdd4b5c53f9a459d88d34a1fefdc11a615f9c694",
+  "submitted_same": true,
+  "reference_sha256": "2d12173030873d5301d042cfcee62bb4626d7312f78f826dcec1d20a8e72d2fc"
+ }
+]

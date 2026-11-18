@@ -1,0 +1,18 @@
+{
+ "card": "데기라스",
+ "style": "anime_25d_gloss",
+ "selection": 1,
+ "generated_casual_cuts": 11,
+ "submitted_prompts_match": true,
+ "anatomy": {
+  "tool": "unavailable: mediapipe 설치 없음",
+  "manual_review": "전 컷에서 보이는 팔다리·손의 연결, 관절 방향, 손가락 형태를 확인했다. 클로즈업과 가려진 손가락은 그려진 부분만 확인했다.",
+  "notes": {
+   "casual4": "버블 완드를 든 손과 얼굴을 확인했다. 반대 손은 프레임 밖이다.",
+   "casual7": "머리카락을 정리하는 한 손이 들어오는 얼굴 클로즈업으로, 반대 손은 프레임 밖이다.",
+   "casual10": "교차한 팔에 일부 손가락이 가려진다. 배경에 초점이 흐린 행사장 실루엣이 있다."
+  }
+ },
+ "regenerated": [],
+ "reference_match": "라벤더 회색과 금빛이 섞인 머리, 눈매와 피부톤을 메카컷 1번과 대조했다."
+}
