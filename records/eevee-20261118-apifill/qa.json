@@ -1,0 +1,38 @@
+{
+ "card": "이브이",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "이브이_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual3": {
+   "image": "이브이_anime_25d_gloss_f_casual3.webp",
+   "png_sha256": "2cde8a537276f76b17c91bb21c61a6bbd7636ca950dc53afe2e0c13dd7e316d7",
+   "webp_sha256": "d6379973354c0232ebe6254d315b1f754fea28048cc3773ed091deeeb713233d",
+   "submitted_same": true,
+   "submitted_sha256": "31ef41893ad4c1eeb3f119973e7694bcce86e8850b17ecfbcc71b097f925cc9b",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_da35bcf7252a4225af564c13036b0f31",
+   "tries": [
+    {
+     "step": "replan",
+     "request_id": "req_da35bcf7252a4225af564c13036b0f31",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "note",
+    "items": [
+     "note 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+    ],
+    "eye": "눈으로 봄 — 두 번째 인물 없음(뒤쪽 흐린 사람 · 인형 · 조각상을 몸으로 잡음), 팔다리 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}
