@@ -1,0 +1,210 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "The open glove shows separated fingers; curled lower glove partly occludes fingertips.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Selected option 2. Both arms and legs attach naturally. Glossy armor, pink curls, soft face shading and warm light ring read distinctly. Inner thighs are more exposed than written."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Selected option 2. Both arms and legs attach naturally. Glossy armor, pink curls, soft face shading and warm light ring read distinctly. Inner thighs are more exposed than written.",
+    "exposure": {
+      "result": "stronger",
+      "note": "Inner-thigh openings are present in the selected output."
+    }
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "outside frame",
+      "hands": "Both gloved wrists connect. One hand reaches the lower edge and is partly cropped.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Foil microphone, foley props, and pink costume hood are visible. She turns her face over her shoulder."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Foil microphone, foley props, and pink costume hood are visible. She turns her face over her shoulder."
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "outside frame",
+      "hands": "One hand adjusts the veil; fingers overlap the veil and hair. Other hand is outside the close frame.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Eye and cheek retain soft modeling in profile. Both shoulders are readable; one forearm is beyond the crop."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Eye and cheek retain soft modeling in profile. Both shoulders are readable; one forearm is beyond the crop."
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand pinches a clip; the other steadies the paper shapes. Some digits are overlapped by the props.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Raised arm connects naturally and the second hand remains separate. Paper moon and stars and opaque slate-teal stage outfit match the scene. Lower legs are cropped."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Raised arm connects naturally and the second hand remains separate. Paper moon and stars and opaque slate-teal stage outfit match the scene. Lower legs are cropped."
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand props her face, the other rests on the bed. Some digits and the far foot are partly occluded.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Two arms and legs follow the side-lying pose; green slip and open suitcase establish the suite scene."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Two arms and legs follow the side-lying pose; green slip and open suitcase establish the suite scene."
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand touches her cheek; one braces on the bench. Fingers overlap the cheek and bench edge.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Pink curls and the coral swimsuit retain their own colors. Reflection matches the single subject. Feet are out of frame."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Pink curls and the coral swimsuit retain their own colors. Reflection matches the single subject. Feet are out of frame."
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "outside frame",
+      "hands": "Both hands attach at the wrists and cup occlusion hides parts of the grips.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Hands hold opposite sides of the cup, with the mustard pleated top and appliance showroom visible."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Hands hold opposite sides of the cup, with the mustard pleated top and appliance showroom visible."
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "The hands are attached at hip and raised thigh; some fingers are partly occluded by the dress.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both legs and feet connect naturally. Steps, bridge, bicycle and dusk setting match the scene. Eyes close in the laugh."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Both legs and feet connect naturally. Steps, bridge, bicycle and dusk setting match the scene. Eyes close in the laugh."
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand pinches the constellation card; the other rests flat on the parapet.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Full-length observatory scene. One playfully closed eye, connected legs and feet, and the cobalt dress read distinctly."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Full-length observatory scene. One playfully closed eye, connected legs and feet, and the cobalt dress read distinctly."
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "outside frame",
+      "hands": "Both connected hands grip the wrapper and ice-pop stick. Finger ends are occluded by the grips.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both shoulders and arms are visible. The bus shelter and silver uniform are represented in the close crop."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Both shoulders and arms are visible. The bus shelter and silver uniform are represented in the close crop."
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms connect to spread hands on the vanity; the table angle foreshortens several fingers.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Photo zone and game-inspired outfit are visible. Any bystanders are small, out of focus and do not share subject focus."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "Photo zone and game-inspired outfit are visible. Any bystanders are small, out of focus and do not share subject focus."
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One connected hand supports the blanket and the other rests on the knee. Some fingertips are obscured by the blanket.",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "The scrub-inspired dress, ward, folded blanket, and natural seated pose read clearly. The feet fall outside the crop."
+    },
+    "style_25d": {
+      "判定": "2.5D",
+      "evidence": "Painted gradients shade nose, cheeks and jaw. Fine contours and separate dimensional highlights on hair, skin and clothing."
+    },
+    "status": "accepted",
+    "note": "The scrub-inspired dress, ward, folded blanket, and natural seated pose read clearly. The feet fall outside the crop."
+  }
+}

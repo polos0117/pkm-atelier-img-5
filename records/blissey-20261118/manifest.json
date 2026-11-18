@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746",
+    "sha256": "31d02880aad9169c79632c8ebe82d4050504e609dbd7987fed36d2b9f9b47db2",
+    "submitted_sha256": "14616341649d2c341879cdf04a53428e259895b6d381b7a1350db301df729b74",
+    "submitted_same": true,
+    "reference_sha256": null
+  },
+  {
+    "slot": "casual1",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "b81fabc5dfa49e9faec99e53d665338a7ff16aff062931a7dd762471b7b3a807",
+    "sha256": "4327abf889da4cd4a9e499994a4539924cd37c90c89d748d0fcef6d9791f4a1a",
+    "submitted_sha256": "74c774e0801c841cea10ab126914b0f35632a5a828e8da8c2963b4539397b761",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual2",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "52eb69ffd740b105460573660b2bb9ec79996158e96854855ad47f94144ad749",
+    "sha256": "c5a0cf8e351fb1a85ebfff8f827b38dac991356307b6ccac9322f45cfa63a711",
+    "submitted_sha256": "34759e1049dca6c2569189b7515223a6a4cdc53f34ed0418117eb892ee28b5bd",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual3",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "e30b31ba37812dc00e3cb9dc771c72a8d4009c316bf76717d7c741b6692ee1e7",
+    "sha256": "1aaa084794e0ef105450d7873403281943f13ba5e4d082a0badb7e1044736787",
+    "submitted_sha256": "b532e23564a5c484541fda78d46311a1f3c3467f83dd208cae673dcf27e0563c",
+    "submitted_same": false,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual4",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "76134139230d96b2392b19fda3781b65583833e08d5e82c728a1cd87f87789b7",
+    "sha256": "06d24ff9530b2c423f4ba26fa35f46af617605fcd6b3116eab2be9a021b55571",
+    "submitted_sha256": "6c46f999fae855c170bac1defc1b7845502267bae06de1dbec37fdd29ec33748",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual5",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "3a14c4bf93ed4d384393eda0bb787baef72f686e398311a7d59c11dd0d197535",
+    "sha256": "d05bba36ee3efba29027700884e18f07c3f21737324e200655bd8a818e1a8337",
+    "submitted_sha256": "16f79cf5bdce42fade6939d99fb07bde393a691f337288757323a184e06fc14b",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual6",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "4a86ccc9ca46cf21a6d70997e3b8344d1bdb4f1ace99dac136effa281b461675",
+    "sha256": "f33a33f43e968146389b1270e2b13ab3e52d11cd8aafc677bc1238adf7bf13db",
+    "submitted_sha256": "921f8413f8c5d01682f6cb7b7b14d2639d3085e20b725417037f0bc6771f07d6",
+    "submitted_same": false,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual7",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "b783902d2ad26cbea91265520c1c4d97b08dae40edbd81665734c64d52e1c145",
+    "sha256": "5ce66a0684e6e3ad7d3fb01807a431a3b146986ee42c433cfe9ed6ff969317b0",
+    "submitted_sha256": "a523ab51306dd445281394a1ecc9623dfc0a16620dd1bfeccbeb457314869a03",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual8",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "7c603a2a4bd7a45ef983f1ddba7dd44fe82a40feb21739607655a9bf4282832a",
+    "sha256": "5880801455422971f9f9df86faf0b8db5ed9fee803b5e73ca397e2c17ec96e44",
+    "submitted_sha256": "e6ffc410ab5ea92217cb081763e92a2a1e70176a99d7a002c30136b517fbd77d",
+    "submitted_same": false,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual9",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "56960cc6f579e4c564000cdddbd294291266c0fcefbd36acdee8300b34ac57d2",
+    "sha256": "4b7f907152848148ca701831eccc58e369f246eef03d589ccceb72d8a1371764",
+    "submitted_sha256": "5a1e78b7edce31c0fad8154d91c96e99469bcfe79db0c11693097e1c744b3a5d",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual10",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "03206f3ef9ce1e011bf3558fa468b23cab58d5350b737d9d726dcc429fe30329",
+    "sha256": "c5fda2766ab38650803d82ff8d5a688c393350b8f67caffb8a18dc38cac498aa",
+    "submitted_sha256": "1b2cc20cd53595e88ef97c616382e2a6df4ed2b921ae88191c42e1a3876bde12",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  {
+    "slot": "casual90",
+    "card": "해피너스",
+    "style": "anime_25d_gloss",
+    "filename": "해피너스_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "70626253727d0353e2593c2d5ad4c79b9cf881e1eda957b6de2e36c53d0421c6",
+    "sha256": "cdc190746c7bd42136b570f3a7f43963224d54390e3fb2ee9168e2d9b3843eb0",
+    "submitted_sha256": "76d88c367cdf79583554bf9f541d3dc60378acc25d83a4079dbf6a2b6b8d6e8c",
+    "submitted_same": true,
+    "reference_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  }
+]

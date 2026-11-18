@@ -1,0 +1,20 @@
+{
+  "card": "해피너스",
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "count": 12,
+  "casual_count": 11,
+  "status": "ready_to_publish",
+  "originals": "Session-local PNG; hash of each source recorded in manifest.",
+  "reference": {
+    "filename": "해피너스_light_anime_25d_gloss_f.webp",
+    "original_sha256": "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746"
+  },
+  "selection_sha256": [
+    "86fdf208551aa38087af183c70bcb53afcc17b84e18b82e3f89e925f189fe1b5",
+    "d37dceff6bb7c1f7b4feb76585916ac7d358ca195ef177804f811573ab0c1746",
+    "54d57b90d94bb5d546e2c8dae6a74dbf4bc06b3bc0cf117cfb9cb3adcb7c2729",
+    "0e8e323417200e87fffba5727d630efc559bab3c44c9b3c049f38fe8e26c55be"
+  ],
+  "recorded_at": "2026-11-18T13:26:36.919603+00:00"
+}
