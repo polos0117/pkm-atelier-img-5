@@ -1,0 +1,68 @@
+{
+  "casual1": {
+    "submitted_sha256": "d2985e5ae97c9ea0e88c955e5be2cb8981d7b4de7ea621e548e5abcd5aa0d1fd",
+    "prompt_sha256": "d2985e5ae97c9ea0e88c955e5be2cb8981d7b4de7ea621e548e5abcd5aa0d1fd",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual2": {
+    "submitted_sha256": "27ed6cc43d23dfc290d50aca16dc35d0fce4eed61d5f23aa16d5f35206742a54",
+    "prompt_sha256": "27ed6cc43d23dfc290d50aca16dc35d0fce4eed61d5f23aa16d5f35206742a54",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual3": {
+    "submitted_sha256": "8c16fe8d29ca73c826ad52541835eab6e1597cd691260e5f969f222b7cb2bb4e",
+    "prompt_sha256": "8c16fe8d29ca73c826ad52541835eab6e1597cd691260e5f969f222b7cb2bb4e",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual4": {
+    "submitted_sha256": "d05defd4844822cea356979f61f17e6428128d5d61b22d9e880150d8ae849bd8",
+    "prompt_sha256": "d05defd4844822cea356979f61f17e6428128d5d61b22d9e880150d8ae849bd8",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual5": {
+    "submitted_sha256": "ecea843c19f9657179b8ef7828a1d61a3eb6373b70975c3260a70697e930bee2",
+    "prompt_sha256": "e0f96ba4ab5e899e1e5671812b79adf719861f1792a12a7798c469b5387e655f",
+    "same": false,
+    "authorized_exception": "designated free scene from brief"
+  },
+  "casual6": {
+    "submitted_sha256": "ed2d60aabe982c4536b0aa47c933bda99fba885770acb5190a7a96cad8e6a6cb",
+    "prompt_sha256": "ed2d60aabe982c4536b0aa47c933bda99fba885770acb5190a7a96cad8e6a6cb",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual7": {
+    "submitted_sha256": "c8ffd8007ba7ed78e872d9e027ac7f2d5dc416c06f918e3b6a6c1e2785e8c58c",
+    "prompt_sha256": "c8ffd8007ba7ed78e872d9e027ac7f2d5dc416c06f918e3b6a6c1e2785e8c58c",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual8": {
+    "submitted_sha256": "b4fff060f51d396394ea89cecf2583a92642e95758f2d31206ee49e4e02fa9d3",
+    "prompt_sha256": "b4fff060f51d396394ea89cecf2583a92642e95758f2d31206ee49e4e02fa9d3",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual9": {
+    "submitted_sha256": "a7ae5bef031799345812a77640d8e593475a2b4691018d88b87c5e47fdeb2ba4",
+    "prompt_sha256": "a7ae5bef031799345812a77640d8e593475a2b4691018d88b87c5e47fdeb2ba4",
+    "same": true,
+    "authorized_exception": null
+  },
+  "casual10": {
+    "submitted_sha256": "2589098ab50e69eec34b0524479c5df3e89a2a70659eba6590883de2363f4216",
+    "prompt_sha256": "18478ff3ee1c95b39d249f999fba65d96b9201c6a1b47328e81598cde6b6027b",
+    "same": false,
+    "authorized_exception": "designated free scene from brief"
+  },
+  "casual90": {
+    "submitted_sha256": "45f256bfb7243f5992e0f147da5f4068be66c1202ebec39a03e3f5c907fa2527",
+    "prompt_sha256": "45f256bfb7243f5992e0f147da5f4068be66c1202ebec39a03e3f5c907fa2527",
+    "same": true,
+    "authorized_exception": null
+  }
+}

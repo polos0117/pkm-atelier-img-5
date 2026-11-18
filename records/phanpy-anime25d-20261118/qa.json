@@ -1,0 +1,266 @@
+{
+  "light": {
+    "status": "selected_and_recovered",
+    "size": [
+      704,
+      1056
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "시트에서 복구한 사용자 선택 2번. 두 팔과 두 다리가 몸에 연결; 펼친 손은 다섯 손가락, 주먹은 일부 가림. 밝은 파란 판금·짧은 층 머리·갈색 피부·남색 눈.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "시트에서 복구한 사용자 선택 2번. 두 팔과 두 다리가 몸에 연결; 펼친 손은 다섯 손가락, 주먹은 일부 가림. 밝은 파란 판금·짧은 층 머리·갈색 피부·남색 눈. Original 1024x1536 disappeared in environment reset; 704x1056 exact selected panel recovered from saved sheet, no resampling or regeneration."
+  },
+  "casual1": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "나무가 있는 공원에서 엎드려 두 손으로 턱을 받침. 양 팔꿈치·손목 연결, 손가락은 얼굴 접촉으로 일부 가림. 무릎 아래 두 발을 뒤로 올림; 코코리 동료 한 마리와 주황 투피스.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "나무가 있는 공원에서 엎드려 두 손으로 턱을 받침. 양 팔꿈치·손목 연결, 손가락은 얼굴 접촉으로 일부 가림. 무릎 아래 두 발을 뒤로 올림; 코코리 동료 한 마리와 주황 투피스."
+  },
+  "casual2": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "행사장 검은 란제리 티파 코스프레, 붉은 부츠·가터·검은 장갑. 두 팔은 양 어깨에서 아래로 연결, 장갑 손가락 일부 겹침. 몸은 뒤 3/4, 얼굴은 옆으로 보임.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "행사장 검은 란제리 티파 코스프레, 붉은 부츠·가터·검은 장갑. 두 팔은 양 어깨에서 아래로 연결, 장갑 손가락 일부 겹침. 몸은 뒤 3/4, 얼굴은 옆으로 보임."
+  },
+  "casual3": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "캠핑장 얼굴 가까운 컷, 카키 홀터 원피스, 웃는 얼굴. 한 손 V사인, 반대 팔은 어깨에서 아래 프레임 밖으로 이어짐. 다리·반대 손은 프레임 밖.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "캠핑장 얼굴 가까운 컷, 카키 홀터 원피스, 웃는 얼굴. 한 손 V사인, 반대 팔은 어깨에서 아래 프레임 밖으로 이어짐. 다리·반대 손은 프레임 밖."
+  },
+  "casual4": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "옥상 파티에서 휴대전화를 보는 상반신 코스튬. 오른팔은 전화기를 쥐고 왼손은 난간에 놓임, 두 팔이 각각 어깨에 연결; 쥔 손가락은 일부 가림.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "옥상 파티에서 휴대전화를 보는 상반신 코스튬. 오른팔은 전화기를 쥐고 왼손은 난간에 놓임, 두 팔이 각각 어깨에 연결; 쥔 손가락은 일부 가림."
+  },
+  "casual5": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "도자기 전시장 마당에서 항아리 가장자리에 오른손, 왼손은 무릎 위. 양 팔·손목 연결, 손가락 다섯 형태와 자연스러운 겹침. 코랄 비대칭 탑과 어두운 바지; 무표정.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "도자기 전시장 마당에서 항아리 가장자리에 오른손, 왼손은 무릎 위. 양 팔·손목 연결, 손가락 다섯 형태와 자연스러운 겹침. 코랄 비대칭 탑과 어두운 바지; 무표정. 服装差異: culotte shorts rendered nearer a long wide culotte silhouette; preserved."
+  },
+  "casual6": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "유리 아치 수중 궁전에서 회색 링 비키니로 옆으로 앉음. 두 손은 각각 좌석과 허벅지 위, 두 팔 연결. 손가락 일부는 좌석·원근으로 겹침, 다리는 앉은 자세로 몸과 연결.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "유리 아치 수중 궁전에서 회색 링 비키니로 옆으로 앉음. 두 손은 각각 좌석과 허벅지 위, 두 팔 연결. 손가락 일부는 좌석·원근으로 겹침, 다리는 앉은 자세로 몸과 연결."
+  },
+  "casual7": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "해안 바위에서 한쪽 무릎을 굽힘, 오른손 전화기·왼손 바위 지지. 양 팔과 다리 연결. 노란 드레이프·금빛 목 장식·발목 샌들. 쥔 손가락 일부 가림.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "해안 바위에서 한쪽 무릎을 굽힘, 오른손 전화기·왼손 바위 지지. 양 팔과 다리 연결. 노란 드레이프·금빛 목 장식·발목 샌들. 쥔 손가락 일부 가림."
+  },
+  "casual8": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "방에서 모브 홀터 란제리, 두 손으로 수건을 잡아 머리를 말림. 두 팔이 각각 양 어깨로 연결, 수건 때문에 일부 손가락 가림. 얼굴과 피부톤 유지.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "방에서 모브 홀터 란제리, 두 손으로 수건을 잡아 머리를 말림. 두 팔이 각각 양 어깨로 연결, 수건 때문에 일부 손가락 가림. 얼굴과 피부톤 유지."
+  },
+  "casual9": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "빨래방 벤치에 옆으로 앉아 두 손은 각각 벤치와 무릎 위. 크림·검정 메이드 앞치마, 우울한 표정. 양 팔·손목 연결, 손가락 일부 겹침.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "빨래방 벤치에 옆으로 앉아 두 손은 각각 벤치와 무릎 위. 크림·검정 메이드 앞치마, 우울한 표정. 양 팔·손목 연결, 손가락 일부 겹침. 계획보다 어두운 패널과 더 긴 앞치마로 표현됨 — 결과 보존."
+  },
+  "casual10": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "식물원 무대에서 큰 잎 캐노피를 한 손으로 받치고 반대 손으로 리본을 쥠. 두 팔·다리 자연 연결, 보이는 손의 일부 손가락은 잡은 물체에 가려짐. 보라·크림 식물 무대 의상.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "식물원 무대에서 큰 잎 캐노피를 한 손으로 받치고 반대 손으로 리본을 쥠. 두 팔·다리 자연 연결, 보이는 손의 일부 손가락은 잡은 물체에 가려짐. 보라·크림 식물 무대 의상."
+  },
+  "casual90": {
+    "status": "generated",
+    "size": [
+      1024,
+      1536
+    ],
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "굴착 현장에서 안전모·반사 조끼·짧은 작업 바지. 오른손 허리, 왼손 안전모, 두 팔 연결. 무릎 아래는 프레임 밖. 표정은 계획의 환한 미소보다 차분함.",
+      "overlay_checked": false,
+      "note": "Visible connections inspected; hidden fingers and out-of-frame limbs not assumed visible."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "Soft cheek, nose and lip gradients; skin highlights; layered hair strands and material shading."
+    },
+    "regenerated_after_result": false,
+    "notes": "굴착 현장에서 안전모·반사 조끼·짧은 작업 바지. 오른손 허리, 왼손 안전모, 두 팔 연결. 무릎 아래는 프레임 밖. 표정은 계획의 환한 미소보다 차분함."
+  }
+}

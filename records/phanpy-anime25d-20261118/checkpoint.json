@@ -1,0 +1,26 @@
+{
+  "card": "코코리",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "stage": "ready_to_publish",
+  "total": 12,
+  "generation_tool": "built-in image_gen",
+  "regenerated_after_result": false,
+  "selection_source": {
+    "library_file_id": "libfile_2b4ed82d0478819183557a9992461040",
+    "panel_box": [
+      728,
+      80,
+      1432,
+      1136
+    ],
+    "size": [
+      704,
+      1056
+    ],
+    "why": "environment reset lost original; exact saved panel recovered without regeneration",
+    "original_prompt": "Earlier transcript available; original pack lost. New settings used for casual generation only."
+  },
+  "git_storage": "shared bare partial clones and task sparse worktrees",
+  "manifest": "manifest.json"
+}

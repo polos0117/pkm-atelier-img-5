@@ -1,0 +1,158 @@
+[
+  {
+    "slot": "light",
+    "file": "코코리_light_anime_25d_gloss_f.webp",
+    "size": [
+      704,
+      1056
+    ],
+    "original_sha256": "028a75f498ef9aacab8b818a1854ec9a662b53a81cbdb2f8469c1c859bba601e",
+    "webp_sha256": "a898102040290c76cc686093bef607ff11aacb8ca905abc4148fbf30e83eb30e",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "user selection 2"
+  },
+  {
+    "slot": "casual1",
+    "file": "코코리_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "83d6c815ccd06f9a72ed5c93a8d1fe08dcf7b4595f53a1eec92743f711310c5a",
+    "webp_sha256": "0e8c4c628c7b080fb867b690ae17d6469e3953b411c5dedc698506b685ce011e",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual2",
+    "file": "코코리_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "f7f82f32fbb4e3a52987098aa541c90be666d86ce1eded7e5add3caaaf3db099",
+    "webp_sha256": "3bfa0f5ee72756e57926c92a3b44e75a360886cfb1e4be4b651bdf01322c3e23",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual3",
+    "file": "코코리_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "f7f9cec94018054b5aa933bf0d6be4bc0828007d0a8ef0c8b4174d2b3c43ae37",
+    "webp_sha256": "8124e1b13cfc9595fe8b69d04f018d9968e960c75ebcee10a48024d526b0be83",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual4",
+    "file": "코코리_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "5fd616950207fffec7c0d7952ae27f9b6bcb4efab75c10ee2c273ce2b8bd61b4",
+    "webp_sha256": "03d7a2ca0141de9fd4c6ed94e986a351482971c38486ff8cfadaa4147c7fc9e0",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual5",
+    "file": "코코리_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "7970addc5082ad6a0b0acf4843545789215255de40ad6945860c751d9c23be38",
+    "webp_sha256": "9389d5394ec0dfd55193982f31fa0e9b2ebbf4716c596484cfb87e937309befe",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual6",
+    "file": "코코리_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "17740f4a317cb69f71d19f273f55c0126ebe1246d13c989555759910f8a9bc0b",
+    "webp_sha256": "8dfff77f4a235be8c53a9c306a6bdc27a87affc2fb2f6f2cfa771e1261678511",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual7",
+    "file": "코코리_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "f2ff9ecae148e8baf72ed166a32174db5e58e20e1b009ee9add7a9e5e1b1bdb3",
+    "webp_sha256": "fad3410170ca0a2c111d4283cf9d8273722ba7457175696bed8cef610991e917",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual8",
+    "file": "코코리_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "0c48166b9f42e0be84f3941a870363c448d8fcdf50a119560f8acc9d616a29e3",
+    "webp_sha256": "ba75518980ca6c45392bdf7f418d2c50b7bc3747af7e396c693236326f57cc29",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual9",
+    "file": "코코리_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "976274e18d66eaac25cd9e76f32b5ccd6d2adc355dcf14c70c536dfdb7814883",
+    "webp_sha256": "4b2bc680cf3eb9c6f68b430426a74dba8dd2cae6a31b9ed9689e15a50e7917bc",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual10",
+    "file": "코코리_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "3eaf1279b96b5b449a259fd1c6cd17227d00a56171e55959a7a6c7166164ffbb",
+    "webp_sha256": "fa498138b7272f4975e87679370cf42f60990081a3582a92932c2204dcb4fcba",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  },
+  {
+    "slot": "casual90",
+    "file": "코코리_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "0048fe71f2bab91ae1f00236fbe1a5335a096076d2f63b84a9ac0537d0201586",
+    "webp_sha256": "436b9f89d144eb3e7f77134a1cd2aae7e51bc39a95782a4bfa4c6fe368b32f83",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "evidence": "generated from submitted prompt and selected 2 reference"
+  }
+]
