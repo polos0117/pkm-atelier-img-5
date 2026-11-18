@@ -1,0 +1,24 @@
+{
+ "card": "코일",
+ "session": "api-fill-1118",
+ "cuts": [
+  {
+   "cut": 6,
+   "from": {
+    "bundle": "magnemite-20261111-a111",
+    "repo": "pkm-atelier-img-4",
+    "prompt_file": "casual6-prompt.txt",
+    "why": "앞 세션에서 결과가 막혀 비었던 자리 — 같은 지시문 그대로 API 로"
+   }
+  },
+  {
+   "cut": 7,
+   "from": {
+    "bundle": "magnemite-20261111-a111",
+    "repo": "pkm-atelier-img-4",
+    "prompt_file": "casual7-prompt.txt",
+    "why": "앞 세션에서 결과가 막혀 비었던 자리 — 같은 지시문 그대로 API 로"
+   }
+  }
+ ]
+}

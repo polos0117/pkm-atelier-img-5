@@ -1,0 +1,66 @@
+{
+ "card": "코일",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "코일_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual6": {
+   "image": "코일_anime_25d_gloss_f_casual6.webp",
+   "png_sha256": "5ce0997515f0a380050cbdecb0fa4f93bee89c872f28aec0e207f385aa1f6875",
+   "webp_sha256": "b26c90fb01e8c684e06747c7eb7fa52b243cb440baff3e43b575b603054ce4e2",
+   "submitted_same": true,
+   "submitted_sha256": "24d712bdc95d364bdf5a8605f99d4ff39b27fa5f20a26a41efa9182da8499bd3",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_65f8dd3239284b47ab8b2763f8748e7c",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_65f8dd3239284b47ab8b2763f8748e7c",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  },
+  "casual7": {
+   "image": "코일_anime_25d_gloss_f_casual7.webp",
+   "png_sha256": "712f5ba405f8857db12e3a9963582b3db7cc77f807e3b671e2aac7e1476a78be",
+   "webp_sha256": "250f7b23038d7dabefafac41248ed78c0d50d3854b368e8d648d449067b88a21",
+   "submitted_same": true,
+   "submitted_sha256": "954a30a1fdec639e999632cfd8b90320f85962ad9ca93c25a8358a8dc049f99b",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_50ec1246205c4303ba11e57d3336c85f",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_50ec1246205c4303ba11e57d3336c85f",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "check",
+    "items": [
+     "note 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+     "check 손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 7.3 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+    ],
+    "eye": "눈으로 봄 — 팔 둘 · 다리 둘 · 손가락 · 엄지 쪽 이상 없음. 검사기가 뒤쪽 사람 · 장갑 · 소품을 몸 · 손으로 잡은 것"
+   }
+  }
+ },
+ "skipped": []
+}
