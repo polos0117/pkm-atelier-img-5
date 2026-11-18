@@ -1,0 +1,65 @@
+{
+ "card": "파르셀",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "파르셀_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual8": {
+   "image": "파르셀_anime_25d_gloss_f_casual8.webp",
+   "png_sha256": "cc7b6e3de19d2a660ec49b2555c9341bbce36534a1dde52386712281e00f3a8a",
+   "webp_sha256": "e050a4b66747f3d868a90ed2b2ecd4b292b23289a0390f04fe91a4083fe62fdb",
+   "submitted_same": true,
+   "submitted_sha256": "ea6ea0c3e6e0406c5c54ad36e10d68a403117479273375910ebab2f64f7a66b2",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_9750cb257c8e42068958cd820144bb36",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_9750cb257c8e42068958cd820144bb36",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "note",
+    "items": [
+     "note 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+    ],
+    "eye": "눈으로 봄 — 두 번째 인물 없음(뒤쪽 흐린 사람 · 인형 · 조각상을 몸으로 잡음), 팔다리 이상 없음"
+   }
+  },
+  "casual9": {
+   "image": "파르셀_anime_25d_gloss_f_casual9.webp",
+   "png_sha256": "6d9f49a53aa32d91df2a5c11a52b318298ac8e78e256be1a5f25037b495bfd02",
+   "webp_sha256": "8ad5551949c1b8821c118ea7978a377a24e51624ea4a15f6416f946f88162e95",
+   "submitted_same": true,
+   "submitted_sha256": "2250932b4dd1f4dfdfb7281eef04d3589f0c69a171919fe126e33684ce8957bc",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_c28ffde36faa4210bcdfe3461dcd565f",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_c28ffde36faa4210bcdfe3461dcd565f",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}

@@ -1,0 +1,24 @@
+{
+ "card": "파르셀",
+ "session": "api-fill-1118",
+ "cuts": [
+  {
+   "cut": 8,
+   "from": {
+    "bundle": "cloyster-20261112-231e",
+    "repo": "pkm-atelier-img-4",
+    "prompt_file": "casual8-prompt.txt",
+    "why": "앞 세션에서 결과가 막혀 비었던 자리 — 같은 지시문 그대로 API 로"
+   }
+  },
+  {
+   "cut": 9,
+   "from": {
+    "bundle": "cloyster-20261112-231e",
+    "repo": "pkm-atelier-img-4",
+    "prompt_file": "casual9-prompt.txt",
+    "why": "앞 세션에서 결과가 막혀 비었던 자리 — 같은 지시문 그대로 API 로"
+   }
+  }
+ ]
+}
