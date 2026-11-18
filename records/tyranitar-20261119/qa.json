@@ -1,0 +1,197 @@
+{
+ "slots": {
+  "light": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "손바닥을 든 팔과 아래로 내린 장갑 낀 팔이 각각 어깨와 이어진다. 장갑과 주먹에 가려진 손가락이 있다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "어깨와 네크라인이 보이며 나머지는 장갑과 갑주가 덮는다."
+   }
+  },
+  "casual1": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "오른손은 연줄을 들고 왼손은 돌 난간에 닿는다. 무릎 아래는 프레임 밖이다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 어깨가 열리고 쇼츠 아래 다리가 보인다."
+   }
+  },
+  "casual2": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "양손을 가슴 앞에서 맞대고 있어 겹친 손가락은 가려진다. 두 무릎이 바닥에 닿는다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "코스튬의 어깨와 허벅지 부분이 드러난다."
+   }
+  },
+  "casual3": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "오른손은 수건을 잡고 왼손은 바닥을 짚는다. 두 무릎의 자세가 다르게 보인다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "짧은 재킷 안쪽으로 복부가 드러난다."
+   }
+  },
+  "casual4": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "한 손이 턱을 받치고 다른 손은 프레임 밖이다. 양팔이 어깨에서 이어진다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "레이스 의상과 목선이 보인다. 쇄골 컷 지시보다 프레이밍이 넓다."
+   }
+  },
+  "casual5": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "한 손은 머리 옆, 한 손은 물에 닿아 있다. 하체는 물과 프레임에 가려진다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "점프수트의 열린 어깨와 목선이 보인다."
+   }
+  },
+  "casual6": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "팝콘을 든 손과 통을 받치는 손이 양쪽 팔과 이어진다. 일부 손가락이 통에 가려진다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "붉은 레이스 의상의 어깨와 목선이 보인다."
+   }
+  },
+  "casual7": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "한 손은 뺨 옆에 있고 한 손은 무릎 쪽에 놓인다. 하체와 손끝 일부가 잘린다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "새틴 상의의 비대칭 어깨선이 보인다."
+   }
+  },
+  "casual8": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "한 손은 컵을 들고 다른 손은 벤치 위에 있다. 하체 아래는 프레임 밖이다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "한쪽 어깨가 드러나고 다리는 바지가 덮는다."
+   }
+  },
+  "casual9": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "양손이 의자와 무릎 옆에 있고, 다리와 신발이 보인다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "수영복과 가볍게 걸친 유카타의 구성이 보인다."
+   }
+  },
+  "casual10": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "두 어깨와 팔꿈치가 이어지며 손은 화면 가장자리에서 잘린다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "상체 프레이밍에서 붉은 의상의 목선과 장갑이 보인다."
+   }
+  },
+  "casual90": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "manual_review": true,
+    "overlay_checked": false,
+    "note": "두 손을 허벅지에 놓고 앉았으며, 무릎 아래와 두 작업화가 이어진다."
+   },
+   "style_25d": {
+    "판정": "일치",
+    "근거": "얼굴의 코와 턱 음영, 머리카락 결, 재질별 하이라이트가 보인다."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "작업용 앞치마와 스카프, 팔과 다리가 보인다."
+   }
+  }
+ },
+ "skipped": []
+}
