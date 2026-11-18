@@ -1,0 +1,206 @@
+{
+  "light": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Open hand raised; lower full-finger glove is closed and its fingertips partly hidden.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Selected GPT A with a layered grey ruff and volcanic backdrop. The overlay shows one actual figure."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Selected GPT A with a layered grey ruff and volcanic backdrop. The overlay shows one actual figure."
+  },
+  "casual1": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 오른팔 끝의 손이 왼손으로 보인다 — 엄지가 반대쪽인 뒤집힌 손(손등이 보이면 모델이 헷갈리기도 한다)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand on the lantern handle; fingers partly hidden by grip. Other hand relaxed and visible.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Lighthouse festival outfit and lantern at the seaside tram stop. Overlay handedness alert reviewed against the relaxed hand and lantern grip."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Lighthouse festival outfit and lantern at the seaside tram stop. Overlay handedness alert reviewed against the relaxed hand and lantern grip."
+  },
+  "casual2": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "suspect · 손 하나가 어느 팔 끝에도 안 붙었다(가까운 왼손목에서 어깨너비의 1.0 배) — 셋째 손·떨어진 손 · 손이 3 개 잡혔다 — 사람 손은 둘",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand holds folded paper and bread; the other rests on the ledge.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "The extra detection lands on the shoulder; two connected hands in the original. Gold crest retained."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "The extra detection lands on the shoulder; two connected hands in the original. Gold crest retained."
+  },
+  "casual3": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand wraps around the watermelon, the other rests on the knee.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Both feet and the balcony seating pose read clearly."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Both feet and the balcony seating pose read clearly."
+  },
+  "casual4": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": "below frame",
+      "hands": "Two hands are visible on the bar and chair. Wrist placement is consistent with the pose.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Entei costume with ruff and crest; low crop ends above the knees."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Entei costume with ruff and crest; low crop ends above the knees."
+  },
+  "casual5": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand holds the towel, partly hiding its fingertips; the other sits on her thigh.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "The image retains the gold crest as a hair accessory."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "The image retains the gold crest as a hair accessory."
+  },
+  "casual6": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand supports her temple; one open hand rests on the floor.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Xe’ra cosplay. Boots cross and partly overlap."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Xe’ra cosplay. Boots cross and partly overlap."
+  },
+  "casual7": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand touches a knee; the other is set on the wrap. Folded ankles partly overlap.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "The image retains the gold crest as a hair accessory."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "The image retains the gold crest as a hair accessory."
+  },
+  "casual8": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": "under water",
+      "hands": "One hand tucks hair, partly obscuring fingertips; the other touches the water.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "The opaque thermal bathing outfit and the upper back remain visible."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "The opaque thermal bathing outfit and the upper back remain visible."
+  },
+  "casual9": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 1.8 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다",
+      "arms": 2,
+      "legs": "outside frame",
+      "hands": "One hand holds a coin; the other is outside the portrait crop.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "The coin hand joins its wrist and forearm in the original; the detector could not trace the cropped arm."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "The coin hand joins its wrist and forearm in the original; the detector could not trace the cropped arm."
+  },
+  "casual10": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다",
+      "arms": 2,
+      "legs": "outside frame",
+      "hands": "One hand rests above the opposite elbow; other hand is occluded by the crossed arms.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Relaxed balcony portrait with distant volcano."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Relaxed balcony portrait with distant volcano."
+  },
+  "casual90": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 손 하나가 어느 팔 끝에도 안 붙었다(가까운 왼손목에서 어깨너비의 2.6 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand grips the long lighter; the other rests on the launch platform.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "Fireworks technician scene. Both wrists connect in the original; the pose model misses the low support wrist beside her boot."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and distinct hair, fabric and hardware rendering."
+    },
+    "note": "Fireworks technician scene. Both wrists connect in the original; the pose model misses the low support wrist beside her boot."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "light": [
+    {
+      "slot": "light",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "5e949c85d56eb480113286f526259a3be7a49b165e27b36c437d6e04a234807a",
+      "submitted_sha256": "5e949c85d56eb480113286f526259a3be7a49b165e27b36c437d6e04a234807a",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual1": [
+    {
+      "slot": "casual1",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "0dbceddaebbe57b34ae2e08328d7884300c653e99b0e7cb78b0d7f21cd3e4a00",
+      "submitted_sha256": "ba188b5c95955d88b08a27b87a5c68013f9baed27167d2cf12551bffa7ffe55d",
+      "same": false,
+      "style_kept": true,
+      "authorized_change": "Free scene and outfit"
+    }
+  ],
+  "casual2": [
+    {
+      "slot": "casual2",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "439c4b1501b3e50f616cd3d2b7383d2da35ce0fa9fc456b188f2818b4e469e6e",
+      "submitted_sha256": "4f76580aec48c4bb1053e86c6cb15aa2d499b0d12a3921625bc8fc080b1bcee3",
+      "same": false,
+      "style_kept": true,
+      "authorized_change": "Free scene and outfit"
+    }
+  ],
+  "casual3": [
+    {
+      "slot": "casual3",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "5137b458e916707802d9c95dfdb68495288127361ba71a9e799ea37d62847a54",
+      "submitted_sha256": "5137b458e916707802d9c95dfdb68495288127361ba71a9e799ea37d62847a54",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual4": [
+    {
+      "slot": "casual4",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "ccf73843ed8ab837cd59de0d248abb4936ef15d7476ac2164447ce4fc3e3329b",
+      "submitted_sha256": "ccf73843ed8ab837cd59de0d248abb4936ef15d7476ac2164447ce4fc3e3329b",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual5": [
+    {
+      "slot": "casual5",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "becfdab40b0ce2f347dde5c811e9b27248e835f2771a3a422ecae397d04a9fd3",
+      "submitted_sha256": "becfdab40b0ce2f347dde5c811e9b27248e835f2771a3a422ecae397d04a9fd3",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual6": [
+    {
+      "slot": "casual6",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "2fdb14b8ca8276f019d3cda37f8755d4996673e2069081c96a0b4bea827f208e",
+      "submitted_sha256": "2fdb14b8ca8276f019d3cda37f8755d4996673e2069081c96a0b4bea827f208e",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual7": [
+    {
+      "slot": "casual7",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "db1aed8a32f2eaee311d5300bfdcd653272477edcea34acf25b1b14ac2a96e2c",
+      "submitted_sha256": "db1aed8a32f2eaee311d5300bfdcd653272477edcea34acf25b1b14ac2a96e2c",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual8": [
+    {
+      "slot": "casual8",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "8156aef6d0cd31d5932f5c48d8e4c72bb22c47dee6b2e7fba6375ac0c4b77f37",
+      "submitted_sha256": "0c375c39f9575ec5767bcf996c16a757c376028527c106dbcaabd4343aa1dedc",
+      "same": false,
+      "style_kept": true,
+      "authorized_change": "Free outfit line"
+    }
+  ],
+  "casual9": [
+    {
+      "slot": "casual9",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "7d703a542cb606bb9110b1ae8efa63b21b51b687224457ca6af8e2b09dd85db3",
+      "submitted_sha256": "7d703a542cb606bb9110b1ae8efa63b21b51b687224457ca6af8e2b09dd85db3",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual10": [
+    {
+      "slot": "casual10",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "211aaefda4e13b47b9a639b8d52dacc00aaee076ed15f73ac230099c61b322b4",
+      "submitted_sha256": "211aaefda4e13b47b9a639b8d52dacc00aaee076ed15f73ac230099c61b322b4",
+      "same": true,
+      "style_kept": true
+    }
+  ],
+  "casual90": [
+    {
+      "slot": "casual90",
+      "at": "2026-11-18T13:56:36.477632+00:00",
+      "prompt_sha256": "cb077a69e83d95ca27079d07e2e7282992f4e8c50aba65e2462471fc21a2faba",
+      "submitted_sha256": "cb077a69e83d95ca27079d07e2e7282992f4e8c50aba65e2462471fc21a2faba",
+      "same": true,
+      "style_kept": true
+    }
+  ]
+}

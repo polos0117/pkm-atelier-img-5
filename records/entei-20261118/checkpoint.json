@@ -1,0 +1,20 @@
+{
+  "card": "앤테이",
+  "style": "anime_25d_gloss",
+  "selected": 3,
+  "count": 12,
+  "casual_count": 11,
+  "status": "ready_to_publish",
+  "originals": "Session-local PNG originals; source SHA-256 recorded in manifest.",
+  "reference": {
+    "filename": "앤테이_light_anime_25d_gloss_f.webp",
+    "original_sha256": "cb38b3a5e56b92d7ab18a3402d6758d428135d10f10a0d2127473c96f1bf9390"
+  },
+  "selection_sha256": [
+    "cdf67719655ca09d5909773ca53dce5fad9317cfa0e117ed1b90ae67e175f5d8",
+    "58513d737f02549a93ed928e0e4d93750d68d2685a397d37f4d8a7a3b137e886",
+    "cb38b3a5e56b92d7ab18a3402d6758d428135d10f10a0d2127473c96f1bf9390",
+    "fa79023d74e780d98fd1a90e2a66128f216802c81bc7cd9848f430773d21d265"
+  ],
+  "recorded_at": "2026-11-18T13:56:36.477632+00:00"
+}
