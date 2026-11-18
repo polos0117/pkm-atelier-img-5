@@ -1,0 +1,16 @@
+{
+  "casual2": {
+    "design": "gpt_free",
+    "reason": "IMAGE_RULES free scene design authorization; preserve all text outside SCENE and expression/intensity inside",
+    "base_sha256": "2f4ac9aeee5a7d15e570b09ce0a59f174682689c42872c7d285c5f158e1cdf3a",
+    "submitted_sha256": "dcb185558a4ba75230cefcfb7bdeda6e8d6b30580aae410b8f458685c8b8ec3a",
+    "outside_scene_preserved": true
+  },
+  "casual8": {
+    "design": "gpt_free",
+    "reason": "IMAGE_RULES free scene design authorization; preserve all text outside SCENE and expression/intensity inside",
+    "base_sha256": "d35d4b86f8ff7085aff346046fe31ea29971b9767ab63ea836befda2c8332b3f",
+    "submitted_sha256": "513e4ad484a5d3660c285f9e5a0db32983468c0b6d389d8045c40554bf55b7e9",
+    "outside_scene_preserved": true
+  }
+}
