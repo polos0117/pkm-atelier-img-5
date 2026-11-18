@@ -1,0 +1,36 @@
+{
+ "card": "갸라도스",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "갸라도스_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual8": {
+   "image": "갸라도스_anime_25d_gloss_f_casual8.webp",
+   "png_sha256": "7763202004903fd9c9eaa9c076aa8fa4d9f8d255366d1c029dbf1a6b0799ae91",
+   "webp_sha256": "9134d0b84cc798c4de90735d2b76294c4df31e45735fb8b45a671fefb43c437b",
+   "submitted_same": true,
+   "submitted_sha256": "db9368c46537e63b1258b505eb3bb8b6ceb5670e2fa8eb9ca7157464690f26d6",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_bea25afbaaa64d08bdd2a2f94f3429d8",
+   "tries": [
+    {
+     "step": "replan",
+     "request_id": "req_bea25afbaaa64d08bdd2a2f94f3429d8",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}

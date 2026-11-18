@@ -1,0 +1,58 @@
+{
+ "card": "갸라도스",
+ "session": "api-fill-1118",
+ "cuts": [
+  {
+   "cut": 8,
+   "plan": {
+    "cut": 8,
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_gala",
+    "ofam": "drape",
+    "item": "egyptian_linen",
+    "garments": [
+     "dress",
+     "slip"
+    ],
+    "ocolor": "yellow",
+    "weather": "",
+    "time": "lamplight",
+    "light": "low_warm",
+    "spot": "",
+    "depth": "deep",
+    "view": "",
+    "posture": "lean_wall",
+    "support": "back_wall",
+    "frame": "environmental",
+    "body": "front",
+    "head": "over_shoulder",
+    "camera": "high",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "contrapposto",
+    "gaze": "",
+    "preset": "",
+    "expr": "wistful",
+    "aspect": "2:3",
+    "situ": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "action_level": "balanced",
+     "source_influence": "strong",
+     "separates_preference": "balanced"
+    },
+    "expose": [
+     "deep V neckline",
+     "one-shoulder cut"
+    ],
+    "lead": "detail",
+    "shade": ""
+   },
+   "planner": "tools/casual-plan.cjs --refill --reserve --push (세션 api-fill-1118)",
+   "why": "기록에 원래 지시문이 없다(막혀 비었던 자리) — 계획기로 다른 장면"
+  }
+ ]
+}
