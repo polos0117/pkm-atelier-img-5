@@ -1,0 +1,26 @@
+{
+  "card": "코리갑",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "stage": "ready_to_publish",
+  "total": 12,
+  "reference_sha256": "f353ea32e0458eefe87dc717d4858b7bd5a17608c2d02b05ed3b3e5e2fe9b469",
+  "manifest": "manifest.json",
+  "comparison": [
+    "코코리",
+    "깜지곰",
+    "꾸꾸리",
+    "대포무노",
+    "델빌",
+    "딜리버드",
+    "링곰",
+    "마그마그",
+    "마그카르고",
+    "만타인",
+    "메꾸리",
+    "무장조"
+  ],
+  "no_exposure_regeneration": true,
+  "reservation_commit": "1badcdd0e2287bf6724e829dee6191396378bcfb",
+  "originals": "Session files only; hashes recorded, PNGs excluded from git"
+}

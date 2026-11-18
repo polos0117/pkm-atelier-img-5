@@ -1,0 +1,218 @@
+{
+  "light": {
+    "status": "selected",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "선택 2번. 두 팔·다리 몸 연결, 오른손 주먹(손가락 일부 겹침), 왼손 펼침. 회색 판금, 층낸 긴 보랏빛 회색 머리, 갈색 피부, 은회색 눈.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "선택 2번. 두 팔·다리 몸 연결, 오른손 주먹(손가락 일부 겹침), 왼손 펼침. 회색 판금, 층낸 긴 보랏빛 회색 머리, 갈색 피부, 은회색 눈.",
+    "regenerated_after_result": false
+  },
+  "casual1": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "등불 강변, 복숭아색 새틴 버스티에. 오른손 꽃다발, 반대 팔은 아래 프레임 밖. 꽃과 손잡이 때문에 손가락 일부 가림; 양 어깨·위팔 연결.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "등불 강변, 복숭아색 새틴 버스티에. 오른손 꽃다발, 반대 팔은 아래 프레임 밖. 꽃과 손잡이 때문에 손가락 일부 가림; 양 어깨·위팔 연결.",
+    "regenerated_after_result": false
+  },
+  "casual2": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "호텔 긴 의자에 누워 왼손 책, 오른팔은 머리 뒤. 팔꿈치·위팔 연결, 오른손은 머리로 가림. 두 다리·발 자연 연결. 시폼 모노키니.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "호텔 긴 의자에 누워 왼손 책, 오른팔은 머리 뒤. 팔꿈치·위팔 연결, 오른손은 머리로 가림. 두 다리·발 자연 연결. 시폼 모노키니.",
+    "regenerated_after_result": false
+  },
+  "casual3": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "호숫가 물수제비. 오른팔 앞에 뻗어 펼친 손, 왼손 왼쪽 허벅지. 두 팔 연결; 오른손은 원근과 겹침 있음. 코랄 수영복·겹패널 스코트, 한쪽 무릎을 바위에 올림.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "호숫가 물수제비. 오른팔 앞에 뻗어 펼친 손, 왼손 왼쪽 허벅지. 두 팔 연결; 오른손은 원근과 겹침 있음. 코랄 수영복·겹패널 스코트, 한쪽 무릎을 바위에 올림.",
+    "regenerated_after_result": false
+  },
+  "casual4": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "지하철 플랫폼에서 카메라 확인. 두 손이 카메라 각각 지지, 손가락은 카메라에 일부 가림. 두 팔·손목 연결. 남색 승무원 이벤트 의상.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "지하철 플랫폼에서 카메라 확인. 두 손이 카메라 각각 지지, 손가락은 카메라에 일부 가림. 두 팔·손목 연결. 남색 승무원 이벤트 의상.",
+    "regenerated_after_result": false
+  },
+  "casual5": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "열매 과수원, 검은 랩 리조트 옷. 오른손을 머리 장식에 댐; 다른 팔은 어깨에서 프레임 아래로. 얼굴 가까운 구도. 옷 색은 계획의 색과 차이가 있어 보존 기록.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "열매 과수원, 검은 랩 리조트 옷. 오른손을 머리 장식에 댐; 다른 팔은 어깨에서 프레임 아래로. 얼굴 가까운 구도. 옷 색은 계획의 색과 차이가 있어 보존 기록.",
+    "regenerated_after_result": false
+  },
+  "casual6": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "여객선 갑판에서 걷는 포켓몬 코스튬. 두 팔 내려 각각 몸에 연결, 장갑 손가락 일부 겹침. 두 다리·발 연결, 한 발을 뒤로 들고 걸음.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "여객선 갑판에서 걷는 포켓몬 코스튬. 두 팔 내려 각각 몸에 연결, 장갑 손가락 일부 겹침. 두 다리·발 연결, 한 발을 뒤로 들고 걸음.",
+    "regenerated_after_result": false
+  },
+  "casual7": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "행사장 테이블에 두 손을 올린 하인(랑그릿사2) 코스프레. 두 팔·손목 연결, 테이블 접촉으로 손가락 일부 가림. 두 다리·부츠 연결.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "행사장 테이블에 두 손을 올린 하인(랑그릿사2) 코스프레. 두 팔·손목 연결, 테이블 접촉으로 손가락 일부 가림. 두 다리·부츠 연결.",
+    "regenerated_after_result": false
+  },
+  "casual8": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "스파 의자에서 휴식. 두 손 각각 팔걸이, 다섯 손가락 형태이나 원근에 일부 겹침. 두 다리는 발목에서 교차, 발끝 슬리퍼. 로즈 테리 베스트·아이보리 쇼츠.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "스파 의자에서 휴식. 두 손 각각 팔걸이, 다섯 손가락 형태이나 원근에 일부 겹침. 두 다리는 발목에서 교차, 발끝 슬리퍼. 로즈 테리 베스트·아이보리 쇼츠.",
+    "regenerated_after_result": false
+  },
+  "casual9": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "체육관에서 한쪽 무릎을 꿇음. 오른손 아래쪽 허벅지, 왼손 올린 무릎. 양 팔·다리 자연 연결. 카키 폴로·테니스 스커트, 신발 바닥 뒤쪽 일부 가림.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "체육관에서 한쪽 무릎을 꿇음. 오른손 아래쪽 허벅지, 왼손 올린 무릎. 양 팔·다리 자연 연결. 카키 폴로·테니스 스커트, 신발 바닥 뒤쪽 일부 가림.",
+    "regenerated_after_result": false
+  },
+  "casual10": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "야외 석조 계단에서 귤 까기. 왼손 귤, 오른손 껍질, 손가락은 쥔 물체에 일부 가림. 양 팔 연결; 무릎 아래 프레임 밖. 파란 홀터 베스트·노랑 쇼츠.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "야외 석조 계단에서 귤 까기. 왼손 귤, 오른손 껍질, 손가락은 쥔 물체에 일부 가림. 양 팔 연결; 무릎 아래 프레임 밖. 파란 홀터 베스트·노랑 쇼츠.",
+    "regenerated_after_result": false
+  },
+  "casual90": {
+    "status": "generated",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "야간 공사장에서 흙을 관찰하는 굴착기 운전자. 오른손 손삽, 왼손 지면 지지. 두 팔·손목·다리 연결, 손가락은 삽 손잡이·지면 접촉에 일부 가림. 안전모·반사조끼·작업화.",
+      "overlay_checked": false,
+      "note": "육안으로 보이는 관절·팔다리 연결 확인; 가려진 손가락과 프레임 밖 부위는 보인다고 가정하지 않음."
+    },
+    "style_25d": {
+      "verdict": "match",
+      "evidence": "얼굴 코·광대·입술의 부드러운 음영과 색 윤곽, 피부 반사광, 머리 가닥과 옷 재질의 명암."
+    },
+    "notes": "야간 공사장에서 흙을 관찰하는 굴착기 운전자. 오른손 손삽, 왼손 지면 지지. 두 팔·손목·다리 연결, 손가락은 삽 손잡이·지면 접촉에 일부 가림. 안전모·반사조끼·작업화.",
+    "regenerated_after_result": false
+  }
+}

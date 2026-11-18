@@ -1,0 +1,206 @@
+[
+  {
+    "slot": "light",
+    "file": "코리갑_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "f353ea32e0458eefe87dc717d4858b7bd5a17608c2d02b05ed3b3e5e2fe9b469",
+    "webp_sha256": "6b0cbcb70bb33b2f09012dfe9f3e8d40ca750e60b46b7512a11e054c55c2b7db",
+    "reference": null,
+    "submitted_sha256": "77ad68b0b51aa7a23a0ab7b285f61eb95fff8687349fdaffdd16cbc0f08d1800",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual1",
+    "file": "코리갑_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "d4a62f0d9a252513b50e88ab7e79e8337ee0cac3b65923aabbb6d8c1131bd635",
+    "webp_sha256": "51b619153ad2a62132b7e38a983e3dca4ddfede6101b331d3b50a916cc4185c4",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "40fe9f4079ba81b7b517e5d559947841daa847e0eddaa633d4ce6e34c98c29c8",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual2",
+    "file": "코리갑_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "7763676ea98ccfb1ea14ede9a58f23df775408f5e978ee73a5d4c9a4aa1322f1",
+    "webp_sha256": "aec2330f79d01e72bcd6cf9f7c8c2917e53a0897b799ccc344689c67ff72732a",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "3cd8f5a6ac41c0eaeffd7e4e9c2566c008380c9b127b67c613d9692133941f43",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual3",
+    "file": "코리갑_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "8ff15896be8c012ad6731bee8c755e009b2a3eab14fc4839374b761e2cf1b304",
+    "webp_sha256": "e991858b6d49565eea63109ded5c605ff814e15159166e3c741f80b49b70cde6",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "0e2ffb8e587617712caff1dafc935a1577e92d58c390168917016c02b0b86e8a",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual4",
+    "file": "코리갑_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "d53e22d8669738f90b9163c6565564a0815d6ac1d7663bb187f8ceb3ac8eae0e",
+    "webp_sha256": "b1bdba55758dcc37f27ee557965f9b6f0d0a30b3439db7043cf482ed285bf5c1",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "449adaeb0da8bbe48cc5de1056ed8df78312d8b8fa086bef2f6b83023991edb4",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual5",
+    "file": "코리갑_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "1190421891955fe6539f684ae874f7c7f41817432b00cfe5ad4a766364eff490",
+    "webp_sha256": "8678596f0e47c2622c9c59f0baac00c70b0247b97d1e79f136dbdefb676b464a",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "d46552bf065c6e2c01ec671f8437d535e1834fb13dbda7cb597d9c2ee336980e",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual6",
+    "file": "코리갑_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "975917339046772112d9c45332409f3bd09d046c761c78631cc8d9bcd05768e1",
+    "webp_sha256": "5a836deb452c666410d114a0acc07000ac3ae251af94fe010456efdcdfa2d92f",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "50f4764849fa9353dd75e9978e0e86e7b826e3f58a5c4c86ce799b636f5f41bd",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual7",
+    "file": "코리갑_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "881272f93b52fa3c6fbf1ab75246b574f50807741cceedd25226b74ef7596ead",
+    "webp_sha256": "8373c49834504d3e50d1adeb4f956e133265cc0aa74a0c5467f92f2c3819f8c3",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "22f86b6778fb0a7ae463899afa0d6c60336908429333b7728832a0f92413d28f",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual8",
+    "file": "코리갑_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "a5473dd64817386650f0e9f89b439d8931b608e61e612d412cf2b952919bcfa2",
+    "webp_sha256": "a5063e4d0205fcc4c0020e17949535a1954d8d0f189e7b4a6bb3751251ffae97",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "52624921d7e5b8dbf41fe4ca2ee40750398665759977d4e8df58130721b9a6cb",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual9",
+    "file": "코리갑_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "dc3235543ac8cbcb4a98e19155fe02262595296eca744cc736d93dfa3b69ba20",
+    "webp_sha256": "f2b80a1022dcd5161a362f7bdef35a425e4bec2b645dac73f01152055795bb72",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "f3806f04d557d0a706199d831ee0ccf2d18b62fada8129d655361bbc497d49d8",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual10",
+    "file": "코리갑_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "3a19424a0b80e557a9b45c82f8b39d465479e4b62a5d904aa7aaddef59176ed5",
+    "webp_sha256": "6ac42555479532ae42093d8b1d7eafb79ab1c28869569a454c069b2f2c4aab74",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "a89c61fa6ab14cf68f5f8e41b75911a385f5e74d4e6638dcd0e54735ee15814f",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  },
+  {
+    "slot": "casual90",
+    "file": "코리갑_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "quality": 85,
+    "method": 6,
+    "original_sha256": "1d60a462673ab1c0bc2863159a9e9d16b4c533cbf0170dd765b9578180dca02f",
+    "webp_sha256": "88913c9d48662f2442d69fc97441a68f667cbd62a9936d6522c389788b97cbab",
+    "reference": "코리갑_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "d128bcbe0c14ec42d1a2d12149d134d99e6b4c7c463445f76e099819e7111abf",
+    "submitted_same": true,
+    "style": "anime_25d_gloss"
+  }
+]
