@@ -1,0 +1,39 @@
+{
+ "card": "투구",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "투구_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual4": {
+   "image": "투구_anime_25d_gloss_f_casual4.webp",
+   "png_sha256": "eaca82d694e3436535d9cdd46897720bc30adad7c6ed5ca83fbc15242003fd30",
+   "webp_sha256": "b2a1e5ceffe1e2de2e14ca0f67a234caa09a992dbfade973344a595debe07f77",
+   "submitted_same": true,
+   "submitted_sha256": "92159e80e53b243da5ef4bf321a4abd4e94f8a4ff4a4d3c2cbc936d86491ab9e",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_c38c9cdec8864211814add29c200b238",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_c38c9cdec8864211814add29c200b238",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "check",
+    "items": [
+     "note 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+     "check 오른팔 끝의 손이 왼손으로 보인다 — 엄지가 반대쪽인 뒤집힌 손(손등이 보이면 모델이 헷갈리기도 한다)"
+    ],
+    "eye": "눈으로 봄 — 팔 둘 · 다리 둘 · 손가락 · 엄지 쪽 이상 없음. 검사기가 뒤쪽 사람 · 장갑 · 소품을 몸 · 손으로 잡은 것"
+   }
+  }
+ },
+ "skipped": []
+}
