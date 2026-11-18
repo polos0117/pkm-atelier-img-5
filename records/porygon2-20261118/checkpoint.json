@@ -1,0 +1,27 @@
+{
+ "card": "폴리곤2",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 2,
+ "completed": 12,
+ "requested": 12,
+ "status": "ready_to_publish",
+ "reference": {
+  "slot": "light",
+  "filename": "폴리곤2_light_anime_25d_gloss_f.webp",
+  "original_sha256": "16268ca15aae71a9d165b5b8573ccc75e0adaabd94e6e2f730a6d612bc68a92e",
+  "sha256": "a9e5621dea1e01ae487b959fb8eec1aa50be38426a240a21cbe891cad3f8a9ba",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ "face_reason": "매끈한 곡면의 원작을 둥근 턱·타원형 얼굴·둥근 눈으로 옮긴 저장소 face-design 설계. 사용자 2번 확정.",
+ "source_data": "data/face-design.json faces.233",
+ "actual_comparison": "이번 메카 후보 네 장과 일상 결과 전체; 다른 캐릭터 실제 이미지와 비교는 미실행",
+ "manifest": "manifest.json",
+ "qa": "qa.json",
+ "authorization": "User authorized normal main update; no force push, no deletion.",
+ "push_transport": "GitHub connector fast-forward ref update; shell push unavailable (no HTTPS credentials)."
+}

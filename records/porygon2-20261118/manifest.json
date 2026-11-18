@@ -1,0 +1,146 @@
+[
+ {
+  "slot": "light",
+  "filename": "폴리곤2_light_anime_25d_gloss_f.webp",
+  "original_sha256": "16268ca15aae71a9d165b5b8573ccc75e0adaabd94e6e2f730a6d612bc68a92e",
+  "sha256": "a9e5621dea1e01ae487b959fb8eec1aa50be38426a240a21cbe891cad3f8a9ba",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual1",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual1.webp",
+  "original_sha256": "0510569d98c2f773dc0f7d52d53302c5e82bc295997d64ce3c36dbab99bd1d9d",
+  "sha256": "2ae14608a51e32b866fb09b694b6115d194fa89934d0f4428833b263dfc73004",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual2",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual2.webp",
+  "original_sha256": "062c61d7861c07923b1ac7fbcf4993f2daaf8c2773d9b05884ecb32ae640640a",
+  "sha256": "863975d61ba58162e9efc5303a1b36319f75c908b59255004166140c770171ef",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual3",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual3.webp",
+  "original_sha256": "8fe481237eda002b098fd9b8dc90a18f6f3fdc7c42ec6f5519490ea995422c9c",
+  "sha256": "65e005cd03085250cbb4704dd119bdfc5fceea10841d268c01383a4e3897a9e2",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual4",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual4.webp",
+  "original_sha256": "e968ca2ad289320fcc4ec167c4dbda178bac89d9aed18d6e23a4680a3f786c03",
+  "sha256": "2a918bf3fef7d6fffe2f4103082229069505e47c0831184a68481f22ac8c3fa1",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual5",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual5.webp",
+  "original_sha256": "89abd85088ce0e76a1d7e99a31d6bc3f955d2a8b3d7b83e62aea9b390ecc44a3",
+  "sha256": "5746b1b6e457bdf4c8848fb31f0c29e05092b09b3b9f9ccdb9aa2e373b9771a9",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual6",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual6.webp",
+  "original_sha256": "9bd3c80ac1972d11275f77d68710821c5ce54af6175a6040fa6db94160bc9046",
+  "sha256": "7d3928095aa295d0a21bc02eef7932c945c074edbe010447522c967b9b955438",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual7",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual7.webp",
+  "original_sha256": "97ed6a8230d14253f7176b0f289cca6652fc1b9b9f300a35f275ca40765881e8",
+  "sha256": "93a790c770d7fbf2799ecb3a6ce486120ca5626b67c83108fe798f1d87c22133",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual8",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual8.webp",
+  "original_sha256": "5c7796134aed144bd60b1295b5743f18087e3867301bbcbc8b3a59a4cf4dd06a",
+  "sha256": "53595631398f20b1898e10628eaea301a839753eb77bc9fb52e826519397284c",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual9",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual9.webp",
+  "original_sha256": "598b82f6eaeeca42af1ff674330326abc54672f74dcf7fa62991d2d980fa4cc7",
+  "sha256": "90236ae6922c39971582c256df94e0b1bcc4f248f324e0ed455a08f7f5c56ef1",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual10",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual10.webp",
+  "original_sha256": "f758efe0feee33849735a4c494e8a4d287b6583e4f5b8ccbd3942caceacc9956",
+  "sha256": "2d128ce73273b63cee1ced676bdac4d369240ffaf608f747ce722275f7a3a328",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ },
+ {
+  "slot": "casual90",
+  "filename": "폴리곤2_anime_25d_gloss_f_casual90.webp",
+  "original_sha256": "70ddcef49d81eac91c52ec474c349448f7089b01d7fd7426ec2f2071d83b1411",
+  "sha256": "b02a5b467fa7024a6ece6827dadf611204573770a36ee2a5afab1142860d30b2",
+  "size": [
+   1024,
+   1536
+  ],
+  "style": "anime_25d_gloss",
+  "reference": "selected candidate 2"
+ }
+]

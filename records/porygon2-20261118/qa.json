@@ -1,0 +1,194 @@
+{
+ "light": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "두 팔·다리 몸에 연결, 양손 장갑. 펼친 손 일부 손가락 원근 겹침.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "두 팔·다리 몸에 연결, 양손 장갑. 펼친 손 일부 손가락 원근 겹침.",
+  "submitted_sha256": "e18809b3acaf6cfe243675b361dfd4d7fa767d54ca107f737e7a060c3783319e",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual1": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "두 어깨와 팔 연결, 한 손은 뺨 옆, 반대 손은 프레임 밖.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "두 어깨와 팔 연결, 한 손은 뺨 옆, 반대 손은 프레임 밖.",
+  "submitted_sha256": "1f20de03ca427b6399f5e7a195189d37f18763d00a620c41588bb8b45c4d122d",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual2": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "앉은 자세, 양손 무릎·벤치에 연결.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "앉은 자세, 양손 무릎·벤치에 연결.",
+  "submitted_sha256": "42f40b397800ceb35c2a7261c4807c5480a6fdf638e00fd2215cd6791f578deb",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual3": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "두 팔 교차, 보이는 손가락 일부 반대 팔에 가림.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "두 팔 교차, 보이는 손가락 일부 반대 팔에 가림.",
+  "submitted_sha256": "7c1ec4cd278b18978bf7107e356af6a7ae222ca0b647090b5a0d120718eae5c9",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual4": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "두 아래팔 탁자 위, 두 손 연결.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "두 아래팔 탁자 위, 두 손 연결.",
+  "submitted_sha256": "7fe2473be88360a4cef94950acf8262b6c4ece8111ecd2b7279f61e70b14b2f3",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual5": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "보행 자세, 양팔 양다리 연결.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "보행 자세, 양팔 양다리 연결.",
+  "submitted_sha256": "f0ac80c914573941c3c81d81f3b3d0110f8b1397ed12d6068cbcccce8e84150b",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual6": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "한 손 컨트롤러, 한 손 홀로그램, 손가락 일부 소품에 가림.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "한 손 컨트롤러, 한 손 홀로그램, 손가락 일부 소품에 가림.",
+  "submitted_sha256": "845e536357d0adc666616444134004dca442648f7219aefe7fce3438c00d4346",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual7": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "허리 위, 두 어깨·팔·손 연결.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "허리 위, 두 어깨·팔·손 연결.",
+  "submitted_sha256": "5873b07c34339a442bbb28c4225a4aed2884b85023b32af44957f920c42d94bc",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual8": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "한 손 카드, 한 손 테이블, 카드에 손가락 일부 가림.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "한 손 카드, 한 손 테이블, 카드에 손가락 일부 가림.",
+  "submitted_sha256": "f027db6fb987eb21e49051ef5e3e3e527d3dac4c38d90bca7777e700fac7e54f",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual9": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "앉은 자세, 양손 쿠션·무릎에 연결.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "앉은 자세, 양손 쿠션·무릎에 연결.",
+  "submitted_sha256": "0f9549634b930695e67be88c129897beeb71d5e070fe66243be56be979eda80a",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual10": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "전신, 한 손 난간·한 손 몸 옆. 배경 사진사 인물 존재.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "전신, 한 손 난간·한 손 몸 옆. 배경 사진사 인물 존재.",
+  "submitted_sha256": "f35a0f55b27ff3a967ea240b5169985c0b054139df5fd83ba671a425fc75d998",
+  "submitted_same": true,
+  "no_regeneration": true
+ },
+ "casual90": {
+  "status": "preserved",
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": "2; cropped where composition requires",
+   "hands": "앉은 자세, 양손 태블릿, 손가락 일부 기기에 가림.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "이미지 육안 확인; 자동 해부 검사 미실행. 가려진 손가락은 추정해 세지 않음."
+  },
+  "review_note": "앉은 자세, 양손 태블릿, 손가락 일부 기기에 가림.",
+  "submitted_sha256": "4af83695b053762aae66364a00d29c7c8aacd59b2db5fa40c87efdaffbffbeaa",
+  "submitted_same": true,
+  "no_regeneration": true
+ }
+}
