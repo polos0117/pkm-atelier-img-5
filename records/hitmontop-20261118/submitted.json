@@ -1,0 +1,86 @@
+{
+  "light": {
+    "prompt_sha256": "8d734d88da582e14e75cf833ee4a41fc6ec28390883398ab154a4b7f39ad8ca7",
+    "submitted_sha256": "8d734d88da582e14e75cf833ee4a41fc6ec28390883398ab154a4b7f39ad8ca7",
+    "same": true,
+    "reference": null,
+    "result_original_sha256": "3d69cdfecc05d241f4731def527e9f0bcbbcf61727bb3779168c86c1decac723"
+  },
+  "casual9": {
+    "prompt_sha256": "ec8b2c87d6abcfde38ae13e5a66c0030ff295831057c8b056c341aae48e1ddc0",
+    "submitted_sha256": "ec8b2c87d6abcfde38ae13e5a66c0030ff295831057c8b056c341aae48e1ddc0",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "919a89e630e37a78099499470bf942530735317746df7dafc05b99071b7148b8"
+  },
+  "casual6": {
+    "prompt_sha256": "b544cd44a367ef0ca3815e0003cfc441b6ffa0eebe703455d6fa3c48b6f7ef65",
+    "submitted_sha256": "b544cd44a367ef0ca3815e0003cfc441b6ffa0eebe703455d6fa3c48b6f7ef65",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "ace64a4c247a40805397bdeaba262a7db5b6864eef2caba489162658b5040f5b"
+  },
+  "casual8": {
+    "prompt_sha256": "5aab7a6fc030d2e203eb63a2240e17eb7971018f4e4882d7f6cf857d8e45b5c5",
+    "submitted_sha256": "5aab7a6fc030d2e203eb63a2240e17eb7971018f4e4882d7f6cf857d8e45b5c5",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "8f1bf3bfa691986e977cfc1d458cc15331b26abcfdd891980f16061a1896577c"
+  },
+  "casual7": {
+    "prompt_sha256": "579d2335b0b823cb9d2fdf3a433b0ac2798057e56495ff24edc61ff7324ce8c5",
+    "submitted_sha256": "ca9bd83b9a245d8155f139867e4e99253b506d09f1db0efa57e04dbab8568bb3",
+    "same": false,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "6a5f7f884bcaeac88ef750422229e9ccad6aee5f9a964dc03097550a38d677b2"
+  },
+  "casual5": {
+    "prompt_sha256": "505b9835d4eb62e1572c4b3dcae283b37e07f51f25eb437bd594c085b30c1c23",
+    "submitted_sha256": "34e2825bb7e41faeb44844125851a700a4ae2abc2fffde78dfab1d27c58f1e79",
+    "same": false,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "9b034950bc40fcd53ef85c32131c963bd4859fe9e0bec0281a03c0f24c8aaf5d"
+  },
+  "casual10": {
+    "prompt_sha256": "51d0d77f44d0f547cd3fdf084fde55df0a267d9f03847f838107d178032cbe90",
+    "submitted_sha256": "51d0d77f44d0f547cd3fdf084fde55df0a267d9f03847f838107d178032cbe90",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "806a277dc2115e155a3221069c3e1ef2120806420dd2e7ed25be1a28cbf459b7"
+  },
+  "casual3": {
+    "prompt_sha256": "ee22edf9df7c1024538dc17d10505d757b24a2a2c9adc16337fb22d13d312703",
+    "submitted_sha256": "ee22edf9df7c1024538dc17d10505d757b24a2a2c9adc16337fb22d13d312703",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "36eed1a0174c4f315949a9f027c75207c070c2b832d44b0bb4eed15f35bf7a7f"
+  },
+  "casual1": {
+    "prompt_sha256": "135c35d9914f84c81d86c92cbde60bffc244b88778d75b42351bb6ca693f4e85",
+    "submitted_sha256": "135c35d9914f84c81d86c92cbde60bffc244b88778d75b42351bb6ca693f4e85",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "f608bf302bd46649671505e0750cd0fc9c932d7fb8fb444d219ccfce95524543"
+  },
+  "casual90": {
+    "prompt_sha256": "9df63dd8a2b0b4d243ff940d1b1b264d9e093b45e9f485f2b7e2496dcea7862f",
+    "submitted_sha256": "9df63dd8a2b0b4d243ff940d1b1b264d9e093b45e9f485f2b7e2496dcea7862f",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "5ed759b9d88d539b1e1915eeec070dc895a6e3cd14ae1764bf4d99b31e1fd4ea"
+  },
+  "casual4": {
+    "prompt_sha256": "a0ec6e3d99296e889ae3f7d68b11a8808509df857a5bb19ddc3732f4c173ade6",
+    "submitted_sha256": "a0ec6e3d99296e889ae3f7d68b11a8808509df857a5bb19ddc3732f4c173ade6",
+    "same": true,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "7c6111f3ba560b3096fb9f0b662875adff8cf2743cd069c876fa40468cfe4d55"
+  },
+  "casual2": {
+    "prompt_sha256": "bfb80268b911ce2d1157560955c7f8fda57d251cee87b3bb61299a2cc072c5b7",
+    "submitted_sha256": "4b61c6e72cfe7a9cf5e6218d4f8a83feefe744fc3ce9e0e00bdedc9eb20e7cb9",
+    "same": false,
+    "reference": "카포에라_light_anime_25d_gloss_f.webp",
+    "result_original_sha256": "e37fe2615fda4ab4fab16c1315acba917c7870bb4168bce952fcb6a39ac02d6b"
+  }
+}

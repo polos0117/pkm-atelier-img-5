@@ -1,0 +1,11 @@
+{
+  "card": "카포에라",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "reference_original_sha256": "3d69cdfecc05d241f4731def527e9f0bcbbcf61727bb3779168c86c1decac723",
+  "reference_path": "/workspace/scratch/f83dc73d6688/generated_images/exec-0b60fb0d-2b5b-4edb-9350-2ccd781e2b76.png",
+  "status": "generation_complete_publication_pending",
+  "authorization": "User approved commit and normal main update; no force push or deletion",
+  "preview_note": "Four candidates used the same generated light prompt; selected candidate 4 is preserved.",
+  "generated": 12
+}
