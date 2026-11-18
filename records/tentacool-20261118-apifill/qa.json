@@ -1,0 +1,90 @@
+{
+ "card": "왕눈해",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "왕눈해_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual7": {
+   "image": "왕눈해_anime_25d_gloss_f_casual7.webp",
+   "png_sha256": "3d3a43588a5bd80f2f55e883a468898b10b8e8beac6094338e599c6f1557e662",
+   "webp_sha256": "0e2dda6cb84af495dbb2b67aa580e64ff1d2c3401e80dac557c3a41e210c4eff",
+   "submitted_same": true,
+   "submitted_sha256": "f9f0bfcb6c8963c40cb3373aba14c86b20d833e809130d6d57214b5909585c4f",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_4be1fac04c4542cbbe4eb26af6b139ef",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_4be1fac04c4542cbbe4eb26af6b139ef",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  },
+  "casual8": {
+   "image": "왕눈해_anime_25d_gloss_f_casual8.webp",
+   "png_sha256": "899163e888d21deeef1b02e848d45a8eddd18cc7c84bce5bd4c7145ba271d8a3",
+   "webp_sha256": "5e171982945c44216f18de37fe27d320657718b3ee890f6c0ad4b7005155a170",
+   "submitted_same": true,
+   "submitted_sha256": "cb7eda16eba73e412f931c52ae39e62f43cb57a822364dd836ba051c9f2b749b",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_974a4a2aa18b4df7af5527a772be99dd",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_974a4a2aa18b4df7af5527a772be99dd",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "stronger",
+    "근거": "가슴 쪽 크로셰 비키니 상의만 보이고 엉덩이 · 골반 쪽에 비키니 하의가 안 보인다 — 받은 그림은 노출 때문에 다시 만들지 않는다(IMAGE_RULES 3절 7, 2026-11-18). 사용자 「응 왕눈해까지 다 올려줘」"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  },
+  "casual10": {
+   "image": "왕눈해_anime_25d_gloss_f_casual10.webp",
+   "png_sha256": "23c0269a3fbb81919cee0b84fc51de6496e4ba697dee70e4f985fd4f31298a5f",
+   "webp_sha256": "247c0caee58d12e991feda0a3038d0a362d662e5c4a7d404a435b0dd7a9e3082",
+   "submitted_same": true,
+   "submitted_sha256": "da377ea76add2e687cad3224b28587585fe6f326efbcd6549e5cca6751b8db2d",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_8a7df2ec2bce4a448c09dd7e558173d1",
+   "tries": [
+    {
+     "step": "new",
+     "request_id": "req_8a7df2ec2bce4a448c09dd7e558173d1",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "ok",
+    "items": [],
+    "eye": "눈으로 봄 — 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}

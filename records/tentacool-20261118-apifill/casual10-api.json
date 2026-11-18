@@ -1,0 +1,39 @@
+{
+ "tool": "tools/api-fill.cjs",
+ "model": "gpt-image-2.5-sunburst",
+ "endpoint": "images/edits",
+ "size": [
+  1024,
+  1536
+ ],
+ "quality": "medium",
+ "step": "replan",
+ "prompt_file": "casual10-prompt.txt",
+ "prompt_sha256": "da377ea76add2e687cad3224b28587585fe6f326efbcd6549e5cca6751b8db2d",
+ "ref": "왕눈해.webp",
+ "ref_sha256": "43693f981ef7123e798d85441d083a197758644f2a6de28a38cb3027b364e73a",
+ "ref_sent": {
+  "size": [
+   768,
+   1152
+  ],
+  "sha256": "4fa2c3595a8cb86fa513558a3f80478c400086050f1632b21c03cfdbee702f8d"
+ },
+ "at": "2026-11-18T02:59:25.387Z",
+ "request_id": "req_8a7df2ec2bce4a448c09dd7e558173d1",
+ "usage": {
+  "input_tokens": 2320,
+  "input_tokens_details": {
+   "image_tokens": 864,
+   "text_tokens": 1456
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 2663
+ },
+ "seconds": 17.466,
+ "png_sha256": "23c0269a3fbb81919cee0b84fc51de6496e4ba697dee70e4f985fd4f31298a5f"
+}

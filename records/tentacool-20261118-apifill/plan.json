@@ -1,0 +1,75 @@
+{
+ "card": "왕눈해",
+ "session": "api-fill-1118",
+ "cuts": [
+  {
+   "cut": 7,
+   "from": {
+    "bundle": "tentacool-20261111-anime25d-gloss-169a",
+    "repo": "pkm-atelier-img-4",
+    "prompt_file": "casual7-prompt.txt",
+    "why": "앞 세션에서 결과가 막혀 비었던 자리 — 같은 지시문 그대로 API 로"
+   }
+  },
+  {
+   "cut": 8,
+   "from": {
+    "bundle": "tentacool-20261111-anime25d-gloss-169a",
+    "repo": "pkm-atelier-img-4",
+    "prompt_file": "casual8-prompt.txt",
+    "why": "앞 세션에서 결과가 막혀 비었던 자리 — 같은 지시문 그대로 API 로"
+   }
+  },
+  {
+   "cut": 10,
+   "plan": {
+    "cut": 10,
+    "treeV": 2,
+    "era": "now",
+    "place": "evening_gala",
+    "ofam": "bridal",
+    "item": "bridal_lace",
+    "garments": [
+     "lingerie_set"
+    ],
+    "ocolor": "ivory",
+    "weather": "",
+    "time": "",
+    "light": "side",
+    "spot": "",
+    "depth": "",
+    "view": "",
+    "posture": "walk",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "front",
+    "head": "turn_side",
+    "camera": "low",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "",
+    "preset": "",
+    "expr": "soft_smile",
+    "aspect": "2:3",
+    "situ": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "action_level": "mostly active",
+     "source_influence": "strong",
+     "separates_preference": "balanced"
+    },
+    "expose": [
+     "sweetheart neckline",
+     "open back"
+    ],
+    "lead": "light",
+    "shade": ""
+   },
+   "planner": "tools/casual-plan.cjs --refill --count 왕눈해=10 --reserve --push (세션 api-fill-1118)",
+   "why": "새 자리 — 열 장까지 늘림"
+  }
+ ]
+}
