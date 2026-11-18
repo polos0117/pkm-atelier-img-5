@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b",
+    "sha256": "49609bfb528d9d51aee585fd54c62d9a8cc89f18e91faa3212d381cbfd860709",
+    "submitted_sha256": "004105db409c26aacdef7f85bb6ecc92ffe897f633af03b9db424387e17d578a",
+    "submitted_same": true,
+    "reference_sha256": null
+  },
+  {
+    "slot": "casual1",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "0fb30ceaf1bf05b20d35592a38ffbf12046330e3d7a24394586a038060763bd1",
+    "sha256": "2e0da285fc98a4f759db25531232823bc8cefe7de58074e4e05f8c585aea7c50",
+    "submitted_sha256": "50532b9755d2a3bff43f8949bc1cccdb4e2ece905e6d4839dbfbf8937a1045e0",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual2",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "b8513c4afc56d7cb62bc8f64cf9374272aa31e88e81e5bf0ee08c135cf85fefb",
+    "sha256": "b6ff3e7726459dd7937e8d8444a7b397ea464bfc13d7c88386ad73e08969934e",
+    "submitted_sha256": "fbb096143894b568c9d083659cd589bca67dd570b763ee1b6b6898a0bd943986",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual3",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "1dd4809e0bfbd62d8972141aad3e853137ef0254c27b8c6a88bbc33e6b4091dd",
+    "sha256": "43219d19b5a536b932359741fed170394902dd6d61dc05433fc72775c339e392",
+    "submitted_sha256": "8ef0b80ade0aebd6ab6b6838dedaf6a58dc137643a6750b8500b1200e0abccb3",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual4",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "9e2570cc830f045331206f3cf1117ba13d5c967e2cc29d01b9f23c8ad036db7b",
+    "sha256": "5f230faf828385153007089b657a30e364c48e8827adcf95ce194748ba95d642",
+    "submitted_sha256": "b4cade1b3149818c799ba13196cd18ea76b98ceb0eecdc7cb4ed6a0d1fe04740",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual5",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "d6ecf0d613fd1c394f92bdb7dd43bd074c81812ed890f00517d9416aabd11b88",
+    "sha256": "30d3b1bf72ae4ad217af430b213645337275000e75abf096cdd0edb63acecb65",
+    "submitted_sha256": "7a14b23a52bb38457aabee7736e7e5e9e4aaf9a0d290f1125433d07355b43a24",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual6",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "3c88cef52b34ef41650ca59eb17e1e58c8adfc6c5881d9d01946a696ab5b61b0",
+    "sha256": "396b4f76517e27f82a74d41e6c1cfe95795f31a903c1e97cfd67dc33beed385e",
+    "submitted_sha256": "49ba15cff62d4328e818cdc0060fcdbe2f7c49042f1b72d5f2160444ecfacfdb",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual7",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "167fb53e9936dfe4002e1d99ef0034f902b2ebd83cfc6772ab13e41541d62bc7",
+    "sha256": "dc6962e431f5b8608f69843304e99ec29bca4f2f1e7ee21719732456f8ae689d",
+    "submitted_sha256": "4431f57cac17bce21eb27b0e33dc264255962b3ef5dd8aa192b7a4ce55eeb9b4",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual8",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "d8deda8890adcfd26507ef653d1e51e2c6859f7c68a26410cab062e795d39d52",
+    "sha256": "2428c7e25d3a541ea11ff8b417bb112469e24d2e488eaedaa44ce8da4733d51f",
+    "submitted_sha256": "23786968336ad61805437a7dffca7d6a5b0b4bb4781eb21e0b5a8d0aa3bddfcd",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual9",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "4841f5227b25f1b57e1d84e3f66e897984813b6e2379083fb9b0fc2516f1044d",
+    "sha256": "3fe566cbae36405373f09e0666d5424b72789f393aac6588557a544d2028b9aa",
+    "submitted_sha256": "24a6a2680558a8f47e5cfe3ceb2a4bbe3633be7d1bb7cca1fdd056ced99ea61e",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual10",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "aee3c64ab75e3b766e82e66a7de2cae4c9487c9cbb85287cac349dc1a0951c4f",
+    "sha256": "fed2cff804c99e238d226bc2669c4aeb889687c7053a4501a40ff8609e18dc96",
+    "submitted_sha256": "5eb9f3492cc148a40e5edb972b149cf43566a520fb12f6a717de2090ffb91541",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  {
+    "slot": "casual90",
+    "card": "라이코",
+    "style": "anime_25d_gloss",
+    "filename": "라이코_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "ab82fa59559ab73449445f4e0efafa5a65fe293e416f4c62b80ca4508b85e97b",
+    "sha256": "785b31cbc17100816439840ce82d028552ed8a0dd8fe8bbaadf8092846084031",
+    "submitted_sha256": "45b70053765276abd7f4b9692e16f4418b5cd5f53ded4252fb4359620b89987a",
+    "submitted_same": true,
+    "reference_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  }
+]

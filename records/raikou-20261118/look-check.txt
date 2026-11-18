@@ -1,0 +1,45 @@
+../raikou-casual/originals/casual1.png — 가까운 컷 0장(점수 245 미만)
+     274  딱충이_anime_gloss_f_casual1.webp
+     297  밀탱크_anime_25d_gloss_f_casual3.webp
+     297  왕자리_anime_25d_gloss_f_casual90.webp
+../raikou-casual/originals/casual10.png — 가까운 컷 0장(점수 245 미만)
+     259  투구푸스_glossy_promo_f_casual2.webp
+     265  글라이거_glossy_promo_f_casual1.webp
+     284  마그마_glossy_promo_f_casual2.webp
+../raikou-casual/originals/casual2.png — 가까운 컷 0장(점수 245 미만)
+     278  찌리리공_anime_25d_gloss_f_casual6.webp
+     296  포푸니_anime_25d_gloss_f_casual9.webp
+     301  괴력몬_anime_25d_gloss_f_casual9.webp
+../raikou-casual/originals/casual3.png — 가까운 컷 0장(점수 245 미만)
+     338  코산호_glossy_promo_f_casual2.webp
+     343  카포에라_anime_25d_gloss_f_casual5.webp
+     347  니드리노_anime_25d_gloss_f_casual6.webp
+../raikou-casual/originals/casual4.png — 가까운 컷 0장(점수 245 미만)
+     255  단데기_anime_gloss_f_casual3.webp
+     263  텅구리_anime_25d_gloss_f_casual8.webp
+     264  프리져_anime_25d_gloss_f_casual2.webp
+../raikou-casual/originals/casual5.png — 가까운 컷 0장(점수 245 미만)
+     297  팬텀_anime_25d_gloss_f_casual2.webp
+     313  레디바_anime_25d_gloss_f_casual1.webp
+     317  부우부_anime_25d_gloss_f_casual4.webp
+../raikou-casual/originals/casual6.png — 가까운 컷 0장(점수 245 미만)
+     341  덩쿠림보_glossy_promo_f_casual2.webp
+     343  배루키_anime_25d_gloss_f_casual3.webp
+     352  덩쿠리_anime_25d_gloss_f_casual5.webp
+../raikou-casual/originals/casual7.png — 가까운 컷 0장(점수 245 미만)
+     293  꼬렛_anime_25d_gloss_f_casual10.webp
+     299  만타인_glossy_promo_f_casual2.webp
+     302  골루그_glossy_promo_f_casual2.webp
+../raikou-casual/originals/casual8.png — 가까운 컷 0장(점수 245 미만)
+     287  날쌩마_glossy_promo_f_casual3.webp
+     290  무장조_glossy_promo_f_casual3.webp
+     294  신뇽_glossy_promo_f_casual2.webp
+../raikou-casual/originals/casual9.png — 가까운 컷 0장(점수 245 미만)
+     294  보송송_anime_25d_gloss_f_casual5.webp
+     295  고라파덕_anime_25d_gloss_f_casual5.webp
+     296  갸라도스_anime_25d_gloss_f_casual7.webp
+../raikou-casual/originals/casual90.png — 가까운 컷 0장(점수 245 미만)
+     297  만타인_anime_25d_gloss_f_casual8.webp
+     313  솜솜코_anime_25d_gloss_f_casual8.webp
+     317  모래두지_anime_25d_f_casual4.webp
+통과 — 거의 같은 일상컷 없음

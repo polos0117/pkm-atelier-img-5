@@ -1,0 +1,19 @@
+{
+  "card": "라이코",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "count": 12,
+  "casual_count": 11,
+  "status": "ready_to_publish",
+  "reference": {
+    "filename": "라이코_light_anime_25d_gloss_f.webp",
+    "original_sha256": "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  },
+  "selection_sha256": [
+    "509790f50931b7962da63bc101391fa6c52f6efa31ce5ecbaa636783fe41831d",
+    "901d9a27405bac112f6268545ad1a9681556fa7b4a52dd35858cf49c8020aac2",
+    "6c741171cf2237cf00824b72b32955d4f7cf8f7b678d6a4b6b9ddd983efcbbf4",
+    "87180d1bbe8a92b845d3ab9bb3023691b85bc2e101b2ee2e8bde400dd807ec0b"
+  ],
+  "recorded_at": "2026-11-18T13:47:24.954243+00:00"
+}
