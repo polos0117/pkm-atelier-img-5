@@ -1,0 +1,38 @@
+{
+ "card": "침바루",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "침바루_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual4": {
+   "image": "침바루_anime_25d_gloss_f_casual4.webp",
+   "png_sha256": "523fb7cb9ac20ae1eee6edeffdde268c858aae50955c27546e8d1e7823f939b7",
+   "webp_sha256": "1eb8308a01d58a7bfb6580ab4f7a5935fbd72ca5020d871e479e578ee5098628",
+   "submitted_same": true,
+   "submitted_sha256": "3d3377a9dd60f99bbc09da0d406c64d26bb9431a300ce456dcc47dccffe27d22",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_6f352ac6adcc4bb286fa3aec6fd29487",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_6f352ac6adcc4bb286fa3aec6fd29487",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "note",
+    "items": [
+     "note 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+    ],
+    "eye": "눈으로 봄 — 두 번째 인물 없음(뒤쪽 흐린 사람 · 인형 · 조각상을 몸으로 잡음), 팔다리 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}
