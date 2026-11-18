@@ -1,0 +1,47 @@
+{
+ "session": "smoochum-20261118-218e",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "뽀뽀라",
+   "species": "smoochum-20261118",
+   "own_only": true,
+   "cuts": [
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_workshop",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a lip brush",
+     "preset": "stand_inspect",
+     "use": "sig_hold",
+     "posture": "stand",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "natural",
+     "legs": "",
+     "gaze": "at_prop",
+     "time": "day_indoor",
+     "light": "dappled",
+     "depth": "flat",
+     "own": "all",
+     "placeText": "a cosmetics counter — a glass shelf of lipsticks, a lit mirror, a stool and pastel displays",
+     "scene": "she is a trainee standing at the counter, carefully inspecting a lip brush held in one hand while the other hand rests naturally at her side",
+     "outfit": "a makeup artist look fitted to her body — a fitted short-sleeved beauty smock tied at the waist and a short skirt, bare legs, a plain pink brush belt",
+     "job_ko": "뷰티 카운터 견습",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3"
+    }
+   ]
+  }
+ ]
+}

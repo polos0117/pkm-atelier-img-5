@@ -1,0 +1,249 @@
+{
+ "character": "뽀뽀라",
+ "style": "anime_25d_gloss",
+ "selected": 4,
+ "cuts": {
+  "light": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "two visible gloved hands, fingers partly obscured by the relaxed grip; no detached limb observed",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual1": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "right waving hand: five visible digits; left hand outside crop with arm continuing naturally",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual2": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "right V-sign hand with folded digits partly occluded; left hand outside crop",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual3": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "two hands joined to visible forearms; fingers partly overlapped by bedding and resting pose",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual4": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "right spoon grip and left cup grip; some digits naturally occluded by objects",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual5": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "two relaxed downward hands; digits overlap naturally",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed. The lower garment reads as a draped split skirt rather than clearly separated culotte legs."
+  },
+  "casual6": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "two downward hands with curled fingers; some digits overlap",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual7": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "two hands on table, wrists connected; digits overlap slightly",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual8": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "two downward hands, fingers curled with overlap",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual9": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "right hand on rail and left hand on thigh, wrists and arms connected",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual10": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "hands outside chest-up crop; both upper arms continue downward",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  },
+  "casual90": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "right lip-brush grip with folded fingers partly obscured; left hand outside crop with arm continuing downward",
+    "overlay_checked": false,
+    "note": "Manual visual review; body parts outside the frame were not counted as visible."
+   },
+   "style_25d": {
+    "判定": "match",
+    "근거": "Face has smoothly graded nose, cheek, lip and jaw shading; softly colored contours, glossy skin; fine hair strands and dimensional fabric."
+   },
+   "exposure": {
+    "판정": "match",
+    "근거": "Generated clothing retained; no censorship-based replacement."
+   },
+   "qa_note": "No obvious detached or duplicated limb observed."
+  }
+ },
+ "skipped": [],
+ "note": "No regeneration for exposure or censorship. Built-in image generation; original PNG hashes only in this repository."
+}

@@ -1,0 +1,79 @@
+{
+  "casual1": {
+    "file": "casual1-prompt.txt",
+    "submitted_sha256": "f8078622b459850a84193c4a87a70ee59010fc0f5b4c29c2bdbacc2c82773841",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual2": {
+    "file": "casual2-prompt.txt",
+    "submitted_sha256": "c727e7bcd3289ef0d317444a132d4e7b5a6b4c8e8863ae89072a949dcff4dbd9",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual3": {
+    "file": "casual3-prompt.txt",
+    "submitted_sha256": "5f757ffa11afae2972f209c1e9991630d843b1f46aba18faeffb25383c57eeed",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual4": {
+    "file": "casual4-free-prompt.txt",
+    "submitted_sha256": "a5987602a25af2051c18bef80787bed79ae7b10b96c8f11df9172072b2414ceb",
+    "same": true,
+    "design": "gpt_free",
+    "reason": "SCENE/outfit design explicitly delegated by generated free-design brief"
+  },
+  "casual5": {
+    "file": "casual5-free-prompt.txt",
+    "submitted_sha256": "211e3631f9923c7ca4b9cf17bb2417b8d3b06e7b4e1e07094a857f107681d7bf",
+    "same": true,
+    "design": "gpt_free",
+    "reason": "SCENE/outfit design explicitly delegated by generated free-design brief"
+  },
+  "casual6": {
+    "file": "casual6-prompt.txt",
+    "submitted_sha256": "859b69baef5e1b58cb64f72f6baea9ce6608b0fe3f7ff66a14da2c4f183e22ef",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual7": {
+    "file": "casual7-prompt.txt",
+    "submitted_sha256": "8b1099ecf085481a908d0ca1f44f588ff8a6539f6e609ce6c81a7016cb59a63c",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual8": {
+    "file": "casual8-prompt.txt",
+    "submitted_sha256": "52993697e11a638efbbc89dbd349ea458965ccb34eec808c25fc6f0e7dcb14ed",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual9": {
+    "file": "casual9-free-prompt.txt",
+    "submitted_sha256": "19569ca4cb028d0bf18ed9854a009e78d1b98d801cc3419cf88f2d75155589a9",
+    "same": true,
+    "design": "gpt_free",
+    "reason": "SCENE/outfit design explicitly delegated by generated free-design brief"
+  },
+  "casual10": {
+    "file": "casual10-prompt.txt",
+    "submitted_sha256": "3dcd57d23f6149c1133389ce8781b80a934eb2bb9506a20910769c5dcb5bc636",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  },
+  "casual90": {
+    "file": "casual90-prompt.txt",
+    "submitted_sha256": "7017dcda485c9bd7b45c483a05f4e9288c081886437857d2d42bbf601f5811c3",
+    "same": true,
+    "design": "generator",
+    "reason": "unchanged generator prompt"
+  }
+}

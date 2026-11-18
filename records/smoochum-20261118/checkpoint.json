@@ -1,0 +1,119 @@
+{
+ "character": "뽀뽀라",
+ "selected_number": 4,
+ "style": "anime_25d_gloss",
+ "stage": "generated_verified_ready_to_publish",
+ "images": {
+  "light": {
+   "original_sha256": "d1660f0dab82bb4f7b0b4750eb2975308763cb33532d84d236aafad4e6fc0d90",
+   "file": "뽀뽀라_light_anime_25d_gloss_f.webp",
+   "sha256": "22fbae03e056d31efaa1f41941bc58ed6b9c77b4796d7b7a1b9276ed029b535c",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual1": {
+   "original_sha256": "5d938ed8920b28159bd03415578c8ec57dbae9bead212cbf33d653e5e11be372",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual1.webp",
+   "sha256": "7505175da1763ad57c968a2ad97be6d5a872b0b5ac13672b33d407db9df9b2e7",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual2": {
+   "original_sha256": "2d2eb49f0b9efd109673b9099376d5bee0e83d3252d42e8d224b1211a79c9ae1",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual2.webp",
+   "sha256": "e1bc59868acc9acbfdb0670e33f022171f032f6cf0cbe4051f247b7632b7787f",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual3": {
+   "original_sha256": "ead2ba015fb409860ecdecbbd020fc77e24c6267ba2c6f6749f886374b4114ce",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual3.webp",
+   "sha256": "b87f8c16dd9accc23aba87c38811bfa4054cd184915a52d843e17c17bab6ead3",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual4": {
+   "original_sha256": "5536ac8be1364b710313e83fbdc7e4a41e92c29285a00a7f9237e4c350bb8581",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual4.webp",
+   "sha256": "8b1a27f4f88d99df7552944c8ca65f8184f3e0fa617a3f8400d76d5af49a904c",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual5": {
+   "original_sha256": "2a01e77dd3f2c68961ca0e588e3e1bb07f6d41bf3295d20b73562e220dc1dbeb",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual5.webp",
+   "sha256": "112ea7f8328ffd8c310ab06164d9b4139234b97f0867468059226bc6772378ee",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual6": {
+   "original_sha256": "adc9509c3b4f2a61997f801d1f91f681ca7853d9eae41fae60c17da036b93df6",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual6.webp",
+   "sha256": "73c4a432e9bb71b6b12104dcc47f4c24210d62bbf69817a4156678bf2405b8e5",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual7": {
+   "original_sha256": "0516d195c7b4e4f650acfd9b565b54ec3941e8993316d6c03c024897f364b1db",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual7.webp",
+   "sha256": "3d4eda09351748bee49ff5ea62da573bd90c06b5bfa61b55c032a42f070ac367",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual8": {
+   "original_sha256": "ac9a6c88de8c5536b9984c54289020274e05abb7f8fa89327934f6f4c77b5859",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual8.webp",
+   "sha256": "1f41185b48433fcbfc2683b123c80dbd73f1dd09a4d4a745bbfcd118ea538dec",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual9": {
+   "original_sha256": "f8774ce42b6e0b2f7bddd42f4d513a16bf39af90469a8fe5eebc3f27a63b5dd7",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual9.webp",
+   "sha256": "9f772dd9257e16943d684c1cc2ba9a675f719a549d3bf5eb851c75478c837fd9",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual10": {
+   "original_sha256": "c95f7f23a407c84ff089cde604bf9327581cef69cb3acf708d8d97dbe5f54086",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual10.webp",
+   "sha256": "059085abaaf368cb77b58f0d69123529daa57c27b5ca48f80163de3239b54fce",
+   "size": [
+    1024,
+    1536
+   ]
+  },
+  "casual90": {
+   "original_sha256": "92ab846378a79ef2336109b140a1ddb1f2cc315e06d4e828857352a61d9d9d15",
+   "file": "뽀뽀라_anime_25d_gloss_f_casual90.webp",
+   "sha256": "98df5cae02edf7574c39e95a9deaa6ec4c72f0a76bc5a82e450a9622a75a29a8",
+   "size": [
+    1024,
+    1536
+   ]
+  }
+ },
+ "preserved_existing_art": true,
+ "reference": "light",
+ "commits": {}
+}
