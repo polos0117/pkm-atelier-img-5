@@ -1,0 +1,180 @@
+{
+  "casual1": [
+    {
+      "slot": "casual1",
+      "at": "2026-11-18T12:32:39.636Z",
+      "prompt_sha256": "47184f441a77ced740cae3e84f7fc6aad1c7b791c3f0cdec2882644a1e4245ed",
+      "submitted_sha256": "47184f441a77ced740cae3e84f7fc6aad1c7b791c3f0cdec2882644a1e4245ed",
+      "same": true,
+      "prompt_words": 1167,
+      "submitted_words": 1167,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual2": [
+    {
+      "slot": "casual2",
+      "at": "2026-11-18T12:32:39.751Z",
+      "prompt_sha256": "afcaac06e8b5b1bdadb6f4e0b3280548739a66d66fba9d76d1328caa6275d412",
+      "submitted_sha256": "afcaac06e8b5b1bdadb6f4e0b3280548739a66d66fba9d76d1328caa6275d412",
+      "same": true,
+      "prompt_words": 1266,
+      "submitted_words": 1266,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual3": [
+    {
+      "slot": "casual3",
+      "at": "2026-11-18T12:32:39.834Z",
+      "prompt_sha256": "183260d47a7d34b6e9e9e7e3c04fe2020444372a661c9c09fee9a910f28b8d7d",
+      "submitted_sha256": "183260d47a7d34b6e9e9e7e3c04fe2020444372a661c9c09fee9a910f28b8d7d",
+      "same": true,
+      "prompt_words": 1226,
+      "submitted_words": 1226,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual4": [
+    {
+      "slot": "casual4",
+      "at": "2026-11-18T12:32:39.957Z",
+      "prompt_sha256": "a32736d8d2c323a49ebbe83adfd18591f246c54e1f4de447cf1fdcbb3c6e3031",
+      "submitted_sha256": "a32736d8d2c323a49ebbe83adfd18591f246c54e1f4de447cf1fdcbb3c6e3031",
+      "same": true,
+      "prompt_words": 1124,
+      "submitted_words": 1124,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual5": [
+    {
+      "slot": "casual5",
+      "at": "2026-11-18T12:32:40.102Z",
+      "prompt_sha256": "4f68d3b74d99e7ddac629f7e3620fe4e00583e818bcf953a29ad7f1121f433bb",
+      "submitted_sha256": "4f68d3b74d99e7ddac629f7e3620fe4e00583e818bcf953a29ad7f1121f433bb",
+      "same": true,
+      "prompt_words": 1173,
+      "submitted_words": 1173,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    },
+    {
+      "slot": "casual5",
+      "at": "2026-11-18T14:29:35.178739+00:00",
+      "prompt_sha256": "36e33642e53e2430e976756c484d8dc7a1b3da5a7423f3c9563541a1bf803aba",
+      "submitted_sha256": "36e33642e53e2430e976756c484d8dc7a1b3da5a7423f3c9563541a1bf803aba",
+      "same": true,
+      "style_kept": true,
+      "revision": {
+        "reason": "User requested a new design for casual 5 after the output was blocked.",
+        "design": "harbor ferry shelter wind gauge",
+        "previous": {
+          "code": "moderation_blocked",
+          "stage": "output",
+          "request_id": "31e3cb4f-a125-4ec3-b5d3-587e7206b36f"
+        }
+      }
+    }
+  ],
+  "casual6": [
+    {
+      "slot": "casual6",
+      "at": "2026-11-18T12:32:40.261Z",
+      "prompt_sha256": "f83cfef1ab998219a07dfad07ae4d705dc19ee4e6ffbdba0cd96def545848055",
+      "submitted_sha256": "f83cfef1ab998219a07dfad07ae4d705dc19ee4e6ffbdba0cd96def545848055",
+      "same": true,
+      "prompt_words": 1108,
+      "submitted_words": 1108,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual7": [
+    {
+      "slot": "casual7",
+      "at": "2026-11-18T12:32:40.371Z",
+      "prompt_sha256": "5a48b9c59a2b7f8fac34bf25f39a452cdaf552df7ce105d4ac9ddd484cb1cee1",
+      "submitted_sha256": "5a48b9c59a2b7f8fac34bf25f39a452cdaf552df7ce105d4ac9ddd484cb1cee1",
+      "same": true,
+      "prompt_words": 1295,
+      "submitted_words": 1295,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual8": [
+    {
+      "slot": "casual8",
+      "at": "2026-11-18T12:32:40.478Z",
+      "prompt_sha256": "a9fe3cebb1018eb4a907cc8158af825f360cfd4bbd8fa2b6fc6ed907a138c2f3",
+      "submitted_sha256": "a9fe3cebb1018eb4a907cc8158af825f360cfd4bbd8fa2b6fc6ed907a138c2f3",
+      "same": true,
+      "prompt_words": 1170,
+      "submitted_words": 1170,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual9": [
+    {
+      "slot": "casual9",
+      "at": "2026-11-18T12:32:40.633Z",
+      "prompt_sha256": "57580a25eb011cfee03bc397d8c21e108800881eb2edba397978c1ad58680f8c",
+      "submitted_sha256": "57580a25eb011cfee03bc397d8c21e108800881eb2edba397978c1ad58680f8c",
+      "same": true,
+      "prompt_words": 1109,
+      "submitted_words": 1109,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual10": [
+    {
+      "slot": "casual10",
+      "at": "2026-11-18T12:32:40.740Z",
+      "prompt_sha256": "ac68dc207c319d7892346a45f7ceaf5444e371070004c9cbcc3f079ca731b5cf",
+      "submitted_sha256": "ac68dc207c319d7892346a45f7ceaf5444e371070004c9cbcc3f079ca731b5cf",
+      "same": true,
+      "prompt_words": 1104,
+      "submitted_words": 1104,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual90": [
+    {
+      "slot": "casual90",
+      "at": "2026-11-18T12:32:40.861Z",
+      "prompt_sha256": "41eca2082ffab89629bd80eaf9850061a02a507d33c3de6ed43090c48e94eca8",
+      "submitted_sha256": "41eca2082ffab89629bd80eaf9850061a02a507d33c3de6ed43090c48e94eca8",
+      "same": true,
+      "prompt_words": 1011,
+      "submitted_words": 1011,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "light": {
+    "slot": "light",
+    "prompt_sha256": "a2f06571369c1e8ab91ccdf12f8d33a3ce268ebc8950e4206053739787d5abba",
+    "submitted_sha256": "a2f06571369c1e8ab91ccdf12f8d33a3ce268ebc8950e4206053739787d5abba",
+    "same": true,
+    "style_kept": true
+  }
+}

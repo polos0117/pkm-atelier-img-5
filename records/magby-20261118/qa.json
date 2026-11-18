@@ -1,0 +1,218 @@
+{
+  "light": {
+    "status": "accepted",
+    "image_sha256": "9d36c36e5a103d63a44950feb53aff79739bdad9ccf30558fe5e4653fac9e9d3",
+    "anatomy": {
+      "tool": "check",
+      "arms": 2,
+      "legs": 2,
+      "hands": "불꽃 아래 펼친 장갑 손과 내린 장갑 주먹이 각 팔에 이어진다. 쥔 손의 마디는 가려진다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "불꽃 아래 손을 떨어진 손으로 표시했지만 원본에서 손목과 장갑이 연결된다. 사용자 선택 2번."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "불꽃 아래 손을 떨어진 손으로 표시했지만 원본에서 손목과 장갑이 연결된다. 사용자 선택 2번."
+  },
+  "casual1": {
+    "status": "accepted",
+    "image_sha256": "7d2cebef631a7579ac1598f2ed6f82f069d9d84fd47b14f37cc58c8a25e6cdd5",
+    "anatomy": {
+      "tool": "check",
+      "arms": 2,
+      "legs": 2,
+      "hands": "등불 손잡이를 잡은 손과 앞으로 내려온 손이 각 손목에 붙는다. 쥔 손가락 일부가 가려진다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "내린 손이 팔에 붙어 있어 뼈대 검사기의 분리 손 표시는 오검출이다. 얼음 계단에서 걷는 옆 구도."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "내린 손이 팔에 붙어 있어 뼈대 검사기의 분리 손 표시는 오검출이다. 얼음 계단에서 걷는 옆 구도."
+  },
+  "casual2": {
+    "status": "accepted",
+    "image_sha256": "eedc620455f9da8b83cec99a0eb7b2a216c84c65f73970a0de56f8ced9a98ffb",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": "out of frame",
+      "hands": "젓가락을 쥔 손이 왼쪽 화면 밖으로 이어진 팔에 붙는다. 다른 손과 하체는 프레임 밖이다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "라멘과 얼굴 근접 컷. 결과의 아래 경계가 원문에 지정된 쇄골보다 낮다."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "라멘과 얼굴 근접 컷. 결과의 아래 경계가 원문에 지정된 쇄골보다 낮다."
+  },
+  "casual3": {
+    "status": "accepted",
+    "image_sha256": "8d33dbd4d8facfbbbd0b3e3aa8d615b67947be1f50a03fa5ec2b15edfd6413db",
+    "anatomy": {
+      "tool": "note",
+      "arms": 2,
+      "legs": 2,
+      "hands": "꼬치를 든 손과 바위를 짚는 손의 연결이 보인다. 발가락은 물에 가려진다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "두 번째 인물 표시는 오검출이다. 바위에 앉아 한쪽 무릎을 세운 구도."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "두 번째 인물 표시는 오검출이다. 바위에 앉아 한쪽 무릎을 세운 구도."
+  },
+  "casual4": {
+    "status": "accepted",
+    "image_sha256": "f4d658761a9052818976305d88b3275e36fabec0f0fc3787cfeece2ff9819f58",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "잔을 쥔 손과 허벅지에 올린 손이 각각 손목에 붙는다. 무릎을 꿇어 발이 가려진다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "갈대밭 옆 정자에서 노란 옷을 입고 잔을 든 이전 원본."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "갈대밭 옆 정자에서 노란 옷을 입고 잔을 든 이전 원본."
+  },
+  "casual5": {
+    "status": "accepted",
+    "image_sha256": "60e214a2f926b50bcc39d467160c7344fe8feb7441e14541e1f79a45efdb4bad",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": "below mid-thigh outside frame",
+      "hands": "바람계 위와 난간 위의 손이 각각 손목에 이어지고 양손에서 손가락 다섯을 확인했다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "선착장 바람계·여객선·작업 재킷 장면. 화면 하단 경계는 허리보다 조금 낮아 허벅지까지 보인다."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "선착장 바람계·여객선·작업 재킷 장면. 화면 하단 경계는 허리보다 조금 낮아 허벅지까지 보인다."
+  },
+  "casual6": {
+    "status": "accepted",
+    "image_sha256": "60cdcbb18948a67148411b4473a5c77bed993ed2689a768a1acf286e26afc132",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "허리에 올린 손과 다리 쪽에 내린 손이 각각 연결된다. 두 신발의 발목과 무릎 방향을 확인했다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "한 발을 디딤판에 올린 요트 갑판 구도의 이전 원본."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "한 발을 디딤판에 올린 요트 갑판 구도의 이전 원본."
+  },
+  "casual7": {
+    "status": "accepted",
+    "image_sha256": "f21c00fb0de519c9a59bd8dc88d2e34a61af1bf8485276142ec0086e783ad4fe",
+    "anatomy": {
+      "tool": "check · 오른다리 정강이/허벅지 길이 비 3.70 — 사람 범위 0.60~2.40 밖(늘어나거나 짧아진 다리) · 손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 5.1 배) — 셋째 손·떨어진 손",
+      "arms": 2,
+      "legs": "below frame",
+      "hands": "허벅지를 짚은 손과 등받이에 걸친 손이 몸통 및 손목에 이어진다. 등받이에 걸친 팔의 중간 구간은 몸통에 가려진다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "게임센터 코스프레. 검사기가 잘린 하체를 추정해 다리 길이 비율을 표시했고, 등받이에 걸친 손은 원본에서 팔과 연결된다."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "게임센터 코스프레. 검사기가 잘린 하체를 추정해 다리 길이 비율을 표시했고, 등받이에 걸친 손은 원본에서 팔과 연결된다."
+  },
+  "casual8": {
+    "status": "accepted",
+    "image_sha256": "8fc86f509574f3743e514d2f4ada0ce4c0bf958a7d881cfaba0631de79c068c3",
+    "anatomy": {
+      "tool": "note · 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "머그잔을 잡은 손과 돌 가장자리를 짚은 손이 양팔로 이어진다. 무릎 아래는 프레임 밖이다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "뜨거운 머그잔을 든 일몰 노천 휴식 장면. 원본에서 추가 인물을 찾지 못했다."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "뜨거운 머그잔을 든 일몰 노천 휴식 장면. 원본에서 추가 인물을 찾지 못했다."
+  },
+  "casual9": {
+    "status": "accepted",
+    "image_sha256": "82706d68c834f62f3ace1050c21f6fc28c0e6b9e1598f2011322291784295fee",
+    "anatomy": {
+      "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "한 손은 마룻바닥을, 다른 손은 무릎을 짚는다. 무릎을 꿇어 발 하나와 발가락이 옷과 구두에 가려진다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "무대가 있는 연회장과 메이드복 차림. 웃는 표정과 양쪽 팔의 연결을 확인했다."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "무대가 있는 연회장과 메이드복 차림. 웃는 표정과 양쪽 팔의 연결을 확인했다."
+  },
+  "casual10": {
+    "status": "accepted",
+    "image_sha256": "4a47e3b235abd3c7253a321ff2f0778cfb82be4ecd7ba4d34d5398a1607695a7",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "카운터에 놓은 양쪽 장갑 손이 각 손목에 붙고, 뒤쪽 다리는 앞쪽 다리와 겹친다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "불꽃 색 의상과 꼬리 장식의 코스튬 컷. 각 발은 신발로 이어지고 두 손이 따로 놓였다."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "불꽃 색 의상과 꼬리 장식의 코스튬 컷. 각 발은 신발로 이어지고 두 손이 따로 놓였다."
+  },
+  "casual90": {
+    "status": "accepted",
+    "image_sha256": "90828141453f210b2364e5832fe99408c349cb004051691716932fa2466ed5a9",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "망치를 양손으로 쥐고 있고 장갑과 손잡이가 손가락 일부를 가린다. 하체 끝은 프레임 밖이다.",
+      "issue": "ok",
+      "overlay_checked": true,
+      "note": "앞치마를 입고 작업하는 대장간 견습 장면의 이전 원본."
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "애니메이션 얼굴 윤곽과 부드러운 명암, 머리카락과 의상 소재의 분리."
+    },
+    "note": "앞치마를 입고 작업하는 대장간 견습 장면의 이전 원본."
+  }
+}

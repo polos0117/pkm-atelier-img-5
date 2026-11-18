@@ -1,0 +1,142 @@
+{
+  "card": "마그비",
+  "dex": 240,
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "reference": "마그비_light_anime_25d_gloss_f.webp",
+  "reservation": "magby-0e34c7a9-20261118",
+  "selection_candidates": [
+    {
+      "number": 1,
+      "design": "atelier",
+      "original_sha256": "eff67cc1e16e3ec028b43f896432876c09269f199fe689f9a60209e8a05427a9",
+      "submitted_sha256": "a2f06571369c1e8ab91ccdf12f8d33a3ce268ebc8950e4206053739787d5abba"
+    },
+    {
+      "number": 2,
+      "design": "atelier",
+      "original_sha256": "9d36c36e5a103d63a44950feb53aff79739bdad9ccf30558fe5e4653fac9e9d3",
+      "submitted_sha256": "a2f06571369c1e8ab91ccdf12f8d33a3ce268ebc8950e4206053739787d5abba"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original_sha256": "eb00aeb704fc3a131039ab82c6bf05aaceee67ed706c39ddfb6eb7182a8e0171",
+      "submitted_sha256": "2c5f08b6453a3fa1ea315a0e49dc2b9a2244be63fd755c95727987e9c9be0f8c"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original_sha256": "b5efb68ced66793e220ee35f411cb071513b0509e4d0a465a25686c32b94997d",
+      "submitted_sha256": "05c1e08b382ce1ab72da5c0be19e8699a7e2d55b591738f9cf94e9c47e1812bf"
+    }
+  ],
+  "files": {
+    "light": {
+      "file": "마그비_light_anime_25d_gloss_f.webp",
+      "original_sha256": "9d36c36e5a103d63a44950feb53aff79739bdad9ccf30558fe5e4653fac9e9d3",
+      "webp_sha256": "ab768b46e40fa8d375bf630c0ebfa9da3f7c5206fdfa55aa5df40b4ba3c3e4fa",
+      "submitted_sha256": "a2f06571369c1e8ab91ccdf12f8d33a3ce268ebc8950e4206053739787d5abba",
+      "submitted_same": true
+    },
+    "casual1": {
+      "file": "마그비_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "7d2cebef631a7579ac1598f2ed6f82f069d9d84fd47b14f37cc58c8a25e6cdd5",
+      "webp_sha256": "8ed96d89f2954d10d52ad3a7c22eccccdbc958e6b535f183643829874066d646",
+      "submitted_sha256": "47184f441a77ced740cae3e84f7fc6aad1c7b791c3f0cdec2882644a1e4245ed",
+      "submitted_same": true
+    },
+    "casual2": {
+      "file": "마그비_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "eedc620455f9da8b83cec99a0eb7b2a216c84c65f73970a0de56f8ced9a98ffb",
+      "webp_sha256": "6bb95eda2cb7724c1b3b99ed40005b9eb61e7cadb24c3eb22eecf963cf7bc734",
+      "submitted_sha256": "afcaac06e8b5b1bdadb6f4e0b3280548739a66d66fba9d76d1328caa6275d412",
+      "submitted_same": true
+    },
+    "casual3": {
+      "file": "마그비_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "8d33dbd4d8facfbbbd0b3e3aa8d615b67947be1f50a03fa5ec2b15edfd6413db",
+      "webp_sha256": "c603555c0fd95c2b6a2d6162b9eb2af317d380e76affa99a70a9ff4a4bb12b88",
+      "submitted_sha256": "183260d47a7d34b6e9e9e7e3c04fe2020444372a661c9c09fee9a910f28b8d7d",
+      "submitted_same": true
+    },
+    "casual4": {
+      "file": "마그비_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "f4d658761a9052818976305d88b3275e36fabec0f0fc3787cfeece2ff9819f58",
+      "webp_sha256": "db22a6b1623d96a72536139e14dd0190bde2d8d1b416c135945eba86d518848a",
+      "submitted_sha256": "a32736d8d2c323a49ebbe83adfd18591f246c54e1f4de447cf1fdcbb3c6e3031",
+      "submitted_same": true
+    },
+    "casual5": {
+      "file": "마그비_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "60e214a2f926b50bcc39d467160c7344fe8feb7441e14541e1f79a45efdb4bad",
+      "webp_sha256": "8b7e6b4d6bcaac00a3b94fd08b19f0c45bd0c4d1209b93d6770970a183aa8db4",
+      "submitted_sha256": "36e33642e53e2430e976756c484d8dc7a1b3da5a7423f3c9563541a1bf803aba",
+      "submitted_same": true
+    },
+    "casual6": {
+      "file": "마그비_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "60cdcbb18948a67148411b4473a5c77bed993ed2689a768a1acf286e26afc132",
+      "webp_sha256": "2b16c0a0d083142f21bc4142c13dd328ecbcf1089b187f82671b4e4c18cbdc23",
+      "submitted_sha256": "f83cfef1ab998219a07dfad07ae4d705dc19ee4e6ffbdba0cd96def545848055",
+      "submitted_same": true
+    },
+    "casual7": {
+      "file": "마그비_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "f21c00fb0de519c9a59bd8dc88d2e34a61af1bf8485276142ec0086e783ad4fe",
+      "webp_sha256": "ee896c06176b842053801f30177e4fe3f73e36fca0aa7b4bda1d2cea3f47a2a3",
+      "submitted_sha256": "5a48b9c59a2b7f8fac34bf25f39a452cdaf552df7ce105d4ac9ddd484cb1cee1",
+      "submitted_same": true
+    },
+    "casual8": {
+      "file": "마그비_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "8fc86f509574f3743e514d2f4ada0ce4c0bf958a7d881cfaba0631de79c068c3",
+      "webp_sha256": "7851fb04c3284c10b516b859323d81e71dc96d63118ea7575902a8eebcfcdf80",
+      "submitted_sha256": "a9fe3cebb1018eb4a907cc8158af825f360cfd4bbd8fa2b6fc6ed907a138c2f3",
+      "submitted_same": true
+    },
+    "casual9": {
+      "file": "마그비_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "82706d68c834f62f3ace1050c21f6fc28c0e6b9e1598f2011322291784295fee",
+      "webp_sha256": "8f364b063724f0900a8813bcf3cf90b1f629ca5c986bb51b97a612fff108f76d",
+      "submitted_sha256": "57580a25eb011cfee03bc397d8c21e108800881eb2edba397978c1ad58680f8c",
+      "submitted_same": true
+    },
+    "casual10": {
+      "file": "마그비_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "4a47e3b235abd3c7253a321ff2f0778cfb82be4ecd7ba4d34d5398a1607695a7",
+      "webp_sha256": "0b95a62f1b639496e556d0199c0dcd2a76175be9988138dd96451f1ec50c5b14",
+      "submitted_sha256": "ac68dc207c319d7892346a45f7ceaf5444e371070004c9cbcc3f079ca731b5cf",
+      "submitted_same": true
+    },
+    "casual90": {
+      "file": "마그비_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "90828141453f210b2364e5832fe99408c349cb004051691716932fa2466ed5a9",
+      "webp_sha256": "50089ef331dd6a4068cc3c9ca65343e681502b89d0c45cc6ccaa8b53318c3db8",
+      "submitted_sha256": "41eca2082ffab89629bd80eaf9850061a02a507d33c3de6ed43090c48e94eca8",
+      "submitted_same": true
+    }
+  },
+  "revisions": {
+    "casual5": {
+      "scene": {
+        "sfree": true,
+        "era": "in_pokemon",
+        "aspect": "2:3",
+        "posture": "stand",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "camera": "eye",
+        "scene": "Open harbor ferry shelter, checking a brass wind gauge in the afternoon.",
+        "outfit": "Cobalt canvas chore jacket, ivory ribbed mock-neck shirt, ochre scarf and dark straight-leg utility trousers."
+      },
+      "reason": "User requested a new design for casual 5 after the output was blocked.",
+      "design": "harbor ferry shelter wind gauge",
+      "previous": {
+        "code": "moderation_blocked",
+        "stage": "output",
+        "request_id": "31e3cb4f-a125-4ec3-b5d3-587e7206b36f"
+      }
+    }
+  }
+}

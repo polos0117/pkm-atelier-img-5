@@ -1,0 +1,599 @@
+{
+  "session": "magby-0e34c7a9-20261118",
+  "planner": "tools/casual-plan.cjs",
+  "characters": [
+    {
+      "card": "마그비",
+      "species": "magby-20261118",
+      "cuts": [
+        {
+          "cut": 1,
+          "treeV": 2,
+          "era": "fantasy",
+          "place": "fx_ice",
+          "ofam": "editorial",
+          "item": "retro_jumpsuit",
+          "garments": [
+            "jumpsuit"
+          ],
+          "ocolor": "",
+          "weather": "",
+          "time": "day_indoor",
+          "moment": "",
+          "light": "side",
+          "spot": "",
+          "depth": "flat",
+          "view": "",
+          "posture": "walk",
+          "support": "none",
+          "frame": "full_body",
+          "body": "side",
+          "head": "with_body",
+          "camera": "low",
+          "right": "prop",
+          "left": "down",
+          "use": "lantern_low",
+          "legs": "walk_stride",
+          "gaze": "horizon",
+          "preset": "walk_side_low",
+          "expr": "bored",
+          "aspect": "2:3",
+          "ofree": true,
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "mostly active",
+            "source_influence": "balanced",
+            "separates_preference": "balanced"
+          },
+          "expose": [
+            "sweetheart neckline",
+            "backless"
+          ],
+          "lead": "detail",
+          "shade": ""
+        },
+        {
+          "cut": 2,
+          "treeV": 2,
+          "era": "in_pokemon",
+          "place": "berry_stall",
+          "ofam": "dongtan",
+          "item": "",
+          "garments": [
+            "knit_top",
+            "skirt"
+          ],
+          "ocolor": "green",
+          "weather": "rain",
+          "time": "dusk",
+          "moment": "",
+          "light": "",
+          "spot": "",
+          "depth": "flat",
+          "view": "",
+          "posture": "sit_chair",
+          "support": "back_seat",
+          "frame": "face_close",
+          "body": "front_3q",
+          "head": "with_body",
+          "camera": "eye",
+          "right": "prop",
+          "left": "out",
+          "use": "noodle_eat",
+          "legs": "",
+          "gaze": "camera",
+          "preset": "sip_close",
+          "expr": "laughing_open",
+          "aspect": "2:3",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "mostly posed",
+            "source_influence": "balanced",
+            "separates_preference": "prefer separates"
+          },
+          "expose": [
+            "plunging neckline",
+            "open back"
+          ],
+          "lead": "action",
+          "shade": "moss"
+        },
+        {
+          "cut": 3,
+          "treeV": 2,
+          "era": "release",
+          "place": "evening_hotel",
+          "ofam": "bridal",
+          "item": "bridal_lace",
+          "garments": [
+            "lingerie_set"
+          ],
+          "ocolor": "",
+          "weather": "",
+          "time": "overcast",
+          "moment": "",
+          "light": "",
+          "spot": "right_third",
+          "depth": "",
+          "view": "foreground",
+          "posture": "lean_counter",
+          "support": "none",
+          "frame": "waist_up",
+          "body": "front_3q",
+          "head": "with_body",
+          "camera": "eye",
+          "right": "prop",
+          "left": "prop",
+          "use": "book_turn",
+          "legs": "",
+          "gaze": "",
+          "preset": "counter_work",
+          "expr": "mischievous",
+          "aspect": "2:3",
+          "xfree": true,
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "balanced",
+            "source_influence": "balanced",
+            "separates_preference": "balanced"
+          },
+          "expose": [
+            "deep V neckline",
+            "high-cut leg"
+          ],
+          "lead": "light",
+          "shade": ""
+        },
+        {
+          "cut": 4,
+          "treeV": 2,
+          "era": "in_pokemon",
+          "place": "work_wetland",
+          "ofam": "swimwear",
+          "item": "burkini_modest",
+          "garments": [
+            "swimsuit"
+          ],
+          "ocolor": "yellow",
+          "weather": "",
+          "time": "morning",
+          "moment": "",
+          "light": "",
+          "spot": "left_third",
+          "depth": "deep",
+          "view": "",
+          "posture": "kneel",
+          "support": "none",
+          "frame": "three_quarter",
+          "body": "front_3q",
+          "head": "tilt",
+          "camera": "high",
+          "right": "prop",
+          "left": "lap",
+          "use": "cup_peek",
+          "legs": "",
+          "gaze": "at_prop",
+          "preset": "kneel_high_prop",
+          "expr": "serious",
+          "aspect": "2:3",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "balanced",
+            "source_influence": "balanced",
+            "separates_preference": "balanced"
+          },
+          "expose": [
+            "sweetheart neckline",
+            "side cutouts"
+          ],
+          "lead": "place",
+          "shade": "gold"
+        },
+        {
+          "cut": 5,
+          "treeV": 2,
+          "era": "in_pokemon",
+          "place": "pw_roof",
+          "ofam": "lingerie",
+          "item": "",
+          "garments": [
+            "slip"
+          ],
+          "ocolor": "blue",
+          "weather": "",
+          "time": "forenoon",
+          "moment": "",
+          "light": "",
+          "spot": "",
+          "depth": "",
+          "view": "",
+          "posture": "stand",
+          "support": "none",
+          "frame": "chest_up",
+          "body": "front_3q",
+          "head": "tilt",
+          "camera": "eye",
+          "right": "prop",
+          "left": "out",
+          "use": "ball_raise",
+          "legs": "",
+          "gaze": "",
+          "preset": "raise_chest",
+          "expr": "half_smile",
+          "aspect": "2:3",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "mostly posed",
+            "source_influence": "subtle",
+            "separates_preference": "balanced"
+          },
+          "expose": [
+            "plunging neckline",
+            "mini length"
+          ],
+          "lead": "light",
+          "shade": "navy"
+        },
+        {
+          "cut": 6,
+          "treeV": 2,
+          "era": "now",
+          "place": "water_yacht",
+          "ofam": "retro",
+          "item": "nineties_windbreaker_track",
+          "garments": [
+            "jacket",
+            "trousers"
+          ],
+          "ocolor": "orange",
+          "weather": "",
+          "time": "dawn",
+          "moment": "",
+          "light": "back",
+          "spot": "left_third",
+          "depth": "",
+          "view": "",
+          "posture": "step_up",
+          "support": "none",
+          "frame": "full_body",
+          "body": "front_3q",
+          "head": "turn_side",
+          "camera": "low",
+          "right": "hip",
+          "left": "natural",
+          "use": "",
+          "legs": "",
+          "gaze": "horizon",
+          "preset": "step_pause",
+          "expr": "confident",
+          "aspect": "2:3",
+          "situ": "waist_tied",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "mostly posed",
+            "source_influence": "balanced",
+            "separates_preference": "prefer separates"
+          },
+          "expose": [
+            "deep V neckline",
+            "one-shoulder cut"
+          ],
+          "lead": "place",
+          "shade": "terracotta"
+        },
+        {
+          "cut": 7,
+          "treeV": 2,
+          "era": "now",
+          "place": "arcade_hall",
+          "ofam": "game_cosplay",
+          "item": "gc_leotard",
+          "cosplay": {
+            "game": "final_fantasy_7",
+            "character": "Cait Sith",
+            "cut": "leotard",
+            "round": 1
+          },
+          "garments": [
+            "bodysuit",
+            "leggings"
+          ],
+          "ocolor": "",
+          "weather": "",
+          "time": "fluorescent",
+          "moment": "",
+          "light": "low_warm",
+          "spot": "right_third",
+          "depth": "",
+          "view": "",
+          "posture": "sit_chair",
+          "support": "none",
+          "frame": "waist_up",
+          "body": "rear_3q",
+          "head": "over_shoulder",
+          "camera": "floor",
+          "right": "natural",
+          "left": "natural",
+          "use": "",
+          "legs": "",
+          "gaze": "camera",
+          "preset": "chair_lookback",
+          "expr": "soft_smile",
+          "aspect": "2:3",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "mostly posed",
+            "source_influence": "balanced",
+            "separates_preference": "prefer separates"
+          },
+          "expose": [
+            "sweetheart neckline",
+            "cutout waist"
+          ],
+          "lead": "action",
+          "shade": ""
+        },
+        {
+          "cut": 8,
+          "treeV": 2,
+          "era": "now",
+          "place": "maintenance_shed",
+          "ofam": "active",
+          "item": "ski_suit",
+          "garments": [
+            "swimsuit"
+          ],
+          "ocolor": "",
+          "weather": "",
+          "time": "golden",
+          "moment": "",
+          "light": "",
+          "spot": "",
+          "depth": "",
+          "view": "glass",
+          "posture": "kneel",
+          "support": "none",
+          "frame": "three_quarter",
+          "body": "rear_3q",
+          "head": "tilt",
+          "camera": "high",
+          "right": "natural",
+          "left": "natural",
+          "use": "",
+          "legs": "knees_together",
+          "gaze": "screen_left",
+          "preset": "",
+          "expr": "exhausted",
+          "aspect": "2:3",
+          "ofree": true,
+          "sfree": true,
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "balanced",
+            "source_influence": "balanced",
+            "separates_preference": "balanced"
+          },
+          "expose": [
+            "plunging neckline",
+            "strapless top"
+          ],
+          "lead": "detail",
+          "shade": ""
+        },
+        {
+          "cut": 9,
+          "treeV": 2,
+          "era": "release",
+          "place": "stage_dance",
+          "ofam": "roleplay",
+          "item": "adult_maid",
+          "garments": [
+            "apron"
+          ],
+          "ocolor": "ivory",
+          "weather": "",
+          "time": "lamplight",
+          "moment": "",
+          "light": "",
+          "spot": "",
+          "depth": "deep",
+          "view": "",
+          "posture": "kneel",
+          "support": "none",
+          "frame": "environmental",
+          "body": "rear_3q",
+          "head": "tilt",
+          "camera": "floor",
+          "right": "natural",
+          "left": "natural",
+          "use": "",
+          "legs": "",
+          "gaze": "screen_left",
+          "preset": "",
+          "expr": "laughing",
+          "aspect": "2:3",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "balanced",
+            "source_influence": "subtle",
+            "separates_preference": "prefer separates"
+          },
+          "expose": [
+            "deep V neckline",
+            "cropped hem"
+          ],
+          "lead": "action",
+          "shade": ""
+        },
+        {
+          "cut": 10,
+          "treeV": 2,
+          "era": "now",
+          "place": "street_cafe",
+          "ofam": "pokemon_costume",
+          "item": "pc_bodysuit",
+          "garments": [
+            "bodysuit",
+            "leggings"
+          ],
+          "ocolor": "",
+          "weather": "",
+          "time": "night",
+          "moment": "",
+          "light": "top",
+          "spot": "",
+          "depth": "layered",
+          "view": "",
+          "posture": "lean_counter",
+          "support": "none",
+          "frame": "environmental",
+          "body": "rear_3q",
+          "head": "turn_side",
+          "camera": "eye",
+          "right": "natural",
+          "left": "natural",
+          "use": "",
+          "legs": "ankles_crossed",
+          "gaze": "screen_right",
+          "preset": "",
+          "expr": "nostalgic",
+          "aspect": "2:3",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold",
+            "action_level": "balanced",
+            "source_influence": "balanced",
+            "separates_preference": "prefer separates"
+          },
+          "expose": [
+            "sweetheart neckline",
+            "halter neck"
+          ],
+          "lead": "place",
+          "shade": ""
+        },
+        {
+          "treeV": 2,
+          "era": "in_pokemon",
+          "place": "pw_workshop",
+          "ofam": "everyday",
+          "prop": "0",
+          "ownProp": "a smith's hammer",
+          "preset": "camera_shot",
+          "use": "sig_both",
+          "posture": "stand",
+          "support": "none",
+          "frame": "three_quarter",
+          "body": "front_3q",
+          "head": "with_body",
+          "camera": "eye",
+          "right": "prop",
+          "left": "prop",
+          "legs": "stand_relaxed",
+          "gaze": "",
+          "time": "noon",
+          "weather": "summer",
+          "own": "all",
+          "placeText": "a blacksmith forge — a glowing coal hearth, an iron anvil, hanging tongs and a quench trough",
+          "scene": "she is an apprentice holding a smith's hammer with both hands, timidly striking the anvil",
+          "outfit": "a blacksmith look fitted to her body — a fitted leather apron over a tank top and short shorts with boots, bare shoulders and legs, a plain soot-black bandana",
+          "job_ko": "대장간 견습",
+          "cut": 90,
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold"
+          },
+          "aspect": "2:3"
+        }
+      ],
+      "why": {
+        "tree": 2,
+        "count": 10,
+        "required": {
+          "slots": [
+            4,
+            5,
+            9
+          ],
+          "all": true
+        },
+        "costume": 10,
+        "cosplay": {
+          "cut": "leotard",
+          "game": "final_fantasy_7",
+          "character": "Cait Sith",
+          "round": 1,
+          "cutKey": "leotard"
+        },
+        "low": [
+          "arcade",
+          "water",
+          "work",
+          "berry",
+          "fx"
+        ],
+        "ofree": [
+          1,
+          8
+        ],
+        "xfree": 3,
+        "situ": {
+          "cut": 6,
+          "situ": "waist_tied"
+        }
+      },
+      "claims": {
+        "garment": [
+          "knit_top",
+          "swimsuit",
+          "slip",
+          "jacket",
+          "bodysuit",
+          "leggings",
+          "apron"
+        ],
+        "orient": [
+          "front_3q+turn_side",
+          "rear_3q+over_shoulder",
+          "rear_3q+tilt",
+          "rear_3q+tilt",
+          "rear_3q+turn_side"
+        ],
+        "frame": [
+          "face_close"
+        ]
+      }
+    }
+  ],
+  "revisions": {
+    "casual5": {
+      "scene": {
+        "sfree": true,
+        "era": "in_pokemon",
+        "aspect": "2:3",
+        "posture": "stand",
+        "frame": "waist_up",
+        "body": "front_3q",
+        "camera": "eye",
+        "scene": "Open harbor ferry shelter, checking a brass wind gauge in the afternoon.",
+        "outfit": "Cobalt canvas chore jacket, ivory ribbed mock-neck shirt, ochre scarf and dark straight-leg utility trousers."
+      },
+      "reason": "User requested a new design for casual 5 after the output was blocked.",
+      "design": "harbor ferry shelter wind gauge",
+      "previous": {
+        "code": "moderation_blocked",
+        "stage": "output",
+        "request_id": "31e3cb4f-a125-4ec3-b5d3-587e7206b36f"
+      }
+    }
+  }
+}
