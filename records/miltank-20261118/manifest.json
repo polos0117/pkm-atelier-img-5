@@ -1,0 +1,170 @@
+[
+ {
+  "slot": "light",
+  "card": "밀탱크",
+  "filename": "밀탱크_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "b116ec93a108a04d977f6c4cab19b5494ef1dab3d0c6c44018f7db0cf43b94ca",
+  "sha256": "df1d6d5b246735b4e5f4bc865c65773a8fde80f4cff32779bea3b31b7b34a26b",
+  "submitted_sha256": "fd7148eb66b00c68493545ddd15168a37c6cf8098053ac4883ad4dc967d680e3",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual1",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "ebc9fd69c07adadff0e1a0e40bec9f91910af40602b4b027598e598a9154d984",
+  "sha256": "93b1c1910e68726497a5a1f2f465c596f617b719ea7c4d275ae6f1b0671aadd0",
+  "submitted_sha256": "13bd20ee704290775957c6e6a2b36820eeb3cbe9933b82f211621b5fa763048e",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "01b2d229c39b6528be58e78f49b432bbe1d62245859f4b1ca315c9db4fc47473",
+  "sha256": "7cf35ac19a1e50c5b8e36adebeaad093a884d6159084a98fe97570a8c7b8a2d6",
+  "submitted_sha256": "69ccb77e6ab227fae859e92fd1964dddb24c2830743b853fe767ae19e128229c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "294106f4676dc8317de8bc3dab31b939e68175bd930c5c42188679a66021bfa6",
+  "sha256": "2340ee82e1c43fa89044618982f5e984f08ebc14908e3925c728e9fa8a2790bb",
+  "submitted_sha256": "b6e874ea5cef2f80ff6f54dad56fd978c520305a351a2cf9127f96e35c125f0d",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual4",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "9c37c18a4cef97083199941bc388aab7989be21e306bc03427127a550c88b5be",
+  "sha256": "f66e61a21bca65d4b0d446be9e57f0fe0d30dfd4f1db4edf2c313daf9211f828",
+  "submitted_sha256": "6d4cfaf2bc68091929f271e038d9cbe823a51fcad286b2c6f364c8f901802717",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual5",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "7c0161d65c595dfa40fda39617897a584a496411419934652d0ab58400abbabf",
+  "sha256": "e5702767645f47cb56755d04adbbf52b802e23ce4c356308f748f35258e03d19",
+  "submitted_sha256": "e092696b48314d5eacd08d2d4d6ea85bdce0e20404a606b58ca386453071d42c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual6",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "0282a16c8367b0d2a45498f232803fa3264c13e02697e9be19f2544f06a21ebd",
+  "sha256": "669d166506fb1cf2c876014b81792cf129bbbceef497a0ab86cc5b96be88eda7",
+  "submitted_sha256": "7a903f9cf0fdf2b8f577c13b0e10ae58df3ad063b2c04d915d134c545c07852e",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual7",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "05b7f763a2232876b749261da13b84632e6528e089c16eed83cd512488819cf0",
+  "sha256": "3d76f0bec304d623997c52c06a813551d2f93a3abb9567fb16ca7cfaf04270d8",
+  "submitted_sha256": "e83741db0269e3eed6a1161cc8f5aa5026cc4e22400d4b336af6cab6c740915c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual8",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "eb081bc3474c811c3957bdaddb422d5850cfaa07f9773abcc1dbab1857181924",
+  "sha256": "a46e30644099b5fb186f9bdb0b4fffa14dcbb839370d37bcdd9844576fa31079",
+  "submitted_sha256": "b446c5c2e0c4521ca9d48bd3a952913f3d215f5f007ef0bf63e534d0a3167e11",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual9",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "e3dc71345eecc0bdec063d21e4de639a56fe40c067b5a581d24dea16c7f7a319",
+  "sha256": "59bb0e337b3c79df1eecb213b6ccb06abb635f3d976c754b8129b909376bbc60",
+  "submitted_sha256": "4630b1ff6261e5f57fc509ce98618dcae5739a52f8c9594be3431374fa2c0f49",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual10",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "6492de5a0ca165ce52fe757678b5050a31b09c4a10a3e893fcaa945ad79faadd",
+  "sha256": "1b7b4c405747a9b17376982fcf01a081f88f301ad9780e5024b858fd0892a284",
+  "submitted_sha256": "5d910c48a8cd59f759327c7018fbd81af279cc886b5dc574ac3f414bd03158b0",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual90",
+  "card": "밀탱크",
+  "filename": "밀탱크_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "2d1314c43d25172d32dd8b3e5fe5759aab5d022780248c2921683b1dc1d1efed",
+  "sha256": "9cdef78642cddea110d9710fe7e00fd56056a8d40482e8bba6e2b5d795dc678e",
+  "submitted_sha256": "be29ee1657db584b393ef3cb4251727cc4af2adf8033e7b852073eef45699625",
+  "submitted_same": true
+ }
+]
