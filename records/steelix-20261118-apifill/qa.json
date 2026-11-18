@@ -1,0 +1,38 @@
+{
+ "card": "강철톤",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "강철톤_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual2": {
+   "image": "강철톤_anime_25d_gloss_f_casual2.webp",
+   "png_sha256": "9cfbd80be6af05837624ef8965bb1139ed635b84e9395c407f4aae014268229f",
+   "webp_sha256": "bfabb49ad32d8872cd9e83269d8c58058cb1ab8ad8714f97b16550d5fb0be0df",
+   "submitted_same": true,
+   "submitted_sha256": "26a7862d642015be82f4cdec4613fda23487a7526221d5b3d00f3222779bb8c1",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_0bbe847334704cbcb7af791a039beb56",
+   "tries": [
+    {
+     "step": "replan",
+     "request_id": "req_0bbe847334704cbcb7af791a039beb56",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "note",
+    "items": [
+     "note 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+    ],
+    "eye": "눈으로 봄 — 두 번째 인물 없음(뒤쪽 흐린 사람 · 인형 · 조각상을 몸으로 잡음), 팔다리 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}

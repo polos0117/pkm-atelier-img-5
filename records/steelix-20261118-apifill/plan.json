@@ -1,0 +1,57 @@
+{
+ "card": "강철톤",
+ "session": "api-fill-1118",
+ "cuts": [
+  {
+   "cut": 2,
+   "plan": {
+    "cut": 2,
+    "treeV": 2,
+    "era": "now",
+    "place": "night_powder",
+    "ofam": "bath",
+    "item": "spa_robe",
+    "garments": [
+     "robe"
+    ],
+    "ocolor": "green",
+    "weather": "",
+    "time": "lamplight",
+    "light": "side",
+    "spot": "",
+    "depth": "deep",
+    "view": "",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "use": "cup_hold",
+    "legs": "",
+    "gaze": "at_prop",
+    "preset": "counter_cup",
+    "expr": "soft_smile",
+    "aspect": "2:3",
+    "situ": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "action_level": "balanced",
+     "source_influence": "strong",
+     "separates_preference": "balanced"
+    },
+    "expose": [
+     "deep V neckline",
+     "cutout waist"
+    ],
+    "lead": "detail",
+    "shade": "moss"
+   },
+   "planner": "tools/casual-plan.cjs --refill --reserve --push (세션 api-fill-1118)",
+   "why": "기록에 원래 지시문이 없다(막혀 비었던 자리) — 계획기로 다른 장면"
+  }
+ ]
+}
