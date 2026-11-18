@@ -1,0 +1,206 @@
+{
+ "light": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Two attached gloved hands, open hand shows five digits, lowered hand partly closed; two legs and feet connected."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual1": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right hand grips microphone; far arm runs out of crop."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual2": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right hand holds towel, left rests on thigh; both legs and feet visible."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual3": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Both hands manipulate camera and cap; knees and lower legs partly cropped."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual4": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Two arms stretch forward; five extended fingers on each hand; legs partly cropped."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual5": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right hand pinches sugar strand, left holds candy stick; legs cropped."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual6": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right hand holds brush, left grasps hair; two full legs and shoes visible."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual7": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right hand holds umbrella, left relaxed; two legs and feet visible."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual8": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right gloved hand holds bag strap, left rests on rail; lower body cropped."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual9": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Right hand supports chin, left holds ball; both elbows connect to torso; lower body cropped."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual10": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Both hands clasped, some digits occluded; two bent legs and feet connected."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ },
+ "casual90": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits per unobscured hand; grip and clasp occlusions noted.",
+   "issue": "ok",
+   "overlay_checked": false,
+   "note": "Two gloved hands hold neon tube; digits partly occluded by grip; lower legs cropped."
+  },
+  "style_25d": {
+   "判定": "2.5D",
+   "evidence": "Soft painted facial midtones, small nose and cheek shadows, dimensional cloth and material highlights; anime contours retained."
+  },
+  "status": "accepted",
+  "note": "Reference hair accessories retained in some casual cuts; recorded without regeneration."
+ }
+}

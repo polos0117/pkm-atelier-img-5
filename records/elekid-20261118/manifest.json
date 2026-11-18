@@ -1,0 +1,170 @@
+[
+ {
+  "slot": "light",
+  "card": "에레키드",
+  "filename": "에레키드_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "4a09cca2a5c6556083c76e017134d5ebba152c49df4b9c6093bcb7a7ea15d7aa",
+  "sha256": "f4e2ad2c7256c8a190eac42485c043704268bf2a4e48e966999762e54d80c631",
+  "submitted_sha256": "d428a185757cf33d7929b0c073e82f6913f4947607b52708379c7ad9434c0ae1",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual1",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "d679a145bea978edd521af0cab5ab2c4b00a48d940338bb295679dfd38dac67d",
+  "sha256": "2784f87c49d2f9b209c43b0e7b49a10bf973fd90bf3f618364e8784b9726ac2c",
+  "submitted_sha256": "19556b78d63be6b66c3e8de880242d89b645fd469a87b2e878fd72b1260dee9c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "16de5a928428b657445376d7b923b2a1b5a70046155880bb26f75d1e142c0433",
+  "sha256": "cd5e39ea96b148efe4392642d84266540f2077132751ba8057b903cd8ee7554e",
+  "submitted_sha256": "a8a5db0160ababbc5f2fb6e80a8139e06334f479114feb780be15a8a55649699",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "5be59fccffadbb2b1e851156e9a9c1f154458106c32e6c5736d7b723172f03b3",
+  "sha256": "2338347528e2845909461c315beb884508841063c522d88d1d03ed6beaab27db",
+  "submitted_sha256": "bbb288c1c87ae876403465037b17f1894d86a18514bbf349b5ccf24b265f756e",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual4",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "b1451393d8539a061468700156a8badfaac1760428c93d43234086de5a7514f6",
+  "sha256": "fe83f8d4ea3e273417b87f66c65ff31c8f5aae4f85de7dde9a9869d93abc211a",
+  "submitted_sha256": "aadb81fed05a20cffb55799bc35c3cf7b8280676687ababc9ce03159244c9b8c",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual5",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "766fb7a736722e8eec6ca8dd55dbb293d51eaff13e2130464f41bcc1f40506ba",
+  "sha256": "3038f2fdedb373eb9637e40ba3b0b398e53b02f9dd4c05c41c55d1f0cc6655bc",
+  "submitted_sha256": "bffae4d73481339cabe6d14a360362650ba22ba53844ea4c76042ce2040398b3",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual6",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "4278a44f8b5531d0f8f17a685f70aa8c5708a25e4561de3c89054c3bbdea2767",
+  "sha256": "512fa6d8ac02cab9b9d6ba8bbfa50c527030e12ec61665a024b438c1a13872fb",
+  "submitted_sha256": "adb57a149649f071e8e6699ba1b07ec1fc4e799d6a8e27a6916cf015660da058",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual7",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "654ab3bb6026af1040da84166800bf167f0ed0eb9e0024c9bd5b9287a8c85ced",
+  "sha256": "dff7f013ecb2dd7160ba0405bb21013623efe4e2412c10489f283ba2f2016478",
+  "submitted_sha256": "63a6bcccaa7007fc6a78884d785baded260c6033211fe91af7c6be261970998b",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual8",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "df8ac603ba7462b7ac46b2e89684ff48f86d625f9f29a118b9f60ebcc7306ba8",
+  "sha256": "7498932a54f1f0bb8f9b6ac5834eaa1bdd169be239f98defbdab63bfbeb7dc9b",
+  "submitted_sha256": "2604f04d7fee839632d64eb57b54ef8c9ec7da3a8e0a568bfd4aa790ed98654c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual9",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "a14ee61cb60356d11407fce9829e160076c5c2886bde0e897355925cfc338737",
+  "sha256": "2c5197e7455d201548c40aa4a91e59467e7e63714eb4dcd4dcd50d50bfc6502d",
+  "submitted_sha256": "715dcc822167b0140747467ea21b3cb9f323011eef6b8c842c2ae3679600b68e",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual10",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "aee165fb0d40b8936d9a5b571d6ead1cc02c44e7b8436c039f832cadd33aa140",
+  "sha256": "e5ebb724812a628e585f78b1880437fcfccefe70dc1db3714d9243e2157d7a00",
+  "submitted_sha256": "aaf951eee4ed77b22a529054c6b9f5a3c8f19c73339172bc68a6741c0e520f2b",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual90",
+  "card": "에레키드",
+  "filename": "에레키드_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "4e85d79800660a6ace3b95a94b063e7bc429711bb2ecdf70cc68399edae65fff",
+  "sha256": "fbd22d85efc14a32bce6dfdd5152fc1357c020766e143bb2f835573f5292d098",
+  "submitted_sha256": "aeee6be42ef03af21aee256493fbe911a7a1fa135775d6983d0a6a903d604783",
+  "submitted_same": true
+ }
+]
