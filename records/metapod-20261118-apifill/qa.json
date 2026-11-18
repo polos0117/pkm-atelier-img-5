@@ -1,0 +1,38 @@
+{
+ "card": "단데기",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "단데기_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual4": {
+   "image": "단데기_anime_25d_gloss_f_casual4.webp",
+   "png_sha256": "3adf4b6f2333d71ed547e42b6496ee211a84663365929fe67bdc0ba62c710360",
+   "webp_sha256": "2cbebdca5621371c6358e2b564c3be908f2df169c0b6b310e372d68f0606fb7f",
+   "submitted_same": true,
+   "submitted_sha256": "95595f524cd02ad2b7f5e42899e9ce8d155d92eba5a31999c0efd293b388fbcd",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_0fd097a636884e22b1e0afd92c7e8844",
+   "tries": [
+    {
+     "step": "retry",
+     "request_id": "req_0fd097a636884e22b1e0afd92c7e8844",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "note",
+    "items": [
+     "note 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+    ],
+    "eye": "눈으로 봄 — 두 번째 인물 없음(뒤쪽 흐린 사람 · 인형 · 조각상을 몸으로 잡음), 팔다리 이상 없음"
+   }
+  }
+ },
+ "skipped": []
+}

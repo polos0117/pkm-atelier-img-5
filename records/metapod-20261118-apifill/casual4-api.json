@@ -1,0 +1,39 @@
+{
+ "tool": "tools/api-fill.cjs",
+ "model": "gpt-image-2.5-sunburst",
+ "endpoint": "images/edits",
+ "size": [
+  1024,
+  1536
+ ],
+ "quality": "medium",
+ "step": "first",
+ "prompt_file": "casual4-prompt.txt",
+ "prompt_sha256": "95595f524cd02ad2b7f5e42899e9ce8d155d92eba5a31999c0efd293b388fbcd",
+ "ref": "단데기.webp",
+ "ref_sha256": "afa6ea33e8f88215569bd230e2eac67b34de98ab1cf0bf8d92447e6dd7401047",
+ "ref_sent": {
+  "size": [
+   768,
+   1152
+  ],
+  "sha256": "62750b2920c140a8d9b5926504e049f003313e76735a2c4b787b85d2ae101b3f"
+ },
+ "at": "2026-11-18T02:55:01.874Z",
+ "request_id": "req_0fd097a636884e22b1e0afd92c7e8844",
+ "usage": {
+  "input_tokens": 2219,
+  "input_tokens_details": {
+   "image_tokens": 864,
+   "text_tokens": 1355
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 2562
+ },
+ "seconds": 18.69,
+ "png_sha256": "3adf4b6f2333d71ed547e42b6496ee211a84663365929fe67bdc0ba62c710360"
+}
