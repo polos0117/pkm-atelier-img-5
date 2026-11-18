@@ -1,0 +1,57 @@
+{
+ "card": "노고치",
+ "session": "api-fill-1118",
+ "cuts": [
+  {
+   "cut": 2,
+   "plan": {
+    "cut": 2,
+    "treeV": 2,
+    "era": "in_pokemon",
+    "place": "partner_yard",
+    "ofam": "traditional",
+    "item": "yukata_daily",
+    "garments": [
+     "traditional"
+    ],
+    "ocolor": "red",
+    "weather": "summer",
+    "time": "golden",
+    "light": "",
+    "spot": "",
+    "depth": "flat",
+    "view": "",
+    "posture": "lie_front",
+    "support": "front_floor",
+    "frame": "full_body",
+    "body": "front",
+    "head": "with_body",
+    "camera": "low",
+    "right": "chin_both",
+    "left": "chin_both",
+    "use": "",
+    "legs": "feet_up",
+    "gaze": "camera",
+    "preset": "lie_front_full",
+    "expr": "relieved",
+    "aspect": "2:3",
+    "situ": "",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "action_level": "mostly posed",
+     "source_influence": "strong",
+     "separates_preference": "balanced"
+    },
+    "expose": [
+     "deep V neckline",
+     "side cutouts"
+    ],
+    "lead": "place",
+    "shade": "cherry"
+   },
+   "planner": "tools/casual-plan.cjs --refill --reserve --push (세션 api-fill-1118)",
+   "why": "기록에 원래 지시문이 없다(막혀 비었던 자리) — 계획기로 다른 장면"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "tool": "tools/api-fill.cjs",
+ "model": "gpt-image-2.5-sunburst",
+ "endpoint": "images/edits",
+ "size": [
+  1024,
+  1536
+ ],
+ "quality": "medium",
+ "step": "replan",
+ "prompt_file": "casual2-prompt.txt",
+ "prompt_sha256": "0adb6ef18be4732766c5e3fc474799d56e62df92f7750573f7983ebb2816d22d",
+ "ref": "노고치.webp",
+ "ref_sha256": "5e90214542f9a5ec7527fb5ac6285ec203c2120e2812ebf3f19a1887864bea46",
+ "ref_sent": {
+  "size": [
+   768,
+   1152
+  ],
+  "sha256": "7d9f222ca7833d7bcd6a0234411176ac2ddde6278a48fa0172e3c80a08396ec3"
+ },
+ "at": "2026-11-18T02:59:01.668Z",
+ "request_id": "req_cf2d4c42a4db49caab71e7797b04825c",
+ "usage": {
+  "input_tokens": 2361,
+  "input_tokens_details": {
+   "image_tokens": 864,
+   "text_tokens": 1497
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 2704
+ },
+ "seconds": 18.616,
+ "png_sha256": "2d6465a715f5540e9e13a7b97708bdfff0941bd519fef152fead19185d3e7157"
+}

@@ -1,0 +1,39 @@
+{
+ "card": "노고치",
+ "style": "anime_25d_gloss",
+ "path": "그림 API(tools/api-fill.cjs) — 사용자 2026-11-18 「실제로 생성안된 이미지 있는 케릭터들 API 호출로 이미지 만들어서 업로드해줘」 · 「꼬렛이랑 왕눈해 빈 묶음 채워서 같이 만들어줘」 · 「응 왕눈해까지 다 올려줘」",
+ "ref": "노고치_light_anime_25d_gloss_f.webp",
+ "cuts": {
+  "casual2": {
+   "image": "노고치_anime_25d_gloss_f_casual2.webp",
+   "png_sha256": "2d6465a715f5540e9e13a7b97708bdfff0941bd519fef152fead19185d3e7157",
+   "webp_sha256": "01b06d11449988ab29ae902e83291cdcd71a04f7e3d316b460cab86155a75684",
+   "submitted_same": true,
+   "submitted_sha256": "0adb6ef18be4732766c5e3fc474799d56e62df92f7750573f7983ebb2816d22d",
+   "model": "gpt-image-2.5-sunburst",
+   "request_id": "req_cf2d4c42a4db49caab71e7797b04825c",
+   "tries": [
+    {
+     "step": "replan",
+     "request_id": "req_cf2d4c42a4db49caab71e7797b04825c",
+     "result": "image"
+    }
+   ],
+   "exposure": {
+    "판정": "match",
+    "근거": "의상 칸이 드러낸다고 적은 부위가 그대로 보인다 — 덧입힌 겉옷 · 늘린 기장 없음"
+   },
+   "look": "casual-look check 통과(거의 같은 일상컷 없음)",
+   "anatomy": {
+    "tool": "tools/anatomy-check.py (mediapipe 1.2.3)",
+    "verdict": "note",
+    "items": [
+     "note 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+    ],
+    "eye": "눈으로 봄 — 두 번째 인물 없음(뒤쪽 흐린 사람 · 인형 · 조각상을 몸으로 잡음), 팔다리 이상 없음"
+   },
+   "note": "옆에 노고치 모양 큰 인형 — 소품(둘째 인물 아님)"
+  }
+ },
+ "skipped": []
+}
