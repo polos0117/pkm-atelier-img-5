@@ -1,0 +1,156 @@
+{
+ "casual1": [
+  {
+   "slot": "casual1",
+   "at": "2026-11-18T11:11:23.005Z",
+   "prompt_sha256": "7af875b9d0792b45bf2710ad7bc60992317cdef3c8d693094d45027655314253",
+   "submitted_sha256": "7af875b9d0792b45bf2710ad7bc60992317cdef3c8d693094d45027655314253",
+   "same": true,
+   "prompt_words": 1414,
+   "submitted_words": 1414,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual2": [
+  {
+   "slot": "casual2",
+   "at": "2026-11-18T11:11:23.130Z",
+   "prompt_sha256": "89ca3e0bcc8116e925eab7380971ce38bdd32c7a7bd50795f878c7d1d1a30a29",
+   "submitted_sha256": "89ca3e0bcc8116e925eab7380971ce38bdd32c7a7bd50795f878c7d1d1a30a29",
+   "same": true,
+   "prompt_words": 1305,
+   "submitted_words": 1305,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual3": [
+  {
+   "slot": "casual3",
+   "at": "2026-11-18T11:11:23.204Z",
+   "prompt_sha256": "5288a4695878af5731d45f9d39b57f8ae1afaae11541a24979c01760f09e4135",
+   "submitted_sha256": "5288a4695878af5731d45f9d39b57f8ae1afaae11541a24979c01760f09e4135",
+   "same": true,
+   "prompt_words": 1218,
+   "submitted_words": 1218,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual4": [
+  {
+   "slot": "casual4",
+   "at": "2026-11-18T11:11:23.281Z",
+   "prompt_sha256": "ad3b22b7d7c7e01d11da2cd6d5b0478d4e85ccd5e92eab6f2a0d14f0c5c7ef36",
+   "submitted_sha256": "ad3b22b7d7c7e01d11da2cd6d5b0478d4e85ccd5e92eab6f2a0d14f0c5c7ef36",
+   "same": true,
+   "prompt_words": 1242,
+   "submitted_words": 1242,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual5": [
+  {
+   "slot": "casual5",
+   "at": "2026-11-18T11:11:23.365Z",
+   "prompt_sha256": "702d060a254e539a712d789a349187b7ed1fa896a205971ce62f7d36531bde65",
+   "submitted_sha256": "702d060a254e539a712d789a349187b7ed1fa896a205971ce62f7d36531bde65",
+   "same": true,
+   "prompt_words": 1156,
+   "submitted_words": 1156,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual6": [
+  {
+   "slot": "casual6",
+   "at": "2026-11-18T11:11:23.483Z",
+   "prompt_sha256": "5646877b9c1c676be7468fe55d2198c67dc71832b8fb49afd43e67b521782c45",
+   "submitted_sha256": "5646877b9c1c676be7468fe55d2198c67dc71832b8fb49afd43e67b521782c45",
+   "same": true,
+   "prompt_words": 1503,
+   "submitted_words": 1503,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual7": [
+  {
+   "slot": "casual7",
+   "at": "2026-11-18T11:11:23.559Z",
+   "prompt_sha256": "943da5c8d39b7c1b43fce5f9bbea2704a25a4d0f9d401cc5955daab11df00802",
+   "submitted_sha256": "943da5c8d39b7c1b43fce5f9bbea2704a25a4d0f9d401cc5955daab11df00802",
+   "same": true,
+   "prompt_words": 1126,
+   "submitted_words": 1126,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual8": [
+  {
+   "slot": "casual8",
+   "at": "2026-11-18T11:11:23.646Z",
+   "prompt_sha256": "87d9fdd1227c277da956f6082818c4c0bbcc1c454abc068c4e958824451ef293",
+   "submitted_sha256": "87d9fdd1227c277da956f6082818c4c0bbcc1c454abc068c4e958824451ef293",
+   "same": true,
+   "prompt_words": 1134,
+   "submitted_words": 1134,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual9": [
+  {
+   "slot": "casual9",
+   "at": "2026-11-18T11:11:23.742Z",
+   "prompt_sha256": "39de43758405164b709681e9f261f1f80402f8f36adf7da5dd49f1e80ed776df",
+   "submitted_sha256": "39de43758405164b709681e9f261f1f80402f8f36adf7da5dd49f1e80ed776df",
+   "same": true,
+   "prompt_words": 1308,
+   "submitted_words": 1308,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual10": [
+  {
+   "slot": "casual10",
+   "at": "2026-11-18T11:11:23.846Z",
+   "prompt_sha256": "7003006dd3200d73291867e5007cfeb93c82a0d0257d123df4b7d6bd920cb581",
+   "submitted_sha256": "7003006dd3200d73291867e5007cfeb93c82a0d0257d123df4b7d6bd920cb581",
+   "same": true,
+   "prompt_words": 1247,
+   "submitted_words": 1247,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ],
+ "casual90": [
+  {
+   "slot": "casual90",
+   "at": "2026-11-18T11:11:23.935Z",
+   "prompt_sha256": "feb5be49ee4d2d547ba767587b48983cba39808a648af4e17e94ab863e482e5b",
+   "submitted_sha256": "feb5be49ee4d2d547ba767587b48983cba39808a648af4e17e94ab863e482e5b",
+   "same": true,
+   "prompt_words": 1111,
+   "submitted_words": 1111,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ]
+}

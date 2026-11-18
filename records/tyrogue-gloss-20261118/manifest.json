@@ -1,0 +1,223 @@
+{
+  "card": "배루키",
+  "selected_candidate": 1,
+  "style": "anime_25d_gloss",
+  "images": [
+    {
+      "slot": "light",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_light_anime_25d_gloss_f.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "sha256": "23b6eae5a5756ca1d10cea13b82a4f998f176aa8ec4ac75e633be65c4a855b1f",
+      "reference_sha256": null,
+      "submitted_sha256": "09e81443f395f5adc25672018e75fe0027a730bd51367f285a34a32f96bf2415",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual1",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual1.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "c59cb91baa386297a5f0ba4d723aef41383922ab33ddfc8edfa0e01d8e2827b5",
+      "sha256": "9cd69a28cc8d625701562028229e94cc8e574cb54b1948a5f6c592b30a21a33f",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "7af875b9d0792b45bf2710ad7bc60992317cdef3c8d693094d45027655314253",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual2",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual2.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "9c060efea9629ad3f7cb1db0576fb46936183052e9254000bcc3e78c53e13cfe",
+      "sha256": "7146111d53e89518b7365f408e7e64734cc741ae288cda5d3828103f7771321c",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "89ca3e0bcc8116e925eab7380971ce38bdd32c7a7bd50795f878c7d1d1a30a29",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual3",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual3.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "9944ca400e83f6b59fd5a60382df31baea9daf917e0c1ff054bec975be48d52b",
+      "sha256": "ca2a8de14e6ad36b8f11737364c110d0a32a5ed5a5f8e8f1bdcfe1b2db537a54",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "5288a4695878af5731d45f9d39b57f8ae1afaae11541a24979c01760f09e4135",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual4",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual4.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "c1306934c8c98877a87381d028a65248023572137539caabd6e4b7a7e2262730",
+      "sha256": "58a63fdd58bbf134a57dc8d229011f4d15d2edf641e8eead2993429a3505ad3f",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "ad3b22b7d7c7e01d11da2cd6d5b0478d4e85ccd5e92eab6f2a0d14f0c5c7ef36",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual5",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual5.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "ae1d38677b5ad3d76968b5d26127e43d254695a82ccc08cbd2af84c7d7e54164",
+      "sha256": "a8f948ad53b318529e60b985f54cd33d665b4146ae3ee522290f475776de5ce9",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "702d060a254e539a712d789a349187b7ed1fa896a205971ce62f7d36531bde65",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual6",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual6.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "dfdb32173496f5805618d59d897f73bee57ac4dfb5cfd6c774e073cd361b8cb6",
+      "sha256": "5cabf6d0f932cdce34ffa9e1670331d48c451690871bd4280b6cc12ed19edd2a",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "5646877b9c1c676be7468fe55d2198c67dc71832b8fb49afd43e67b521782c45",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual7",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual7.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "7953ccb12093480d059402145e6ceca6214032403c4f64e27071c37c779a7307",
+      "sha256": "3a7cfc190d6ff9e7f2a63f6a719ef8258527771c5ecb1fc37701799c79a2db4e",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "943da5c8d39b7c1b43fce5f9bbea2704a25a4d0f9d401cc5955daab11df00802",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual8",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual8.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "f7f276dfa3929212739a91201ec41ff5feaf288361c549ad950993c12b49d1c3",
+      "sha256": "efbf573a4c5b244ec183217b42a36dd7231dc1a84b6c95eab1b5edac518e6d9b",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "87d9fdd1227c277da956f6082818c4c0bbcc1c454abc068c4e958824451ef293",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual9",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual9.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "97738994bb37575bbfbcae796004a1128673245bf3987926e5c225b7019f0c94",
+      "sha256": "cc81e8b6554e1221db004c021c98705ff3a68d36d4e4ebb5c43a9b5b8d858e45",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "39de43758405164b709681e9f261f1f80402f8f36adf7da5dd49f1e80ed776df",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual10",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual10.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "e99c06f016d0ca0f6b62776f002922920f67017288f98abab61e3b451d3dfb17",
+      "sha256": "711179ec56047eebd1f87df7e62075cfe69d3a67093a5543cb2563d658b274c4",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "7003006dd3200d73291867e5007cfeb93c82a0d0257d123df4b7d6bd920cb581",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual90",
+      "card": "배루키",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "배루키_anime_25d_gloss_f_casual90.webp",
+      "shard": 4,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "original_sha256": "79db93d4cb692ce8f6863ffde1c684381fa41871af89d9a7251d0b6dfa1a4d2c",
+      "sha256": "9e8f403967c15e82e0927381c2207ed87b78bbe065b3ef8fc86dfb70caa21c08",
+      "reference_sha256": "9d716a5408d671c2b3d7837ecd64f4d4eb90135fed82912f59161b69708e311a",
+      "submitted_sha256": "feb5be49ee4d2d547ba767587b48983cba39808a648af4e17e94ab863e482e5b",
+      "submitted_same": true
+    }
+  ]
+}
