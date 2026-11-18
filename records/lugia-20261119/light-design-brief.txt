@@ -1,0 +1,61 @@
+Design brief — fill-in design for Lugia (루기아), psychic / flying type. Below is our own design prompt for this card. Write two designs of her (Design 1 and Design 2) by copying it and changing ONLY the marked parts; every other line stays exactly as written, character for character — the style, colours, hair colour, armor form, creature features, exposure, composition, pose and constraints are ours.
+
+Must differ — hairstyle: write a new hairstyle in [HAIRSTYLE: …] (ours is very long wind-wing hair (long hair streaming back like a pair of swept wings), short baby bangs); the hair colour stays ours.
+
+May keep or change — body type: in [BODY TYPE: …] paste one body type from our set, word for word; ours is willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist, which may be kept: 1) an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy; 2) lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust; 3) petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs; 4) hourglass-figured — full bust and hips, distinctly narrow-waisted; 5) voluptuous, generously curved at bust, hips and thighs; 6) slender-limbed yet full-busted with rounded hips and a narrow waist; 7) toned athletic-curvy, full-busted with rounded hips; 8) curvy; 9) tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist; 10) strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist; 11) petite and compact yet curvaceous — full bust and rounded hips on a small frame; 12) pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust; 13) willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist.
+
+Must differ — armor silhouette: in [ARMOR SILHOUETTE: …] paste exactly one of these shapes from our set for her type, word for word (ours is not on this list): 1) a large ring halo behind her head and a tall crown-like head unit, with long hanging shoulder plates — a ceremonial, elegant shape; 2) light body armor with several small shield and drone units floating symmetrically around her; 3) a pair of large wing binders spread symmetrically behind her back as the main shape — each wing built from several broad, flat, hard-edged armor panels layered and staggered over one another on a jointed frame, fanning outward like stacked mechanical panels, not feathers — with light body armor; 4) minimal thin armor with large thrusters at the calves and ankles — a light, fast, forward-leaning silhouette; 5) several long rigid jointed plates hanging from behind the shoulders to the ankles like a cape — plates, not cloth.
+
+Required — design idea: on the Design idea line, the single most recognisable shape feature of the creature built into the structure of the armor — its cross-section, its layering, a cut-out or the arrangement of plates; never a print or a loose accessory. Inspiration only: the blue or black spikes become pointed edges on her plates; the large wings become a split cape falling from her shoulders, cut in the same shape and colors.
+
+Choose from ours — type effects: in [TYPE EFFECTS: …] paste exactly three sentences from our set, word for word, in this order — one hand effect, one body effect and one surrounding effect; ours may be reused. Hand — 1) One open hand conjuring a magenta psychic glow amid floating rings and geometric glyphs of light. 2) One open hand conjuring a pale sky-blue glow with white wind streaks amid swirling streaks of wind and small drifting white feathers. Body — 1) A magenta psychic glow pulses along her armor seams and joints. 2) A pale sky-blue glow with white wind streaks pulses along her armor seams and joints. 3) Her whole silhouette is outlined by a magenta psychic glow, clearly visible as a bright rim of light along her body and armor. 4) Her whole silhouette is outlined by a pale sky-blue glow with white wind streaks, clearly visible as a bright rim of light along her body and armor. 5) The tips of her hair glow brightly and visibly dissolve into floating rings and geometric glyphs of light. 6) The tips of her hair glow brightly and visibly dissolve into swirling streaks of wind and small drifting white feathers. Surrounding — 1) Floating rings and geometric glyphs of light circle slowly around her. 2) Swirling streaks of wind and small drifting white feathers circle slowly around her. 3) A faint magenta rune circle glows on the floor beneath her boots. 4) A swirl of wind sweeps the floor beneath her boots. 5) A light trail of floating rings and geometric glyphs of light streams back from her heels and back armor. 6) A light trail of swirling streaks of wind and small drifting white feathers streams back from her heels and back armor.
+
+May keep or change — the Face line (face shape, eyes, brows, nose, lips) and the Impression line (eye colour, skin tone, makeup, expression); the Setting detail line may be filled or deleted.
+
+Design 1 and Design 2 must differ from each other in hairstyle and armor silhouette.
+
+Registered designs to keep apart from (hairstyle and armor): 1) Vigoroth — face — angular face, angular defined jaw; eyes and brows — almond eyes, straight medium brows; hair — segmented tail; 2) Gardevoir — face — angular face, angular defined jaw; eyes and brows — almond eyes, long arched brows; hair — drill sidelocks; 3) Frogadier — face — angular face, angular defined jaw; eyes and brows — sharp eyes, straight medium brows; hair — spiky hair.
+
+For each design write, first, one line — SUMMARY: hairstyle …; armor silhouette …; design idea …; face …; expression … — then the whole prompt with the marked parts filled. Do not add, drop or reword any other line. Draw Design 1 and Design 2 each from its filled prompt exactly as written, without the SUMMARY line.
+
+---- our design prompt (copy it, fill only the marked parts) ----
+
+Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.
+Source: Lugia (루기아), psychic / flying type.
+Subject: A female mecha personification character with Lugia as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.
+Output: one dynamic action image that is also this form's card art.
+
+1. STYLE
+High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.
+
+2. CHARACTER
+Face — her own structure, not the style's default face: angular face, slightly long length, narrow width — only gently longer than average, never stretched or gaunt; angular defined jaw; almond eyes, medium size, downturned outer corners, close-set; straight medium brows; straight slender bridge nose; medium lips.
+Hair: [HAIRSTYLE: …].
+Hair color: her main hair color is the creature's own main color; white for her flying type runs through it as the accent, in streaks and at the tips.
+Impression (reads even at card size): a regal, commanding woman in her late twenties with fair skin; a proud, level gaze; pale ice-blue eyes; a bold, defined eyeliner.
+Identity (chosen details override the automatic look)
+body type: [BODY TYPE: …]
+body scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.
+Proportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.
+Body: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.
+Hands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.
+Anatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.
+
+3. ARMOR — LIGHT
+Costume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.
+Armor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.
+Silhouette: [ARMOR SILHOUETTE: …]. Solid hard-surface plates that read as armor, not cloth.
+Design idea: …
+Colours: blue, black, dark blue.
+Wear: the blue or black spikes become pointed edges on her plates; the large wings become a split cape falling from her shoulders, cut in the same shape and colors.
+Exposure: armor and undersuit open by design only at bare shoulders and upper arms, and bare upper thighs; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.
+
+4. SCENE
+Composition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.
+Pose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.
+Setting detail: …
+Type effects: [TYPE EFFECTS: …]
+
+5. CONSTRAINTS
+One figure only.
+Avoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.

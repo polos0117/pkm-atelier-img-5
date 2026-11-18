@@ -1,0 +1,216 @@
+{
+  "card": "루기아",
+  "style": "anime_25d_gloss",
+  "mecha_selection": 4,
+  "reference_original_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a",
+  "selection_sheet": "lugia-selection-sheet.png",
+  "reservation_commit": "6bb0ffbf7ac3e3544a90b9231d826adb281bc5a6",
+  "design_basis": {
+    "details": "루기아의 길게 흐르는 날개와 각진 눈 장식을 부드러운 얼굴선과 짙은 파란 장갑 장식으로 표현했다. 높은 포니테일과 고리 장갑으로 나머지 후보와 구분했다.",
+    "sources": [
+      "data/face-design.json",
+      "data/source-appearance.json",
+      "docs/CHARACTER_FACE_DESIGNS.md"
+    ],
+    "brief_comparisons": [
+      "Vigoroth",
+      "Gardevoir",
+      "Frogadier"
+    ],
+    "face_prompt": "Face — her own structure, not the style's default face: angular face, slightly long length, narrow width — only gently longer than average, never stretched or gaunt; angular defined jaw; almond eyes, medium size, downturned outer corners, close-set; straight medium brows; straight slender bridge nose; medium lips."
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_light_anime_25d_gloss_f.webp",
+      "original_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a",
+      "sha256": "eabc3fa5255672a5e5cbf7864a49472c31e9fe717b7814d2a6fecaeadd41834d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "9a710ebeeae5de8382c8bd5ffd638d0d8c26422172c8f92bf0886152de4410d7",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "0697bc042b6fdef93b446b80871a4674e8cb4f0437b7b2abe5f24ff6e84d16d5",
+      "sha256": "8b1b6692262c331ab3c3d633e05c4bd99a9749afc4ad50e3cfe0ca83a48835a1",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "bed5d8d97083fa1157d0e44a31bece1e82d6ee0a3a325ce9001631ec842995b0",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual2",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "e59158cbcc17b85af06e2d22f3c49e4d925808cc2bc9b82fd622c0e559100e3e",
+      "sha256": "fd2201d9ca0f58d619a5746aee2024b6627ad3402567ea6454271a1b0d0be048",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "1a81adbaa27e70df23e950a8cff558a3fb4eabf02f142fa84ad98998f7e65a3c",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual3",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "6ebc8399b573fa6a2a3152510ce1af2fcea0aed34e59a7b3f79297cff30556e9",
+      "sha256": "ae0d03037e9ad0f390358adb3be61cf78cb145264bda32407adf0601bdb84bbb",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f94033e90047490ba76a0a6044fb32ff70fe55539a7cb10d998047004c4d0dfa",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual4",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "db7c5849088186fdeb56626478ae5439a15513ad3ead477014219969ad7ecd80",
+      "sha256": "a184cb220a5d7fd5fdf162b3c333674603c429d9bd6bfa8bad780433c8f5281e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "2e6f08c452c2c26abbc974698e105176c5de98e14cd0a1b4bd0e5d0b44e2e615",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual5",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "8f97e85c918184dfaaece9cd8d8a079f117b8a68fd27500aa3094bc4e5d4ed1d",
+      "sha256": "788bed278def5c110027f65d9a83434870a3e3a4b361df33d43b60660e730d21",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "bff72e76212f375cfe17c82d13483ea5165b055e7c6e8c67275688864b321d76",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual6",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "c1031fffa30973a299b26764eef1191d97a7cbdb2d6968f5a88b54c61c2b4734",
+      "sha256": "3e2922f1c68b5a2049eceb5fcafd2e9c4444940f036080cf283dce2b8edc9ede",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "a9497ce7e91be88b5478e01acba93aa45d4141bf0597da8bc8536a63b225e525",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual7",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "6b3b50bfb21f3bd70ace3dc6d28ba1d5c3c3884f3dbe91dead738927fddabd5d",
+      "sha256": "1e229892b31245d90db456965b9d43da32b734a1a947a93c320d1b0755f51380",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "c36762b492c17745cab14fc014b8949c2cf5702b9e460fe9092d69a3075a7172",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual8",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "8c3cad4a66550b8b009f6b3cd2124fca16aa16e24c9d75730906e2ce9c447ee6",
+      "sha256": "1eadf1a318d35c976903df685afc4790beb2981299b95c4e4cebaed46310906c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "55fc4f77c5ed866efc4c3ea3fb871272b7ef4a89440e212d958c14ff6459ebf1",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual9",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "dba94907a42c1f08091ccd7e05fa68f0692b36c166920a6bd90fe9aad3b89813",
+      "sha256": "d397b2ec652a5bd778728b8f8bc6fdc095dd35a8f46a6dfe4d73b97dfcaab3f4",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "618f1d13e088fd868a9e89395309d5009fb568cc877aa865bd34e46e4a3547ef",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual10",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "57268817df1df3892de2ca8a03ebb9d4c6632b82a56eeba7675e3e21136b0b9d",
+      "sha256": "d88bc003a3ac5a4da9e5f44297a7d6459f91c6fbe83907ed6637779b824b8863",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "847a790ef7c7b13b0a939e6fecbe53b5646fc4ffd98bcd3b0a5c49b3443fb0dc",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    },
+    {
+      "slot": "casual90",
+      "card": "루기아",
+      "style": "anime_25d_gloss",
+      "filename": "루기아_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "dc4ebd735bb3d7f51ff69abd2c70d63ec4eb7f008569b66ab3162cc10b1d4c5f",
+      "sha256": "4b6322d26d87327f92510844ef29d03eca63de8a6115d5e04aef5e2db18e5e3c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d333b6c187e159e735414c64c5d34bc7baba977623a7bb0fe14d779ce9019ecb",
+      "submitted_same": true,
+      "reference_sha256": "1000b551c3b189481a0520913a25cd4431a82e03bf4333164ab16183f3fa501a"
+    }
+  ]
+}
