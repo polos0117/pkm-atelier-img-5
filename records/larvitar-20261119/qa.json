@@ -1,0 +1,151 @@
+{
+ "light": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "note · 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다",
+   "visual": "The two gauntlets join their forearms. The raised hand is open and the low hand is curled. Both feet are in frame.",
+   "overlay_checked": true
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  },
+  "notes": "Candidate 2 selected by the user."
+ },
+ "casual1": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "ok",
+   "visual": "One hand holds the mica and one rests on the rail. Both wrists and arms connect. Lower legs are outside the planned crop.",
+   "overlay_checked": false
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  },
+  "notes": "A crown-like point from the mecha reference is visible in the hair silhouette."
+ },
+ "casual2": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "ok",
+   "visual": "One hand holds the bun and the other is planted on the bench. Both legs and feet are visible.",
+   "overlay_checked": false
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ },
+ "casual3": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "check · 손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 1.9 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다 · 손 하나가 어느 팔 끝에도 안 붙었다(가까운 왼손목에서 어깨너비의 1.5 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다",
+   "visual": "Both wrists join the cuffed forearms in the original. The hands rest on the respective thighs while kneeling. The overlay's disconnected wrists are an estimation error.",
+   "overlay_checked": true
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  },
+  "notes": "The dealer-inspired cuffs read clearly. The bow tie in the brief is not visible."
+ },
+ "casual4": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "ok",
+   "visual": "The glass is held by its stem and the other hand rests on the knee. Both shoes and legs are visible.",
+   "overlay_checked": false
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ },
+ "casual5": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "note · 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다",
+   "visual": "Both arms join the shoulders and follow the sofa supports. The nearer hand and legs extend beyond the crop.",
+   "overlay_checked": false
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  },
+  "notes": "A crown-like point from the mecha reference is visible in the hair silhouette."
+ },
+ "casual6": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "ok",
+   "visual": "One hand touches her cheek, the other is flat on the seat. Both arms and the upper legs follow the seated pose.",
+   "overlay_checked": false
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ },
+ "casual7": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "note · 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다",
+   "visual": "The visible index finger rests against her lips, with the other fingers curled. The close crop excludes the second hand and legs.",
+   "overlay_checked": true
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ },
+ "casual8": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+   "visual": "The two gloved hands join the forearms at the shopping bag. Boots and legs are visible. No additional human figure is visible.",
+   "overlay_checked": true
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ },
+ "casual9": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+   "visual": "Both gloved hands join their forearms in the squat. Both front-facing boots connect to the folded legs. No additional human figure is visible.",
+   "overlay_checked": true
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ },
+ "casual10": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "ok",
+   "visual": "Both shoulders lead to visible upper arms. The framing crops the wrists and lower body.",
+   "overlay_checked": false
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  },
+  "notes": "A crown-like point from the mecha reference is visible in the hair silhouette."
+ },
+ "casual90": {
+  "status": "accepted",
+  "anatomy": {
+   "tool": "note · 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다",
+   "visual": "Two gloved hands connect to their respective forearms and separately grip the chisel and mallet. The crop ends at the bench.",
+   "overlay_checked": true
+  },
+  "style_25d": {
+   "판정": "2.5D",
+   "evidence": "Blended facial shading with modeled hair and material highlights."
+  }
+ }
+}

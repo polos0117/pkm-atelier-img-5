@@ -1,0 +1,213 @@
+{
+ "card": "애버라스",
+ "style": "anime_25d_gloss",
+ "selected_mecha": 2,
+ "selection_design": "atelier",
+ "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+ "slots": {
+  "light": {
+   "slot": "light",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_light_anime_25d_gloss_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "sha256": "f54e56b819af6daa44aed54959675ce5259e6332b12d6f665e9f8073055b5780",
+   "submitted_sha256": "71511bd0f3ec89a4041f2f22159f300ef60643584735d2d3cd5cf7e6a2ab244e",
+   "submitted_same": true,
+   "reference_sha256": null,
+   "status": "accepted"
+  },
+  "casual1": {
+   "slot": "casual1",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "db135931b04153decbaea7e99b5ea4cd09adc6fb9bf52340922a5507bc751d53",
+   "sha256": "ba98928b61a47d3e7ed1510295a5215ef0778b8a611d5b40e21217a207db7767",
+   "submitted_sha256": "2250d9dd9adbb41277f7b461ea94e6621349e2cb7f98b0a532666c61b3b5cf56",
+   "submitted_same": false,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual2": {
+   "slot": "casual2",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "f8a54fa05ccd943f302c828916324da72ff1dcf7f094d9ff480062719256a576",
+   "sha256": "03903a376c35357bf798f3e3a08171eb329f2766064a1300dc7d2d991215ac8f",
+   "submitted_sha256": "1adbf0db1db269cd88ee706ddf336dc5ee3f8385c182d8fd427e8c052cc97ff1",
+   "submitted_same": false,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual3": {
+   "slot": "casual3",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "3bd75e12edbccd232da8e0541ad365a666a68280c00c7c501acbf8e7c3d60f34",
+   "sha256": "dd442376f766b13bb6817b195962d64e0e98d8b871e99ce018b95d4a2eafffdc",
+   "submitted_sha256": "b55660bfbb426d678dd53f44e9cb0cec5d831f6f5a670240009caf8b0b9e9e9a",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual4": {
+   "slot": "casual4",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "d5d74bc9a733ef85dff95362591f92e018cefc3c8aa98697643cb96bba96fa7f",
+   "sha256": "5353811fc5007d9aa4e8da57142e66ba94c98469c0d979833a9f63fa8e5863ae",
+   "submitted_sha256": "9d27378251b99cd33f93eaedeedf4f89ecebc8f6425f9b5a3b1687db66dc3725",
+   "submitted_same": false,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual5": {
+   "slot": "casual5",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "2d2c9d7c7866673e4571328c178cb677fafaacac377ef4f51ef18eda104e916a",
+   "sha256": "8875dcb4ae00c0c966a7ee729285ff0e293c9d882e94f96993487db744463828",
+   "submitted_sha256": "0c6ed879491b59d86342d0aab63081c9a071ea6a3ceb65ebd3c9a978a553a787",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual6": {
+   "slot": "casual6",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "aceaab6893a9bc50a0a7716722c01729d2fcec47ec26dc05d40a4a54ee60fcba",
+   "sha256": "30567a720d9194c63f0d4c546e214d42bfbb9aba422148346bdbae12354355a8",
+   "submitted_sha256": "80318d4441bb2d3b1a359f77851c037b4ef5ef1489d5cb1b5725cc2cb63e06fe",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual7": {
+   "slot": "casual7",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual7.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "fe40acfd0de4b4ca4c1e119f8291c3629bcb3a0da051312c8e983ddbc8e6af2e",
+   "sha256": "c59fb05bf7311848f2e9e95de833c6f23e30d1886a4a8b2c7be7c834bbc20662",
+   "submitted_sha256": "ffb5e21c74362a2a806b53a96f7604763e6f2c5763f9879aa26d02b5bb229ec8",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual8": {
+   "slot": "casual8",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual8.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "d3a415d645e0913bc23ef71c2fe838573cb8429aa54ca2f7c3077d590843416e",
+   "sha256": "bf02d7b10536fcf61f0f20f25a2bf81b16099adcd86d1a2d4db88ee4276e9c06",
+   "submitted_sha256": "8f26cc0b1d48c7f3d7a0dac90779c79db652c140c97fc60aa6ed8d9fdf450182",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual9": {
+   "slot": "casual9",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual9.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "166520f1fd3ea6f08292b0929ef68ed0e903932aa318239623c74a474b86b24f",
+   "sha256": "16143c086a0dd41e90e5640e2cc43818d275f2d1101441cf172e4ec7929ea9f9",
+   "submitted_sha256": "b89f605902a0d5275e44ba9d34a7f4da9df1a659a48c4d67d0a8da4bd042515a",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual10": {
+   "slot": "casual10",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual10.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "d22ec036ccda2bfccd4985316cb0a644913ba93eed708e88be6b65710beaea00",
+   "sha256": "383673cfe1fb2da0cbe90193c3e0af8c4fed5235e64674fac8318d62da70d293",
+   "submitted_sha256": "58766bfc9f0cd8593c21f85dbc77383ce72a30f8b533faa71498f8ba0a1b58ac",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  },
+  "casual90": {
+   "slot": "casual90",
+   "card": "애버라스",
+   "style": "anime_25d_gloss",
+   "filename": "애버라스_anime_25d_gloss_f_casual90.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "e5b7603063b75d8dfe43d61d28e1568f6d4aed6d8530765e6c3345a0fc0643d4",
+   "sha256": "cb9dabcf8d87363442f206475cc6f2a2ef707c3e6f7619b6adb485b3a127ec59",
+   "submitted_sha256": "97f997447b9b8926a4d37e88613d5e38f7280b88c2a5cdd49b7ede2bd52f5280",
+   "submitted_same": true,
+   "reference_sha256": "ef233e53d79f190271a892dbfccfb3b0813608e994a355dd9e828ca3e399d456",
+   "status": "accepted"
+  }
+ }
+}
