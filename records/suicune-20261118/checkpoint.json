@@ -1,0 +1,30 @@
+{
+  "card": "스이쿤",
+  "style": "anime_25d_gloss",
+  "selected": 1,
+  "recorded_at": "2026-11-18T23:13:35+09:00",
+  "selection_sha256": {
+    "1": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf",
+    "2": "eff447490b87f952bd2305e3118467a0a3cd3e911b982643481752511d57b899",
+    "3": "db20b052303d31c6be3a9d8e65094070eefb9b1fab206ffbc6abc16c48bcfb17",
+    "4": "ce5b57349558e8b00c6cc13bddd88dbb98248a2af73e06b1531577989db570cf"
+  },
+  "reference": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf",
+  "status": "complete",
+  "count": 12,
+  "casual_count": 11,
+  "originals": {
+    "light": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf",
+    "casual1": "2138540080268bf594e136a408c762d36112c871df6a4c428efec781c81b2a64",
+    "casual2": "6c9deb3725fa6fc4e0c35de2c540339e81f8e008afe31f2f97207ecb4e30aa16",
+    "casual3": "9ebb29e2fa6759716a11d45fb44864aa7595cdc29ba22015642a3a36d158e54a",
+    "casual4": "bff8074faa7da1c3c5f8f28bc26349284908a8f8c4c38b2277c5b05eb1ec90ba",
+    "casual5": "298326b2c7950df9db9c816bd94fd4f9d18f35b0ec90bcd3bca9819cc803772d",
+    "casual6": "cb28a21c291d0db2aea96fba164c04037cbd6a6559f7c7191bc0c6b10d2991f6",
+    "casual7": "079f774efdf7b29363df3bdbc870b87c5a623177b3332df010525a1da5830c76",
+    "casual8": "33dba1bc2e71ec706014bea0d5931307cfbc11d82ad52db24bd00243b062a8ef",
+    "casual9": "e3420c6417c06af2d4bcdaeb6f685711f808c994a8ad913526900ee09a21f73c",
+    "casual10": "82210b73e439165b34743302a05fdd8e68d8165ae68310d53bc5784b51734856",
+    "casual90": "1ac76f849a149e8db59fc340e4a53b7a88d4ec84ecb3e5e62f7e26374041d7d7"
+  }
+}

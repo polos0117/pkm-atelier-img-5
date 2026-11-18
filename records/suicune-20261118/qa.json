@@ -1,0 +1,182 @@
+{
+  "light": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다 / 손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 1.7 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both gauntlets connect to the forearms. The raised palm is open and the lowered fingers are partly hidden by their curled pose. The detector's extra hand marking falls on the abdomen.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual1": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 왼팔 끝의 손이 오른손으로 보인다 — 엄지가 반대쪽인 뒤집힌 손(손등이 보이면 모델이 헷갈리기도 한다)",
+      "arms": 2,
+      "legs": 0,
+      "hands": "One hand grips the dryer; the other is below the crop. The thumb and curled fingers are consistent with the pictured grip.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual2": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand pinches the small object and the other rests on her knee. Finger overlap is consistent with the two poses.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual3": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 오른팔 끝의 손이 왼손으로 보인다 — 엄지가 반대쪽인 뒤집힌 손(손등이 보이면 모델이 헷갈리기도 한다)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Right palm rests on the deck; the left hand curls over the floating kickboard. Both arms trace back to the shoulders. Feet are obscured by water and crop.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual4": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다 / 왼팔 끝의 손이 오른손으로 보인다 — 엄지가 반대쪽인 뒤집힌 손(손등이 보이면 모델이 헷갈리기도 한다)",
+      "arms": 2,
+      "legs": 0,
+      "hands": "The raised hand grips the small photograph. Its fingers partly overlap, and the other hand is hidden by the crop and body.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual5": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands cradle the kalimba; the fingers behind the instrument are partly hidden.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual6": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "The hands grip a prop and brace against the pavement; some fingers are hidden by the grip.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual7": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "One hand rests at her temple, the other along the chair. Far fingertips and shoes are cropped.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual8": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "check · 몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다 / 손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 0.7 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다",
+      "arms": 1,
+      "legs": 0,
+      "hands": "The visible hand near her ear connects to the raised forearm. The other hand and legs are outside the portrait crop.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual9": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다",
+      "arms": 2,
+      "legs": 0,
+      "hands": "The left hand grips the bouquet, with some fingertips occluded by stems. The right arm continues behind her head, where the hand is hidden.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual10": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands are attached to the forearms and grip the microphone stand at different heights; fingers are partly hidden behind the stand.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  },
+  "casual90": {
+    "status": "accepted",
+    "anatomy": {
+      "tool": "note · 몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Right hand holds the vial with some overlapping fingers; the lower left hand is cropped at the frame. There is one figure despite duplicate pose detections.",
+      "issue": "ok",
+      "overlay_checked": true
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "evidence": "Soft facial gradients and separately rendered hair and fabrics."
+    }
+  }
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf",
+    "sha256": "5e9a85dfc1210576615379b725968aff0d33be4e4d1333bbba083f0039626397",
+    "submitted_sha256": "ee386a6283e8eab39f055d55408b986916eb8f51b2d35ef294e60b2fb284115e",
+    "submitted_same": true,
+    "reference_sha256": null
+  },
+  {
+    "slot": "casual1",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "2138540080268bf594e136a408c762d36112c871df6a4c428efec781c81b2a64",
+    "sha256": "c423e65f0f19eecad3006516d11a5e8b9bfd3c7363bd3154682dacc03496149b",
+    "submitted_sha256": "02603d40ce07e4ef8e58f2a4eaa3fc0b6dbbb37b07307bf647dedd13fde8b15a",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual2",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "6c9deb3725fa6fc4e0c35de2c540339e81f8e008afe31f2f97207ecb4e30aa16",
+    "sha256": "67200f1f0d2bfdb995b13fc10991234c84ccc7d0a7c0311eaf59c323abfdb90d",
+    "submitted_sha256": "daef9372975fcee514abcf0b03a4e123b121fba416a763064cff033abbfc6aa5",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual3",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "9ebb29e2fa6759716a11d45fb44864aa7595cdc29ba22015642a3a36d158e54a",
+    "sha256": "985e0b38849fa02e20c3a688a92a1080f9dd2b8405c4f7cb85062bfe06ebfa5c",
+    "submitted_sha256": "9912893b8ff58300fa00034c92fa814f577c34fbd5037bdd9dc4e93a4ba7fd62",
+    "submitted_same": false,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual4",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "bff8074faa7da1c3c5f8f28bc26349284908a8f8c4c38b2277c5b05eb1ec90ba",
+    "sha256": "2f2c07514d2ba74fae581a33584a7f43d4267fbc83bfd932262fa1440c8ba46f",
+    "submitted_sha256": "c415355503e5c02867eb4cb0fd6629d5b7208ed935d9f846d8f04e599a34cd61",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual5",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "298326b2c7950df9db9c816bd94fd4f9d18f35b0ec90bcd3bca9819cc803772d",
+    "sha256": "6db1975158049149cdf2c685fed29c12cd4df820bf26760b0e483b799274f924",
+    "submitted_sha256": "0a05f32d37c3b918ad6e20df028762c897fd615700b21b819e3ff5a0561cd50b",
+    "submitted_same": false,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual6",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "cb28a21c291d0db2aea96fba164c04037cbd6a6559f7c7191bc0c6b10d2991f6",
+    "sha256": "1c6c726f63e996844166a06f86e82109250fe987b2e73137b8e876f1ec8ae3b7",
+    "submitted_sha256": "8df62899fa2354b6e1d1e594d0d33f518a1f27bae29f53a62148a9019b49d577",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual7",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "079f774efdf7b29363df3bdbc870b87c5a623177b3332df010525a1da5830c76",
+    "sha256": "f112da1aef91ef24c4571fdf788aee6c0ee497b911d8157e399b7b32b0cfc0f5",
+    "submitted_sha256": "993b3036cb0de933962ff60f2124c0a91654dacf756721641bb34403efbddee3",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual8",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "33dba1bc2e71ec706014bea0d5931307cfbc11d82ad52db24bd00243b062a8ef",
+    "sha256": "3f43adbba3ff58f789dec7e11566fd1359d08294a85a5bacd936aaadf641aee4",
+    "submitted_sha256": "f695f5146d14d176d3756f92524d22ca79f8f7e170c44755d435326da2b4ebc2",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual9",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "e3420c6417c06af2d4bcdaeb6f685711f808c994a8ad913526900ee09a21f73c",
+    "sha256": "96f582897da2b8046a565813af998049a8c0ebb0b059380de7878bbba74249b4",
+    "submitted_sha256": "39843cf01c1cc496e26ada66e7b5725e646208e76a4d4685be3cbe24874ed921",
+    "submitted_same": false,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual10",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "82210b73e439165b34743302a05fdd8e68d8165ae68310d53bc5784b51734856",
+    "sha256": "ec7a8301eb6eb52ab4cbd06eac893bef2cb8ecbcb88ef53e831890ff852ddb0c",
+    "submitted_sha256": "ad800cae00b9c870361bc7f15bc547017c52e19371db50c7803fd9647d1f186a",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  },
+  {
+    "slot": "casual90",
+    "card": "스이쿤",
+    "style": "anime_25d_gloss",
+    "filename": "스이쿤_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "1ac76f849a149e8db59fc340e4a53b7a88d4ec84ecb3e5e62f7e26374041d7d7",
+    "sha256": "2386c2187a7a1f8eb0a9d16210600247dffcd68951a9385432afe01afd341431",
+    "submitted_sha256": "5158c5ba6ccc865dad0601bddcb26e64a19b2711c72d9414a4283943a103fc8a",
+    "submitted_same": true,
+    "reference_sha256": "b5fe12e5521d6a984654ca090bd952da49f144520a31160514b0b4b9ab81fbcf"
+  }
+]
