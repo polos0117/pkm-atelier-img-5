@@ -1,0 +1,194 @@
+{
+  "light": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "장갑을 낀 두 손과 두 다리의 관절 연결을 확인했다. 아래쪽 주먹은 손가락이 일부 겹친다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "어깨와 허벅지 장갑의 개방부를 확인했다."
+    }
+  },
+  "casual1": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "잔을 든 팔은 손목과 연결된다. 다른 손과 두 다리는 프레임 밖이다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "재킷 어깨와 목선이 드러난다."
+    }
+  },
+  "casual2": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "물뿌리개를 든 손과 무릎에 닿는 손, 구부린 두 다리를 확인했다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "니트 드레스의 목선과 다리가 드러난다."
+    }
+  },
+  "casual3": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "바닥을 짚은 손과 무릎 쪽 손, 교차해서 앉은 다리를 확인했다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "짧은 스포츠 상의와 스코트로 허리와 다리가 드러난다."
+    }
+  },
+  "casual4": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "무릎과 허벅지의 두 손 및 양쪽 다리의 연결을 확인했다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "넓은 어깨끈과 옆면 레이스가 보인다."
+    }
+  },
+  "casual5": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "소품을 든 팔과 무릎에 둔 손, 앉은 양다리를 확인했다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "깃 장식 코스튬이 단단한 장갑판처럼 보이는 부분이 있다."
+    }
+  },
+  "casual6": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "난간에 올린 손과 아래쪽 손의 팔 연결을 확인했다. 다리는 일부 프레임 밖이다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "코스프레 상의와 사롱을 확인했다."
+    }
+  },
+  "casual7": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "스케치북을 잡은 양손과 양팔을 확인했다. 다리 아래쪽은 프레임 밖이다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "수영복 옆구리 컷아웃을 확인했다."
+    }
+  },
+  "casual8": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "한 손이 얼굴 쪽으로 올라가며 다른 손과 두 다리는 화면 밖이다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "검정 의상의 어깨와 목선이 드러난다."
+    }
+  },
+  "casual9": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "난간과 책자에 닿는 각 손, 프레임 안쪽의 다리 연결을 확인했다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "한쪽 어깨가 드러난다."
+    }
+  },
+  "casual10": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "고리를 잡은 손과 편 손이 각 어깨에 이어지고 두 다리와 발이 보인다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "한쪽 다리가 올라가며 바깥 스커트가 들린다."
+    }
+  },
+  "casual90": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "윤곽선과 피부·의상에 단계가 있는 명암과 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "visual inspection",
+      "note": "카메라를 든 손을 확인했다. 반대 손과 다리는 가려진다."
+    },
+    "exposure": {
+      "result": "match",
+      "note": "짧은 기모노풍 겉옷과 무지갯빛 스카프를 확인했다."
+    }
+  }
+}
