@@ -1,0 +1,194 @@
+[
+ {
+  "slot": "light",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "sha256": "2348485c616990b4e16ea676a0bf1b2323ba0c6583a7db9f7f495f1ddb92b53c",
+  "reference_sha256": null,
+  "submitted_sha256": "a6497556b001a25674d16b37e914d9f89612730e4caa923714bc30cf267350fe",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual1",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "a760a0f08246b146ba913f2d0f2d27001b778891ec85456006fec43d49df55aa",
+  "sha256": "faa75e34367acdb5a54aac96e1a75af7e5b1942ce7fd58e36522ef63ae04db17",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "19a7b30b5b002d61a71da93431de9267a1a36d7a24297dfaf9f6acc456d371c6",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "90304fc2ffd2a0c7a24e6b58abe9ad3f7e59b0da0abc8a9112631d479b717fea",
+  "sha256": "ff4d02c73cca02ae6b8b95e42d889dc52f995171df7daa85e963e8385f76f522",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "8b381084f7e514bed7b62693643a899f7edcd4fb5a25d9dade9898c5bf3926bb",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "bdb4c98ad5db3c149498da8d21c1cfc0fb3005b772f79f0dff3f431ee3506134",
+  "sha256": "452575a0298bc60034046e0afee8f804beef6404d5fe07ee3ba4c3b380e99ed9",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "e74dce3049f3fdbcac2579c7b3ee32c780e2ef3fcf4ba7fa1d2ef2bfd3037ef6",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual4",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "c5e035a06efdcfe361dc4f0c60038586d84d68e8a7912e546fd3bf2ab73c25e5",
+  "sha256": "b97932fa6333ef4c0886fbf555c30c453bd217fe3e210f90e95aaac2251b6a5e",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "400d50cce6d623f762e3c3b2be0accec7ddf8574687e1633b48a98913afae96e",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual5",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "edc05bdd6d643bb63c7eaa5a69878c6eade5289348d30d2eee3c5aade903ded3",
+  "sha256": "79cdc21a7062544d8ba07e844c78e2269a715a052b26013935ad72a4b69243c2",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "01a18caf2f5ba4932988563bac63deee993dcd90f28b1a4f4688f381578cdb94",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual6",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "754b12693ed2494daef595888c1e7386183c66f1652d8470b14fd89793c80f49",
+  "sha256": "320376c4a8a3c61ea5e14f7bf5d6ec922e1d601cbb43dabcf4b71f7246869665",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "60d555dafd4ac7617aaf59835bf1bd6ea9b54e22af2fb6ca7435df023b95fe2d",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual7",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "7502099d4a8fba510d2b6040d3cc65aaed1133e1dd246a45a38fc28855d470ce",
+  "sha256": "92c439f5e52c012a79388beae55b902ddb64008db5b77223998fcbd4071512b2",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "4f32d178104a74e9f6eb98c8d2ca86fb30cc8a3206383aaf997fb5991929a7dd",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual8",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "c7eaf1ee2111d39ad9bf4db1732938ae7165b681e9c2946629e2bf7cc3676144",
+  "sha256": "d2508839c1c9e6aab7b8bfc8080d440335c41b5e80227dde35d52892cc703a1a",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "ca1063b042d9f24cdcc990faae8643c3fced38f9166b25a05f53f53e23c8009c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual9",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "0697707d57f455d64bc283f54be6750621ca9f66f557c1bb8fb944953fb7f888",
+  "sha256": "17e761916b810d5d7fac9c192142c7a05f7bf101746041808848aee8deee5368",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "df86443bce529f7d634b710c3aafd10addcca4fc56a7f5306907495dc52fe7ac",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual10",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "9d1689d89a65ff47f562bf486f15ef5a99ac4150955c7a6e40a37a4f0229b1af",
+  "sha256": "ee79022956c0febf0e7c7975a27d776b82a4828431d78953b1c6910bfdd012f2",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "0d33b7d0d45cfe29bd0e0ee7c50643b8076384db6f5d68a8d6e75ea8639e9355",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual90",
+  "card": "나무지기",
+  "style": "anime_25d_gloss",
+  "filename": "나무지기_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "50252ea7de8b8cd85330a1c777a4e2983fbfa3b9d7d6827cd47fc1adb5b8a8ef",
+  "sha256": "843fe9e8eed0d6334eda862b399c54717ffae1d937e6ceaf4e8d4167cb6c0368",
+  "reference_sha256": "64cde58393a1b396883236d87ee5617a292e4c5dd4e229ffeef5e40c5cd0bad0",
+  "submitted_sha256": "a3845848a1e78cb85db5d99d0fbcf443b874faeb3150908635d3095f00f673f6",
+  "submitted_same": true
+ }
+]

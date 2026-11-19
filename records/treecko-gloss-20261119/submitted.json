@@ -1,0 +1,102 @@
+{
+ "light": {
+  "slot": "light",
+  "prompt_sha256": "a6497556b001a25674d16b37e914d9f89612730e4caa923714bc30cf267350fe",
+  "submitted_sha256": "a6497556b001a25674d16b37e914d9f89612730e4caa923714bc30cf267350fe",
+  "same": true
+ },
+ "casual1": {
+  "slot": "casual1",
+  "prompt_sha256": "19a7b30b5b002d61a71da93431de9267a1a36d7a24297dfaf9f6acc456d371c6",
+  "submitted_sha256": "19a7b30b5b002d61a71da93431de9267a1a36d7a24297dfaf9f6acc456d371c6",
+  "same": true
+ },
+ "casual2": {
+  "slot": "casual2",
+  "prompt_sha256": "8b381084f7e514bed7b62693643a899f7edcd4fb5a25d9dade9898c5bf3926bb",
+  "submitted_sha256": "8b381084f7e514bed7b62693643a899f7edcd4fb5a25d9dade9898c5bf3926bb",
+  "same": true
+ },
+ "casual3": {
+  "slot": "casual3",
+  "prompt_sha256": "324f40ba2d1dfde3c68dd1f8774708953f49cf93e5a576699b7c60727b41d627",
+  "submitted_sha256": "e74dce3049f3fdbcac2579c7b3ee32c780e2ef3fcf4ba7fa1d2ef2bfd3037ef6",
+  "same": false,
+  "attempts": [
+   {
+    "type": "initial",
+    "original_sha256": "172bed8601f26940845322c290bd666419cce5a93160175a422f5e5ffabc8916",
+    "submitted_sha256": "324f40ba2d1dfde3c68dd1f8774708953f49cf93e5a576699b7c60727b41d627"
+   },
+   {
+    "type": "image_edit",
+    "reason": "팔이 셋으로 보이는 초안에서 추가 팔을 제거하고 가까운 팔을 난간의 손에 연결했다.",
+    "base_original_sha256": "172bed8601f26940845322c290bd666419cce5a93160175a422f5e5ffabc8916",
+    "submitted_sha256": "e74dce3049f3fdbcac2579c7b3ee32c780e2ef3fcf4ba7fa1d2ef2bfd3037ef6",
+    "original_sha256": "bdb4c98ad5db3c149498da8d21c1cfc0fb3005b772f79f0dff3f431ee3506134"
+   }
+  ]
+ },
+ "casual4": {
+  "slot": "casual4",
+  "prompt_sha256": "400d50cce6d623f762e3c3b2be0accec7ddf8574687e1633b48a98913afae96e",
+  "submitted_sha256": "400d50cce6d623f762e3c3b2be0accec7ddf8574687e1633b48a98913afae96e",
+  "same": true
+ },
+ "casual5": {
+  "slot": "casual5",
+  "prompt_sha256": "0a568d997210aeac81fa1b9b9d70da2578b4904901b84f3ab90a00a10d74cc6a",
+  "submitted_sha256": "01a18caf2f5ba4932988563bac63deee993dcd90f28b1a4f4688f381578cdb94",
+  "same": false,
+  "attempts": [
+   {
+    "type": "initial",
+    "original_sha256": "b1049cee5933d587dae8ef23c431e70cca97cee36429bd6e27dc0ce2ad9ce11e",
+    "submitted_sha256": "0a568d997210aeac81fa1b9b9d70da2578b4904901b84f3ab90a00a10d74cc6a"
+   },
+   {
+    "type": "image_edit",
+    "reason": "기준보다 길게 생성된 머리 가닥을 없애고 짧은 앞머리를 빗는 동작으로 교정했다.",
+    "base_original_sha256": "b1049cee5933d587dae8ef23c431e70cca97cee36429bd6e27dc0ce2ad9ce11e",
+    "submitted_sha256": "01a18caf2f5ba4932988563bac63deee993dcd90f28b1a4f4688f381578cdb94",
+    "original_sha256": "edc05bdd6d643bb63c7eaa5a69878c6eade5289348d30d2eee3c5aade903ded3"
+   }
+  ]
+ },
+ "casual6": {
+  "slot": "casual6",
+  "prompt_sha256": "0d6e0731f83c9842be92f2f3b7dcc97ce1991ea4317b2bf91e82a59721a78f54",
+  "submitted_sha256": "60d555dafd4ac7617aaf59835bf1bd6ea9b54e22af2fb6ca7435df023b95fe2d",
+  "same": false
+ },
+ "casual7": {
+  "slot": "casual7",
+  "prompt_sha256": "4f32d178104a74e9f6eb98c8d2ca86fb30cc8a3206383aaf997fb5991929a7dd",
+  "submitted_sha256": "4f32d178104a74e9f6eb98c8d2ca86fb30cc8a3206383aaf997fb5991929a7dd",
+  "same": true
+ },
+ "casual8": {
+  "slot": "casual8",
+  "prompt_sha256": "ca1063b042d9f24cdcc990faae8643c3fced38f9166b25a05f53f53e23c8009c",
+  "submitted_sha256": "ca1063b042d9f24cdcc990faae8643c3fced38f9166b25a05f53f53e23c8009c",
+  "same": true
+ },
+ "casual9": {
+  "slot": "casual9",
+  "prompt_sha256": "ed0f2b0f0d4669ffad948e0c5e96d4a87248f6ac03a01491f8ca233fa20f439f",
+  "submitted_sha256": "df86443bce529f7d634b710c3aafd10addcca4fc56a7f5306907495dc52fe7ac",
+  "same": false
+ },
+ "casual10": {
+  "slot": "casual10",
+  "prompt_sha256": "84ecbcb470d7a1dcc7d3dd5deb272f5fc8b6f2cd2644e9269ff855134b4a60e6",
+  "submitted_sha256": "0d33b7d0d45cfe29bd0e0ee7c50643b8076384db6f5d68a8d6e75ea8639e9355",
+  "same": false
+ },
+ "casual90": {
+  "slot": "casual90",
+  "prompt_sha256": "a3845848a1e78cb85db5d99d0fbcf443b874faeb3150908635d3095f00f673f6",
+  "submitted_sha256": "a3845848a1e78cb85db5d99d0fbcf443b874faeb3150908635d3095f00f673f6",
+  "same": true
+ }
+}
