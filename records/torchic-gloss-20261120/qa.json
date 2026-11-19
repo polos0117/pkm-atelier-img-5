@@ -1,0 +1,290 @@
+{
+  "light": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        },
+        {
+          "level": "check",
+          "what": "arm_sym",
+          "msg": "왼·오른 위팔 길이가 0.53 배 — 한쪽만 늘어났나"
+        }
+      ],
+      "note": "두 팔과 두 다리가 각각 관절에서 이어진다. 불꽃을 든 장갑 손과 몸 옆 주먹을 확인했다. 검출기의 팔 길이 차이는 다른 굽힘과 갑옷을 짚은 결과다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "어깨·위팔과 허벅지의 장갑 개방부."
+    },
+    "observations": []
+  },
+  "casual1": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 왼손목에서 어깨너비의 0.8 배) — 셋째 손·떨어진 손"
+        }
+      ],
+      "note": "의자에 짚은 손과 무릎 위 손 모두 각 손목으로 연결된다. 반대 팔 손목은 투시에서 검사기가 놓쳤다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "블루 코스프레의 등·허리 절개와 다리."
+    },
+    "observations": []
+  },
+  "casual2": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "note": "뺨에 댄 장갑 손과 허벅지 위 손을 확인했다. 다리 아래는 프레임 밖이다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "코스튬의 어깨·허리·다리."
+    },
+    "observations": []
+  },
+  "casual3": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "note": "양쪽 어깨에서 소매가 연결된다. 두 손과 하체는 프레임 밖이다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "니트 상의의 목선과 허리 절개."
+    },
+    "observations": [
+      "첫 아치장 얼굴 컷이 데구리 일상 3번과 유사도 214로 걸려, 계획기를 통해 실내 암벽장으로 바꿨다. 최종 최근접 300."
+    ],
+    "regeneration": {
+      "reason": "composition_similarity",
+      "rejected_original_sha256": "309bff8657d9338e02121f52cfa1f679f5499064135a7ba5c771790870a88b51",
+      "minimum_score": 214,
+      "replacement_minimum_score": 300
+    }
+  },
+  "casual4": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "note": "한 손은 뺨을 받치고 다른 손은 몸 앞 바닥에 닿는다. 서로 다른 두 발과 무릎이 이어진다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "어깨와 무릎 위가 드러나는 짙은 녹색 슬립."
+    },
+    "observations": []
+  },
+  "casual5": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "faint_body",
+          "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+        },
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 왼손목에서 어깨너비의 1.0 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+        }
+      ],
+      "note": "팔을 교차해 한쪽 손이 보이고 다른 손은 팔 뒤에 가려진다. 몸이나 팔에서 분리된 손은 없다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "재킷의 목선."
+    },
+    "observations": []
+  },
+  "casual6": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "note": "헤드폰을 잡은 손과 바닥을 짚은 손이 이어지며, 앞쪽 발과 뒤쪽 발이 각각 연결된다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "민트색 수영복 옆 허리 절개."
+    },
+    "observations": []
+  },
+  "casual7": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        },
+        {
+          "level": "check",
+          "what": "flipped_hand",
+          "msg": "왼팔 끝의 손이 오른손으로 보인다 — 엄지가 반대쪽인 뒤집힌 손(손등이 보이면 모델이 헷갈리기도 한다)"
+        }
+      ],
+      "note": "봉투를 쥔 손과 진열장 위에 얹힌 손은 각각 팔에 연결된다. 위쪽 손은 집는 자세로 일부 손가락이 겹친다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "이벤트 의상의 어깨와 움직이며 보이는 옆 허리."
+    },
+    "observations": []
+  },
+  "casual8": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "note": "걷는 자세에 팔과 다리가 각각 두 개다. 양쪽 손은 몸 옆에 자연스럽게 내려와 있다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "탐험복의 목선과 짧은 하의."
+    },
+    "observations": []
+  },
+  "casual9": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "note": "표를 쥔 손과 벤치에 짚은 손이 각각 팔로 이어진다. 두 발이 벤치 앞에 놓여 있다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "터틀넥 의상의 한쪽 어깨와 반바지 아래 다리."
+    },
+    "observations": []
+  },
+  "casual10": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "note": "쪼그린 자세의 두 다리와 발을 확인했다. 앞쪽 손은 무릎 위에 있고, 다른 손은 겹침으로 일부 가려진다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "민소매와 옆 어깨, 짧은 바지의 다리 노출."
+    },
+    "observations": []
+  },
+  "casual90": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "얼굴의 부드러운 입체 음영과 머릿결·의상 소재의 단계별 반사광을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "note": "손을 든 팔의 손목 연결과 펼친 다섯 손가락이 보인다. 반대쪽 팔은 프레임 아래로 이어진다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "사우나 근무복의 민소매와 열린 목선."
+    },
+    "observations": []
+  },
+  "skipped": []
+}

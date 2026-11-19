@@ -1,0 +1,215 @@
+{
+  "card": "아차모",
+  "style": "anime_25d_gloss",
+  "mecha_selection": 1,
+  "reference_original_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd",
+  "selection_sheet": "torchic-selection-sheet.png",
+  "reservation_commit": "c1d60581c0bb1e88f5f9fb188c881477ea1cfc7e",
+  "design_basis": {
+    "sources": [
+      "data/face-design.json",
+      "data/source-appearance.json"
+    ],
+    "details": "사용자가 선택한 공방 설계 1번. 아차모의 볏과 짧은 노란 날개를 머리 장식과 양쪽 어깨 망토로 옮긴 경장.",
+    "face_prompt": "Face — her own structure, not the style's default face: softly rounded face, short length, wide width; soft rounded jaw; open rounded eyes, medium size, level outer corners, close-set; short rounded brows; prominent defined nose; small mouth.",
+    "compared_designs": [
+      "Magby",
+      "Lickitung",
+      "Palpitoad"
+    ]
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_light_anime_25d_gloss_f.webp",
+      "original_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd",
+      "sha256": "f3d35a927b21d03178120b9e86b4d480bf54d4507c435b30ade79e9457c2124b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "e3fec04529599ebc1093bfb74b1d3e99c373d5f17b4b98c496c0d32b9c369246",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "2216c1cdbd32a866e55ad3105e12c9e3ab4d7bbf0c87746908e34cc3561f8627",
+      "sha256": "cdd7cc163aeaf2a7aac942c372c14f7f3fa8ad2bd166904c3bc9cb6f28fec709",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "a28e409832c466fd87e5b56273a4e2a00ad8603d67ca3397d869c2ede12f19b7",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual2",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "6b4be0fc4e6147fc3376c3bd50a76296ba20857acc87aca561113365685df5db",
+      "sha256": "55460140a1b8d2c8da321872f30ea58c8dce6f4939811be35164b8813e969709",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "dca66fcb93745a791b71c1524779732077a4c49e02876600ce2bbc48d0d0bf1d",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual3",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "2dc9ad0f7f6ca042d75d3e94cc4375689c4386695429415f30a5f1e6d6b1090d",
+      "sha256": "a36c0716968e7605ac25fcbfea97ad6b49aec05ae7d886823b6f60923fa182e2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f87560f2ac6fe7c3c7c6ff8fb66143173bec2a8ceb55f4259d4dc3f0f03f8346",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual4",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "877300303aeb6ed36299ee010b31a34fa59a4b94c7aaeb3a58a11f578119fa8d",
+      "sha256": "b5ff520449aca9bffafb9fa3092e7b186271962e896facac6ef126c3f19883de",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "a7e37925a3423dc6a5f96b7c83df7ca61316ed1e4afa7c87e8ca4d348cf54615",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual5",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "7b614af365d8e215aa837cc0fdc96547a119169bb3e8fee3a4cdf8fb3a05666d",
+      "sha256": "2b38ae8597da69aea57fe2202223ef014aa94b55beff46c7902090d396104cfc",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "950086304efdd89aa3e46070fe81e6989863a317ff6ef43dc3e1b1784ea7d317",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual6",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "751056b4c268734a9543f6c41bcccce8ecbb0aa719559a49a2f2f98903dacd34",
+      "sha256": "b1ad00dcce931b59b5d07994d90bc56b22b517448298455e429a74eb6786648d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "9f1fcc5d87c3f80dd16256e0f7d5eed2d848a27d8e28e126c372620fae5cac80",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual7",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "08958e4b2fbe20a08e2ccfba2d26c1c12ad06fec8204384621c7589b9e623f93",
+      "sha256": "fe132894f12dd029229cbae394b19353fb20a3c7cec05c5b8c409fd9f3177c2b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f4137fb4f688f9ad6abbb68f8203a35d04676832628584d8e28bbccf3572c954",
+      "submitted_same": false,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual8",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "c76425362bf544413d0d5238e6d2a2d40bab74ba299b91d96dd90196cb115bd4",
+      "sha256": "d5a5e17364f6ac9c9fe168ccfb2fc804c754cd26a7c2a33cbe210c325082a1f0",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "70fdebe2c3b23b788e5a6265d160ed9287284caa599a19e93567a0c971793571",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual9",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "b6a1126e39f1b9ca45d2c8ce6da27a0bbabd57f8178fae27b9dbdbd9436fe158",
+      "sha256": "f335241c2f47d6a40931eeae5939479115e9c23e1b009f1eb3102ec2aab89af1",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "56110218ff799b208826cbdb8428aa95aadd6b1cff768b6383fff08d4ae7b091",
+      "submitted_same": false,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual10",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "934bc093071e02d04e73895ef4d96f8cc9bb16cf5f7da2f09e9d6a98fe988cf3",
+      "sha256": "e82083a5d48eaaec82867177eec5c756272b06d8f8582623ac2fba733b4b0012",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "a377b185530ca420885597510c5bc0e1cc8d24a2cc7424f78fab537c6507b14b",
+      "submitted_same": false,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    },
+    {
+      "slot": "casual90",
+      "card": "아차모",
+      "style": "anime_25d_gloss",
+      "filename": "아차모_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "13b6f30d3fe196ccfffcbe5eae12a69fabb1385898587d186af479d141859665",
+      "sha256": "c174d8c6aa77a3f09c75b10dbd291e666d61e6fbe2544ba07edc5a25211074e9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "b5346486b6d723190c3f6794db316b715719e02be610c424b7d9aa14b9f79c66",
+      "submitted_same": true,
+      "reference_sha256": "953f06ebae97686b3b35c368f7a44c89e784d6836a1a31c3d75a3016c960d1cd"
+    }
+  ]
+}

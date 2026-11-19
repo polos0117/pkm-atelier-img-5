@@ -1,0 +1,45 @@
+torchic-pack/rendered/casual1.png — 가까운 컷 0장(점수 245 미만)
+     306  야도킹_glossy_promo_f_casual1.webp
+     309  코코리_anime_25d_gloss_f_casual6.webp
+     316  뚜벅쵸_anime_25d_f_casual4.webp
+torchic-pack/rendered/casual10.png — 가까운 컷 0장(점수 245 미만)
+     316  야도킹_anime_25d_gloss_f_casual3.webp
+     316  치코리타_anime_25d_gloss_f_casual10.webp
+     327  뿔충이_anime_25d_gloss_f_casual90.webp
+torchic-pack/rendered/casual2.png — 가까운 컷 0장(점수 245 미만)
+     309  에레브_anime_25d_gloss_f_casual2.webp
+     313  독침붕_anime_25d_gloss_f_casual3.webp
+     316  마기라스_anime_25d_gloss_f_casual7.webp
+torchic-pack/rendered/casual3.png — 가까운 컷 0장(점수 245 미만)
+     300  붐볼_anime_25d_gloss_f_casual6.webp
+     301  꾸꾸리_anime_25d_gloss_f_casual4.webp
+     302  텅구리_anime_25d_gloss_f_casual4.webp
+torchic-pack/rendered/casual4.png — 가까운 컷 0장(점수 245 미만)
+     286  딱구리_anime_25d_gloss_f_casual4.webp
+     309  피죤투_anime_25d_gloss_f_casual1.webp
+     315  모래두지_anime_25d_gloss_f_casual4.webp
+torchic-pack/rendered/casual5.png — 가까운 컷 1장(점수 245 미만)
+     229  투구푸스_anime_25d_gloss_f_casual3.webp
+     262  대포무노_anime_25d_gloss_f_casual8.webp
+     272  미뇽_anime_25d_gloss_f_casual2.webp
+torchic-pack/rendered/casual6.png — 가까운 컷 0장(점수 245 미만)
+     268  스라크_anime_25d_gloss_f_casual8.webp
+     282  보송송_anime_25d_gloss_f_casual5.webp
+     282  프테라_anime_25d_gloss_f_casual5.webp
+torchic-pack/rendered/casual7.png — 가까운 컷 1장(점수 245 미만)
+     238  나무돌이_anime_25d_gloss_f_casual6.webp
+     252  코일_glossy_promo_f_casual3.webp
+     262  피츄_anime_25d_gloss_f_casual1.webp
+torchic-pack/rendered/casual8.png — 가까운 컷 0장(점수 245 미만)
+     312  레디바_anime_25d_gloss_f_casual9.webp
+     312  바라철록_glossy_promo_f_casual2.webp
+     313  뿔카노_glossy_promo_f_casual1.webp
+torchic-pack/rendered/casual9.png — 가까운 컷 0장(점수 245 미만)
+     276  에레브_anime_25d_gloss_f_casual2.webp
+     300  깨비참_anime_25d_gloss_f_casual5.webp
+     306  뿔카노_anime_25d_gloss_f_casual2.webp
+torchic-pack/rendered/casual90.png — 가까운 컷 0장(점수 245 미만)
+     274  단단지_anime_25d_gloss_f_casual90.webp
+     288  페르시온_anime_25d_gloss_f_casual2.webp
+     296  니드리노_anime_25d_gloss_f_casual2.webp
+통과 — 거의 같은 일상컷 없음
