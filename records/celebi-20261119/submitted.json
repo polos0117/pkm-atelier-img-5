@@ -1,0 +1,134 @@
+{
+ "light": {
+  "slot": "light",
+  "at": "2026-11-19T02:50:14.408Z",
+  "prompt_sha256": "d9c996b0f25dd261311e61728f0347ccb20c160d4419f85ba8c16c41c264ecd0",
+  "submitted_sha256": "d9c996b0f25dd261311e61728f0347ccb20c160d4419f85ba8c16c41c264ecd0",
+  "same": true,
+  "prompt_words": 891,
+  "submitted_words": 891,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual1": {
+  "slot": "casual1",
+  "at": "2026-11-19T04:14:53.969Z",
+  "prompt_sha256": "ae81937d2b8fda294c4f8d3b2d3b5bd76ac585150ca4c6da211b6cabca374860",
+  "submitted_sha256": "ae81937d2b8fda294c4f8d3b2d3b5bd76ac585150ca4c6da211b6cabca374860",
+  "same": true,
+  "prompt_words": 1202,
+  "submitted_words": 1202,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual2": {
+  "slot": "casual2",
+  "at": "2026-11-19T04:14:54.074Z",
+  "prompt_sha256": "b4682f22b2e899ac9b623b84d35e3329e5b0c0eace2e6ce6ae57d332f4ed5a94",
+  "submitted_sha256": "b4682f22b2e899ac9b623b84d35e3329e5b0c0eace2e6ce6ae57d332f4ed5a94",
+  "same": true,
+  "prompt_words": 1240,
+  "submitted_words": 1240,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual3": {
+  "slot": "casual3",
+  "prompt_sha256": "5270f4bfc793d1d8466f806c78fd08e745f267972e6e6651da7c17d2d2e5ea36",
+  "submitted_sha256": "cb6838f48760dc2888d25835a898ee22acdf814892aaab4ae8d5fb22366a97ab",
+  "same": false,
+  "design": "gpt_free",
+  "reason": "공방의 옷 또는 장면 위임 규칙"
+ },
+ "casual4": {
+  "slot": "casual4",
+  "at": "2026-11-19T04:14:54.194Z",
+  "prompt_sha256": "2e88e9329074f8aaf06029384556e56868610a7a26be5f6a78b38c4e0878cfdf",
+  "submitted_sha256": "2e88e9329074f8aaf06029384556e56868610a7a26be5f6a78b38c4e0878cfdf",
+  "same": true,
+  "prompt_words": 1055,
+  "submitted_words": 1055,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual5": {
+  "slot": "casual5",
+  "prompt_sha256": "6188aad9db5dfc120892d0a70cc7d7656415da879a7362285e07637b5a86bd78",
+  "submitted_sha256": "c052bfec79a95a036362a3f5ca5aa9257a6c7267b99f480cf83deb3d97ed09ba",
+  "same": false,
+  "design": "gpt_free",
+  "reason": "공방의 옷 또는 장면 위임 규칙"
+ },
+ "casual6": {
+  "slot": "casual6",
+  "at": "2026-11-19T04:14:54.294Z",
+  "prompt_sha256": "de469c21f78c6b828a8db1366e9d26cc09f41f95e3d53a8ee5dc79f07eed4700",
+  "submitted_sha256": "de469c21f78c6b828a8db1366e9d26cc09f41f95e3d53a8ee5dc79f07eed4700",
+  "same": true,
+  "prompt_words": 1174,
+  "submitted_words": 1174,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual7": {
+  "slot": "casual7",
+  "at": "2026-11-19T04:14:54.400Z",
+  "prompt_sha256": "7023ab16884629248c52cba0ded5fe18a118b6ad8bb4b05ef05b70505f0424af",
+  "submitted_sha256": "7023ab16884629248c52cba0ded5fe18a118b6ad8bb4b05ef05b70505f0424af",
+  "same": true,
+  "prompt_words": 1049,
+  "submitted_words": 1049,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual8": {
+  "slot": "casual8",
+  "prompt_sha256": "3990a27ed7d8c6e5f31a943039a7385d9a6304870a189fb6af257bb63d5068ad",
+  "submitted_sha256": "e109590f25520bd2e80313abd98355027b24d1977f179e837a71cbeca168e886",
+  "same": false,
+  "design": "gpt_free",
+  "reason": "공방의 옷 또는 장면 위임 규칙"
+ },
+ "casual9": {
+  "slot": "casual9",
+  "at": "2026-11-19T04:14:54.481Z",
+  "prompt_sha256": "688a324c1ac9d8dd98dfeadb8d77309cfa2b1eb7d122488e18f10353955df277",
+  "submitted_sha256": "688a324c1ac9d8dd98dfeadb8d77309cfa2b1eb7d122488e18f10353955df277",
+  "same": true,
+  "prompt_words": 1235,
+  "submitted_words": 1235,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual10": {
+  "slot": "casual10",
+  "at": "2026-11-19T04:14:54.583Z",
+  "prompt_sha256": "85da9d2df6df2dcf1751241c8f1ca33ceaa0308efc264c733d86779f6481efcb",
+  "submitted_sha256": "85da9d2df6df2dcf1751241c8f1ca33ceaa0308efc264c733d86779f6481efcb",
+  "same": true,
+  "prompt_words": 1105,
+  "submitted_words": 1105,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ },
+ "casual90": {
+  "slot": "casual90",
+  "at": "2026-11-19T04:14:54.669Z",
+  "prompt_sha256": "e7dafb04d4afaeafa01fa491c1f33cbe9e12cc34daa9cfefc5682ff9a205df81",
+  "submitted_sha256": "e7dafb04d4afaeafa01fa491c1f33cbe9e12cc34daa9cfefc5682ff9a205df81",
+  "same": true,
+  "prompt_words": 1123,
+  "submitted_words": 1123,
+  "style_kept": true,
+  "missing": [],
+  "added": []
+ }
+}

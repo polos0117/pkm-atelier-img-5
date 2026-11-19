@@ -1,0 +1,210 @@
+{
+ "card": "세레비",
+ "style": "anime_25d_gloss",
+ "mecha_selection": 2,
+ "selection_sheet": "celebi-selection-sheet.png",
+ "reference_original_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce",
+ "reservation_commit": "8d214c8d8ad282a0a403d7c9d0f5f8461353f14f",
+ "design_basis": {
+  "sources": [
+   "data/face-design.json",
+   "data/source-appearance.json"
+  ],
+  "details": "사용자가 고른 공방 설계 2번. 안테나 머리 장식과 장갑에 적용한 검은 고리 무늬와 녹색·청색 계열 소재를 확인했다.",
+  "face_prompt": "Face — her own structure, not the style's default face: heart-shaped face, balanced length, medium width; soft rounded jaw; open rounded eyes, large size, level outer corners, average spacing; fine soft arches; small delicate nose; bow-shaped upper lip."
+ },
+ "assets": [
+  {
+   "slot": "light",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_light_anime_25d_gloss_f.webp",
+   "original_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce",
+   "sha256": "09f68cce8416cd6fb0f41b05559ced2ab2c891fde2c1aefb551a3932c31965f7",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "d9c996b0f25dd261311e61728f0347ccb20c160d4419f85ba8c16c41c264ecd0",
+   "submitted_same": true,
+   "reference_sha256": null
+  },
+  {
+   "slot": "casual1",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual1.webp",
+   "original_sha256": "987967fb3b7a499bba07df649d1641c75002cf69e52a355de2616142a59118e3",
+   "sha256": "3a8259ebbe3048b59c38022f3e416674362796d64af0eada70dec9db00bfd299",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "ae81937d2b8fda294c4f8d3b2d3b5bd76ac585150ca4c6da211b6cabca374860",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual2",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual2.webp",
+   "original_sha256": "532f147e4fe8d7a1f6b5a0c8e8a22a4812f765f80528029bf99c3d83d4859cf2",
+   "sha256": "2354d9b84f6ad6ffaa6940b6a301ad7cdf61be2311528b92bdfdf4bb1c628298",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "b4682f22b2e899ac9b623b84d35e3329e5b0c0eace2e6ce6ae57d332f4ed5a94",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual3",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual3.webp",
+   "original_sha256": "dd86f493f4ddc183a3310aed77d27ae3ff696a7008e02e72a100dbd4fe660343",
+   "sha256": "5bd09cd2a765fb727eb15c6dd05ead01b8e36d479f72eb5f0df13eb8022167fb",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "cb6838f48760dc2888d25835a898ee22acdf814892aaab4ae8d5fb22366a97ab",
+   "submitted_same": false,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual4",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual4.webp",
+   "original_sha256": "3ff0792d6cdd4e9f11438fb3f5bd3f8acf11718ed88717ceb82acea334087cf2",
+   "sha256": "dfac1dac5e6d3fc2911db9c29ca4867f75f47141f5e1179999a79a532f820089",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "2e88e9329074f8aaf06029384556e56868610a7a26be5f6a78b38c4e0878cfdf",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual5",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual5.webp",
+   "original_sha256": "0e20dacb10ceb500a9056f2c37ee665d2cd7ba7eee55a284b6e4dfbd6cb8316a",
+   "sha256": "68ff9506d9257739f63643ddb4ac768a5b8866de7176989fbf30a382a0eefe49",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "c052bfec79a95a036362a3f5ca5aa9257a6c7267b99f480cf83deb3d97ed09ba",
+   "submitted_same": false,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual6",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual6.webp",
+   "original_sha256": "64a9be1ab8574b3c33505de3b29c2d0df3a8d1bd3dc04667e01f453427d759e2",
+   "sha256": "0f48a7614b2d86391a699a9fcac62d7562121ccb85411ec388c4916af3fe316d",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "de469c21f78c6b828a8db1366e9d26cc09f41f95e3d53a8ee5dc79f07eed4700",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual7",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual7.webp",
+   "original_sha256": "b8810c09ab560edc2968a7999dee42d4df78ec7f1a418ff257ef7d311c1444e4",
+   "sha256": "825b71ca5e791c06aed9005881c64f58642951407ecd6155a55690cce6bc8271",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "7023ab16884629248c52cba0ded5fe18a118b6ad8bb4b05ef05b70505f0424af",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual8",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual8.webp",
+   "original_sha256": "d5f48024aa3f660eaba7a959c901b7eebb6ebcdd3db0b843a345f7a77b0f28a9",
+   "sha256": "d70776891988fb7e32fc23b86ac588c7eeab0fdf53f2dba4455dc89ee7af0d28",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "e109590f25520bd2e80313abd98355027b24d1977f179e837a71cbeca168e886",
+   "submitted_same": false,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual9",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual9.webp",
+   "original_sha256": "ed16c12210a3a23913eb67ee7f25c4bb09ba360dd0449564a108ce21a793c8e8",
+   "sha256": "ef3567d9f4d232eb603250b9e0521a1417df8f8456e0cd2b8b2b6760150ed5ef",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "688a324c1ac9d8dd98dfeadb8d77309cfa2b1eb7d122488e18f10353955df277",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual10",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual10.webp",
+   "original_sha256": "182a831d758e6f1df712e69e16eebc5a00db7f374efa8d9e51dd8b04d4babd46",
+   "sha256": "cd41d3ad0bd04375481fab38351dbad94a98779e0267889b593da19857a09651",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "85da9d2df6df2dcf1751241c8f1ca33ceaa0308efc264c733d86779f6481efcb",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  },
+  {
+   "slot": "casual90",
+   "card": "세레비",
+   "style": "anime_25d_gloss",
+   "filename": "세레비_anime_25d_gloss_f_casual90.webp",
+   "original_sha256": "1894e245fa1afa3b9fa942b8b49773f3865fa227234411460fdeb2875ed60f06",
+   "sha256": "aacdbcb8706164b09a6675a5ab76c677a2d2fe4696aee062879c2f1c10abf4bc",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "submitted_sha256": "e7dafb04d4afaeafa01fa491c1f33cbe9e12cc34daa9cfefc5682ff9a205df81",
+   "submitted_same": true,
+   "reference_sha256": "0a1880bb318515e3b227ac39d8ce5639c97e54ce38133b1cb367b5dff4a385ce"
+  }
+ ]
+}
