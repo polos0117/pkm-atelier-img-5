@@ -1,0 +1,199 @@
+{
+ "light": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "장갑 낀 양팔이 어깨에 이어진다. 들어 올린 손의 손가락 일부는 원근상 겹친다. 양쪽 무릎과 장갑 부츠가 보인다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "어깨와 위팔, 위쪽 허벅지가 열려 있고 몸통 중앙은 장갑으로 덮인다."
+  }
+ },
+ "casual1": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "책장 쪽 위팔과 아래팔을 따라 손이 선반으로 이어진다. 다른 손은 몸 옆에 내려와 있고 두 발이 보인다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "회색 재킷의 어깨와 허리 일부가 드러난다."
+  }
+ },
+ "casual2": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "오른손이 공을 쥐고 왼팔은 몸 옆에 내려와 있다. 교차해 걷는 양쪽 다리가 발까지 이어진다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "자홍색 원피스 수영복이 다리, 어깨, 목선을 드러낸다."
+  }
+ },
+ "casual3": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "얼굴 옆 V자 손과 그 팔이 이어진다. 반대편 손은 허리 위 구도의 프레임 밖에 있다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "파란 셔츠 사이로 수영복 상의가 보이고 어깨와 목선이 드러난다."
+  }
+ },
+ "casual4": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "한 손은 들어 올린 무릎에, 다른 손은 몸 옆에 있다. 긴 바지 때문에 다리의 윤곽 일부가 가려진다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "금색 크롭 상의가 허리와 어깨를 드러낸다."
+  }
+ },
+ "casual5": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "오른손은 보온병을 잡고 왼손은 벤치를 짚는다. 양쪽 무릎까지 보이고 종아리는 프레임 밖이다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "노란색 롬퍼에서 한쪽 어깨와 허벅지가 드러난다."
+  }
+ },
+ "casual6": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "두 장갑 낀 손이 난간에 있고 두 팔이 어깨로 이어진다. 하체는 난간과 프레임에 가려진다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "초록과 붉은색 행사 의상에서 어깨와 허리가 드러난다."
+  }
+ },
+ "casual7": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "보정 후 두 팔만 보인다. 창틀 쪽 손과 소매가 이어지고, 가까운 팔은 구도에 따라 프레임 아래로 이어진다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "자주색 니트가 한쪽 어깨와 윗등을 드러낸다."
+  },
+  "repair": {
+   "reason": "창틀 왼쪽에 팔과 손이 추가로 그려진 해부 오류",
+   "initial_original_sha256": "8ace20f17ca247d79c5c72c86571f9e86c89fc597541b6c24a22ffc61b3cf74f",
+   "repair_prompt_file": "casual7-repair-submitted.txt"
+  }
+ },
+ "casual8": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "수건을 쥔 손과 균형을 잡는 손이 각각 팔에 이어진다. 한쪽 발을 들어 디바이더를 넘는다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "코발트색 경기 수영복에서 어깨와 다리가 드러난다."
+  }
+ },
+ "casual9": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "몸을 조리대에 살짝 기대고 양손으로 조리대 끝을 짚는다. 양쪽 어깨와 팔의 연결이 보인다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "보라색 슬립의 좁은 끈과 짧은 기장 사이로 어깨와 허벅지가 드러난다."
+  }
+ },
+ "casual10": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "양손은 의자 팔걸이 끝에 있고 두 다리는 무릎에서 교차한다. 양쪽 신발이 보인다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "슬릿이 있는 코스프레 드레스가 어깨와 한쪽 허벅지를 드러낸다."
+  }
+ },
+ "casual90": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코와 광대에 이어지는 입체 음영, 머리카락과 피부의 반사광, 의상 재질의 층이 보인다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "issue": "ok",
+   "note": "한 손은 전정톱을 쥐고 다른 손은 무릎 위에 놓인다. 쪼그려 앉은 양쪽 다리가 부츠까지 이어진다."
+  },
+  "exposure": {
+   "판정": "match",
+   "근거": "작업복의 민소매 상의와 반바지가 팔과 다리를 드러낸다."
+  }
+ }
+}

@@ -1,0 +1,194 @@
+[
+ {
+  "slot": "light",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "sha256": "b33297886fc7a32818842c57fdfc44d017415eec7646d0e880befc7bbd467c5b",
+  "reference_sha256": null,
+  "submitted_sha256": "e3c928d133debcc5d36c25cc08311681f9af744da1d1eab2ba9bd26eeceb9f52",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual1",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "dd9ab69259a90cf1b6db65563ed654f50fed4d2bf02edb43c4111f0f44ad74d8",
+  "sha256": "4e86843645c36013fa6d7daaaa54b5b6e55a80216814e69fabe2d879e403c332",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "cc29549eaa9b6ec584a3767e98e00d9064403fa9285ff8b65738e8f7a9e6d864",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "a27ea85c93e169233ccf3fbf2aa94a73fa7c047c208f4dff43d89bd6d5706741",
+  "sha256": "e46dc20dc7c2219fb91338cd0f10d5271607d5592186f963f7ba6df360dc324f",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "240ead4207d1e91604128c5dee7860407bb5eb93f6672d47e8788c326d786443",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "f66c6bebe7c1920d76c39a7cfc0a6c38e0ff9173087523a998220d9024b5992f",
+  "sha256": "3f3e9adec3f22106b0bdcb2530ec6f5292720518bdf263df7be76740b2b93166",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "7b1c8214dee6000a80f89d8767dc1780e03e92b25956097443ba83d61cbb3f55",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual4",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "3ba7a730cf037963f403ee331ac9ae870e5d48918d4b2053b147c18d909288d9",
+  "sha256": "1567584e50c9543a11eeba8278c3ca08bca2f261af52a6dc35e62f317b77792e",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "f6d592958395420f1f530593a560b46f7adedd22cd4cdacc80afaa49b602aa38",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual5",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "f6bfbd24aed272b8dd52b9e657101992b7965d4e9936287397c5f13565378a31",
+  "sha256": "d9dff981c7d6272c8b37e83af0edfdde0163c92073550f776331bab30a82fab6",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "dedc708e26cae83f8c995dc4e118a5bfa4daec8316cd5c02756e3a13d2480be5",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual6",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "c0f304ace1d22502dccd74489030d5b875f2b18c6c8b93b22ed30ce78375f3c2",
+  "sha256": "8d22cd17da5788861c5440191b8f06f8c01f938b31dd5d8693149a28722a1d17",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "2c730f140aaec53ef9241803506bd3f09fa99d8173cd88b76c73382409ba4afe",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual7",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "8ca3d2e6ac154dbf94835e922fd97ad886dc915e0e3510cd6a54af33213aebbc",
+  "sha256": "4ba7f5f5334c7cc8494f264c3c45033153967680d07d71be36cb803319760600",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "9d62176f3392bbb4270d1b3e8154d10346de3568beec82c64eea6be366f52cba",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual8",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "eab3916e2c311d07af41740b20013620c301c9588ac584c6870f1ee8f0431fa1",
+  "sha256": "91af622c05c659337bee5ecdb2e3c1d2bf4cdb02f69b9b9323f69cecdbf5eab5",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "cd051a2970ac8c2f6ca48b3e57f055e2717f98142dd2ef5bf5cab33b4b027dd9",
+  "submitted_same": false
+ },
+ {
+  "slot": "casual9",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "f849ea76a8bcb3af4c0fba352244e0bc425d20f947afa1ec3a4ec5521dd84250",
+  "sha256": "9a38694595ff68b4fc09aef434bf37a3ed695d36a6e8ccc720253dd55214846a",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "b1cfa1e2c103d2140b00a2599c05aa21a726a42b79186950a6c82ccf5f3fb42c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual10",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "fc21ecea29e190882def9cd402f9d4a401d6e1bb67fc95b5586b5a6e0c6eb2fe",
+  "sha256": "4d605aeb14e28cdab51d19bd6e73eae0fb16680ca5124d97ddea8d77edccdbb6",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "6e25550662125b962bdae654acf10dfbf77588e07aba5a47842a3822b705286f",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual90",
+  "card": "나무킹",
+  "style": "anime_25d_gloss",
+  "filename": "나무킹_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "eabf331f3e7e5774ed2402edba9106a16f31ef8b1911d8b2f2c81ab542e94cfd",
+  "sha256": "10088ae655633fc9282601a80f249fc90d7a5e5ce2c630364822ef406fb4a9a7",
+  "reference_sha256": "f2b9b7415c495c77f7db7db3849662f677d494e49a9ec75d98b4cc6b3584a287",
+  "submitted_sha256": "39e33ff260721db7043498565e7e93930231b9a6815686f264968a5d1f9b6af8",
+  "submitted_same": true
+ }
+]

@@ -1,0 +1,146 @@
+{
+ "card": "나무킹",
+ "style": "anime_25d_gloss",
+ "cuts": [
+  {
+   "slot": "casual1",
+   "place": "library_reading",
+   "ofam": "roleplay",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "strong",
+    "separates_preference": "prefer separates"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual2",
+   "place": "pw_laundry",
+   "ofam": "swimwear",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly active",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual3",
+   "place": "berry_kitchen",
+   "ofam": "resort",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual4",
+   "place": "spa_sauna",
+   "ofam": "drape",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "subtle",
+    "separates_preference": "prefer separates"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual5",
+   "place": "tailor_room",
+   "ofam": "subculture",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "subtle",
+    "separates_preference": "prefer separates"
+   },
+   "design": "gpt_free"
+  },
+  {
+   "slot": "casual6",
+   "place": "night_rooftop",
+   "ofam": "pokemon_costume",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "subtle",
+    "separates_preference": "prefer separates"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual7",
+   "place": "travel_cablecar",
+   "ofam": "retro",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   },
+   "design": "gpt_free"
+  },
+  {
+   "slot": "casual8",
+   "place": "fx_starstage",
+   "ofam": "traditional",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   },
+   "design": "gpt_free"
+  },
+  {
+   "slot": "casual9",
+   "place": "home_kitchen",
+   "ofam": "lingerie",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual10",
+   "place": "stage_event",
+   "ofam": "game_cosplay",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   },
+   "design": "atelier"
+  },
+  {
+   "slot": "casual90",
+   "place": "pw_town",
+   "ofam": "everyday",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+   },
+   "design": "atelier"
+  }
+ ]
+}
