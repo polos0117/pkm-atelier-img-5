@@ -1,0 +1,134 @@
+{
+ "light": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "광택 피부와 잎 장갑의 재질, 얼굴 음영이 분리된다. 양손이 보이며 원근상 손가락이 일부 겹친다."
+  }
+ },
+ "casual1": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "빗속 트랙의 전신 자세. 몸과 얼굴은 측면에 가깝고 손은 허리와 들어 올린 다리 가까이에 있다."
+  }
+ },
+ "casual2": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "케일 코스프레의 장갑과 가면을 잡은 양손이 보이고, 가면이 얼굴 일부를 가린다."
+  }
+ },
+ "casual3": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "옥상 장면에서 머리 근처와 난간에 손이 보이며, 하체 일부는 프레이밍 밖이다."
+  }
+ },
+ "casual4": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "모자와 벨벳의 재질, 얼굴 음영이 뚜렷하다. 가까운 구도로 반대편 손은 프레임 밖이다."
+  }
+ },
+ "casual5": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "재즈 홀에서 팝콘 통과 무릎에 각각 손을 둔다. 앉은 자세의 무릎과 장갑 연결을 확인했다."
+  }
+ },
+ "casual6": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "유리 아치 배경, 양손으로 난간을 짚은 자세와 의상 주름을 확인했다."
+  }
+ },
+ "casual7": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "수영장 계단에 앉아 음료를 든 손과 무릎을 짚은 손이 구분된다."
+  }
+ },
+ "casual8": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "전화기를 든 손이 보이고 다른 손은 프레임 밖이다."
+  }
+ },
+ "casual9": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "열차 라운지에서 지도와 좌석에 손을 둔다. 두 발과 부츠가 보인다."
+  }
+ },
+ "casual10": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "발굴지에서 몸을 비스듬히 기대고 있다. 원근에 따라 먼 쪽 팔과 발 일부가 가려진다."
+  }
+ },
+ "casual90": {
+  "style_25d": {
+   "판정": "pass",
+   "근거": "코·광대의 단계적인 음영, 머리카락과 피부 반사광, 의상 재질의 표현을 육안으로 확인했다."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "manual": "visible anatomy reviewed",
+   "note": "숲 공원 수목 관리사. 안전모, 하네스와 로프가 보이며 무릎 아래는 프레이밍 밖이다."
+  }
+ }
+}

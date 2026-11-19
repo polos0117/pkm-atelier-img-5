@@ -1,0 +1,209 @@
+{
+ "card": "나무돌이",
+ "style": "anime_25d_gloss",
+ "mecha_selection": 2,
+ "selection_source": "나무돌이 메카컷 선택 시트 2번",
+ "reference_original_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+ "reservation_commit": "3b2e37ef24fb66577182f1c25d0001367a916e7d",
+ "assets": [
+  {
+   "slot": "light",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_light_anime_25d_gloss_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "sha256": "0e7035c65dd45d95c8b4570681d4e0ed1406c716da50f7519bb0ada33d7c0d49",
+   "reference_sha256": null,
+   "submitted_sha256": "f9713dcf0f13612f09000195b8ed0462805cdc7a689caa883b559d987adeaa90",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual1",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "585475879c2a43a1ceab646662e1663cb1cbca0dc909d8d37cef69ddd439f2c2",
+   "sha256": "655b9b52f9fd8badbbb0039e563cad2e15b6f5c2be19e9198c7c56556e13a5dc",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "9dee6ab51cd2f25098a27eaa3a725afee5b0856a7abd0920303ed82033b03a4c",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual2",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "2774ea342c66e8d0f9fd963c3d47726096ac778e2f5a64542cfc9abd41e03925",
+   "sha256": "7e8a180d4c7e8a9952e7af1499faf62d72f17b18b3f00a262afb0bee7d8c51c8",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "bbae1297f7401e0ec26cc542dc4343507199f83c8bb2734610748d4110a68e07",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual3",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "785f2e2ff07a3b79d1d0ccd2cc849599d32c6da577530979389f884b4efe5193",
+   "sha256": "ac7c46e7055cf5f69ff040f2adcfba5e15ec40db1a3789eb7087776a686cfcf9",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "05e7769404b6d36079e147402aa2701a4b91dc6132c736d5bb677ffc8a392f34",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual4",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "10e0f1b7c232e154ede01df9386feedaf8667f096edc35726b93e910edabacaa",
+   "sha256": "bc351dac074871775e7a4f1cec2dc2c7b7ac852918fd1337e62e080e1af908da",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "7a28e5115ca52a4f6facd5d9e056127e787382c2f99bf0e197651613abd14610",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual5",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "5ea327977c30534f75c6303f3d72a91ea1f632cc331979d9bf154806f5276e69",
+   "sha256": "8806e6ee7a63367774d13ac199b01ded7180fd0bba87dbc74a33f1ee6a2c3f0a",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "d90594385bad14c71844a752f111974646f75b128b60e8395e28f6c235604a35",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual6",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "1ecf85ff0a584fa92f8b69ae85620ada794e15670a829b632bf4382f650bbeed",
+   "sha256": "072ed376b81bc38bd0d0814f6c14273db49a0e9d370845b0dd81a20848a4663e",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "4b618e7d8c3f71e2027f71785f1430eaada6932fac975b09a35c0ed80a9841ea",
+   "submitted_same": false
+  },
+  {
+   "slot": "casual7",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual7.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "7ee41c6faf5c407b24916938fc1d585cbbba5defea5e011fa6fc92d5ebdf6bab",
+   "sha256": "04b70db76fcf4a13877eebc1064e832445041e4b50e18cc3e7b4785e02bb5efd",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "04fc0e2b1cf72918ea9fbe278cc0cdaf639f9bd0e0d0a5099a45d34ebafc7410",
+   "submitted_same": false
+  },
+  {
+   "slot": "casual8",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual8.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b586d57050465cba91078c7b0d790594cba31b49c0203bc383497ba68e7719c9",
+   "sha256": "8bf4b822dd4486fccc3139140447f32c41bab35df7b87b3bf0c9d42ad686710b",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "0ea4e127c4bbf083d5fc26a6e3228b9d85cc6887ce15be050f10f5a2afc60d50",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual9",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual9.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "0bcd492e3400116328df5d0ec11cb02a40bc749ea6446487fa7bddde27059256",
+   "sha256": "6c8fb4be81154cb9ab062929252b74ca727130687a55514d9641d0851f2de56d",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "a8029eb6aec9e0489f5ab28ed81fc4ab4d2b4240c32ef3bae349f7f811e85616",
+   "submitted_same": false
+  },
+  {
+   "slot": "casual10",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual10.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "8effe2d6813a91bf561fc39ad221d8067da6d97ae2a1c4372c400450e93461d8",
+   "sha256": "8d6c483db5df3605c20c8562a6952396317eed7b5df46c568e8f22bd0f4f9922",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "cb1ad6497b034f1ab09aec18801eeb4f110415296cf9663ae7d62ab5e0193888",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual90",
+   "card": "나무돌이",
+   "style": "anime_25d_gloss",
+   "filename": "나무돌이_anime_25d_gloss_f_casual90.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "859a13f02f9960f10a2d31a7457e425075f006724d7e09e450ab0163cc663fee",
+   "sha256": "aa797a5b00b1b4b0d23c93da3ffa8c3687bcbba292ee1826586c17184aa2ca0d",
+   "reference_sha256": "b9f1a47ecd25c7f10b26118806a8138afc0a3c50a0a3f8d150400f0dce4fe7b2",
+   "submitted_sha256": "6c08c7a6a32b844e63fed7e6500015b096afb3269400f04fb8cb28b901df7e60",
+   "submitted_same": true
+  }
+ ],
+ "design_basis": {
+  "sources": [
+   "data/face-design.json",
+   "data/source-appearance.json"
+  ],
+  "face_prompt": "Face — her own structure, not the style's default face: oval face, slightly long length, medium width — only gently longer than average, never stretched or gaunt; defined jaw with a slightly longer chin; narrow eyes, medium size, level outer corners, average spacing; angled brows; balanced nose; medium lips."
+ }
+}
