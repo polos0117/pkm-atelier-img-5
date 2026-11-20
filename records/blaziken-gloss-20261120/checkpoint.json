@@ -1,0 +1,210 @@
+{
+  "card": "번치코",
+  "style": "anime_25d_gloss",
+  "mecha_selection": 2,
+  "reference_original_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc",
+  "selection_sheet": "blaziken-selection-sheet.png",
+  "reservation_commit": "6780d4efa9271cb0ee00b7266687d199cad848ff",
+  "updated_reservation_commit": "edbaada55de73357b26e46c40e07276faf7f7501",
+  "design_basis": {
+    "sources": [
+      "data/face-design.json",
+      "data/source-appearance.json"
+    ],
+    "details": "공방 설계 2번. V자 볏 장식, 베이지색 깃과 붉은 경장, 불꽃·격투 효과."
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_light_anime_25d_gloss_f.webp",
+      "original_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc",
+      "sha256": "d2bca9cadb09b637ccf5be04a1ee36c705cb5e31473bf60ade87365cf9c52e9e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "04ad0fadd68ed22ae1e5917fcfdf201a37a5036eb4dfe4b9a35099618fc050ee",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "eb5457fbe27750a85b0e7b29fb71be8fbd605c4182331d8c3ad457b7b9f4b5bc",
+      "sha256": "ab06bc3879b9eadd315a14beb395f8c48ee6a2719191e278be50e0c3412db24b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "10b6ea5d1e278cdc017b65233af941de03d9e4f82327206ba73c578774f99097",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual2",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "1b7e9c8daa0a951d3a32d372f08cc354d5d4d084136259c83c739cad2a2d3b0d",
+      "sha256": "a2efd1ed518042b3a6254614ac926c1a7b37b4c13894fa33329f88db0c36e303",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6be533456ea9d7690c6b207e62ef1128e43b94d8db5be1a072ca3d13d7fe15b8",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual3",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "acf5f49e225262d711ce6ffb934a7b30f8c7267e85fc2f92137287c9ef3324ea",
+      "sha256": "bd6060a6aadc8fafb266b6816adc76708de28554831099d57949536a47e56622",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "70533eb77d1a78a7f47b86b80cf824d3dfa759315a3655c4c53204fd4f7143ad",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual4",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "50b267e4d9242f6b0ddd302ca41b7379908649aa2d5f15292f8da0c01cdfd292",
+      "sha256": "597428e0c75c8feaa98b965a53aca9c21b83ac0e31c7ac13acde28607ed3d7e4",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f1eb18b5194d4bdfc80819a497070f270befb79d1711eac6923fab20f6b15eb2",
+      "submitted_same": false,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual5",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "9460dc5b360487fdd60d8c2e016f41e74b164680390ea88f478687dc73de5f72",
+      "sha256": "625b8050b7849e32fea8731d444eb09a2a4ee99af70c71db2ec36c28d6a54e0d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f4a85b9951a7d279e1ae613900bef4ac3c0b9fba68c342789a234b4b6e476d25",
+      "submitted_same": false,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual6",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "ed696dbd0de2dd6e2dabe1cbc78bcdcbc4e0abb0f0faea3449cb09a05c8d6d51",
+      "sha256": "4d6eee5d9216f3536ec871df6cf694071ee3f644bfb8690962c318d8320a09c3",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "16e8aa70cbe32e41805a08f16f3db358e716743786722cbca7ecb9e7497be667",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual7",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "e673f325390fbc5e83317c90813b033659f2477f6e746584402b35f782d55277",
+      "sha256": "4a6d591b01893cc609c2c1b9dd3ddf3b018a8c77aa8d89816a6fe68d9de33d39",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "715253afedcf1a7e384392cb8f5ed6d25ca52fb08cee134c4b65a2db54e2123f",
+      "submitted_same": false,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual8",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "d5a606e2d099d7c009fb3fc90b726d4bdc652e239fb28c25c155d32d84ba5861",
+      "sha256": "0726a409131a8fe2085cf5e49c58afae6fcdef85284112300c07a570ae9b6c17",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "119df47feace96c2bb9aa57ccac312848d58e8a53031824499d6792f45839235",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual9",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "9cab78a3270c906f2ea1fcd270eb507dcfef2bded45d11a8c4a82b5ecd1d719c",
+      "sha256": "d629b06b7a0f49cb8b02012ce5d07bffde765d6296e6edf496e4f9b17196f63c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "dcc2c63724f7f937512c8c5d86e15549fd81099cb36b29b5e67df19fbbe44d8c",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual10",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "bc116a933e987242eb4cda28bc9194111c09c7d0f8cbb0fc9c43ac80c68b420c",
+      "sha256": "0393b10c47de8f3b98736e1bcf360d5fe6f83645816d7cfa2e25a2d93ab14682",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "b380421797e3ce515a0304bda3c156b33d2a9de56cfd6bb79b306e037b50ba91",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    },
+    {
+      "slot": "casual90",
+      "card": "번치코",
+      "style": "anime_25d_gloss",
+      "filename": "번치코_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "e69e12da8e9408c0c4dfe2c54bc7ca6e0e80d0c4f20a22c4a58d1fc74c40e445",
+      "sha256": "4725de443aa4d76cbed3cc26c25660d68870b878e8f02124779bc5e242de67b3",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "885503ebc61d3d33db95b6656f803986448c968479377d584d201825f36bbd3e",
+      "submitted_same": true,
+      "reference_sha256": "04465ba408ec9c3bae3fe7b9803055ae9fa7a974e2beb0cc568d667a0f8950fc"
+    }
+  ]
+}
