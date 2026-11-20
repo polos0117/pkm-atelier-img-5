@@ -1,0 +1,296 @@
+{
+  "light": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        },
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 2.6 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+        }
+      ],
+      "overlay_checked": true,
+      "note": "불꽃 쪽 장갑 손이 손목과 아래팔을 거쳐 이어지며, 반대 손은 쥔 상태다. 불꽃·갑옷 효과 때문에 검사기가 뼈대를 잘못 짚었다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "가슴 장갑 창과 허벅지 개방부."
+    },
+    "observations": []
+  },
+  "casual1": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "overlay_checked": false,
+      "note": "막대와 포장지를 쥔 손이 각각 손목으로 이어진다. 포장지와 손가락 일부가 겹친다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "의상 어깨선과 짧은 치마."
+    },
+    "observations": []
+  },
+  "casual2": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "overlay_checked": false,
+      "note": "책에 댄 손과 팔꿈치가 어깨로 이어진다. 반대쪽 손은 구도에 가려졌다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "등이 열린 검은 란제리풍 의상."
+    },
+    "observations": []
+  },
+  "casual3": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "overlay_checked": false,
+      "note": "컵을 든 손과 무릎에 놓인 장갑 손이 각 손목으로 이어진다. 컵과 장갑으로 손가락 일부가 가려졌다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "코스튬의 복부와 허벅지 구간."
+    },
+    "observations": []
+  },
+  "casual4": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 3 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        },
+        {
+          "level": "check",
+          "what": "arm_sym",
+          "msg": "왼·오른 위팔 길이가 0.56 배 — 한쪽만 늘어났나"
+        }
+      ],
+      "overlay_checked": true,
+      "note": "수건을 집은 팔과 고글을 쥔 팔이 각각 어깨로 이어진다. 수건 쪽 팔을 굽힌 투시 때문에 위팔 길이가 다르게 검출됐다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "한쪽 어깨와 다리를 드러내는 청록색 수영복."
+    },
+    "observations": [
+      "경장 원본과 비슷한 붉은 볏 장식이 남았다."
+    ]
+  },
+  "casual5": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "overlay_checked": false,
+      "note": "밤을 집어 든 손과 봉투를 받친 손이 각 손목으로 이어진다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "스트랩리스 상의와 짧은 바지."
+    },
+    "observations": [
+      "경장 원본과 비슷한 붉은 볏 장식이 남았다."
+    ]
+  },
+  "casual6": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "note",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "faint_body",
+          "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+        }
+      ],
+      "overlay_checked": false,
+      "note": "솜사탕을 든 장갑 손과 아래팔이 이어진다. 반대쪽 손은 프레임 밖에 있다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "무대 코스프레의 오프숄더 재킷과 몸통 절개."
+    },
+    "observations": []
+  },
+  "casual7": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "overlay_checked": false,
+      "note": "얼굴 옆 손가락 다섯 개와 손목 연결을 확인했다. 반대쪽 손은 프레임 밖에 있다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "얼굴 위주 크롭에서 홀터형 상의와 어깨가 보인다."
+    },
+    "observations": [
+      "경장 원본과 비슷한 붉은 볏 장식이 남았다."
+    ]
+  },
+  "casual8": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "check",
+      "issue": "ok",
+      "flag_details": [
+        {
+          "level": "note",
+          "what": "faint_body",
+          "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+        },
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 5.9 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+        },
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 1.5 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+        }
+      ],
+      "overlay_checked": true,
+      "note": "포갠 두 손이 각 손목과 팔꿈치로 이어진다. 겹친 손가락과 가까운 크롭에서 자동 검출이 어긋났다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "어깨와 복부를 드러내는 니트 상의."
+    },
+    "observations": [
+      "경장 원본과 비슷한 붉은 볏 장식이 남았다."
+    ]
+  },
+  "casual9": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "overlay_checked": false,
+      "note": "걸으며 내린 두 손과 손목, 양쪽 다리의 방향을 확인했다. 일부 손가락은 겹쳐 보인다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "앞이 열린 크롭 상의와 드러난 복부."
+    },
+    "observations": []
+  },
+  "casual10": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "overlay_checked": false,
+      "note": "양손이 각 손목으로 자연스럽게 이어지고, 걸음 자세의 두 발을 확인했다. 뒷발 발가락 일부는 겹쳐 보인다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "불투명한 노란색 비키니."
+    },
+    "observations": [
+      "경장 원본과 비슷한 붉은 볏 장식이 남았다."
+    ]
+  },
+  "casual90": {
+    "publish": true,
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·광대·턱에 부드럽게 이어지는 면 음영과 섬세한 눈매, 머릿결과 피부의 광택을 확인했다."
+    },
+    "anatomy": {
+      "tool": "ok",
+      "issue": "ok",
+      "flag_details": [],
+      "overlay_checked": false,
+      "note": "수건 양쪽을 잡은 두 손이 각각 팔에 이어진다. 접히는 수건에 손가락 일부가 가려졌다."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "민소매 찜질복과 짧은 바지."
+    },
+    "observations": []
+  }
+}
