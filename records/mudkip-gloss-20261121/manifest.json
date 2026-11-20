@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_light_anime_25d_gloss_f.webp",
+    "original_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491",
+    "sha256": "72fe1fff01aee12986d6f969069ebb739ce14886d297d1d2ff3c8d32b27dc1d1",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "d0cfc63a82f565ddc64efb4fba789162bc6eee7cec9958f6ff0578bcf55de712",
+    "submitted_same": true,
+    "reference_sha256": null
+  },
+  {
+    "slot": "casual1",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual1.webp",
+    "original_sha256": "0ca8e543a056bd9614be19d00fe34a4bcee3d786ca452ac5c8c16c52126c054e",
+    "sha256": "7f8a20e9c3927c96ba3acc392718aeefe7ed04b4bae9689c56d530179fc11a6d",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "d536f3a49b18409f4e862fb84196e81d29c1165d0bbf261e9a0a30d401139bf1",
+    "submitted_same": false,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual2",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual2.webp",
+    "original_sha256": "1da53282ea6fef3b5f891f4867660904b4cae4b7b78b5a3cc533161b253b2164",
+    "sha256": "6442ff7e2276a460074426e23a3673c903274b2f27aa46835321ba3d86635128",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "33bec5d7b61e0e9b28c8875bf86f2295cef27875184df42f75bbe524bab73053",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual3",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual3.webp",
+    "original_sha256": "af3df3ee6197f9729da7463dc3dec2d677fccb54899449cc979cede07d74e0f1",
+    "sha256": "d501a93898d1b73791a6732be80ec1866bba7829625185ac2550c6829c6aa491",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "334f79fdc12ab7e2204d0de6928db6bbd2d52c864d1efc1fef7ece860c9e6dfc",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual4",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual4.webp",
+    "original_sha256": "5ca88350655d2c443393eb69eb55b7a70395e299e21fb16c81b030858d3c9ac4",
+    "sha256": "018accfc25741e6d58f342aa776049213763de21f86506109e6953a21573ddd4",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "399b8ff8a9df15d4ca029ecc79e4e52b1ef12ab71885032e50629b76722ceed0",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual5",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual5.webp",
+    "original_sha256": "684b87ae158268421b0f8e96bb7976a086e8a7a2039965bccc088d7646f47a1f",
+    "sha256": "6b23fda7affcb9402fe02151e190919c95aed748989b91310c3789d05b513687",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "a3ac4415e7ca67a6447eb35fea64afbb48335f04b172cb0db407b8aa80fb89b5",
+    "submitted_same": false,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual6",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual6.webp",
+    "original_sha256": "1a04d65e018f82027ffe87acd89dbb01d16b00615f779b357966b1bc38b18394",
+    "sha256": "f3502cc3a99b966b425dde0656876994bd0be8aac84b5a377ada7b2b2f6dd008",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "fc07900a624c60f55a447a88db9e36569468480fe52a609d93fc5e5a648a7b06",
+    "submitted_same": false,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual7",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual7.webp",
+    "original_sha256": "85f34173bccd985ad5966a5d5201c748633ce1725aaaff84a883aefa42fbfa1e",
+    "sha256": "23d369c8c308a8311f0f868fe543b00284c230d9adffc2cf3e4b0992922d6a93",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "1cabb34a0e60ed17036028b6c3f82c1ab4f536c7839e409076bbfc12b8e71e34",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual8",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual8.webp",
+    "original_sha256": "2928bd3c0e7ddf0f6da3bfd6685d8f8781b3d35bbb77e793988b288144fc79d3",
+    "sha256": "c59f33d9d28780a5ca9ef26e3d596ed8a7f25e8de6e4913a06cc483d8e89b60b",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "b4780e0727fbc54b6a90a15b77dc07a17ffbc52803476c188a6584ebb4dd13c9",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual9",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual9.webp",
+    "original_sha256": "76002cdb1ab3725972c0cc91ceaa3c5aaac17c5fa44fd70e955ac6bf241f2d4e",
+    "sha256": "a686990348e0544ec079aab2977736d1d538604ef80c15573f6ac2dacb0be50e",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "38160ae15c5f69e6de06741d91b07403cc59921c9a1e37203031106f44d0476b",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual10",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual10.webp",
+    "original_sha256": "293b82ab59ca6bff9971c7e80d9682623d2543db0447511133335f69549b32e6",
+    "sha256": "1359fd096ac84777b6ba813bcdfb733232bb930f9decf8918d67c28b2e588cc7",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "a3b7dab0f1886ac5a609e60ca0f9e790540ba33bfda468779bc843c031e2e80f",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  },
+  {
+    "slot": "casual90",
+    "card": "물짱이",
+    "style": "anime_25d_gloss",
+    "filename": "물짱이_anime_25d_gloss_f_casual90.webp",
+    "original_sha256": "76b9ac6a264aef79da6020c96b7d7e98d511434f67b563d5deba6825d24fb7f5",
+    "sha256": "ac255caeec8428b46ba38c2a3cba0f2b669b39e8eccea16797ab260072bca2f1",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "submitted_sha256": "c83329780eac4bcac85d8e49078d6f6f4cfa3727d2968add4327345533541c1d",
+    "submitted_same": true,
+    "reference_sha256": "c9f726c013124da832ed026320e23dfa4b3ed45fda1e45e946658bc99ee51491"
+  }
+]
