@@ -1,0 +1,203 @@
+{
+  "card": "늪짱이",
+  "style": "anime_25d_gloss",
+  "mecha_selection": 1,
+  "reference_original_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+  "selection_sheet": "marshtomp-selection-sheet.png",
+  "reservation_commit": "78deaf0601da3d97d3eb7e203f02549a21198474",
+  "pending": [],
+  "assets": [
+    {
+      "slot": "light",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_light_anime_25d_gloss_f.webp",
+      "original_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "sha256": "4befe22adfa8e9a1dd1d53ec94a13c9af28a377e0acb7be4d932458a5c915a33",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "ff415a00fbbbc3d8316a2250047a1142542f474e8800e9ee0fb753b6f026b9bb",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "031959596af47e82a2b2853af322ee49dc81e501c6e92ac802dcbba2518afeb2",
+      "sha256": "a4701b7938fdc0df8dd71a58eab33948bc1f113a18393543487af4ca80bf079e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d5bc57e449473772391c15ec35ac602e0c17c337f0ec4ca0d75345b6496f936b",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual2",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "68aeac311d89547d5ea935e24ab1ba26ca49f16d1ac751074a34508220d3b1b2",
+      "sha256": "8187fca4866ec543111c041a282543ac4bd0f4cde633a73fbcafa41d43aadd12",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "b3242f5a56a262a6cbf49bd9f2c1c9ef555deb52f55373af6d0077b2b17916eb",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual3",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "abee503f63c965e9bb46326cfac928c05ad76756d28bf4871b928ce8a92d58e7",
+      "sha256": "1e0f2e0965f0cd122ce9a118ab01f7bba3ae96eaf5b73ae75a83d5e74ff116e5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d965acd1dcff13899dd9fda424b4c8a4e4cd9134a4a9a3fe47e8cad744edefc1",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual4",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "d81005ea70d60a605229b746d80acdb2726032615bff29dc5fbee098545700be",
+      "sha256": "9b7c78998087ad45d8cf03a601eb78b077354e2d43e1d159966eeee444648593",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "2b730e97050722ead4ed30c6f83d4f8b3965a62e192482a108afa944ea63a706",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual5",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "39a0f8cd81da520ce95deaade9493bc46ad2abdbc54b17708db4e76c74767a06",
+      "sha256": "6f85d41b77263d7f318f91c5cb11ee892737b01c74c54773c1c585e8bc248a17",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f50863a394d267759f21ae0338df9bf84491f640aa93473e3ef2d9b2b25d0d6d",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual6",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "48418fac88fc3a2f9e4d859d1d75a7ba180d866d1593942c651e270b8ee5723e",
+      "sha256": "9ccc3c6b81a5efeb192f786faf1992fd19f3a0e5bb467424a187cbf3eb6e4a51",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "e8494470f4d5495b4c35ea1c971c38b615c60f03985364c0b2b5d70f47c3a2d8",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual7",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "44b7eb24c24a3891b9f06ac410a7cf4c72f6cce25842eb3267f1ac0beebb2ef3",
+      "sha256": "8c36a4768af1050a318939795179d5bba3f6fa3761be2d1b76d26808bba05682",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "8d3153933927c7d1a590a3683f3e66898de917434fc289487d301ae696b3145c",
+      "submitted_same": false,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual8",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "319b78624808da7c237ec341245c65c480276ade279c1b5bb9cc3b0abd2b1ec5",
+      "sha256": "be64f0ba1c0f7e426bbc5fe34b625572259e162325648d7ec302a77076482361",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "fa3e49542a5b55f7e887e93eabdfec4036e0c6eb7b643bb85ca5b3469423f9eb",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual9",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "f1be784c709c6091c44a76d2581a9bcc2d62dbb96bc0c29a4deaf78ac1164932",
+      "sha256": "866beb7744dce8b140749ec9babead474cc5bd7cd23ff6798bd38ba6e23e3cbb",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "31abae3eb8da7e88e5f877f164022c987c0877caff19e9bd2a79277637d5a347",
+      "submitted_same": false,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual10",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "b3d4ff60348cadf9d116d97406c541e5d2b794d6cea5c148fd2efc33972aa9cb",
+      "sha256": "b7233f2ce6c01ee8ab486e3d8ba7d6623d79b0f51bbb1980e9b3b0e36c0045ab",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "285322b6168f3b9f5dcceef663c7a981e7d14e69fde5b95ab4b85688b861a936",
+      "submitted_same": false,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    },
+    {
+      "slot": "casual90",
+      "card": "늪짱이",
+      "style": "anime_25d_gloss",
+      "filename": "늪짱이_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "6d256bb4487009b3f6fe079c9ffb71abbb371f52c7a4eaad36cc5a149ba92085",
+      "sha256": "b52019436383cdf44294f701dfc2a0546fac1cf485ad6878d8c8ef7196b42ac8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "de805206fdd77ffbe42a6adce37be96bd9eaaf37e4aec610e629ad7dce63fa1a",
+      "submitted_same": true,
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5"
+    }
+  ]
+}

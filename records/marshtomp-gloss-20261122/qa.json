@@ -1,0 +1,256 @@
+{
+  "light": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "주황·검정 경장과 물의 고리, 긴 청색 웨이브와 주황색 머리 끝을 보존한 전신 구도."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "양손과 두 다리가 보인다. 내린 손은 주먹이라 접힌 손가락 일부가 가려진다."
+    },
+    "exposure": {
+      "판정": "stronger",
+      "근거": "어깨와 허리에 더해 허벅지 상단도 드러난다. 사용자 선택인 1번을 그대로 사용했다."
+    }
+  },
+  "casual1": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "야간 육상 트랙에서 회색 작업복을 입고 낮은 벽에 걸터앉았다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "한 손은 뺨에, 다른 손은 벽에 닿고 발 아래는 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual2": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "야간 택시 안에서 황갈색 제복풍 의상을 입고 잔을 들어 건배한다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "잔을 든 손의 손목과 팔이 자연스럽다. 다른 손은 프레임 밖이다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual3": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "의상 작업실에서 금색 무대복을 입고 턱을 고인 상반신 구도."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "턱을 고인 팔의 팔꿈치와 손목이 이어지며 다른 손은 작업대에 가려진다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual4": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "침실에서 푸른색과 금색의 심메트라 코스프레를 입고 한쪽 무릎을 꿇었다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "한 손은 굽힌 무릎 위, 다른 손은 옆으로 내려와 있다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual5": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "항구 테라스의 러그에 라이트 블루 의상을 입고 엎드려 노을 쪽을 바라본다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "양 팔꿈치가 바닥에 닿고 양손이 턱을 받친다. 손가락 일부는 서로 가려진다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    },
+    "framing_note": "엎드린 자세에서 얼굴이 측면에 가까워졌다."
+  },
+  "casual6": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "나무가 늘어선 산책로에서 검정 원피스 수영복을 입고 동료 한 마리와 함께 무릎을 꿇었다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "두 손을 가슴 앞에 모아 손가락 일부가 겹쳐 보인다. 양 무릎과 팔의 연결을 확인했다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    },
+    "companion": "산책로 계획에서 지정한 동료 한 마리가 인물과 별도로 보인다."
+  },
+  "casual7": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "기차역에서 자두색 재킷과 랩 스코트를 입고 한 손에 찐빵을 들고 다른 손을 카트에 얹었다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "찐빵과 카트 양쪽에 손과 손목이 연결되고 두 팔의 동작이 구분된다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual8": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "돌계단에서 주황·검정 늪짱이 코스튬을 입고 한 발을 윗단에 놓았다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "두 손과 팔이 각각 허리와 앞다리 쪽으로 이어지고 양 발의 계단 접촉을 확인했다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual9": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "눈 내리는 온천에서 자주색 비대칭 상의를 입고 머리카락을 귀 뒤로 넘긴다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "머리에 올린 손이 어깨와 팔꿈치에 이어지고 내린 팔은 허리 위 크롭을 지나간다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual10": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "노을 지는 호숫가에서 짙은 초록 수영복을 입고 수건과 사다리 난간을 각각 잡았다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "양쪽 손의 동작이 분리되며 두 발이 서로 다른 높이의 단에 놓인다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  },
+  "casual90": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "수산시장 작업대 옆에서 방수 앞치마를 입고 한 손으로 기구를 잡고 다른 손으로 나사를 조인다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈가의 섬세한 선과 코·볼의 부드러운 음영, 머리 가닥과 피부 광택을 확인했다."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable — MediaPipe 모듈 없음",
+      "manual_review": true,
+      "note": "드라이버를 쥔 손과 기구를 받친 손이 각각 올바른 팔에 연결된다."
+    },
+    "identity": {
+      "reference_sha256": "a61baec957525c5589c0fbc5a8ca20c8477b938f0df3fe962079e1ff63edbfb5",
+      "evidence": "푸른 웨이브와 주황색 끝, 얼굴 윤곽과 푸른 눈이 기준컷과 이어진다."
+    }
+  }
+}
