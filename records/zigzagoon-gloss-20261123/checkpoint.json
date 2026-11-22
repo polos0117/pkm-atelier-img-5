@@ -1,0 +1,207 @@
+{
+  "phase": "visually_verified",
+  "selection": 3,
+  "basis_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+  "basis_file": "지그제구리_light_anime_25d_gloss_f.webp",
+  "design": "side-swept feathered bob; separate plates with a fitted inner suit; alternating sawtooth plate edges; heart-shaped face, almond eyes and amber irises; alert half smile",
+  "face_prompt": "Face — her own structure, not the style's default face: heart-shaped face; balanced jawline; almond eyes; amber eyes; fine soft arches; small delicate nose; bow-shaped upper lip.",
+  "reference_designs_considered": [
+    "Poliwrath",
+    "Golem",
+    "Gorebyss"
+  ],
+  "assets": [
+    {
+      "slot": "light",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_light_anime_25d_gloss_f.webp",
+      "original_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "sha256": "36c19c301efdb5102b89a4f51593c2e22d0ca22f83f7b57d306635fcf765c1f6",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "164a9a7d547c5f832bcc569afd98427a4f28a97d700e45d3e7f7087b25f10ebf",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "356ca59edf8588a03614a21d5dadbcf2821aab1a9773a7832efb0f1bdc8f3cac",
+      "sha256": "82e35b7a332b712bb5fd0b7f3657e57c48fdd6ef6c169ed55e7c3ee626e40fa1",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "118017c2e804a3aa8b970ed9a2b76fa7dbdd3b1212456ace6459a8f03509c76f",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual2",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "483ca0026dae9b6c4ec7515b815c2763bcc1ae71d56e20840a51c0f650ab1bdc",
+      "sha256": "660cee23791b286ed7efb1cf4f758a34e80a0db9e68b693208c89660ed0d1967",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "0290e7d95d6778dadcc455eebdb6c309a124542fdb5d3645332b940f2c27bd5a",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual3",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "1748331c152f6ff0e9f6a90d1e509a97b2d84385b2c23c929aa0503825aa36b3",
+      "sha256": "9b7246617be5abd9a71ba37fd4c3b22e5b10e7f043aacb0eebc5f741bbe58bc4",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "2887dded2735915d695255b595c042bf7e0571942b4d917aab19d2ebe17355b1",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual4",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "4f691a35f63471a88ec7c998daddfb022594e04ce5ea51017dc220191028575c",
+      "sha256": "614673fdbbbd5b3339ee7a8d4d4805774323427a394fc985c5796fec4c1e0916",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "ed52ca1291d6aa1254b1c6ae652c0704cab68048165ad41a98d61b15f265c0ed",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual5",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "d47d7dc61a5686bc935a47a59ba9a36d48bfd4c922af22a7edb79884f466941c",
+      "sha256": "335aab71ca4a9166b41d891bb113ce9fc709990a7d4a835fc36061a9e179ab6e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "39bf0fb141f649c54d92b6d131b9ed51aa4a1fd2e154dfab2a6874c0d31d1ba0",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual6",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "affee2a77ce25564f26d9aa3e043f784b57f1461e9d61b9de655b9dda6486bab",
+      "sha256": "1bcb641f3be49b0489e356fdf43f7acc4f466b25cae85a0b9395c07224d857dc",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "eac28474babacd0cfcff2d1126d92973e3b5e2a81cd2cb5f158101aba4ab33b8",
+      "submitted_same": false,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual7",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "693b36cf283d398b3d54a26e647047dfc9871d52ba117cb7cd4b42cec4c355ca",
+      "sha256": "abab2713dab579e4a21f3692c196e2e956c308f8835dc3cc8073aa50380cb8a6",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7c7b84bf2c23033f0164c1e787b0dbb3458d6bedb036091d53df59eb419fa19a",
+      "submitted_same": false,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual8",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "51972b3e76c8cbc236ae4989ec74ce2d5ece80c1f46e246d8942410ad536320f",
+      "sha256": "2eb592355dbfbd16958412426982833614b326392861bd24b2021aa0539ef44c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "78258edb7e435f474b24a794568ab9dd51744556f6e1f434afaf6644c3e16eb6",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual9",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "c4f831ee3aeaac2b367d4878b569e504926290fc1a63432b3f93a1a2ee2c993c",
+      "sha256": "fdf2a5e0ec41d7aa61339bd287c741631ef7e6d0f6411b36850c2e74bda18b8b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "04c97f3e94a981af21c513b7264645a68904fb4495959122e550cabf104a2dfb",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual10",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "8c4b3f30d0822b90b4e2e14c3de5d360fb05a306b41365aa74cc3a60617a55ae",
+      "sha256": "9f77579ed2d15ab67c4ac3d651e558b6f9e12d44b0c91dbb7d8325e14c1939bd",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f1f7f282c132b190249b5a1c21f61a428d4e5ced2b6af5f6f09af624d9fa9467",
+      "submitted_same": false,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    },
+    {
+      "slot": "casual90",
+      "card": "지그제구리",
+      "style": "anime_25d_gloss",
+      "filename": "지그제구리_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "408cc6763926824e6ef65854881b744a5e5bac8bbd3c93e9937631c9e3c19d90",
+      "sha256": "7f7e874603c3454d1658aa39f26459b769c1491356b720440f16b60ac4fda46f",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7e5e03d39041fc0efd3442831af0497c56bef907d95899f7f49d87f8caa20fe2",
+      "submitted_same": true,
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f"
+    }
+  ]
+}

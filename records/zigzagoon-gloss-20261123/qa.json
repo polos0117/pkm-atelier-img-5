@@ -1,0 +1,250 @@
+{
+  "light": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "석조 테라스 전신. 분리된 경장 장갑, 톱니형 패널, 금빛 노말 타입 효과."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "기준 3번의 선, 반사광, 재질을 확인."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "양쪽 어깨에서 팔과 손목이 이어지고, 양쪽 다리와 부츠가 전신 프레임에 보인다. 장갑과 손의 굽힘으로 일부 손가락이 가려진다.",
+      "issue": "ok"
+    }
+  },
+  "casual1": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "야간 옥상 조명 아래 즉석 사진 확인."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "야간 조명에서도 피부와 머리의 색조가 읽힌다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "사진을 든 손목과 전완이 연결된다. 다른 손과 하체는 프레임 밖 또는 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "단발 윤곽, 밝은 옆머리 끝과 피부톤 유지."
+    }
+  },
+  "casual2": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "무대 조명, 마이크, 밀리터리풍 게임 코스프레."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "피부 하이라이트, 광택 금속 소매와 직물 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "마이크를 쥔 팔은 팔꿈치부터 손목까지 연결되며 손가락 일부는 마이크 뒤에 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "호박빛 눈, 단발 윤곽과 피부톤 유지."
+    }
+  },
+  "casual3": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "버스 정류장 전신과 지그제구리 이벤트 의상."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "따뜻한 자연광과 선명한 천·가죽 재질."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "한쪽 무릎을 지면에 댄 자세. 양쪽 팔과 손이 서로 다른 허벅지에 놓이고 부츠가 각각의 하퇴와 연결된다.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "머리 장식 아래 기준 단발, 눈매와 피부톤 확인."
+    }
+  },
+  "casual4": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "오페라 하우스 계단의 노란 드레스와 베일."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "피부의 얕은 광택과 직물·레이스의 구분이 읽힌다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "허리에 얹은 손과 아래로 뻗은 손이 각 팔과 이어진다. 한쪽 다리 대부분은 드레스에 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "얼굴 윤곽과 호박빛 눈, 머리 유지."
+    }
+  },
+  "casual5": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "경기장, 고글과 빗속 의상. 가까운 얼굴 구도."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "피부톤과 머리 색 대비 유지. 비와 광택이 구분된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "볼을 짚은 손이 전완과 연결된다. 다른 손과 하체는 프레임 밖.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "고글 아래의 옆가르마와 호박빛 눈, 피부톤 확인."
+    }
+  },
+  "casual6": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "그림자극장, 종이 연을 등불에 대어 보는 앉은 자세."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "옷의 무광 직물과 따뜻한 피부 하이라이트가 구분된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "소품을 든 손과 벤치를 짚은 손이 각 팔에 연결되며 두 무릎이 자연스럽다. 발은 프레임 밖.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "짧고 층진 머리와 밝은 끝, 호박빛 눈과 얼굴 윤곽 유지."
+    }
+  },
+  "casual7": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "강가 연 축제 입구에서 망토를 바구니에 넣는 장면."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "밝은 낮빛과 라일락 천, 바구니 재질의 대비."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "천을 잡은 손과 바구니를 잡은 손이 각 팔에 연결된다. 천과 손잡이에 손가락 일부 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "한쪽으로 넘긴 단발, 눈매와 피부톤 유지."
+    }
+  },
+  "casual8": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "복고 미래풍 주택 바닥에서 정비용 작업복 차림으로 휴식."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "오렌지 직물, 금속 도구, 반사광을 받는 피부 표현이 구분된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "한 손이 턱을 받치고 다른 손이 바닥을 짚어 양팔이 연결된다. 접은 다리의 발 하나는 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "밝은 옆머리 끝, 호박빛 눈과 피부톤이 기준컷과 일치한다."
+    }
+  },
+  "casual9": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "야외 수영장 옆 휴식. 옆에 오디오 플레이어와 가방."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "청록색 직물, 수면, 따뜻한 피부톤이 구분된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "머리를 받친 팔과 수건을 짚은 팔이 각각 연결되며 손가락 일부와 발은 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "기준컷과 같은 단발과 눈 색, 피부톤 확인."
+    }
+  },
+  "casual10": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "효과음 녹음 부스와 벨루어 의상."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "조명 아래 벨루어, 피부, 금속 소품의 재질 대비."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "앞에서 모은 두 손이 각 전완과 연결된다. 겹친 손가락 일부와 하체 일부는 가려짐.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "짧은 층진 단발, 밝은 옆머리와 호박빛 눈 유지."
+    }
+  },
+  "casual90": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "분실물 보관실 직원이 의자에 앉아 지갑을 확인."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "창빛 아래 직물과 피부의 질감 차이."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "지갑 양쪽을 잡은 손이 각 손목과 연결된다. 엄지 일부는 지갑 뒤에 가려지며 양발은 바닥에 닿는다.",
+      "issue": "ok"
+    },
+    "identity": {
+      "reference_sha256": "c80bf6be448231eded19d077aad850d3b1eabbf240bc3ea8ab6cedf9a37bfb9f",
+      "note": "옆모습에서도 기준컷 단발의 층과 피부톤 유지."
+    }
+  }
+}
