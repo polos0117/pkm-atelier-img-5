@@ -1,0 +1,199 @@
+{
+  "phase": "verified",
+  "selection": 4,
+  "basis_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_light_anime_25d_gloss_f.webp",
+      "original_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "sha256": "38e068a24271e66984dfeb913f611283ac72ea024baf336265736f6f3dc9f716",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "e5d71a791345e7fa84f14cbfa4401e338c4110652f9c6b7525ce8aea27e89afc",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "0be9d65d51e6339f75f043a09c42a3750e90149e7f3eea616f271315741a6643",
+      "sha256": "31f2d319c791ec6b0193325254244ca61b6137850ee56697ed12f0ba34888080",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "aaab15262e45c31fa22e31eb86767ecc788c6ccb90f332cc4d05bfa77a95c73a",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual2",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "0889a4dc696b75cd3087e7746faadc0167768ea1a0ce69470b8ee6cc27e5b066",
+      "sha256": "a359dbc5f12156c54ddd8f3bad323e09394d87acf7898b0dd3d009b1fce3d3f0",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "9cd4bd3d14a309f4365a888e77dd865b31766124af7fb00189b158465185f8f6",
+      "submitted_same": false,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual3",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "a0ed521156440d3953c7b73303927422b837d327ab9c77155577dbf54f3d37a7",
+      "sha256": "72b9c7304ae583987f88e2addb7231b460cc9d8930eca6dbc8b2af21db1f6ba5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d0bcbd88b0a98a208f27ac8384909c295c302078d12bbb7b6f1b848631d809cf",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual4",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "ca3a59ed098994742f405fd88af3297b8c17d4e86175945b30ecaae9311d4714",
+      "sha256": "d4141ad0855293b4ae16fe60a4e707d0e76d008218f21ed20dd04af3e2aff4ad",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "29182cab2d8a683e656484b0ed832f1b1114d27c32bc7b863e28552f7fdfeb1b",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual5",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "e76cc98e188631a831538a19783fc311db28f53a527b5a275414a907087de52f",
+      "sha256": "ffb42962a3c3f11c1ea0395809a57dbf798db6cb51e0dd7c38d1e2b26a40e762",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "847eb16fb8fa37fa8ebd539818468e8b5d8ee167379287d1d3b972c588696d6d",
+      "submitted_same": false,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual6",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "3313ed88c2ff1f1e8ca2fc03eb13c591b3cea623d49ec08d84fc7349eee39c01",
+      "sha256": "ca820b2beb636d1b7b00a42ddd62fbe64402581876bbd145e4f9857d3c39191d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "abb2dd7e2ebf0c8a5a0bf324cde083c3f478a93b73d30685f17ad67cc81601fd",
+      "submitted_same": false,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual7",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "1566efee24802c3844adf56e1bebc23ca55cbb8c88d977768124ffe6ac4b3cd6",
+      "sha256": "45cef05fdf5ac594a7852bf5c9b31a27e78c030bbcb4160d05afaded3a02f0ec",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "4367a2c71af4a8f2ed4bc47fbc68ced6852d059d6862b89927569986f8b36146",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual8",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "087f7fb91403786cfeea79b6e41b356a4463f2626baaa37e077beeb428e7ea1e",
+      "sha256": "39adee32d7d2fd4671c46cbac3559565d172e98d2ede5d76d0387e269f327d5c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "bf3b3353d65fcf9577255779770b12e0936c9e29c1793a3cd05bca9f827a9278",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual9",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "74744f8a84aef67f2d797da2f9111a9e7cf78a62e686c72972088baf6a13c749",
+      "sha256": "858e1e3dd8479bdf6f671e51697dc2c4b646a47ea7374f3a42e7ebd942f21261",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "5dc81ac7d38b3e23522c5a56098f9e72f85a5fbe8d4f03d83130386425148ac8",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual10",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "a4e948ecba3ecc5b52ec62ba1c2dd4384212a456b77d968749a459eeda75abb6",
+      "sha256": "4884872b0a80e78488a4ce4a4711ed32aa83ec630a8c691e0338a34dad16c504",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "57f3b3216c7b164b6d55220f6124f08fa7192e695120eae0091146421dd66eb7",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    },
+    {
+      "slot": "casual90",
+      "card": "대짱이",
+      "style": "anime_25d_gloss",
+      "filename": "대짱이_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "6ace039e7542808e1543efbeb1cfe1f7431d3a1bd89a6b3a1aa8192112362a8a",
+      "sha256": "0fbd44faf6bed2060ac2fd54346947c2fe89e537967b08231b75c7dd7c29d957",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "30acde1fe12b1cdb33b9af518a493335bdb56e91fa45b4fc05b5c99bec9da374",
+      "submitted_same": true,
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e"
+    }
+  ]
+}

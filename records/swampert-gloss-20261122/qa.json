@@ -1,0 +1,265 @@
+{
+  "light": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "부채꼴 손목 및 정강이 장갑, 앰버 효과와 밝은 하천 평원의 전신 구도."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "두 팔과 두 다리가 이어진다. 내린 손은 쥐고 있어 손가락 일부가 가려진다."
+    }
+  },
+  "casual1": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "버건디 수영복과 볕이 드는 베란다, 턱을 고인 탑뷰.",
+      "deviation": "긴 소매와 후드는 반영됐다. 몸통과 허벅지의 트임이 계획의 풀커버 의상 설명보다 크다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "두 팔이 양어깨에서 턱 아래로 이어지고, 두 다리는 발목에서 교차한다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual2": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "길가 노점에서 자주색 점프수트 차림으로 그릇을 들고 앉아 있다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "그릇을 든 팔과 허벅지에 얹은 팔이 연결된다. 그릇을 쥔 손가락 일부는 가려진다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual3": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "도시가 보이는 호텔 방에서 자주색 로브 차림으로 귀 옆에 손을 댄 클로즈업.",
+      "deviation": "기준컷의 주황색 핀 장식이 머리 쪽에 남았다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "귀 옆 손이 같은 팔로 연결된다. 반대 손과 다리는 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual4": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "마트 선반에서 박스를 들어 올리는 대짱이 코스튬 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "두 팔이 박스 양끝으로 이어진다. 가려진 손가락이 있고 다리는 무릎 위에서 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual5": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "비 오는 야간 트램 정류장에서 우산을 든 채 웅덩이를 바라본다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "한쪽 손은 우산 손잡이를 잡고, 다른 손은 내려와 있다. 두 신발이 전신 구도에 보인다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual6": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "흐린 날 수영장 돌계단에 앉아 수영복과 조끼 차림으로 쉬는 장면."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "한쪽 손은 수건에, 반대 손은 허벅지에 놓였다. 다리는 무릎 부근에서 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual8": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "야간 열차 침대칸에서 분홍색 제복풍 상의 차림으로 양손에 턱을 괸 장면."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "양어깨에서 두 위팔과 팔꿈치가 턱 아래의 손으로 이어진다. 다리는 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual7": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "바람 부는 정원에서 검은 리브 니트 차림으로 앉아 어깨 너머를 돌아본다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "두 팔과 손이 각각 의자 팔걸이 쪽으로 이어진다. 다리는 허벅지 부근에서 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual9": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "새벽 요트 갑판에 있는 은빛 사리풍 투피스 차림.",
+      "deviation": "계획의 후면 3/4 구도 대신 얼굴이 보이는 전면 3/4로 나왔다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "두 팔과 손이 자연스럽게 연결되고 다리는 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual10": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "테마 행사장에서 붉은 조끼와 검은 바디수트를 입은 클레어 레드필드 코스프레."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "양손이 팔과 이어지고 검은 손가락 없는 장갑이 보인다. 정강이와 발은 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  },
+  "casual90": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "수산시장 대표로 의자에 앉아 얼음 위에 얹은 해산물 쟁반을 든다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "코와 볼 및 턱의 점진적 음영, 나뉜 머리 가닥과 입체적인 재질 표현."
+    },
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "manual_review": true,
+      "overlay_checked": false,
+      "note": "쟁반 아래와 무릎 위의 손이 각 팔로 이어진다. 다리는 교차하고 신발 앞쪽은 크롭된다."
+    },
+    "identity": {
+      "reference_sha256": "4776d498f6d9c88fe2dc4aa7ca0f67fe2ee41c42a94a6c757a04443fa052b09e",
+      "evidence": "4번의 짙은 청색 땋은 올림머리와 황토색 포인트, 어두운 피부 톤과 얼굴 윤곽이 이어진다."
+    }
+  }
+}
