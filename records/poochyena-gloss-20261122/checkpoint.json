@@ -1,0 +1,199 @@
+{
+  "phase": "verified",
+  "selection": 2,
+  "basis_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_light_anime_25d_gloss_f.webp",
+      "original_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24",
+      "sha256": "a1ad64c77b965608e2955b89f96704c658fc272b84a19e6ed1cb9deced370316",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7b18635c0e069f4ed84ef736e5848ee9d9d99b975764d40ef85370636d201762",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "6571e5806b9f57c919af0c50773372073162a0510b87ac790ad99b87aface257",
+      "sha256": "f4e705efd67153945ee286533421e3722a87c3f962dac01270fa18e1b0e4a665",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "e093cbffec5fb67c8e570e2362012e0b8f6cd0072dfec1c60e756cbdde858972",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual2",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "9e423d80c9ed62bc124a8d02a85944090e5ecd14f980a2aa03a801eab06714f1",
+      "sha256": "09095cbd74c7d5ab68f28658ba5acdc4b6cda8017098b61cd761ac90b7f7d7e5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7d301fa64c3c9d97ce8c81be86f8b4bd31973a2e4a4fa3f8e45498634daa41ab",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual3",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "0f2f24978316a3b0073f8a8ac07a43ea12fd54d96eb2472a7604a95f1c01e6a6",
+      "sha256": "cd8da700c0b1e2929ab8e5fe8096b5ecde484a26725bf35dc45695102a2ad015",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6cdfb0b1260733e87e62d0ad7cc56a076eb8b6939fe66b0928e0e3ae00fbc5f1",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual4",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "f0d97c8144c136c6546b9ff5fe299f1eb5bd86d6b87b7c818ec5fbc6c53dd895",
+      "sha256": "13e49474585b440c22822d44eb1f6475a067db121c8cb5fa19ed23e4f788cf3f",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6567989a26bbcacf82560f7018c82509a6953cd6f88a74c0d582bd3aea1160a2",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual5",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "8a852e3aaf41b8ef155713fa9134b839326ad8fdf35dfd09a0918c0252d4b86b",
+      "sha256": "111320d053064c026108f18d60bd6398a54cd84fb990f7cf2252e2c0ae97c4f6",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "fda28a9e4e607b0f31fb6255c348536e63c692b1287a2b9e020cf6b21def14ab",
+      "submitted_same": false,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual6",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "e1b019b6fb44a02f431eab88cc3ca8fdd3e24c2673c6f68c476f5337fa8d0cf9",
+      "sha256": "49d62212f6351396399cbfc54e4f9994697284372c83cc48e169dc1791a03416",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "4a0cc23dd69b5a12bcf3c346821ed294a6eacc4c42167564680794be7e5cba22",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual7",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "2617afd07ac02a848757a54bf5b829e2dc6522a4ed183d58809013cbda252ba2",
+      "sha256": "565476297bf59dba7a50aece359711ef24eeacd317eb0750b097d2563e765c41",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "afbe5b30cb90b8576c41ae9276d351786effa17d859f29e21a879bc56a525db4",
+      "submitted_same": false,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual8",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "0c316a6a5ab4d4124d4683d6cf99e65e028c1f92dd129e5cc651944836c606d7",
+      "sha256": "74eca4682020d2b437da3c4f17425bfd09a67894aa0534b36d04509fbe75faf9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f4aa6efd57135875823987e62dc91b7f181c2f2f003e18afd758b55db6fd0169",
+      "submitted_same": false,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual9",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "ad686c8aee8ad90c740dac6541bc616c49959c1d0b37a23b06824b9f066eb32b",
+      "sha256": "e7e70e9702fb97d28ed3fc2082bdbbe040a78a52e5e6106eae5d700196fef854",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "cf15159ebfdc6a2b23169b4670e74f7784b4457a170abba115a2eeb6a2f0d3fb",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual10",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "032958e3c2b13e1f4af37e0010914db3f47590d72a5147c67062b4cb609ee542",
+      "sha256": "1b67daaa60dfb8226e25931b2d1df9a509c2b07e981a790909f989af316e47a9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "9ea6b95c31cffdf4a5e4b59b2b664ab54433a7c4605518240c318c0c2cb16fee",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    },
+    {
+      "slot": "casual90",
+      "card": "포챠나",
+      "style": "anime_25d_gloss",
+      "filename": "포챠나_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "0ded7b5f5e9e4ea9c9705b4a3033de028ea9da6ba97d446d27d4258a8f0efa63",
+      "sha256": "04222d5da13d96b48ec3e957a67d449f8f1e5f7edee206e01c9ad55b9dd9c941",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "b940761991821777895b916b723f00634f858039b6a987246e166cdec964e31a",
+      "submitted_same": true,
+      "reference_sha256": "d2ca3a03cc222175cff0d19b1db608aa610d9199b979a9872a92228c15696b24"
+    }
+  ]
+}
