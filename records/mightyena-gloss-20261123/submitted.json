@@ -1,0 +1,210 @@
+{
+  "light": [
+    {
+      "slot": "light",
+      "at": "2026-11-22T16:24:52.718Z",
+      "prompt_sha256": "6301bae9750bfb5468ef5a63b5733e50ad0884db81b5d435c5db9aea3614e1bc",
+      "submitted_sha256": "6301bae9750bfb5468ef5a63b5733e50ad0884db81b5d435c5db9aea3614e1bc",
+      "same": true,
+      "prompt_words": 888,
+      "submitted_words": 888,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual1": [
+    {
+      "slot": "casual1",
+      "at": "2026-11-22T16:34:17.556Z",
+      "prompt_sha256": "6bff5f518555207b1731e09532e2815d51821b9a7e38506c4cd87a6c5a7539d2",
+      "submitted_sha256": "6bff5f518555207b1731e09532e2815d51821b9a7e38506c4cd87a6c5a7539d2",
+      "same": true,
+      "prompt_words": 1205,
+      "submitted_words": 1205,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual2": [
+    {
+      "slot": "casual2",
+      "at": "2026-11-22T16:34:17.613Z",
+      "prompt_sha256": "445fc3c5f62d8bd640c23fa1962f31cddc4a0ececb0ff28da3d6cc6d42716d1a",
+      "submitted_sha256": "445fc3c5f62d8bd640c23fa1962f31cddc4a0ececb0ff28da3d6cc6d42716d1a",
+      "same": true,
+      "prompt_words": 1057,
+      "submitted_words": 1057,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual3": [
+    {
+      "slot": "casual3",
+      "at": "2026-11-22T16:34:17.700Z",
+      "prompt_sha256": "2b7aae4444e6fe9c3c744d5625238fb488b7db4c97ea57c655fa8fb94ca24052",
+      "submitted_sha256": "2b7aae4444e6fe9c3c744d5625238fb488b7db4c97ea57c655fa8fb94ca24052",
+      "same": true,
+      "prompt_words": 1084,
+      "submitted_words": 1084,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual4": [
+    {
+      "slot": "casual4",
+      "at": "2026-11-22T16:34:17.752Z",
+      "prompt_sha256": "73f6da6090d91a5315029635cfbcb09e4378adbe1c672b3663105d5905dac285",
+      "submitted_sha256": "73f6da6090d91a5315029635cfbcb09e4378adbe1c672b3663105d5905dac285",
+      "same": true,
+      "prompt_words": 1146,
+      "submitted_words": 1146,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual5": [
+    {
+      "slot": "casual5",
+      "at": "2026-11-22T16:34:17.837Z",
+      "prompt_sha256": "46135fb3e6a903648062fc17870158103db82b4f4ef141477a4d289769c63955",
+      "submitted_sha256": "46135fb3e6a903648062fc17870158103db82b4f4ef141477a4d289769c63955",
+      "same": true,
+      "prompt_words": 1219,
+      "submitted_words": 1219,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual9": [
+    {
+      "slot": "casual9",
+      "at": "2026-11-22T16:34:17.931Z",
+      "prompt_sha256": "15528a4b175d03274b8242f1a52ff8bca2a289a51d8e9a736ad62a0f6df35fe1",
+      "submitted_sha256": "15528a4b175d03274b8242f1a52ff8bca2a289a51d8e9a736ad62a0f6df35fe1",
+      "same": true,
+      "prompt_words": 1060,
+      "submitted_words": 1060,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual10": [
+    {
+      "slot": "casual10",
+      "at": "2026-11-22T16:34:17.992Z",
+      "prompt_sha256": "1d72fab59a54a5c166967137315fafb674bdd41f562c3ebdc3716286f827676d",
+      "submitted_sha256": "1d72fab59a54a5c166967137315fafb674bdd41f562c3ebdc3716286f827676d",
+      "same": true,
+      "prompt_words": 1154,
+      "submitted_words": 1154,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual90": [
+    {
+      "slot": "casual90",
+      "at": "2026-11-22T16:34:18.046Z",
+      "prompt_sha256": "d6febfc458f4fd3f5036b48d31878fa84a0ca20c3fea335e1be2570fe133e613",
+      "submitted_sha256": "d6febfc458f4fd3f5036b48d31878fa84a0ca20c3fea335e1be2570fe133e613",
+      "same": true,
+      "prompt_words": 977,
+      "submitted_words": 977,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual6": [
+    {
+      "slot": "casual6",
+      "at": "2026-11-22T16:37:26.709Z",
+      "prompt_sha256": "be7120eaf6fd8bb6b4c6b2ce067f719852dc7d96ad169814bc5f2d0eaf626011",
+      "submitted_sha256": "79fe24a611f297d70b3ce46e76383d6bb8019af7fffb5783255461152a6ed53c",
+      "same": false,
+      "prompt_words": 1194,
+      "submitted_words": 954,
+      "style_kept": true,
+      "missing": [
+        "Free design — you design this scene yourself: the place, the activity, her pose, the composition and the outfit. Start from this character's own traits — her species, type and personality — and show one everyday moment that is unexpected, yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water.",
+        "Avoid scenes similar to our recent work: the other casual cuts in this pack (casual*-prompt.txt) and every cut you have drawn earlier in this session — choose a different kind of place, activity, pose and framing. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).",
+        "Outfit and situation (yours): choose ONE of our required categories — an adult role-play or event costume, swimwear, or a lingerie-style outfit — and create a revealing, fashionable outfit of that category for the moment you design: a figure-hugging cut with bare skin by design, styled with care. Before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it. Then add one momentary situation of your own invention that shows a little more of her — it must NOT be one of our situations listed at the end of outfit-catalog.md; keep it natural, with no wardrobe failure and no see-through fabric.",
+        "Time of day (fixed): midday — bright even light — set your scene at this time.",
+        "Keep every rule outside this SCENE exactly as written — her face (FACE), the style (STYLE) and the body rules (BODY TYPE, ANATOMY, BODY, HANDS) — and keep the expression and intensity lines below.",
+        "Write your own detailed image prompt from this brief — the whole scene in your own words — then draw it."
+      ],
+      "added": [
+        "Place: a shallow splash court with white stone channels and glass windbreaks at midday.",
+        "Activity: she guides one little brass float through branching channels before it enters the wrong basin.",
+        "Outfit: an opaque garnet swim playsuit made from curved neoprene panels, a scalloped diagonal yoke with one sleeve sewn to it, and fitted mid-thigh swim shorts. Chest and pelvis stay covered.",
+        "Situation: she props one knee on the low stone rim to reach a stalled marker. The bent knee raises a shallow scalloped side tab on her fitted shorts, revealing a crescent of outer thigh above the hem.",
+        "Composition: vertical front three-quarter at her seated eye level, with her head and her propped knee inside the frame.",
+        "Pose: her left palm braces against the flat rim beside her hip. Her right index finger gently guides the float. A graphite diamond earring echoes her motif."
+      ],
+      "approved_design_fields": [
+        "scene"
+      ]
+    }
+  ],
+  "casual7": [
+    {
+      "slot": "casual7",
+      "at": "2026-11-22T16:37:26.764Z",
+      "prompt_sha256": "378afc86c792480acca0f8aeacb30e35e0800c833ae68199ddbc35dce25e8612",
+      "submitted_sha256": "955bb37dd97eb5780e7ddd2dec93d9b963236318b5df5426df12990a32e46252",
+      "same": false,
+      "prompt_words": 1164,
+      "submitted_words": 1120,
+      "style_kept": true,
+      "missing": [
+        "Outfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays."
+      ],
+      "added": [
+        "Outfit: a fitted copper rib-knit bodice with a high folded neckline and ring-shaped shoulder cutouts, plum wool stirrup trousers with curved waist panels, ankle boots, and long insulated gloves."
+      ],
+      "approved_design_fields": [
+        "outfit"
+      ]
+    }
+  ],
+  "casual8": [
+    {
+      "slot": "casual8",
+      "at": "2026-11-22T16:37:26.816Z",
+      "prompt_sha256": "b0dff91e9eaa797b1ce93cba1fa8044afbe99ba78c74712d716f2a61daf96b05",
+      "submitted_sha256": "2239eee9c8194f3e9759869011c80aff88198568cfa6bef67c16a02ad8ec92d9",
+      "same": false,
+      "prompt_words": 1125,
+      "submitted_words": 932,
+      "style_kept": true,
+      "missing": [
+        "Free design — you design this scene yourself: the place, the activity, her pose, the composition and the outfit. Start from this character's own traits — her species, type and personality — and show one everyday moment that is unexpected, yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water.",
+        "Avoid scenes similar to our recent work: the other casual cuts in this pack (casual*-prompt.txt) and every cut you have drawn earlier in this session — choose a different kind of place, activity, pose and framing. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).",
+        "Outfit (yours): create a revealing, fashionable outfit for the moment you design, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. Before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it.",
+        "Time of day (fixed): cool white overhead light, flat and bright — set your scene at this time.",
+        "Keep every rule outside this SCENE exactly as written — her face (FACE), the style (STYLE) and the body rules (BODY TYPE, ANATOMY, BODY, HANDS) — and keep the expression and intensity lines below.",
+        "Write your own detailed image prompt from this brief — the whole scene in your own words — then draw it."
+      ],
+      "added": [
+        "Place: a quiet laundromat with bright cool white light over pale mint tiles and round dryer doors.",
+        "Activity: she waits on a folded laundry bag, watching the last slow turn of a mustard blanket through the glass.",
+        "Outfit: a close-fitting opaque lilac square-neck knit vest with a ladder of three small oval waist cutouts at one side, bare shoulders, high-waisted cream barrel trousers with pleated knees, and rust loafers.",
+        "Composition: a vertical seated portrait framed from head to below her knees, seen from the front at seated eye level. She looks toward the dryer slightly to one side of the camera.",
+        "Pose: both feet rest on the tiles. Her left hand lies across her left knee. Her right hand loosely holds a blank brass laundry token above her right knee. A silver diamond earring echoes her motif."
+      ],
+      "approved_design_fields": [
+        "scene"
+      ]
+    }
+  ]
+}

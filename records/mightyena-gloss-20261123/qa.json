@@ -1,0 +1,238 @@
+{
+  "light": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "진홍빛 달과 검은 파편, 회색·검정 경장, 2:3 단독 전신의 선택 1번."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "광대·콧대·입술에 부드러운 명암이 있고 장갑의 재질 반사가 구분된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "편 손과 쥔 손 모두 각 팔에 연결되고 장갑과 부츠에서 관절 위치가 읽힌다. 쥔 손은 일부 손가락이 겹친다."
+    }
+  },
+  "casual1": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "따뜻한 조명의 실내에서 검지로 입가에 신호하는 근접 컷. 계획보다 상체가 조금 더 보인다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "빛과 그늘 사이의 볼·턱 그라데이션과 은회색 앞머리 가닥 유지."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "입가를 짚는 손의 연결이 보이고 먼 손은 프레임 밖이다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual2": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "바위 해안과 조수 웅덩이, 후드형 수영복, 앉은 자세."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "부드럽게 칠한 눈가와 볼, 촘촘한 수영복 주름, 따뜻한 피부 중간톤."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "바닥을 받치는 팔과 무릎에 둔 팔이 각각 손으로 이어진다. 다리 둘의 굽힘이 이어진다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual3": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "채광이 들어오는 대리석 하맘에서 초록색 새틴 의상으로 쉬는 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "옆얼굴의 코와 턱에 입체 명암이 있으며 피부 반사와 새틴 반사가 분리된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "두 손은 바닥과 무릎에 따로 얹혀 있고 다리의 겹침이 자연스럽다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual4": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "차 안에서 소품을 든 그라에나 성인 코스튬 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "눈꺼풀과 볼의 그림자, 장갑의 매트한 부분과 장식의 광택이 보인다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "양팔은 소품을 쥔 각각의 손으로 이어진다. 장갑 아래 손가락은 잡는 각도에 따라 일부 겹친다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual5": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "목재 바닥 스튜디오 난간에서 물병을 보는 역할극 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "옆얼굴 명암이 완만하고 은빛 머리와 물병·셔츠의 반사가 분리된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "물병 든 손, 난간에 얹은 손의 연결이 읽힌다. 먼 손 끝 일부는 프레임에서 잘린다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual6": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "한낮 물길에서 황동 표식을 움직이는 자유 설계 수영복 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "밝은 자연광의 피부 톤과 광택, 물과 네오프렌의 재질 차이가 보인다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "표식을 짚는 손과 바닥을 받치는 손이 서로 다른 팔에 연결되고 무릎의 방향이 읽힌다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual7": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "눈 덮인 야외 계단에서 한 무릎을 꿇은 컷. 구리색 니트와 자두색 바지를 사용했다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "차가운 배경광 속에서 얼굴 명암과 은회색 머리 가닥을 유지한다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "두 장갑 위치와 팔의 연결, 무릎을 꿇은 다리와 세운 다리가 구분된다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual8": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "빨래방에서 황동 토큰을 들고 앉아 건조기를 바라보는 생활 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "볼과 턱의 부드러운 입체 명암과 니트·타일의 재질 차이가 보인다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "두 손이 각각 무릎에 닿고 별개 손목에 이어진다. 발과 접힌 무릎이 좌우로 구분된다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual9": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "따뜻한 조명의 편집 화보 스튜디오, 옆으로 낮게 앉은 게임 코스프레 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "볼·코·턱에 연속적인 음영이 있고, 금속 장식과 천의 반사가 구분된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "양손이 다른 무릎과 부츠 위로 이어진다. 웅크린 다리의 겹침은 포즈에 따른 것이다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual10": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "피크닉 담요에 기대고 동료 한 마리가 배경에 있는 계획된 동반 컷."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "따뜻한 등불 아래 피부 명암과 검은 의상의 천 주름이 분리된다."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "몸을 받치는 손과 팔이 읽힌다. 반대쪽 팔과 다리 끝 일부는 자세와 구도로 가려진다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  },
+  "casual90": {
+    "publish": true,
+    "scene": {
+      "verdict": "accepted",
+      "evidence": "이른 아침 거리의 환경미화원. 손수레·빗자루·반사 조끼가 직업을 드러낸다."
+    },
+    "style_25d": {
+      "판정": "일치",
+      "근거": "은회색 앞머리, 그을린 피부 중간톤과 조끼·장갑의 서로 다른 반사 유지."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe dependency is absent",
+      "manual_review": true,
+      "note": "머리 근처의 손과 허리의 손이 각 팔에 연결된다. 다리는 무릎 위 프레임 안에서 확인했다."
+    },
+    "identity": {
+      "reference_sha256": "d7935c8bcbbf298a8042b84f2562bd0c9feda1be12ba1530ee382336232b70ad",
+      "note": "검정 장발과 은회색 앞머리, 피부톤 및 기준컷의 눈매를 유지한다."
+    }
+  }
+}
