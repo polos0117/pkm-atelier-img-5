@@ -1,0 +1,164 @@
+{
+  "card": "개무소",
+  "style": "anime_25d_gloss",
+  "slots": {
+    "light": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "코·볼·턱의 연속 음영과 금속판의 독립 반사광. 황금빛 눈과 땋은 왕관 머리."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "경장 전신, 팔 둘·다리 둘. 펼친 장갑 손은 손목에 붙고, 아래쪽 장갑 손은 쥔 손가락 일부가 겹친다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual1": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "영화관 조명 아래 기준의 황금빛 눈과 땋은 장밋빛 머리. 코와 턱의 완만한 명암."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "앉아 돌아보며 두 팔을 좌석 팔걸이에 둔다. 좌우 손목이 각각 팔에 연결되며 이완된 손가락 사이 경계가 보인다. 배경 관객은 흐릿하다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual3": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "옆얼굴의 코·광대·턱 음영과 장밋빛 땋은 머리, 황금빛 눈."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "제빵실 클로즈업. 가까운 손이 귀 옆 머리를 넘기고 반대편 손은 프레임 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual5": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "경기장 빛 아래 코·턱 음영이 살아 있고 후드 아래 기준의 머리색·눈색을 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "한 손이 난간을 짚고 다른 손이 후드를 잡는다. 양 손목의 연결이 보이며, 후드 옆 장갑의 일부 손가락은 포개진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual7": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "목욕실 원경에서도 옆얼굴 실루엣과 머리색이 기준과 이어진다. 볼·턱의 명암이 부드럽다."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "팝콘 통과 입 근처에 손이 하나씩 있고 각 팔에 이어진다. 원경과 소품 때문에 손가락 전체는 분리해 읽기 어렵다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual8": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "행사장 흰 조명 아래 따뜻한 피부와 눈·턱의 연속 음영. 긴 땋은 헤어의 윤곽 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "전신 서기. 한 손은 문 옆 패드, 다른 손은 등불 손잡이에 닿는다. 두 팔과 두 다리의 연결이 명확하고 등불 손 일부는 손잡이와 겹친다. 배경 인물은 흐릿하다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual10": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "수영장 자연광에서 기준의 눈·머리와 부드러운 피부 음영이 이어진다."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "풀사이드 낮은 구도. 팔을 앞으로 받친 손과 팔 위에 놓인 손이 연결된다. 일부 손끝과 하체는 포개지거나 프레임 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual90": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "따뜻한 실크 공방 조명에서도 황금빛 눈과 기준의 땋은 머리, 입가와 턱의 부드러운 음영."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "양손이 같은 실타래의 양 끝을 잡고 각 손목이 팔까지 이어진다. 쥔 손가락 일부는 실타래와 겹친다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual2": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "눈 내리는 공원 역광에서도 장밋빛 땋은 머리와 기준의 황금빛 눈. 볼·턱의 완만한 명암."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "한 무릎을 내린 전신. 두 손은 각각 앞·뒤쪽 허벅지에 닿고 팔과 연결된다. 무릎과 발목이 포즈 방향에 맞는다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual4": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "야간 식당차의 조명 아래 황금빛 눈과 장밋빛 땋은 머리. 입가와 코의 음영이 부드럽다."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "한 손은 삼각 승차권을 들고 반대 손은 탁자를 짚는다. 손목과 팔꿈치가 이어지고 접힌 다리는 하단에 일부 보인다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual6": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "욕탕 창의 역광에서도 땋은 머리와 옆얼굴의 볼·턱 음영 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "의자에 앉아 두 손을 수건 양 끝에 둔다. 각 손목은 각 팔로 이어지고 쥔 손끝 일부는 수건에 가려진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual9": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "푸른 저녁빛과 실내 등불 아래 기준의 눈·머리, 옆얼굴의 코와 광대 명암."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "근거리 손이 등불을 걸고 팔꿈치가 자연스럽게 꺾인다. 먼 손은 가슴 위 프레임 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    }
+  },
+  "selection": 3,
+  "skipped": []
+}

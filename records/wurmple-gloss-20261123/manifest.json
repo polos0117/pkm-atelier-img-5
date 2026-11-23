@@ -1,0 +1,248 @@
+{
+  "card": "개무소",
+  "style": "anime_25d_gloss",
+  "selection": 3,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_light_anime_25d_gloss_f.webp",
+      "original_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d",
+      "sha256": "e3e8fc41fae3ef9de61fd15526f783a290b820f7bdf91774398704f9f440bc9b",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "41ebbc590e3550c58e5906d596d8c3a10fffc711869cad8a01145d9ac0cfda4b",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "921ce3b6ef3d06de27ac7509aa2e8725889fac3345af987e2403e9f405bdc08c",
+      "sha256": "1bf0c6dba7f9a0ea7926e8b86887e21c75732f0fdf554384662e9fc6686244ed",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "203bc89014ad6b6863da5abada0838f2e50d56bd2386a15fe5b5738d089415d1",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual2",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "cfb991145fb3b491d35d05926d86fe9b44e795eb9c86ff8995592313bbdad7a3",
+      "sha256": "5697fd2dd5234c285d85e2a86581f318489fd2419c774cba2dbe9cc64b68f518",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "fcf69079dc9609cecdfd1a8ad2f983ac0e9a5f93690e9de251189ec36c99e394",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual3",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "4857d79070d21efd30b127d9142ac9f0b04156e723f0e932a946b536751209b4",
+      "sha256": "adb0dd0566034a53b41a9880085bf771ef1775e5079292a4d04c8e67fc13f34e",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "b52bc0ee8531fecec4cd9425a46fc027705c0a5aeb00249269d9e1738a9f0574",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual4",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "127922f20474b56ca1abf6bc38e2e833d103e2e513b09d65b01834ee53f0c5e0",
+      "sha256": "4ff7df427805420f6bb5dddc12daee1859ef303a2d3fcb8971c7ba03a9cd92cd",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "56f4f45e9fc0089da4c80b633a68af5d71dd8519c569f7f120cbf9d1dcf616d2",
+      "submitted_same": false,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual5",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "b8e74a7631137aae571519144b84267a09c9996d15c02a88346ecd51648903db",
+      "sha256": "414a50e46f21d137939672b5a930395a17d5d67337d6b2bbe5d248d9628ad3e1",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "c4dc21052af51f24f02cba668b93c49603eb76009b010589ea40d084f627bbdd",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual6",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "75fed0ae0fde78b8639c2f1acbd9bd34212f67f42f0fac88ec3f8b24d3713be0",
+      "sha256": "98828e1d4f006bbf3491a745ea228a34eee8665eb3dc7d135b6c7b8bc2187709",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "eab50f7015c40e7ecd267353904eb8451449936dff6044139a2427aeb0130f66",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual7",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "576949f796fadbad10a8f33a49616b3670ad90a749638a389cf6c0eb5c6a780f",
+      "sha256": "0e0309737ecb2bed58a2347618f402d02883845f3b11a71ea39ee20a81a9276e",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "dd915746f01a09c803a7d7619b0de2d0e94d0c1dc5e0b1ad9d1f880621b7c77b",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual8",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "9462b559452644a95d608723458bdff05111d73f06b2f7f99ee1975621d99da6",
+      "sha256": "0d1d4e77b20f74b5320d455daea0c80527f02ed826d15dd9c509cb3efb610325",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "f3fc3f421c7016338060af3ebbf598ebfc73f469befc1ba70ce75804f9f0ab67",
+      "submitted_same": false,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual9",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "c0142fe7f4629dc8330e491fa8cfa4023a39de27f79bfdf841e9224c89c583a7",
+      "sha256": "e92ae5141e2be4939bc9bead8fcf1a5e65b89b6a0897f68f8c69cb02e75a7c10",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "a707bc4421ea6e5c37f3485392d42edc9ac6afb38aea82cd968fcbcdf306e892",
+      "submitted_same": false,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual10",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "f6548fe523f429e1075cacb2ce2e12388c2a60b3d68a0b989eafcc5b13f61ec4",
+      "sha256": "78fd3db2b9a15dee5368d24a60585c1cc8089b675759d0a402db3dd6cd62a701",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "79b80acaf9bdf1040eab06966732ab5fb2936ef38cefc5e241226eeab3af4ef7",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    },
+    {
+      "slot": "casual90",
+      "card": "개무소",
+      "style": "anime_25d_gloss",
+      "filename": "개무소_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "ff523ee448264bb4fdee23df4072a6868d55a8848128334643180aea362eab0b",
+      "sha256": "fc0643db3b49b2227a1f0d67ab61c2555d9043f3de02c6f2cb65a3ec75246ffc",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "9850813caef474166e9216ec412dd1d83ec003c5e646996e565eb2b91a51697f",
+      "submitted_same": true,
+      "reference_sha256": "d13090e1d7012e7ddb057498eccc1f36f04e028d4d9335197a7bd34b167c294d"
+    }
+  ]
+}
