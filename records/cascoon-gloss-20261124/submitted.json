@@ -1,0 +1,168 @@
+{
+  "light": {
+    "slot": "light",
+    "prompt_sha256": "aabc94750bb6fb3188e1a72d8a537898e9174610aed8a4d2ee26bc170fff2023",
+    "submitted_sha256": "aabc94750bb6fb3188e1a72d8a537898e9174610aed8a4d2ee26bc170fff2023",
+    "same": true,
+    "design": "gpt_free",
+    "selection": 3
+  },
+  "casual1": {
+    "slot": "casual1",
+    "at": "2026-11-23T23:06:15.200Z",
+    "prompt_sha256": "96b0544849924cb0ede005d0d7980856bed5b07c74554d98f7f7429986963fd9",
+    "submitted_sha256": "96b0544849924cb0ede005d0d7980856bed5b07c74554d98f7f7429986963fd9",
+    "same": true,
+    "prompt_words": 1227,
+    "submitted_words": 1227,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual2": {
+    "slot": "casual2",
+    "at": "2026-11-23T23:06:16.873Z",
+    "prompt_sha256": "5ffdcf297aca162119e4e59718abbba21f8e195bee718f57b9f2b902bd3e10fd",
+    "submitted_sha256": "d15d9c040ba03ad72a17e98637e4c4c2da1e447c3dd83d5eec48627cc163f696",
+    "same": false,
+    "prompt_words": 1148,
+    "submitted_words": 1112,
+    "style_kept": true,
+    "missing": [
+      "Outfit: your own design — create a revealing, fashionable outfit for this place and moment, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. New design: before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it, then write that outfit into this line; it stays."
+    ],
+    "added": [
+      "Outfit: a fitted navy guipure festival vest with sculpted origami folds over a square-neck ivory shell, a tangerine wrap skort with a diagonal tier and flat canvas shoes; a single small cocoon-shaped clasp on her crossbody pouch."
+    ]
+  },
+  "casual3": {
+    "slot": "casual3",
+    "at": "2026-11-23T23:06:15.726Z",
+    "prompt_sha256": "86f57543ddecab9c017638e50abc2aa38596bd89ad793585e292240d3fef9d4a",
+    "submitted_sha256": "86f57543ddecab9c017638e50abc2aa38596bd89ad793585e292240d3fef9d4a",
+    "same": true,
+    "prompt_words": 1107,
+    "submitted_words": 1107,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual4": {
+    "slot": "casual4",
+    "at": "2026-11-23T23:06:15.866Z",
+    "prompt_sha256": "192af81b0b1a5b4802b71c6a56cca27492cea5d0139be8a7ad491645a9ef45f7",
+    "submitted_sha256": "192af81b0b1a5b4802b71c6a56cca27492cea5d0139be8a7ad491645a9ef45f7",
+    "same": true,
+    "prompt_words": 1102,
+    "submitted_words": 1102,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual5": {
+    "slot": "casual5",
+    "at": "2026-11-23T23:06:16.981Z",
+    "prompt_sha256": "3fdf6c3d27c0207eb2b8a14e1fbde429ed8df022c32c4f0a225d0f3f74e5e29b",
+    "submitted_sha256": "973c049c81e777106f4176dddddc3af19cea7e95c0a661769a9d6f0d617ba947",
+    "same": false,
+    "prompt_words": 1215,
+    "submitted_words": 994,
+    "style_kept": true,
+    "missing": [
+      "Free design — you design this scene yourself: the place, the activity, her pose, the composition and the outfit. Start from this character's own traits — her species, type and personality — and show one everyday moment that is unexpected, yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water.",
+      "Avoid scenes similar to our recent work: the other casual cuts in this pack (casual*-prompt.txt) and every cut you have drawn earlier in this session — choose a different kind of place, activity, pose and framing. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).",
+      "Outfit and situation (yours): choose ONE of our required categories — an adult role-play or event costume, swimwear, or a lingerie-style outfit — and create a revealing, fashionable outfit of that category for the moment you design: a figure-hugging cut with bare skin by design, styled with care. Before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it. Then add one momentary situation of your own invention that shows a little more of her — it must NOT be one of our situations listed at the end of outfit-catalog.md; keep it natural, with no wardrobe failure and no see-through fabric.",
+      "Keep every rule outside this SCENE exactly as written — her face (FACE), the style (STYLE) and the body rules (BODY TYPE, ANATOMY, BODY, HANDS) — and keep the expression and intensity lines below.",
+      "Write your own detailed image prompt from this brief — the whole scene in your own words — then draw it."
+    ],
+    "added": [
+      "Place: a sheltered cove at dusk, cool sky reflected in the still water and an empty timber swimming jetty.",
+      "Activity: she laughs as the first pool of warm jetty lantern light reaches the jetty; she turns her shoulders into it and sets her lightweight towel flat on the railing, revealing the bare shoulders and high side openings already cut into her swimsuit.",
+      "Posture and composition: comfortable upright stance on dry deck boards, seen in a three-quarter full-body portrait at eye height. Her right hand holds the towel against the top rail, and her left hand rests open on the railing a short distance away, both elbows and wrists visible.",
+      "Outfit: an opaque sea-glass green one-piece swimsuit with a diagonal double-strap neckline, embroidered wave stitching between the straps, small angular side openings and a fully lined bodice and seat. A small cocoon charm hangs from the towel loop."
+    ]
+  },
+  "casual6": {
+    "slot": "casual6",
+    "at": "2026-11-23T23:06:15.985Z",
+    "prompt_sha256": "94e631f430e05991a12c48eda3e41f6ad5a84de7cbce9540882f84da5c134d01",
+    "submitted_sha256": "94e631f430e05991a12c48eda3e41f6ad5a84de7cbce9540882f84da5c134d01",
+    "same": true,
+    "prompt_words": 1262,
+    "submitted_words": 1262,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual8": {
+    "slot": "casual8",
+    "at": "2026-11-23T23:06:17.113Z",
+    "prompt_sha256": "383b647b0eaa9d7b83fbd53f4c3b2e702b91282734e33562b6068693c1526277",
+    "submitted_sha256": "92d4562d7d883d6e43d01ea7a00d5927a2a7114474eceb47fea0de6a7ade5366",
+    "same": false,
+    "prompt_words": 1162,
+    "submitted_words": 973,
+    "style_kept": true,
+    "missing": [
+      "Free design — you design this scene yourself: the place, the activity, her pose, the composition and the outfit. Start from this character's own traits — her species, type and personality — and show one everyday moment that is unexpected, yet feels natural for her. Make it fresh through the situation and what she is doing, not through more decoration. In your pose, give each hand one job only and say plainly where each arm goes; avoid poses where it is unclear which shoulder an arm comes from — an arm behind her back, behind her head or pinned under her body — and never state where a foot sits under water.",
+      "Avoid scenes similar to our recent work: the other casual cuts in this pack (casual*-prompt.txt) and every cut you have drawn earlier in this session — choose a different kind of place, activity, pose and framing. Do not make it another small repair, adjusting, measuring or sorting task at a workbench, repair stall, equipment room or locker room — those scenes are already in our own list; choose another kind of everyday moment (rest, play, a meal, travel, weather, getting ready, simply being in the place).",
+      "Outfit (yours): create a revealing, fashionable outfit for the moment you design, as daring as the scene allows: a figure-hugging cut with bare skin by design (neckline, shoulders, midriff or legs), styled with care. Before drawing, read our outfit catalog (outfit-catalog.md in this pack — every outfit type we already use) and design one that is NOT in it.",
+      "Keep every rule outside this SCENE exactly as written — her face (FACE), the style (STYLE) and the body rules (BODY TYPE, ANATOMY, BODY, HANDS) — and keep the expression and intensity lines below.",
+      "Write your own detailed image prompt from this brief — the whole scene in your own words — then draw it."
+    ],
+    "added": [
+      "Place: a glass-roofed railway platform at night, with an idle cream-coloured train on the far track and warm lamplight across the wooden bench.",
+      "Activity: she pauses between trains to sip tea from a ceramic travel cup.",
+      "Posture and composition: seated upright on the end of the bench, knees angled together, photographed from eye height in a three-quarter knee-up portrait. Her right hand holds the travel cup just below her chin; her left hand rests open on the bench beside her hip, wrist and forearm visible.",
+      "Outfit: a fitted saffron needlecord pinafore with a square neckline and a sharply pleated mini-length hem, over a ribbed cream bandeau, with plain ankle boots and a tiny cocoon-shaped pin on the canvas travel bag at her feet."
+    ]
+  },
+  "casual90": {
+    "slot": "casual90",
+    "at": "2026-11-23T23:06:16.621Z",
+    "prompt_sha256": "f9be1656afd97e418820c44405fcc37cbec3eee39be245699e03c8c864cd92e9",
+    "submitted_sha256": "f9be1656afd97e418820c44405fcc37cbec3eee39be245699e03c8c864cd92e9",
+    "same": true,
+    "prompt_words": 1152,
+    "submitted_words": 1152,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual7": {
+    "slot": "casual7",
+    "at": "2026-11-23T23:06:16.233Z",
+    "prompt_sha256": "fb80b5d4fe384ea4c231b42f6fa4b82b8fc7a9d9dee7106a055b1771e749a447",
+    "submitted_sha256": "fb80b5d4fe384ea4c231b42f6fa4b82b8fc7a9d9dee7106a055b1771e749a447",
+    "same": true,
+    "prompt_words": 1123,
+    "submitted_words": 1123,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual9": {
+    "slot": "casual9",
+    "at": "2026-11-23T23:06:16.350Z",
+    "prompt_sha256": "ea91dceeb1f0b5bc13d22b389ef6e325a9b635ee7c57f661c6a686c82f2aa807",
+    "submitted_sha256": "ea91dceeb1f0b5bc13d22b389ef6e325a9b635ee7c57f661c6a686c82f2aa807",
+    "same": true,
+    "prompt_words": 1244,
+    "submitted_words": 1244,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  },
+  "casual10": {
+    "slot": "casual10",
+    "at": "2026-11-23T23:06:16.516Z",
+    "prompt_sha256": "7e2ee25b10c997e1273fe7a8d3b1505f543b717fe1855cf99571fd52fae5b781",
+    "submitted_sha256": "7e2ee25b10c997e1273fe7a8d3b1505f543b717fe1855cf99571fd52fae5b781",
+    "same": true,
+    "prompt_words": 1260,
+    "submitted_words": 1260,
+    "style_kept": true,
+    "missing": [],
+    "added": []
+  }
+}

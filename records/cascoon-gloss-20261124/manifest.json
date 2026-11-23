@@ -1,0 +1,248 @@
+{
+  "card": "카스쿤",
+  "style": "anime_25d_gloss",
+  "selection": 3,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32",
+      "sha256": "04373847d4a19433ce8a2feae6bf35516c17cfea6ecbb8ec1f228dd354a8924f",
+      "submitted_sha256": "aabc94750bb6fb3188e1a72d8a537898e9174610aed8a4d2ee26bc170fff2023",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "eb932b8bd23fb9cf5017133afbfe39e547085916c5a3f67ecb8640445a6a91b7",
+      "sha256": "2d6eef772c68dabf3d6f6451c27c8414230e86445d71e83631175b020fd62e7f",
+      "submitted_sha256": "96b0544849924cb0ede005d0d7980856bed5b07c74554d98f7f7429986963fd9",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual2",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "f0b41eb327f3d0ce417f27bcba85abe71f55adf44a87c0bffa50047f68424656",
+      "sha256": "d70d5a9299b68583ab90c60b503061de6b040bdca408365cc14a8d4a2b8c016c",
+      "submitted_sha256": "d15d9c040ba03ad72a17e98637e4c4c2da1e447c3dd83d5eec48627cc163f696",
+      "submitted_same": false,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual3",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "bfecd100e5fcedb3e6d618dafac7d723ced47c89a5ee96ec648dcf1403b2a41b",
+      "sha256": "f5cbe6d5d1fa5c9a43b6ffd95c1482e37faebeb657f0a09ee545ca73d673a0a7",
+      "submitted_sha256": "86f57543ddecab9c017638e50abc2aa38596bd89ad793585e292240d3fef9d4a",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual4",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "original_sha256": "b8e87184b792e74e623b468e972371b363b0c8f97396acddce3db8ad8633bc88",
+      "sha256": "efd7134b04935cad37626ad748a567025b87934d6c4a64973068c0fade797f41",
+      "submitted_sha256": "192af81b0b1a5b4802b71c6a56cca27492cea5d0139be8a7ad491645a9ef45f7",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual5",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "9a16a5738406305a5a41831e53ff56f6a02b8e3f5ed90b1d993d1448894d87e2",
+      "sha256": "49b2c76baaace33d811fb074d629351eb579f281c0d44de9ee57c882e76ba4a0",
+      "submitted_sha256": "973c049c81e777106f4176dddddc3af19cea7e95c0a661769a9d6f0d617ba947",
+      "submitted_same": false,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual6",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "8c865cbf0b640ce94ac362dcd7a629fcfbd57902236121a4c65e9a379b3344cc",
+      "sha256": "1aa114a87b38e71c6ed043d0a18cc27f6320ae3464fedf0cce7cbcca1ebc56d6",
+      "submitted_sha256": "94e631f430e05991a12c48eda3e41f6ad5a84de7cbce9540882f84da5c134d01",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual7",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "original_sha256": "25d03eba11c7e6c3adcb9867652fece9ccf487d4436896878115766b3daff94d",
+      "sha256": "9b871efc41729d4b1b369d6bed9c720f1bdfcf792d0ed4b64549de25c0c2c91e",
+      "submitted_sha256": "fb80b5d4fe384ea4c231b42f6fa4b82b8fc7a9d9dee7106a055b1771e749a447",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual8",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "b226043eb5b5fec2595857c525ef75b59b6067000edc5feb47dbbb3ce45aa0fe",
+      "sha256": "3cedffaf9f2775a8e3915bd5694bed0064fbad1969b6ca06a61298bec5872107",
+      "submitted_sha256": "92d4562d7d883d6e43d01ea7a00d5927a2a7114474eceb47fea0de6a7ade5366",
+      "submitted_same": false,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual9",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "92a371d567d1fd13a7f4641f0252062a0735562dd5bd2af27e2ae74982dac3aa",
+      "sha256": "1ed0e3b7c4b6d51c1f1d26d51d46c4a62ef1fafceba4a87095b311d972e8c5b8",
+      "submitted_sha256": "ea91dceeb1f0b5bc13d22b389ef6e325a9b635ee7c57f661c6a686c82f2aa807",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual10",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "4af6b4baaae010bfd06b25d0804f8943cf2bb7abf383113e3843da8425df5986",
+      "sha256": "279f76ad735d8b09a3f85a088802bec34dfaa28360e0e7f76cfb633938faebf0",
+      "submitted_sha256": "7e2ee25b10c997e1273fe7a8d3b1505f543b717fe1855cf99571fd52fae5b781",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    },
+    {
+      "slot": "casual90",
+      "card": "카스쿤",
+      "style": "anime_25d_gloss",
+      "filename": "카스쿤_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "original_sha256": "46fc5bf6457b330bf7e3e16839bf06efd1330e9f56be27bfec2bee1d5dfe5a13",
+      "sha256": "fc665cfa3c88dd8ef396558e3af344b6d6ec414db75892d6a26208dde88203b7",
+      "submitted_sha256": "f9be1656afd97e418820c44405fcc37cbec3eee39be245699e03c8c864cd92e9",
+      "submitted_same": true,
+      "reference_sha256": "e36105d4b2e4cd5e0517c39b1de756528770e1580d2bc8318de633b586a1bd32"
+    }
+  ]
+}
