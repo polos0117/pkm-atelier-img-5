@@ -1,0 +1,312 @@
+{
+  "card": "실쿤",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "slots": {
+    "light": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "은빛 고리형 머리, 옅은 파란 눈, 밝은 아이보리 고치 장갑과 녹색 발광이 전신 카드 구도에 드러난다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "팔 둘과 다리 둘이 이어지고 별도 기계 보조팔이 등 뒤에 붙는다. 장갑 손의 겹친 손가락은 가려짐.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "어깨·복부에 장갑 개방부가 보인다."
+      }
+    },
+    "casual1": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "항구의 푸른 저녁빛 아래 찻잔을 든 동작. 은빛 머리와 파란 눈, 자주색 상의와 동색 치마."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "한 손은 컵 손잡이, 다른 손은 난간. 손목과 양팔 연결이 보인다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "어깨와 허벅지가 드러나고 상의와 속바지가 몸을 가린다."
+      }
+    },
+    "casual2": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "목장에 앉아 수박 조각을 내미는 장면. 따뜻한 볕 아래 머리와 눈 색이 기준과 이어진다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "수박을 든 손과 무릎에 둔 손이 각 팔에 연결된다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "홀터 차림의 어깨와 팔, 다리가 보인다."
+      }
+    },
+    "casual3": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "야자수와 천막이 있는 오아시스의 가로 장면. 꽃다발을 들고 쿠션 위에 누워 있다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "꽃을 잡은 손이 한 팔에 이어진다. 반대쪽 팔은 머리 뒤에서 끝이 가려지고 두 다리는 신발까지 이어진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "허리 옆과 허벅지 일부가 드러난다."
+      }
+    },
+    "casual4": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "박물관에서 잔을 내민다. 원단 결이 있는 흰색 고치 코스튬과 가장자리 섬유 장식이 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "잔을 잡은 장갑 손이 오른쪽 팔에 붙고 반대 손은 프레임 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "어깨와 복부가 드러나고 상체는 원단으로 가린다."
+      },
+      "attempts": [
+        {
+          "reason": "장갑 원본의 단단한 금속판이 직물 코스튬에 그대로 들어와 의상 유형이 달라짐",
+          "sha256": "f66a541334a8e1eccae63438ef9e21b56e407a3152f6ef87205b77680552dc3f"
+        },
+        {
+          "reason": "동일 지시문으로 생성한 결과에서 바느질선과 직물 결, 실크 섬유가 읽혀 채택",
+          "selected": true
+        }
+      ]
+    },
+    "casual5": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "햇빛이 드는 베리 과수원에서 바구니를 든 전신 컷. 고리형 머리와 같은 눈 색이 이어진다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "장바구니에 손을 얹은 팔과 내린 팔이 각각 연결되고 발은 샌들에 닿는다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "수영복 위 열린 유카타 사이로 허리와 다리가 보인다."
+      }
+    },
+    "casual6": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "스파 실내에서 드라이어 코드를 감는다. 정면 가까운 구성에서 윙크가 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "한 손으로 코드를 잡고 한 손은 드라이어 손잡이를 잡는다. 각각의 손목이 위팔까지 이어진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "한쪽 어깨가 드러난 프릴 의상이며 비침 아래에 불투명한 안감이 보인다."
+      }
+    },
+    "casual7": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "밝은 수영장 벤치에서 웃는 전신 컷. 바다색 상의와 주황색 수영복 하의가 대비된다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "오른손은 무릎 위 옷, 왼손은 벤치에 있고 양발은 마른 바닥에 놓여 있다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "접은 겉옷 위로 어깨와 복부 일부가 보인다."
+      }
+    },
+    "casual8": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "해변 밤 조명에서 넓은 챙 모자를 쓰고 정면을 바라보는 클로즈업."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "브이 표시를 한 손은 보이는 팔에 이어지고 나머지 손은 프레임 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "로브가 어깨 아래로 열리고 쇄골이 드러난다."
+      }
+    },
+    "casual9": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "정사각형 정비소 장면. 보라색 트위드 상하의와 뒤돌아보는 얼굴이 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "팔 둘이 어깨에 연결되고 손끝은 화면 하단에 일부 닿는다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "걷어 올린 소매와 열린 상의 사이로 어깨, 앞팔과 쇄골이 보인다."
+      }
+    },
+    "casual10": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "거실 소파에서 어두운 전술 의상과 검은 머리띠를 입은 코스프레 컷."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "탁자와 소파에 놓인 두 장갑 손이 각 팔의 손목과 이어진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "어깨와 복부가 드러나고 레이스 의상이 상체와 골반을 가린다."
+      }
+    },
+    "casual90": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "새벽 실크 공방에서 옆으로 앉아 실패를 양손으로 드는 실쿤 전용 장면."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "실패 양끝에서 양 손이 각각 팔로 이어진다. 의자 앞에 두 발이 보인다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "민소매와 짧은 치마가 어깨·다리를 드러낸다."
+      }
+    }
+  },
+  "skipped": [],
+  "composition_similarity": {
+    "casual1": {
+      "nearest": [
+        "니드런♀_anime_gloss_f_casual2.webp",
+        313
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual10": {
+      "nearest": [
+        "나무지기_anime_25d_gloss_f_casual90.webp",
+        294
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual2": {
+      "nearest": [
+        "깨비참_anime_25d_gloss_f_casual5.webp",
+        262
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual3": {
+      "nearest": [
+        "크레세리아_glossy_promo_f_casual3.webp",
+        274
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual4": {
+      "nearest": [
+        "라이코_anime_25d_gloss_f_casual4.webp",
+        239
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual5": {
+      "nearest": [
+        "암나이트_glossy_promo_f_casual2.webp",
+        234
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual6": {
+      "nearest": [
+        "보송송_anime_25d_gloss_f_casual1.webp",
+        274
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual7": {
+      "nearest": [
+        "독침붕_anime_gloss_f_casual5.webp",
+        281
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual8": {
+      "nearest": [
+        "키링키_anime_25d_gloss_f_casual2.webp",
+        244
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual9": {
+      "nearest": [
+        "포챠나_anime_25d_gloss_f_casual1.webp",
+        318
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    },
+    "casual90": {
+      "nearest": [
+        "단데기_anime_25d_gloss_f_casual90.webp",
+        297
+      ],
+      "duplicate_of": [],
+      "same_as_own": []
+    }
+  }
+}

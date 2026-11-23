@@ -1,0 +1,248 @@
+{
+  "card": "실쿤",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_light_anime_25d_gloss_f.webp",
+      "original_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e",
+      "sha256": "68096ee6a3bbb823aeb0389fe7e36631078674e80e54c60bcba968c636f90c82",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7b8601ceba5c256012e512ed36ec00b72fec017f691162afb7112e2ad9b6ec38",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "458d9257743d2c5b2a6b26311e4a962dc97d2e40f0ff2f29450d3db194a77069",
+      "sha256": "5437dd96ffdb827b5912ccfd7306eeec02cdd68b92a597cc47b85a0c6193d8ef",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "43d4852f6a674f390f5689951bda4094b06fa5420f253327e69b90ef7d874586",
+      "submitted_same": false,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual2",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "f312f5b3041f257894cbfc2d2d68e3b1172265708b170285d1993439a5641dce",
+      "sha256": "c076e0171e6cb6033270a47a6dede9d0506f99ce3bf08a366e37c81499144af9",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "16401d1d8b6034ab6100397a3b147dd18ef5b6433bdd4ba5a5db349315cb212c",
+      "submitted_same": false,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual3",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "dd9eefd77b099d2c032f7ee18079d387ffa6a807f353f5760bb5fad275633a5a",
+      "sha256": "2b3c0388ed6e8099f46402aa0a7454e783f24efec37394d9e7f37f342c41bef1",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7039527a5ccca556727a80f919a2f2c2c3c66716547240df26c53b13705dcca0",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual4",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "833b9e5b559c9c24dcd109a92ed3b02ecab811cfea33f5b673a3804f7b6db48f",
+      "sha256": "f541dd51e79249cdbe33575abd56a00f2b967a2fc1284297b118af8f1e5ab731",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d407504fcc790b504cdf85f2884ff85a269d613afe4df27d204087a98d1c2446",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual5",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "698fe870f22f1fe15c4d8c7ffe12f9dbd4a585f3f9ee4e52a2f69397d3493fd0",
+      "sha256": "1cbc1c3dca353521dd70f15a43d95e1cf98a0476b082cc0b0024884cb6288c1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "0faa79784d20d19a39c9f2f3ce9aa24102d20b7d79f5bef59164aeefe6983fb9",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual6",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "caf98400c773acd3bcffe83f8e3293bf6613033f84e09134b6028a95491dae78",
+      "sha256": "d9b5588a2bc96dfdab1743e4ff6b91d984ea58a9b1ddc5f0ff414b7680821db9",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d31b7033443b45ab779a67fa384d5b3b0687b33bd688ad9dc213a7074b38c691",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual7",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "bc42e63e52d182433dfd815ddfc39a130e6e502dc8a433d65e399bb3039b171c",
+      "sha256": "bec59063bcfa360e57f5afdba471c332b4552de82eee90f5e27a110eba7579bf",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6e28d662b504b4bbda6933457dbfa3ad35042ab5a18b920e207cc2f81a46becd",
+      "submitted_same": false,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual8",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "59172b98cab292902e891ba7701c19679118fdc93142fa643c1afde6b3051099",
+      "sha256": "bc4a7ce1521fe1ed6bb67f700f340779273889511b10b2885cd3bf146baf637f",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "34e224c7a59ad119f5524a59393de53cc676ca2d264c963c54f49c1798515cc1",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual9",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "19310bf8d8f1c47ca76fb281df398b45d784d53e75ce972a58df08fcb2c93978",
+      "sha256": "04c55de48d9dd257e542600a13dd529ee7807e360e4a7a1a52e21672febf26db",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "2d2eaa7e89f73cb2d207f49f7aa6608754fd4570ea9a16437c0696a6a4f155d5",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual10",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "c3696c359ab597e7878f8a1a9785ecb12c28e8dbec58c22ebecff647c975626e",
+      "sha256": "f4dd57b3095744f12ef0ccae8a457622c6ba47ae3d844973e1195f108dc1019e",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "65e274ef1bb7c9ce123fba851796aa07acdfe9b82603726fcb7e8b632fe67ff4",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    },
+    {
+      "slot": "casual90",
+      "card": "실쿤",
+      "style": "anime_25d_gloss",
+      "filename": "실쿤_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "fb6b04916bb68e6c810e3969d38417173f09ae6a325f2eee50037f0b8c93eb91",
+      "sha256": "2107335b83fc64a24f7b2f3c8bb7c54aca623cf38ca2b37c15a95ee82f45995c",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "945e51cec706cf7a274fc0a1aa4c8faeebc769fc52d0b7b05dbdc5e2b7732e96",
+      "submitted_same": true,
+      "reference_sha256": "0eb97192377f81d15013ed6bc5395c33f6ec8d368edfc1c504f8e20b403d816e"
+    }
+  ]
+}
