@@ -1,0 +1,272 @@
+{
+  "card": "독케일",
+  "style": "anime_25d_gloss",
+  "selection": 2,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae",
+      "sha256": "41051bb74260a14de17a666391938fb3a0848527fcfa2f146170eadf816e1e79",
+      "submitted_sha256": "23bcb4435086cc9c38377253be4225881d81a6cf742dfe83bbda7f095d67a28c",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "9d3fa75403ac56f5d7a1d3bfc2a8adfd571ec2b40343c8e63603e75e9af15b46",
+      "sha256": "fe61621b6470883714c152c1da5af44c7178df15315348c505d4e8c2e34669c7",
+      "submitted_sha256": "b745c301054c0e2b9a7035dc6d99907ef5e44c1622d5600a12644a22eb9c1d17",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual2",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "3c5b2d53071170d8b5437cf82b96136dfbdfef035af676ef6eb018ff5455240b",
+      "sha256": "eceba0eb56712fdde596a885e993c223664b230692e1f1d0d80b872e26b93865",
+      "submitted_sha256": "7ddb7314923ba7ea2d2e92a93e3d5225a40b3ff31c416f7a94cf9d12bfe30377",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual3",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "04b3dd7d64146641de2fa4497028f3678796cb40eb2963ea1254d3f56ae15133",
+      "sha256": "f8e5340b9002925695913b2855c25a97b18ccd6eab1ab8e323fe30d00618bc6b",
+      "submitted_sha256": "90c304550541214226ca07c0fb941ebf651b4adc61039674118537901b3aac46",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual4",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "474640944a892d2ea9746a8ea87aa174be640c99b64269700a75396d5d8e3cbe",
+      "sha256": "31b5d1abf32334506819009b44560eb4b539bf0853daa0a123bd5febe16c4b28",
+      "submitted_sha256": "c49fdc130038355666617824f0e2fe14fe2525702838e33c6909d7fe09476c55",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual5",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "planned_aspect": "3:2",
+      "aspect_matches": true,
+      "original_sha256": "5d1f3855f5754f0aa0e22c4e0881ef16db9f290ea897e78c0743ad5aebeda5f4",
+      "sha256": "641bd49bbef30a48ba03ac06e3c468b55250c9e6c2ba4057b58d1157b909c475",
+      "submitted_sha256": "1272eebd8fa9c835bab2fa9d5c126e74e03f87213cf03c8791732acb7788c214",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual6",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "6df0e6d8a0968e5a913c86fc24197026f66dc62eb452545824f6407152a122ee",
+      "sha256": "4b71b7cd4372800e972ff2caf382647e5ba05936664f3cb8bea2acc930934b54",
+      "submitted_sha256": "9ecca7580d9f789ae958b1e71bfa0fab34e0bc2b2f46c606acfd5f1206251218",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual7",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "301e8d3a825f0cc7c995f024f3ac8e083dba3245f8c6d7663e0c7028486c91ef",
+      "sha256": "9986a5e776881cc4f868ef660d8ba212f3e8b1ce5b8a14ed939e030db8b226e5",
+      "submitted_sha256": "b1ad6127b5c03feba054a9c478ccdaccf1e607a3cf901197cc5ac1f177d40f63",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual8",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "25a968a2b045558429d85eb85e704d839b992956b8bd5828dccae2516dcb6dad",
+      "sha256": "9edf1ff0b9896f0f4c707abbd38c2a9bae038fdfe801e9133109297e4cef51b3",
+      "submitted_sha256": "d43359f885bfc88163c5bc5167b9c1868f04343a942fccedc7fc465439780780",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual9",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "7069087d4f00bd2d84a76ef897050654210383876cc0633af16a5b27d72a4de7",
+      "sha256": "6a172c5810145c8313bdc721a58c01659789925e821fe7811286bc1f3d531d45",
+      "submitted_sha256": "286784ff30bfcec3683e8d60bbcee5e3bf83d3854107de2d5f295eb1098dfa79",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual10",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "1a464540b24429447084bd0b1f3659600429588f49fd50ab46f8b0f48bbc2f78",
+      "sha256": "aba46614485d9666b3c41b1081626e2ccdcdb5c214a7e0fb54be8f1bac12b5d1",
+      "submitted_sha256": "9b3d9e186dbc9a05af916b4f401f5e98a46a72ca74ae1d2ac69972c35b8124c3",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    },
+    {
+      "slot": "casual90",
+      "card": "독케일",
+      "style": "anime_25d_gloss",
+      "filename": "독케일_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "161f69c9603be33cc5862c87256f86cc5be1e7cf283ae87c9c25c6d064f61eb9",
+      "sha256": "38d0c0e8cf76b4cd85ab8fdd6cdea4aab51428551b8b1901fbdab1c9f6e2389b",
+      "submitted_sha256": "e6ae7e04147a5096686c3adc30cb799c77b5caf6df4d977dcf58f7f600969156",
+      "submitted_same": true,
+      "reference_sha256": "eb4905984aafd8097c81dace9ee551de5127946c221ade38b1eaf092cd8ee5ae"
+    }
+  ]
+}
