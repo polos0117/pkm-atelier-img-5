@@ -1,0 +1,248 @@
+{
+  "card": "뷰티플라이",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_light_anime_25d_gloss_f.webp",
+      "original_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f",
+      "sha256": "5b8e45458966b04d7fde120ba95a72ec049f75b94c767ec6192d246888d1cb67",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7ea52639eb1f167f7c3d0c481a9b2962303e4365fff7ea5c902c6de914b0d974",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "6835eae0572da538bf719a6440828837677a4429bc9376a588e5a382145fbf21",
+      "sha256": "3b847f428ad708d49ada27bef020efbc3787598df23b3b72424f499d28e4a71d",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "3f3c9ff6ec634cf1807bc866246752074de05911e7d315d83217ab0fe27f8995",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual2",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "fee33a1e010a30a90093e90ac484dab828fcb609abf83859299c0705ea6053fe",
+      "sha256": "37c94a44d4e7261a9814295711065403c1d6c392b60b6929bfe848ee5970da0a",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "129d23d2020e4b1841805c2c9afb4d42deaacdc7e82a548b13bea2c2f41c8f85",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual3",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "bd897affce8e52a456ab5c19435a0b49b253ae357f7d5329042a88aa64f19071",
+      "sha256": "51fd5824a02503a2e18c0b10c7aaa768aed7fcfa83daf5ef4d870091018e69ea",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "38202a39f6e356a670be854aa952428b0ab5cfa02ed1f3d1955f6c82c6b9b368",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual4",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "3ba30127bcaf0894ed9f550e2fa1f88d03ac2270d3a001a027bdf2c4731de386",
+      "sha256": "6bb2aa3c1fa24463b501b3e7e1b71f2a443f1d3b3b9946a3c9eb9369bf8e68ce",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "ad84c93b659f9c38f432c7c71dd45d6327d514cb393bcac0ac969bac9731cbb5",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual5",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "cbbab41120f59a6412891bcee945c8e997c9f016df7b1fafc3e0cf35e6b79cb7",
+      "sha256": "8cf13c37a59d348b72fe682499ca8e01cbf381f3f6f9d9bc2978543f74929b7a",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "8b2a15888a55499c10e41f25a7e357e062fb5dab7dcbf2f455719bcd1733e9cb",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual6",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "4c9f35923eeadc27f32e1587affac7a5f1ac247db14bde6cc31b172632e6aeee",
+      "sha256": "088164a3c001235598b9d0700d6e2ea0564d7c2c8397d2325d4af83783e3363a",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "fc8b073035bd46857a8e779c0f7a5dd66c464b087c5accbbdad8c06a53d75858",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual7",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "f38aaa2d8d50e9bb1383dc58e2ff749e6d07f929fb4043778a1e76ecb86a2869",
+      "sha256": "a0f941c3d8c4cfd6eb7b16636cf51717fab3e7142af629203ec8ef5dd811a765",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "5947696886b023f353500962e7e448ca4423455514de78f9597ba7d860818424",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual8",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "0c81729eb5813744b3706cd1600df497179ec24d219cf3bc7dd93e234e733e51",
+      "sha256": "23f526121ea3664fed0b8fb0102316a42a596210be9fe5f1e7545d983c803595",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6e8e36c7bd49b7955e6a41d0c65aee4cb8d0a98f3ab9350aecb5cf0cbc5883f3",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual9",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "f3adec7a5fd255079040a1316a0961d59fc926f7bc2d4a203b00835d037606c9",
+      "sha256": "9f7fb2f0db5b2189309575f04dd88a45ff83336993d5cd10342f10a3b6cd34a4",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "e39cced2eb0ef8f948ea060fe6225653f59c2bf2e960be76a657d0e48e1b0114",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual10",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "94f80684019a193d74acb5216acb24b0771829e1fdfa7e4c8c07809875503392",
+      "sha256": "eb2e4c7a29ad2dea3385efcd91e5ae56f2e6ea211945a636463564d653393737",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "8136ba0c9e556e1bf4dc53e8bf90ce26f46c40f2c2a7888f506344d4690c91b0",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    },
+    {
+      "slot": "casual90",
+      "card": "뷰티플라이",
+      "style": "anime_25d_gloss",
+      "filename": "뷰티플라이_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "53c64085f57360924c02dcbcadca722ecf3ba77d1ca9b112facae447c6d09713",
+      "sha256": "b961d05a87ccebfc5e3f392d98f1eb1eeaf70026804d55b6c30308a7f34fae83",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "7ada35df20e037fb89472f10b30ba3736358a43e913efab486d791ed46baf6fe",
+      "submitted_same": true,
+      "reference_sha256": "76d26c31cf2fe16a39da73aba2e15c0e7240c2e4b26839d12f2cb631b56e474f"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "card": "뷰티플라이",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "slots": {
+    "light": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "볼과 턱의 부드러운 색 전이, 광대 하이라이트 및 금속판의 입체 반사가 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "양쪽 장갑과 팔·다리 연결이 보인다. 아래 손의 일부 손가락은 굽힌 자세로 겹친다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "복부·허벅지 장갑 개방부가 보인다."
+      }
+    },
+    "casual3": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "열차 실내의 따뜻한 반사광이 볼과 코에 이어지고 보랏빛 트윈테일을 유지한다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "오른손이 젓가락을 쥐고 왼손은 접시 옆에 놓였다. 쥔 손 일부와 하체는 가려진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "목선과 위팔에 피부가 보인다."
+      }
+    },
+    "casual4": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "카페 채광 아래 볼과 턱 안쪽이 그라데이션으로 이어지고 금빛 눈을 유지한다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "카메라 앞으로 내민 손이 팔에 이어진다. 반대 손과 하체는 프레임 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "어깨와 팔을 드러낸 이브닝 의상이다."
+      }
+    },
+    "casual5": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "재단실의 측광에서 얼굴과 옷 표면이 다른 재질로 읽힌다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "앉은 자세의 양다리와 팔 연결이 보인다. 장갑 낀 손의 손가락은 서로 겹쳐 보인다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "코스튬에 날개 무늬와 더듬이 장식이 들어갔다."
+      }
+    },
+    "casual6": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "새벽의 차가운 채광과 따뜻한 피부 음영이 함께 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "한 손은 조개를 받치고 다른 손은 돌 계단을 짚는다. 두 다리와 발이 확인된다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "수영복과 허리의 랩을 착용했다."
+      }
+    },
+    "casual7": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "캠퍼스의 저녁 빛 아래 볼 음영과 선명한 황금빛 눈이 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "한 손으로 머리를 받치고 다른 손을 잔디에 댔다. 접힌 다리는 구도에서 일부 잘린다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "니트 상의의 어깨와 허리, 짧은 하의의 다리가 보인다."
+      }
+    },
+    "casual9": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "수영장 간접광에서 얼굴 윤곽과 서로 다른 재질의 입체감이 보인다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "내린 손과 선 다리·올린 다리가 분리된다. 반대 손은 몸과 의상에 일부 가려진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "게임 코스프레를 수영복 재단으로 해석했다."
+      }
+    },
+    "casual10": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴 확대에서 눈매와 턱선, 볼의 부드러운 음영을 확인했다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "볼을 만지는 손과 손목이 이어진다. 반대 손과 하체는 구도 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "장식 있는 상체 의상과 어깨의 베일을 확인했다."
+      }
+    },
+    "casual1": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "창가 조명과 따뜻한 볼 음영이 입체적이며 보랏빛 트윈테일이 뚜렷하다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "한 손이 사진을 집고 다른 손은 앨범을 받친다. 손가락 일부는 사진과 표지에 가려진다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "오픈 재킷과 새틴 코르셋을 확인했다."
+      }
+    },
+    "casual2": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "공항 창의 빛에서 옆볼과 코의 음영 및 입술 톤이 이어진다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "한 손은 옷깃, 다른 손은 허리에 댄다. 하체는 허리 위 구도에서 잘린다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "상체 유니폼의 허리 개방부와 장식 견장을 확인했다."
+      }
+    },
+    "casual8": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "호텔 창의 주광 아래 얼굴과 의상 톤이 부드럽게 이어진다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "앞으로 짚은 두 팔과 뒤로 뻗은 두 다리가 보인다. 맞닿은 손가락 일부는 겹쳐 보인다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "수영복 위에 연한 셔츠를 걸친 모습이다."
+      }
+    },
+    "casual90": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "실크 공방의 확산광이 얼굴·머리·실타래의 재질을 구분한다."
+      },
+      "anatomy": {
+        "tool": "unavailable: MediaPipe is not installed",
+        "hands": "두 손이 실타래 양끝을 잡고 팔꿈치와 손목이 보인다. 발은 구도 밖이다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "민소매 작업복과 짧은 치마, 날개 무늬 스카프가 보인다."
+      }
+    }
+  },
+  "skipped": []
+}
