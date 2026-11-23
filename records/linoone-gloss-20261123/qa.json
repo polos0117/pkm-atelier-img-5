@@ -1,0 +1,164 @@
+{
+  "card": "직구리",
+  "style": "anime_25d_gloss",
+  "slots": {
+    "light": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "광대·턱과 입가의 음영이 부드럽게 이어짐"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손이 팔에 연결됨. 편 손은 엄지 포함 다섯 윤곽이며, 쥔 손은 겹침으로 일부 가려짐.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual1": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "코와 볼의 부드러운 음영, 밝은 머릿결과 청색 눈."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "오락실의 앉은 허리 위 구도. 한 손은 뺨, 다른 손은 팔걸이에 이어지며 손끝 일부는 프레임에 걸친다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual2": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "눈꺼풀·턱의 입체 음영과 반사광, 기준의 머리와 피부색 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "새벽 푸니쿨라 정류장의 앉은 전신. 양팔이 어깨에서 이어지고, 시계를 누르는 손과 손목을 받치는 손 일부가 겹친다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual3": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "코·뺨과 입가의 부드러운 그라데이션, 기준의 청색 눈."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "야외 조리대 배경의 얼굴 중심 클로즈업. 소품을 잡은 손은 손목과 연결되며 반대 손은 프레임 밖.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual4": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "어깨와 얼굴에 광택이 있으며 볼과 턱에 입체 음영이 보임."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "서커스 무대에서 앉아 돌려 보는 구도. 두 손이 각 팔에서 자연스럽게 이어지고 겹친 손끝은 일부 가려짐.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual6": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "모티프 의상에도 기준의 머리·눈색과 코·턱 음영 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "의상실에서 팔짱을 낀 가슴 위 구도. 장갑 손끝이 팔 위에 놓이며 다른 손은 포개진 팔에 가려짐.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual8": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "기준의 얼굴형과 아이스 블루 눈, 부드럽게 칠한 볼·턱."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "천문관 무대 리허설. 벨을 쥔 손과 난간에 올린 반대 손이 각 팔에 연결되고 손끝 일부가 소품에 가려짐.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual9": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "빛이 들어오는 눈과 코·턱에 입체 음영."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "코스프레 촬영장. 들어 올린 손과 허리 위 손의 팔 연결 및 각 손의 윤곽이 읽힘.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual10": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "웃는 표정에서도 기준의 턱과 피부톤, 밝은 머리 및 부드러운 얼굴 음영 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "노래방 가슴 위 구도. 양쪽 위팔이 어깨에서 이어지고 팔 아래쪽과 손은 프레임 밖.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual90": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "측면에서 턱과 코의 입체 음영, 기준의 밝은 구름 머리와 피부톤 유지."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "분실물 보관소. 기록 기기를 잡은 손과 카운터를 짚은 손이 각각 팔에서 이어지고 손가락 일부가 기기에 가려짐.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual5": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "측면에서도 광대와 턱은 연속 음영, 기준의 투톤 구름 머리와 아이스 블루 눈."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "경기장 관중석에 앉아 소품을 든 손이 팔과 연결되고 반대 손은 무릎을 짚는다. 소품 손의 일부 손가락이 겹친다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    },
+    "casual7": {
+      "publish": true,
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "원경에서도 머리와 피부톤이 기준과 이어지고, 코와 광대에 낮은 대비의 입체 음영."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "hands": "헌책 가판을 크게 담은 가로 전신. 양팔과 다리는 각 관절에 이어진다. 작은 원경의 손가락 수는 일부 확인이 어렵다.",
+        "overlay_checked": false,
+        "issue": "ok"
+      }
+    }
+  }
+}

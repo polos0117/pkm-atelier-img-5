@@ -1,0 +1,251 @@
+{
+  "phase": "visually_reviewed",
+  "selection": 1,
+  "basis_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7",
+  "basis_file": "직구리_light_anime_25d_gloss_f.webp",
+  "basis_source": "atelier",
+  "face_prompt": "Face — her own structure, not the style's default face: softly elongated face, slightly long length, medium width — only gently longer than average, never stretched or gaunt; angular defined jaw; almond eyes, medium size, level outer corners, wide-set; feathered full brows; balanced nose; medium lips.",
+  "face_design_evidence": "Linoone's long cheek fur informs the elongated face and almond eyes. Small pointed teeth inform the defined jaw, and tuft-like ears inform the feathered brows.",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_light_anime_25d_gloss_f.webp",
+      "original_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7",
+      "sha256": "0a0802b6a3e34b3d41a1f18f54ef5710193cd74330be95e9b8c10f281e7f3d9d",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "bf19cecfa662185f481573a4e1993059aa670060395570d687832c6507590d19",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "cd23811340baa0f6cff678d9af59fe097296c6fb5a19b2eb8ecac1b95683369d",
+      "sha256": "184e15a35707c2ce4f7bfa42117f0d47a9ee2a39f45e0887d3291cb8a53b3b5b",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "d5c4a28a7dab7737a9ce77430ddf9965ebbee6460cb4f8b2a843db94308dcdfa",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual2",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "ca9946142c41e57c4160e0d754069a4721c928d143253cb0656c728c1e582da0",
+      "sha256": "713a2c107eac260563e3de053922ff8c01b4457748ad331237d2aad4d7c08885",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "8535cdfd648a844ba42c28efcdff5fb32d68dc4e17f4abeb103b50219018a272",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual3",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "882156a5dbbee04c6bd440ececf68e911cd1a6005bc5d0401443f5db66df8d22",
+      "sha256": "6e6d9b660ad5c010f0f56902c0b5a62a6bb7c8c2d9e0e4972ab43045ecfe5816",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "3f33b5fe36bcca2d67a6fa83a0eda864dd492a6b85b89e9d7d95f5965754bfcb",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual4",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "465fc303e3adf4a52f1ce235167fdbcd324b30ca98f09e73c58d074d3cc5bed0",
+      "sha256": "6259f5dc0a88bfe31ea53b810181d7b2dd1d725ea9d921dd2289fb78c84f112d",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6ef67ac6f4c55dae95c664ef70d4cc9e1b1cb664bbc622e6ce6b9f9f0d36d339",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual5",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "93335fa297f7ac34f606ecbb7be4290a8be09001fec5ccdb8876c8e8e7a81b8c",
+      "sha256": "0c161c3f7ce17a5b8764f9945c6f39c55010eb91d8ce21abea8d111c10fd0207",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "9881a98427c90b14bd5886e13e21634b651252ea18e8a00eb1c9e5f15afa67c4",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual6",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "5312fcf51cdef56b3d2088da61eabd1a90edc4560ee6373d23d77ad42d5bd442",
+      "sha256": "faf917c24894eb9321ced3a067e73ec1399c636b435632c00c067d2cde17399d",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "39475ee350d16afd3caa9376985d7403308604e69f41fe879cb8c3b0dd1300da",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual7",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "57a9685ac07d786b9c4b07a8126ff8d4b458d29cb9813e99540021184a1b9d3e",
+      "sha256": "5e95d591698ddfde87a238038649a646b7fe5573822b823e285c3a30520e7022",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "dc8baed03425811d6513770f638ec48ae51ae993ce9074c77c1e271e6f99270c",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual8",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "8039818e4ebdd1f356faf07afafc92d867f46da185770f5122257d56614d3777",
+      "sha256": "e5bf918d0d27deacd2627470d4ba6b6d5ed63bfa6c0786563563a8c92174f316",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "4c03e6e14ee80a73d80e792a6a8f08114ce7619117f5098052bb2c4b864cb605",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual9",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "671c066444b8d5158470a96abb144e2a60bf1b45b48365cca213534aee054c0c",
+      "sha256": "d2dc0a85207bc2b08794e5d182559112b2409f9a4d704da941c328ddf3ef6f98",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "baf4ed32bc00ca99190aed9dbf35cf0eee4b4fb7a63f23b19e19cdcc213c2841",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual10",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "07cf79717a7f0836392eebb10286b915606a6df9e72ad0d9aec3d5834010fe89",
+      "sha256": "c22c79d94982b09910aebdde059ad77c90a5ae094494f3d06a9a350a8c34f612",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "6813c5b0fd3e1f2e4d70a9f4f29b654f47c7d4ad4af855d655fc66f00e354b8c",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    },
+    {
+      "slot": "casual90",
+      "card": "직구리",
+      "style": "anime_25d_gloss",
+      "filename": "직구리_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "384d6756878661a8bee4c77ae0fe2bc64d9fa22a1e89142b987af852bf662e1f",
+      "sha256": "cdac6019698428d6bb6a8e455d51eaaec5d184c9cd4e0b1fbc5f5006b83a5a89",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "submitted_sha256": "0e4132e88612d32d5d8f1477329126d65dc226ba0de6faa3ffd0d4a32861b3a7",
+      "submitted_same": true,
+      "reference_sha256": "c6059c86039ca93316066ce320fe4999929628a9b4c2e2f71c555566763a86e7"
+    }
+  ]
+}
