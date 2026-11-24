@@ -1,0 +1,272 @@
+{
+  "card": "로파파",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07",
+      "sha256": "20d1b5555b805508a4ffc0bdcec5538ffe3c4678b0197b1c297a0fbe3e395632",
+      "submitted_sha256": "136d5cd444183cae639c9ebfe49fc368e31e3aefd0e12a0bfd8fcd7444e33937",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "2ca6db62fb7e232becc3deb12e9c50d487d43889ca7dc12af35dc8e1d3228934",
+      "sha256": "83888a6b99ad021f19e1bd9851f40584f16e13280e2fbd5632763ac8d429e97d",
+      "submitted_sha256": "a3320b5de2710c868088558477481049dfd34b789c4213b5f2ef5890b275977f",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual2",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "planned_aspect": "3:2",
+      "aspect_matches": true,
+      "original_sha256": "5789c9c429ade7e97caec252d6e0fbfa075663dda60615b74a43dab1ea6caf46",
+      "sha256": "f015637521327fba14f8d98eeb73ad343e40c475dfe9450d6213c127bcf5f9aa",
+      "submitted_sha256": "793174be205e5104ce6d8d9e348660676fa0e2f24c3cb348cd4c067b7a3468a0",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual3",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "24020e64f4299bdc546752caa257e83747b3db0fb139a933f83792c9dcaa6655",
+      "sha256": "b07f8d6ae11eb4301c28de8f5d1b708054f2353ad3a02f4ea06daab63332e69c",
+      "submitted_sha256": "f27fbedd2ceb3df4f6380ec9cb0a648fbc95e44f1613e4b6d08a545288c3b9de",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual4",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "26e5a963daac69148b94932c9c1583abc44f427f48e0c3e4adcd6ae3c803b203",
+      "sha256": "714db354a98a0bb443023d6ce932d7a169c9f3f54184adef1d396855882ac474",
+      "submitted_sha256": "6d046193aee14cbbb3daf264fda9659b7dd553e304c405abf37794e345be7499",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual5",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "planned_aspect": "3:2",
+      "aspect_matches": true,
+      "original_sha256": "ccff15d1b4105b40a6cb9836ac2ac994e3470af94e4cc42b4376c4be63d83df1",
+      "sha256": "ffd8ea90341ba4bf99464052d98f6c7e1a792918ae8224caf946ca3d69bacdcc",
+      "submitted_sha256": "4abce59915612d643c1ab76d3eccd7edbcc04a4fb9772b8fe5d7db27061a0388",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual6",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "168c8eaa82e71e5a7bae7c961ade37464184e2d73c95e04ca4fd07572ec87928",
+      "sha256": "16e65093293b8671112f43eb38ca63e0ec57572eb3ef8c257518cb7300596c8a",
+      "submitted_sha256": "662f737998deb0479bbedbee9be810568ebaabea8a631831d4b5ee90ab812df5",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual7",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "1831be1264e27657dd9d5463546d66b79cf13adc649b09aa061d5a78b8f4ade1",
+      "sha256": "f436b384f89225e7315989e14ef64e5c6e311c2a009e9aa9b289a7e904bfd62d",
+      "submitted_sha256": "74375e030fca2b4680f5b16d240a0b4dba34b8ca5885b91b23696afaba86db3b",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual8",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "0f1e5e19e417b63c4a8c27e5b40e02f6952730f6bd65b0619a26a58d2edb35ac",
+      "sha256": "dc5031c6255e0897ecf0a707db3d2e58630e6f2af52b4e3c2e873f580f712f3e",
+      "submitted_sha256": "76e839a0d95d58f589adab8a087304f9143805d502e1d9a860b6a1802bdb23be",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual9",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "c71385c3e37b5a400ac3fa6de40dd5d97f31b311d994d151abb85d3665e6d5e7",
+      "sha256": "93d9734731456eec38d6b6d390ed1fe5dfe82935739f003b902d85d4b072a974",
+      "submitted_sha256": "3b8ca8b343f3a392a236ec68f10b06f1ec9421341a61aec2ba146e5077951eac",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual10",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "planned_aspect": "3:2",
+      "aspect_matches": true,
+      "original_sha256": "fe772b05744d0af7ae8cd3eb17e654f135036000b34cfc145487ec4e4ef2eb1b",
+      "sha256": "074d088957abaf6b466f51104f01bacf573322b5076d0d61a80537aae2e7d127",
+      "submitted_sha256": "163425825c6f4f4f598955d61284a8d2275d9cf946ddf107f9591ee79e39e2c8",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    },
+    {
+      "slot": "casual90",
+      "card": "로파파",
+      "style": "anime_25d_gloss",
+      "filename": "로파파_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "474bec015c4206d2d21aadc5a520b505b884c0fe61da39d7634e358f538065fd",
+      "sha256": "aa974cdaf295f5ca1caa4ad55acfc7beb061e58a533fedfa9ed07f3b6f1b1127",
+      "submitted_sha256": "40ba0614d2adc1a88420339bc0babb7c1d6a79a7516cc1f527e984ad427f29e1",
+      "submitted_same": true,
+      "reference_sha256": "d191784ea8e947c019b4b85a1d99ae7f43e8a2676de7dbf1995b13dbd6345d07"
+    }
+  ]
+}

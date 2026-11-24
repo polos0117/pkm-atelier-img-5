@@ -1,0 +1,195 @@
+{
+  "card": "로파파",
+  "style": "anime_25d_gloss",
+  "selection": 1,
+  "image_repo": "pkm-atelier-img-5",
+  "review": {
+    "light": "User selected option 1. Single full-body mecha figure with lily-pad silhouette, green-and-gold armor and water effects.",
+    "casual1": "Maintenance shed. Half-kneeling work pose; both arms and legs connect naturally.",
+    "casual2": "Night ski-lift scene. Seated costume pose; both hands and legs remain continuous.",
+    "casual3": "PC-bang square portrait. Both gloved arms connect through the elbows; lower legs are outside the crop.",
+    "casual4": "Poolside gear-room scene. Seated pose with dessert; visible limbs connect naturally.",
+    "casual5": "Photo studio set. Reclining silk sleepwear pose; both arms and both legs remain continuous.",
+    "casual6": "Open-air spa at evening. Seated robe pose; both hands are attached and leg overlap is natural.",
+    "casual7": "Neon bar close portrait. Cocktail hand connects to the forearm; the second arm is cropped by framing.",
+    "casual8": "Arcade-inspired free scene. Drum-playing pose; both hands and bent legs connect naturally.",
+    "casual9": "Carousel cosplay scene. Popcorn and rail hands connect to their respective arms.",
+    "casual10": "Campus lawn landscape. Reclining pose with both arms and legs continuous.",
+    "casual90": "Indoor pool aqua-aerobics instructor. Kickboard grip and resting hand both connect naturally."
+  },
+  "anatomy": {
+    "light": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "User selected option 1. Single full-body mecha figure with lily-pad silhouette, green-and-gold armor and water effects."
+    },
+    "casual1": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Maintenance shed. Half-kneeling work pose; both arms and legs connect naturally."
+    },
+    "casual2": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Night ski-lift scene. Seated costume pose; both hands and legs remain continuous."
+    },
+    "casual3": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "PC-bang square portrait. Both gloved arms connect through the elbows; lower legs are outside the crop."
+    },
+    "casual4": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Poolside gear-room scene. Seated pose with dessert; visible limbs connect naturally."
+    },
+    "casual5": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Photo studio set. Reclining silk sleepwear pose; both arms and both legs remain continuous."
+    },
+    "casual6": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Open-air spa at evening. Seated robe pose; both hands are attached and leg overlap is natural."
+    },
+    "casual7": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Neon bar close portrait. Cocktail hand connects to the forearm; the second arm is cropped by framing."
+    },
+    "casual8": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Arcade-inspired free scene. Drum-playing pose; both hands and bent legs connect naturally."
+    },
+    "casual9": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Carousel cosplay scene. Popcorn and rail hands connect to their respective arms."
+    },
+    "casual10": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Campus lawn landscape. Reclining pose with both arms and legs continuous."
+    },
+    "casual90": {
+      "issue": "ok",
+      "overlay_checked": true,
+      "tool": "visual",
+      "note": "Indoor pool aqua-aerobics instructor. Kickboard grip and resting hand both connect naturally."
+    }
+  },
+  "style_25d": {
+    "light": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual1": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual2": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual3": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual4": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual5": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual6": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual7": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual8": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual9": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual10": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    },
+    "casual90": {
+      "verdict": "pass",
+      "basis": "Glossy anime 2.5D rendering, soft modeled skin, layered hair highlights and dimensional material shading."
+    }
+  },
+  "exposure": {
+    "light": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual1": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual2": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual3": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual4": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual5": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual6": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual7": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual8": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual9": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual10": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    },
+    "casual90": {
+      "verdict": "match",
+      "basis": "First returned image preserved without exposure-based regeneration."
+    }
+  },
+  "skipped": []
+}
