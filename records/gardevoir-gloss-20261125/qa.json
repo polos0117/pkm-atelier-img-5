@@ -1,0 +1,159 @@
+{
+  "selected": 4,
+  "style": "anime_25d_gloss",
+  "slots": {
+    "light": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Two arms and legs connected. Both gloved hands have five fingers; no duplicated limbs."
+      },
+      "notes": "Selected by user; thigh exposure retained without regeneration."
+    },
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Retry 2: hood is visible; fabric dress and stockings replace most plate armor. Remaining angular costume decorations retained."
+      },
+      "notes": "Retry 2: hood is visible; fabric dress and stockings replace most plate armor. Remaining angular costume decorations retained."
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Reclining garden lounger; bouquet grip obscures fingers; right hand behind head occluded as planned."
+      },
+      "notes": "Reclining garden lounger; bouquet grip obscures fingers; right hand behind head occluded as planned."
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Armillary sphere with one hand on rim and other holding leaflet; full-body pose clear."
+      },
+      "notes": "Armillary sphere with one hand on rim and other holding leaflet; full-body pose clear."
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Seafoam embroidered corset, thumb touches strap; lower left hand outside crop."
+      },
+      "notes": "Seafoam embroidered corset, thumb touches strap; lower left hand outside crop."
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Elwin cosplay; ice cream cone gripped in right hand, left supported on rail."
+      },
+      "notes": "Elwin cosplay; ice cream cone gripped in right hand, left supported on rail."
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Wet romper and open shirt in Center lobby; pen hand at lips; other arm continues below crop."
+      },
+      "notes": "Wet romper and open shirt in Center lobby; pen hand at lips; other arm continues below crop."
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Hammam close-up with foam in hair; visible shoulder-to-forearm connection, raised fingers partially occluded in hair."
+      },
+      "notes": "Hammam close-up with foam in hair; visible shoulder-to-forearm connection, raised fingers partially occluded in hair."
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Pancake cafe; fork grip right, plate rim grip left; intentional wobble marks retained."
+      },
+      "notes": "Pancake cafe; fork grip right, plate rim grip left; intentional wobble marks retained."
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Snowy hill with one foot on step; right hand on hip and left hanging relaxed."
+      },
+      "notes": "Snowy hill with one foot on step; right hand on hip and left hanging relaxed."
+    },
+    "casual10": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Pink magician costume at museum table; both gloved hands visibly connected to forearms."
+      },
+      "notes": "Pink magician costume at museum table; both gloved hands visibly connected to forearms."
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (tool exit 3)",
+        "arms": 2,
+        "legs": "cropped/partially occluded",
+        "hands": "Visible hands connected; visible fingers counted, hidden fingers recorded as occluded",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Ballet studio, near right hand holds shoe and far left hand rests on barre."
+      },
+      "notes": "Ballet studio, near right hand holds shoe and far left hand rests on barre."
+    }
+  },
+  "regenerations": [
+    {
+      "slot": "casual1",
+      "reason": "Outfit mismatch: hard mecha plates instead of hooded costume dress",
+      "changed_prompt": false,
+      "attempts": 2
+    }
+  ],
+  "skipped": []
+}

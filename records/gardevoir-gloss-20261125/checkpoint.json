@@ -1,0 +1,213 @@
+{
+  "card": "가디안",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "status": "generated_and_verified",
+  "count": 12,
+  "manifest": [
+    {
+      "slot": "light",
+      "original_sha256": "172291064a9e969383eb165632f7d3601ce1d80669288a4fe82ece2ff0f6afb6",
+      "output": {
+        "file": "가디안_light_anime_25d_gloss_f.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "e7fe6cd43391830a9955cc98be708c2683fd4b8ebbdc2604d9eb309376eb1a05"
+      },
+      "submitted_sha256": "68e4b077dcf0cfa63eaf7e4cd74bbb2a56b3c8a606aa15c2843d0c152766e7b1",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/gardevoir-pack/mecha-4-original.png",
+      "reference": "text only; GPT design B"
+    },
+    {
+      "slot": "casual1",
+      "original_sha256": "573f0a4bbb43d120f3a26ac1d093aba7eca946656bda346e96d822af7b25c24c",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual1.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "86845eb56a094a9068fbeb4784be539441fa9628c55a89e84febfb7dd4aea152"
+      },
+      "submitted_sha256": "93572313a4256a0d242e1356dee0e931e59fbd08f725a48a469e27b1fd993896",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-d106acba-d502-4ee3-a4a7-5afcd3e96bef.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual2",
+      "original_sha256": "583ec518dbc6bc907f92d0c9c422714a6a7559f40e699694a17a2cdf21ffa53e",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual2.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "format": "WEBP",
+        "sha256": "3d0c027e8cbad27e60ce7dafb85c36203df6e08d7f884cec8f099b063da17010"
+      },
+      "submitted_sha256": "734f1c4399b7ba5331734d296b2cd3e93e894eff804f306d5aff9b4ddd4c56da",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-7b808e33-4bf6-4698-83bf-2d151ea1f14a.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual3",
+      "original_sha256": "148b45946dabd02d965eb7c2b3933a1ddfdfb402eec11d1cfdc70f6e87ce9c71",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual3.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "263ddba918782b07dce357a1610a7776e47ef8dd08d57bcc7bce0d0224f1937a"
+      },
+      "submitted_sha256": "14d1c45b8957516c9ef6350eae5d65393814d942de9abda200b2cab83f422440",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-f2a3cb87-3848-467c-92d5-8aca3b810ccf.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual4",
+      "original_sha256": "2e37c2b32452d4a3faeb49e853b796bbbd86e366c9bb34ef5cf13f9c7423b99e",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual4.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "87ac107ca12d1502a431e69c0e450ad34d38338e2952b4e56cf8c012edd54456"
+      },
+      "submitted_sha256": "22534439ffcc6cbcd8c40da0e2e16bac3c827570351785b7381688c6de9ad6ae",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-f0a02f15-ad3a-43fc-b55e-af74bf097a28.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual5",
+      "original_sha256": "ce9a2c7c630693c0fd5b1f621abac04ffdfe04b822b71e53ff2f813691b43b90",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual5.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "5a4d64b9351589ec52f4b6ab0e7db40c23decbd5935e60bd5cc4324b35eedf65"
+      },
+      "submitted_sha256": "05a870d4ce4583614173ec1d0f4762ccb9ed4cff6505086c32db9d3587896479",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-85675315-7c63-4585-b102-32639188e4f5.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual6",
+      "original_sha256": "20c80b2017f8422ba9b73d8eeb459829f51d0e516670b8417e931cea9539a8f9",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual6.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "ccb0b3213c1b94c5d495b8f2840ae6b554d253c9ddbe8b94c1d76153ec21ccd7"
+      },
+      "submitted_sha256": "69016408f2e266dd0800006746ad8ccc06ec52ab7d416360eb45c04ae55032ab",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-432d6b51-4ed7-47eb-ba57-3ce7c8939ed6.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual7",
+      "original_sha256": "ea77a5fa429e6bff7b534e7c37406722d67e89eb790fecb1cd629d9cf857bd64",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual7.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "24fda58b087a1eb6ad58cc12ba251d156935363d0680bd22dd21c78348cc375c"
+      },
+      "submitted_sha256": "fe9e56af5e545fc1621d96608a83a1325a95e4915f723c0daf715d8fd6cb4cd9",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-590bd681-6a0e-443c-9f8a-e16cca0076e1.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual8",
+      "original_sha256": "41456d821d3514d3ca888fee739a987ac245b57343404e2986505f6a75fec727",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual8.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "4b0640aa55c7134408c91fc75f454c16445c589cfe245a7196ce953d8550d8d8"
+      },
+      "submitted_sha256": "3d2bda00b036ef747ce291f1a5ea5351db9e5d93e699667ec6155d22280e75bd",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-a7b28584-1d10-4aca-a116-e39f6e5df8c4.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual9",
+      "original_sha256": "aa4bf00bac223e233200c6f77f5de7664c4517032a76be30dccbbaa436e2aad9",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual9.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "025b6425a78a58edf05c18d70f098e8d6b9810466225a707dd793c0f3d88785b"
+      },
+      "submitted_sha256": "8c43ec043ad26adc78115fd1b830a87e110ed504968d40ecec93a24bd25a62fc",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-30d6b5ed-1255-48c2-a6bf-28e3752b68fc.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual10",
+      "original_sha256": "12304a1cbe262b508eac93fc72c66434c64f4538363f294197ca32b41d24a799",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual10.webp",
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "WEBP",
+        "sha256": "da535acaaa9d250a381b1f1436075c7a79ef3579be07b314e5bf9e0245a241f4"
+      },
+      "submitted_sha256": "b65fcf49a50a121ea052fe261ad870ced2bbfc55b757e367fc05fa4deab47768",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-ae608376-963f-4417-9b83-a1c8d65e0cc0.png",
+      "reference": "selected mecha #4"
+    },
+    {
+      "slot": "casual90",
+      "original_sha256": "357df5a1a82560d899c9b77df82df883563fb2fd61881963a1a97ded971b4962",
+      "output": {
+        "file": "가디안_anime_25d_gloss_f_casual90.webp",
+        "size": [
+          1024,
+          1024
+        ],
+        "format": "WEBP",
+        "sha256": "e4895d2817a2143612712dac4c68c3aef1a84c0d23fa475ac264384aecfd7dc4"
+      },
+      "submitted_sha256": "a20b9a60744cb2e116c1db8d4b03b2cca1c80680ff6efda9cd3f7a7b9c047d00",
+      "submitted_same": true,
+      "source": "/workspace/scratch/b06774bc90f4/generated_images/exec-aeb45873-0efb-44dd-b5f1-9fccb110d2c2.png",
+      "reference": "selected mecha #4"
+    }
+  ]
+}
