@@ -1,0 +1,269 @@
+{
+  "card": "랄토스",
+  "style": "anime_25d_gloss",
+  "selected_mecha": 1,
+  "expected": 12,
+  "generated": 12,
+  "regenerated_for_exposure": 0,
+  "skipped": [],
+  "checks": [
+    {
+      "slot": "light",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "양팔·양다리 정상 연결, 편 손 다섯 손가락과 쥔 손의 겹침 확인.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "경장 장갑과 허리·허벅지 개방. 전신."
+      },
+      "scene_evidence": "경장 장갑과 허리·허벅지 개방. 전신."
+    },
+    {
+      "slot": "casual1",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "양손은 튜브와 밸브에 각각 연결됨, 잡은 손가락 일부 가려짐.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "리조트에서 튜브에 바람을 넣는 티그나리 코스프레. 어깨·허리·허벅지 노출."
+      },
+      "scene_evidence": "리조트에서 튜브에 바람을 넣는 티그나리 코스프레. 어깨·허리·허벅지 노출."
+    },
+    {
+      "slot": "casual2",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "아이스크림 쥔 손과 바닥을 짚은 손 정상 연결, 굽힌 손가락 일부 가려짐.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "놀이기구 출구에서 아이스크림. 의상은 도구가 자유 의상 주문에서 설계한 데님 홀터·짧은 레이스업 하의. 어깨·허리·허벅지 노출."
+      },
+      "scene_evidence": "놀이기구 출구에서 아이스크림. 의상은 도구가 자유 의상 주문에서 설계한 데님 홀터·짧은 레이스업 하의. 어깨·허리·허벅지 노출."
+    },
+    {
+      "slot": "casual3",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "책을 쥔 손과 몸 옆으로 내린 손 정상 연결. 걸음 양다리 정상.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "강의실에서 책을 들고 걷는 케바야와 바틱 사롱. 측면에 가까운 얼굴 방향은 기록만 함. 허리·허벅지 드러남."
+      },
+      "scene_evidence": "강의실에서 책을 들고 걷는 케바야와 바틱 사롱. 측면에 가까운 얼굴 방향은 기록만 함. 허리·허벅지 드러남."
+    },
+    {
+      "slot": "casual4",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "입술 앞 손의 팔이 어깨에 연결, 다른 팔은 화면 밖; 추가 손 없음.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "경기장 배경의 해적 의상 얼굴 클로즈업. 어깨·가슴선 노출. 몸·다리는 프레임 밖."
+      },
+      "scene_evidence": "경기장 배경의 해적 의상 얼굴 클로즈업. 어깨·가슴선 노출. 몸·다리는 프레임 밖."
+    },
+    {
+      "slot": "casual5",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "내린 손과 무릎 위 손 각각 팔에 연결. 계단 위 굽힌 다리 정상.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "수중 궁전의 유리 벽과 바다 풍경, 하네스 보디수트. 등·어깨·허벅지 드러남."
+      },
+      "scene_evidence": "수중 궁전의 유리 벽과 바다 풍경, 하네스 보디수트. 등·어깨·허벅지 드러남."
+    },
+    {
+      "slot": "casual6",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "귓나팔을 든 손과 허벅지 위 손 정상 연결. 양다리는 의자 위에 겹침.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "옥상 정원의 매달린 의자에서 도시의 소리를 듣는 자유 장면. 어깨·옆허리·허벅지 드러남."
+      },
+      "scene_evidence": "옥상 정원의 매달린 의자에서 도시의 소리를 듣는 자유 장면. 어깨·옆허리·허벅지 드러남."
+    },
+    {
+      "slot": "casual7",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "컵을 든 손과 허리 위 손 정상 연결. 한 발은 낮은 단 위에, 한 발은 바닥에.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "축제 게임방의 버건디 기하학 이벤트 의상. 계획한 무릎 대신 발을 단에 올린 변형, 기록만 함. 어깨·옆허리·허벅지 드러남."
+      },
+      "scene_evidence": "축제 게임방의 버건디 기하학 이벤트 의상. 계획한 무릎 대신 발을 단에 올린 변형, 기록만 함. 어깨·옆허리·허벅지 드러남."
+    },
+    {
+      "slot": "casual8",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "바위 위 짚은 손과 무릎 위 손 정상 연결. 다리 아래는 프레임 밖.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "조수 웅덩이 해안의 코랄 수영복, 머리 장식이 기준 이미지에서 남음, 기록만 함. 어깨·다리 드러남."
+      },
+      "scene_evidence": "조수 웅덩이 해안의 코랄 수영복, 머리 장식이 기준 이미지에서 남음, 기록만 함. 어깨·다리 드러남."
+    },
+    {
+      "slot": "casual9",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "세면대 양옆에 짚은 양손 정상 연결. 다리 아래는 프레임 밖.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "욕실의 랄토스 코스튬. 거울은 동일 인물의 반사이며 새 인물이 아님. 어깨·허벅지 드러남."
+      },
+      "scene_evidence": "욕실의 랄토스 코스튬. 거울은 동일 인물의 반사이며 새 인물이 아님. 어깨·허벅지 드러남."
+    },
+    {
+      "slot": "casual10",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "몸 옆 내린 양손과 양다리 정상 연결.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "셀프세차장 벽에서 쉬는 제복풍 역할극. 실제 로고 없음. 어깨·가슴선·허리·허벅지 드러남."
+      },
+      "scene_evidence": "셀프세차장 벽에서 쉬는 제복풍 역할극. 실제 로고 없음. 어깨·가슴선·허리·허벅지 드러남."
+    },
+    {
+      "slot": "casual90",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "허리 위 오른손과 머리 옆 왼손 정상 연결. 다리 아래는 프레임 밖.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "원본 육안 확인. 프레임 밖 또는 소품으로 가려진 부분은 확인하지 못한 것으로 기록."
+      },
+      "style_25d": {
+        "판정": "2.5D",
+        "근거": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영과 가는 색 윤곽, 피부와 직물의 반사광."
+      },
+      "exposure": {
+        "판정": "match",
+        "근거": "발레 연습실·바·거울과 핑크 레오타드. 같은 사람의 거울 반사. 어깨·다리 드러남."
+      },
+      "scene_evidence": "발레 연습실·바·거울과 핑크 레오타드. 같은 사람의 거울 반사. 어깨·다리 드러남."
+    }
+  ],
+  "similarity": {
+    "result": "pass",
+    "threshold": 215,
+    "report": "look-check.txt",
+    "nearest": 231
+  }
+}

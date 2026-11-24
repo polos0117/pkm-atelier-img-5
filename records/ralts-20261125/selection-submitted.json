@@ -1,0 +1,26 @@
+[
+  {
+    "number": 1,
+    "file": "ralts-final-pack/light-prompt.txt",
+    "sha256": "d8e375b189f20261f38ac4b8d3e5ac2bbf3020830297c1c15cb47f40f447de80",
+    "same": true
+  },
+  {
+    "number": 2,
+    "file": "ralts-final-pack/light-prompt.txt",
+    "sha256": "d8e375b189f20261f38ac4b8d3e5ac2bbf3020830297c1c15cb47f40f447de80",
+    "same": true
+  },
+  {
+    "number": 3,
+    "file": "ralts-final-pack/light-free-1-prompt.txt",
+    "sha256": "8445dccb12dc2b19b64e54ba5f9a9d55a04a8ac1d280ee8b04b2159b5e268b65",
+    "same": true
+  },
+  {
+    "number": 4,
+    "file": "ralts-final-pack/light-free-2-prompt.txt",
+    "sha256": "08d76df23c2d0baf97429f10a3c42139b776cfcb158b7de3bd4aba715b7d4e86",
+    "same": true
+  }
+]

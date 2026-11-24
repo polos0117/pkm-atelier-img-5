@@ -1,0 +1,230 @@
+[
+  {
+    "slot": "light",
+    "original": "/workspace/scratch/f0f62a98d8a1/ralts-selection/ralts-mecha-1.png",
+    "original_sha256": "f45b5974643c7afa6bb228f98bebb1bf35e16ccf36d8838068a238bb08df34d2",
+    "file": "랄토스_light_anime_25d_gloss_f.webp",
+    "webp_sha256": "c68ea2442b5eedd5f75be0663957f54361e4f767e945ac365cfb09c264577f4b",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "user selected mecha 1",
+    "submitted_sha256": "d8e375b189f20261f38ac4b8d3e5ac2bbf3020830297c1c15cb47f40f447de80",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual1",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-53e2fd88-f9f2-4a3b-b4b5-9022799ddc1c.png",
+    "original_sha256": "3a97b5d7e334d3f2ab7a1dead5695ba868b8f729845f658c7f0704e78f09ff1d",
+    "file": "랄토스_anime_25d_gloss_f_casual1.webp",
+    "webp_sha256": "0b9d8667bb40a9cf9bb1f3156d1b49b18fcbc98d9050459334a9e6871018dc22",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "997a825c520b35f4ee04e449ce1121fe98056889fe431e44867da7b39fb2e9ad",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual2",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-8f563c86-96cd-43ea-9c9f-12f60ba13c79.png",
+    "original_sha256": "e3827633eb77ec8b49f4e9a4f87761d2f6b906a0d723a4bbb0533107990165b1",
+    "file": "랄토스_anime_25d_gloss_f_casual2.webp",
+    "webp_sha256": "193da3073c5413c3b23afaef846fea5c49eb0478db7f00a53b796a75c583da3a",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "00e2daaab573aeb3ecda814016fa03330992d43f2ed37b40faa756081bb9b1a3",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual3",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-ce0af9a2-ea39-4390-bc6c-c610a0b95a2c.png",
+    "original_sha256": "c753bdd1aeeb2d02e20496dcfa322451cd0165be023b0b8f5d85a7a66255916f",
+    "file": "랄토스_anime_25d_gloss_f_casual3.webp",
+    "webp_sha256": "b9c6d76f254e17661008f06f87203a7b3e438cd68d7fda39c6feef1ad1e1cfb6",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "6b3bf7fcf6c7a4c603503240f34930e4c8bc9e0e120b8bda5dd8ee929e920cd5",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual4",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-d45e1619-7c55-4792-b999-9f11256f796e.png",
+    "original_sha256": "e8684adb9f63e6ce7ec997d14abf5c3ca05f0f66beddcf0eac89e33982c2faf1",
+    "file": "랄토스_anime_25d_gloss_f_casual4.webp",
+    "webp_sha256": "87b4fdbe817f5f68c01f43ed1feb7383b87577db8ebfe9452069723c098e6f0f",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "c880cea5fec01960f6e98de90699e4f425e7f03243221044be65962936fd625e",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual5",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-3df5e61b-bc58-4a45-bed7-e0e560e3baad.png",
+    "original_sha256": "d07b9081f204ca2a2c409084b0cb12527f1215ab4d4c7a4571ae41462b6adb26",
+    "file": "랄토스_anime_25d_gloss_f_casual5.webp",
+    "webp_sha256": "7193df557d113f456abd8c70e6abe016d5166585aaad5554ed67741c335e06d8",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "78701db1ea5c1ec3bc1530bf8a59841877da9d4765295adf6569cc3814bf15d1",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual6",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-58ed9934-1d62-4ddc-b415-2701219b48d8.png",
+    "original_sha256": "b321c416773be6caaf28b144bda05fce1880ba2bf5721e373a6e93676533bbfa",
+    "file": "랄토스_anime_25d_gloss_f_casual6.webp",
+    "webp_sha256": "709537363fde40e4c9952307afa3eae12f42f4172d5f5bb4f877111e7868787f",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "7a46ee5dc76a5689d451240e0cf91c4c2e805fd61558d9f4bb0c2d5c081d4df3",
+    "submitted_same": false
+  },
+  {
+    "slot": "casual7",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/ralts-casual7-original.png",
+    "original_sha256": "01552eace7cc4b6fcb049a6c9ed7d335d47dff87b55892e2a05f111eacc12551",
+    "file": "랄토스_anime_25d_gloss_f_casual7.webp",
+    "webp_sha256": "a589f870a728d6418dc2e786e6d17b1549db6dc031e0255a6987d7458999f223",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "7e7c9eb0ba0e02543506d5864428eb0e0cfcb7c503304f326f683fb5a138f523",
+    "submitted_same": false
+  },
+  {
+    "slot": "casual8",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-0a1501be-5182-42e5-9330-af5abb050f66.png",
+    "original_sha256": "035f7f937600e40980fb2fcafe645afb5708dc41b0e088188fbb9738197b97ad",
+    "file": "랄토스_anime_25d_gloss_f_casual8.webp",
+    "webp_sha256": "3aeadab99a966df46d9297c7a12a04041b7fff0d2139f91b7ba337bbc9d3c4b3",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "aacecb584101bf460fc49978f389e418028adc7e5ce5376beb21f4a2bd549790",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual9",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-72fd5e26-e8f3-49ca-9eb5-9b218d6242c4.png",
+    "original_sha256": "ea12d49446763f17e5671ba3f645f8af0667505f0ad75e06f30945d5e14f67f3",
+    "file": "랄토스_anime_25d_gloss_f_casual9.webp",
+    "webp_sha256": "0ec876e3faafabb3475bbcbe6c34bef7a7d1cd56b531865c19785297ae3c4ccb",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "6834edc1a068696bf3c7bc5fc611740b843c2b8418ed6768c93693a784997ef6",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual10",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-0b89032b-1d1d-4431-b893-24b2abbbd5a5.png",
+    "original_sha256": "01fe25637a42f9b10bb5e5a224294b43d5dae24c7743554541034ddffa36d47c",
+    "file": "랄토스_anime_25d_gloss_f_casual10.webp",
+    "webp_sha256": "c9605ba69e9482cfd0f9feae0d6db4ac1bef9fdfa47a076e3396ef6c08921204",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "1ed783ec6ef3e76a6244d218af9764047b0e3b64c23856e97a689d6128598873",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual90",
+    "original": "/workspace/scratch/f0f62a98d8a1/generated_images/exec-2634689d-6bf2-497a-8468-a341b8e0c4a8.png",
+    "original_sha256": "66632783dbcd8777e1cde83b6aa23fb7389f2f6a96a83bc86e8257ce89b32003",
+    "file": "랄토스_anime_25d_gloss_f_casual90.webp",
+    "webp_sha256": "00b0fe117c86db28f0c8b33c57b2a4f8c6b0e64f4f0fbc849fa0834e5a6b20af",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "webp",
+    "quality": 85,
+    "method": 6,
+    "style": "anime_25d_gloss",
+    "card": "랄토스",
+    "basis": "selected mecha 1 attached",
+    "submitted_sha256": "6e6b02b2710a242014fa507317302e2399f137847548d8f3e73608b0191a7948",
+    "submitted_same": true
+  }
+]
