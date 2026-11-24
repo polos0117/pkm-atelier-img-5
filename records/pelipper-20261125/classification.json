@@ -1,0 +1,230 @@
+[
+ {
+  "slot": "light",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_light_anime_25d_gloss_f.webp",
+  "shard": 4,
+  "original_sha256": "63f68d0a44f1f627dbf5b59d7b7ba4bb35e657a3246efa92675ba5bce1e85bb7",
+  "sha256": "82bd8031e80f2e86a0661be03e6f6350e1404b31da631fda1d117806661caeeb",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "d86f84425d9df437508b1ee26aecf09f06077371d5bb9e590143df73f30b98af"
+ },
+ {
+  "slot": "casual1",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual1.webp",
+  "shard": 4,
+  "original_sha256": "5b1b6e0f977b72ec50e71e9f8a88db65293902d353d657647dd3dd432b59b862",
+  "sha256": "13c5aeb02180be8aa6159b51bd047cede19f0125493beaa7485f719d050777a7",
+  "size": [
+   1536,
+   1024
+  ],
+  "original_size": [
+   1536,
+   1024
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "5fde80fd44d7d8d4148e7528e03ba23664465a892469a23b94fd2eff8dd7f7bf"
+ },
+ {
+  "slot": "casual2",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual2.webp",
+  "shard": 4,
+  "original_sha256": "e6ab7673520410987419bece9cd1a63de7f9d69817f783c20335c715da7ae999",
+  "sha256": "d12bf923bcfbb12b06bae740a9b3d2ff7ee5fcaf4ab5994f70a1bcfa9038358f",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "2138958813b456bacfc8ff6ae265247bbbb2b1feb7c22fc1c018c9220ce2cc21"
+ },
+ {
+  "slot": "casual3",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual3.webp",
+  "shard": 4,
+  "original_sha256": "7993d087b49c9691e93ac950bee566e5b1f2ec9e9c890fb9037b5ab0aec350f5",
+  "sha256": "02a06cb9c445276a562b16d2319c8c66bf6ce3dffdd934a62ce6b1c39ff5ccf9",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "851bba889a14f880d1f50bc09860c6dee5c6be9b465daf5acfc7e0ab6bc321f3"
+ },
+ {
+  "slot": "casual4",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual4.webp",
+  "shard": 4,
+  "original_sha256": "cde7f60f586d8da5b42de497cb8b38f86f430fa95fbb2b41e0225648ee969783",
+  "sha256": "9bedf8ff019db01da65b7fc5efe776d39a9bf562efba7095d04e3339072e81b2",
+  "size": [
+   1536,
+   1024
+  ],
+  "original_size": [
+   1536,
+   1024
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "e04bc4863c9ad24ddfc45bfc0c73e78411dbd6e4e74e4d6a84fbb70f60515418"
+ },
+ {
+  "slot": "casual5",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual5.webp",
+  "shard": 4,
+  "original_sha256": "25215e75a779aa46ff0f037bb61b830a7beb870e60ca412cc52ddfbec59038e0",
+  "sha256": "ebe7b40f65ddeffdc126332cae55e54df7d3483bc165ecf05fd320e44e569b01",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "6cdcf4e377ace96b3abaa49d40c0b77ddd71c18d82ed7e7f70b3307b7aac5b97"
+ },
+ {
+  "slot": "casual6",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual6.webp",
+  "shard": 4,
+  "original_sha256": "1387910e53439203a6a3b2e919d4334385936b38b3c6870e8fbed9e2b06a9f1e",
+  "sha256": "84a27cc8f8be3b35b57b916f5f109d974e0c123952c9075d299145173170c2ea",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "6e2b9a58333f10d1e59cbfbddb6b66f42545c2f2174f2e52ffb9b0ba1ef19f2a"
+ },
+ {
+  "slot": "casual7",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual7.webp",
+  "shard": 4,
+  "original_sha256": "1360ebd798a5da34e945adbd4cc5fb261ca6428c8b9656f2dc4756c44d73a98e",
+  "sha256": "5197e354e80303dca971cfef3dc2e63495eb3cffcb36612eb31586a5f1128a2b",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "10c823e78ad8f732de824e685d0b1898926c7364553fb045193d36e561d5cd28"
+ },
+ {
+  "slot": "casual8",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual8.webp",
+  "shard": 4,
+  "original_sha256": "b6fdfb47238258869f74237cde2f5b01cd5a455909bab970c18fdb2f1fd5e699",
+  "sha256": "714a43b9f57b1ba05f7f69301cbc0c58d7276a9aa9148094b53bedbfd2fea737",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "7f37c1db81c01fbb57f399ce7fdbc567c8e4f0f78b331b4de2ecc8cbcac38ca6"
+ },
+ {
+  "slot": "casual9",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual9.webp",
+  "shard": 4,
+  "original_sha256": "216f14047936ac7e0c49ef3cb5c0076a9e0a76ef7f49b8914c3afa8ad659d506",
+  "sha256": "69380589d23f464c3008654e335b36ff7911b18268381543fd0cd7b11f84bab6",
+  "size": [
+   1024,
+   1024
+  ],
+  "original_size": [
+   1254,
+   1254
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "428d8380e0baf6dc95486c127eb5d5c381040eaeb91215b377894244f15edd5e"
+ },
+ {
+  "slot": "casual10",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual10.webp",
+  "shard": 4,
+  "original_sha256": "6caf9324d5d916687108456743b4407524b8c4233e977ac2b688b68c754edce4",
+  "sha256": "61ef6e55debafa258921ec55cedd60fc56a83fce3b18526a04dc8345721bfe7a",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "f73628b1338287e7af05233ae04f6b1bf6d87440085121b5d7802813bd09b369"
+ },
+ {
+  "slot": "casual90",
+  "card": "패리퍼",
+  "style": "anime_25d_gloss",
+  "filename": "패리퍼_anime_25d_gloss_f_casual90.webp",
+  "shard": 4,
+  "original_sha256": "ba50e745430da4fa288f4fb187ce32dfd558af8c9833c6393bccfd7fc0b8a16d",
+  "sha256": "866dd2129c782a0d5cf5b1e794b1bd8ce317fa734ce2215c2d22731b6829f0b9",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_size": [
+   1024,
+   1536
+  ],
+  "reference": "selected mecha candidate 1",
+  "submitted_sha256": "130295e6c8669d01ba24c9837e3bc1393bfde787e33925529a84ab56b27d23c2"
+ }
+]

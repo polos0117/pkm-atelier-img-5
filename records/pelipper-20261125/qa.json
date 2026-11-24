@@ -1,0 +1,194 @@
+{
+ "light": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both gloved hands attached; lowered fingers naturally curled; raised fingers overlap in perspective. Two legs and boots coherent.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_light_anime_25d_gloss_f.webp"
+ },
+ "casual1": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two arms connected, lens-cap pinch and camera grip occlude some digits; standing legs coherent.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual1.webp"
+ },
+ "casual2": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms attached; brush grip partly hidden, five fingers on knee hand; crouched legs coherent.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual2.webp"
+ },
+ "casual3": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Phone grip partly occludes digits; second arm continues beyond crop from shoulder.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual3.webp"
+ },
+ "casual4": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Watermelon grip partly occludes digits; five fingers on lap hand; seated legs connected. Knees crossed rather than planned together.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual4.webp"
+ },
+ "casual5": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Umbrella grip partly occludes digits; five fingers on knee hand; two bent legs connected. Companion is one Wingull.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual5.webp"
+ },
+ "casual6": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms attached, knee-rest and bench-rest hands coherent; two legs and feet connected. Wink not rendered; note only.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual6.webp"
+ },
+ "casual7": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both shoulders and upper arms connected; near hand visible with partly submerged digits, far hand occluded by crop/water.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual7.webp"
+ },
+ "casual8": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms attached; five digits on raised palm and seat-rest hand. Pose faces more forward and raised hand side differs; note only.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual8.webp"
+ },
+ "casual9": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms connected, visible fingers separated; legs cropped above knees. Front three-quarter rather than rear view; note only.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual9.webp"
+ },
+ "casual10": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms connected, five digits in relaxed seat-rest and knee-rest hands; two seated legs and feet coherent.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual10.webp"
+ },
+ "casual90": {
+  "anatomy": {
+   "tool": "unavailable: mediapipe not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Fish-grip fingers partly hidden; near forearm joins shoulder; far arm continues below crop. Rubber glove is worn rather than only tucked; note only.",
+   "overlay_checked": false,
+   "note": "Manual source-resolution review; occluded digits are recorded as occluded."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial gradients on nose, cheek, lips and chin; fine coloured contours; dimensional materials and smooth skin highlights."
+  },
+  "output": "패리퍼_anime_25d_gloss_f_casual90.webp"
+ }
+}

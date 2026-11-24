@@ -1,0 +1,68 @@
+[
+  {
+    "slot": "casual1",
+    "sha256": "5fde80fd44d7d8d4148e7528e03ba23664465a892469a23b94fd2eff8dd7f7bf",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual2",
+    "sha256": "2138958813b456bacfc8ff6ae265247bbbb2b1feb7c22fc1c018c9220ce2cc21",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual3",
+    "sha256": "851bba889a14f880d1f50bc09860c6dee5c6be9b465daf5acfc7e0ab6bc321f3",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual4",
+    "sha256": "e04bc4863c9ad24ddfc45bfc0c73e78411dbd6e4e74e4d6a84fbb70f60515418",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual5",
+    "sha256": "6cdcf4e377ace96b3abaa49d40c0b77ddd71c18d82ed7e7f70b3307b7aac5b97",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual6",
+    "sha256": "6e2b9a58333f10d1e59cbfbddb6b66f42545c2f2174f2e52ffb9b0ba1ef19f2a",
+    "same": false,
+    "reason": "Authorized free-scene design: SCENE filled from generated design brief, outside constraints retained."
+  },
+  {
+    "slot": "casual7",
+    "sha256": "10c823e78ad8f732de824e685d0b1898926c7364553fb045193d36e561d5cd28",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual8",
+    "sha256": "7f37c1db81c01fbb57f399ce7fdbc567c8e4f0f78b331b4de2ecc8cbcac38ca6",
+    "same": false,
+    "reason": "Authorized free-scene design: SCENE filled from generated design brief, outside constraints retained."
+  },
+  {
+    "slot": "casual9",
+    "sha256": "428d8380e0baf6dc95486c127eb5d5c381040eaeb91215b377894244f15edd5e",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual10",
+    "sha256": "f73628b1338287e7af05233ae04f6b1bf6d87440085121b5d7802813bd09b369",
+    "same": true,
+    "reason": "Generator output unchanged"
+  },
+  {
+    "slot": "casual90",
+    "sha256": "130295e6c8669d01ba24c9837e3bc1393bfde787e33925529a84ab56b27d23c2",
+    "same": true,
+    "reason": "Generator output unchanged"
+  }
+]
