@@ -1,0 +1,237 @@
+{
+  "card": "다탱구",
+  "style": "anime_25d_gloss",
+  "selection": 4,
+  "image_repo": "pkm-atelier-img-5",
+  "assets": [
+    {
+      "slot": "light",
+      "filename": "다탱구_light_anime_25d_gloss_f.webp",
+      "original_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c",
+      "sha256": "7ecad5b6721e55720545d69667f96e18cb8e63c01cb7a0225fc18a6a9f632508",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "764afba1b8f35745f1c995d345a7b76dd4004530a8786cd3a1e16f4b69d2d1d4",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "filename": "다탱구_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "ac242c17c0a02f0eba3b026f4132394be2bbb3e25e242c41f2e16d4a16c985ba",
+      "sha256": "a2d6ccf80cca18314f80394db406047e869954bff0d25c6008a393dc13f21c0f",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "59bab0e2fd2334db645345e4804a5c36d20272b51cfe023b95ecffe1b7c817a4",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual2",
+      "filename": "다탱구_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "57363f4d5f5b892fd60b1656289d854b0bdb2346126080964e037de5cec01b8f",
+      "sha256": "f728b8769749fd1acc8e5ec3084589d9f7f62a698af1bece95897b63d9fffee5",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "aspect": "1:1",
+      "submitted_sha256": "650ecd5ae280848bd544118e1fa37f44e102567471cc6fe57834e036b4b115d1",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual3",
+      "filename": "다탱구_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "28929878414e36bc11e27f2e1491458d865b02bfe28895ad67175047623dcfea",
+      "sha256": "aeedd21f217d76146d657b7f1f13a465e6d2f3e193a5a2b5eda4af69e4d8b590",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "aspect": "3:2",
+      "submitted_sha256": "df13a6bad3d892a0c5b88218e6fe2936300ab28e8f00ecabfc6b944c1846944a",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual4",
+      "filename": "다탱구_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "386517120fcb22d3ac8ac05f51dddc4fbe42f02e1e8d8bdb04c6e91bf69450f4",
+      "sha256": "cecf70f9038fee5784d168d8c48e79c6c53712567e6bdd2ad6ab2398bdb27911",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "e84595daec7172708a0834c43acaa81ae869157672c2a7b6a68c1d12f44a691b",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual5",
+      "filename": "다탱구_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "0c451ba9dd75794d2b374308b8131737c6641b325af335c8d940f9b2e3ed260f",
+      "sha256": "f57bb9458fe943e667c3712965ee11861e40961289b1b5e388fee716f8122ef9",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "aspect": "3:2",
+      "submitted_sha256": "a0a6215b5314b5b5ef079540a12233bc7570e38f0fa02a1f6f4994704b98a1dd",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual6",
+      "filename": "다탱구_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "3869537c77cf90d34abbed132a47d7e91aff529eb901ddb8e23d058e2753fd5c",
+      "sha256": "4a9835aa528536a8457956819fd8a6118da6c0104ffd9cac912fadf98615844c",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "aspect": "1:1",
+      "submitted_sha256": "c3040f062fba6c3b28c2fd4fd29368a9baf3ad40d2f971e5ca505edd478ba3bd",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual7",
+      "filename": "다탱구_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "1bb36ddd1eaa5d0df07050aa7b1f1c4d55af0a973ccefef3cb4723bd330febc6",
+      "sha256": "fb9ea74667e6e5fa78b7a080ecd83f74758ea546a9f557c6b0acd619c0e51aa9",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "ed7f661e6c1636b8a299c0f64308026a773ed62aecc15d133fd7028b33c8edb7",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual8",
+      "filename": "다탱구_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "de469751eef6b79a5f97d01a20afdee7436638c081ed43ed29d4c23f6746cc20",
+      "sha256": "ddccfade98cf664f8d9ff582244643fa2d8898c4605590a9b360b8e39372391c",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "8e1f7aa29c891189d4833f8bae20eb4a398acb05275faeb0cbba5b99a924cf7d",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual9",
+      "filename": "다탱구_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "bc00a631dda6b5cd19c072469c8d0508dce8d6ae942c998a10d83fcf42bd43ad",
+      "sha256": "bd13da6ecc32455c6a01ce2d3ee3cee677823102f4fdba6fce444a993d3cf34c",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "91c66ae62f90c780f57aacdbc943d5fac5b39dc21ec6a9d2aa7969fa188e2eb4",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual10",
+      "filename": "다탱구_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "4d21404bf237d19c5859526d7891cef354dee56b344ed6ce9460fca78874fc0c",
+      "sha256": "5891822bb62dfc7dafeb00ed4807d8319663915a4628dc4212297f7d3bdabc88",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "04b221345fa1348717694791e7a452cd9eef8e1e8ef31d49375d4b9ac6400e51",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    },
+    {
+      "slot": "casual90",
+      "filename": "다탱구_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "c602d67bbffebd6987eca4f96ba15848dc17f24916642e68df510348705be6f5",
+      "sha256": "efa061372cb18ff57863650e6a2d94ed59aa9c30bd5b3424ee079fa6c5f66093",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "aspect": "2:3",
+      "submitted_sha256": "b20dceff2a38c476ad325cb39e6aed773053ddf5708d7131e85369d12e173ca7",
+      "submitted_same": true,
+      "reference_sha256": "0b080081b7c416649043f0b30f2c080352a6d49cbb8ad2b93c050e6a5606dc1c"
+    }
+  ],
+  "status": "generated; awaiting publication"
+}

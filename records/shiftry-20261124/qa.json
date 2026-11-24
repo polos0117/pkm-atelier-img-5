@@ -1,0 +1,186 @@
+{
+  "selection": 4,
+  "generation_count": 12,
+  "blocked": [],
+  "skipped": [],
+  "anatomy": {
+    "light": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Selected candidate 4. Two continuous arms and two legs; raised hand fingers partly overlap in three-quarter view, opposite gloved hand loosely curled. Face and long side braid establish reference.",
+      "overlay_checked": false,
+      "note": "Selected candidate 4. Two continuous arms and two legs; raised hand fingers partly overlap in three-quarter view, opposite gloved hand loosely curled. Face and long side braid establish reference."
+    },
+    "casual1": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Both shoulders and upper arms continue naturally beyond crop. Right hand makes a V sign beside face; index and middle extended, thumb and two fingers curled. Left arm continues out of frame. Mauve lace streetwear and stadium visible. Crop is wider than collarbone-only instruction; retained as framing deviation.",
+      "overlay_checked": false,
+      "note": "Both shoulders and upper arms continue naturally beyond crop. Right hand makes a V sign beside face; index and middle extended, thumb and two fingers curled. Left arm continues out of frame. Mauve lace streetwear and stadium visible. Crop is wider than collarbone-only instruction; retained as framing deviation."
+    },
+    "casual3": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Two elbows and forearms support chin, separate wrists and hands attached. Two bent legs end in two overlapping raised feet; no detached limbs. Plush olive wrap, jjimjilbang floor and wink visible. Camera is more oblique than overhead plan; retained as angle deviation.",
+      "overlay_checked": false,
+      "note": "Two elbows and forearms support chin, separate wrists and hands attached. Two bent legs end in two overlapping raised feet; no detached limbs. Plush olive wrap, jjimjilbang floor and wink visible. Camera is more oblique than overhead plan; retained as angle deviation."
+    },
+    "casual4": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Left hand supports peeled mandarin and right hand lowers peel over paper bag; elbows and wrists continuous. Seated legs and sandals visible. Apricot bodice and tulip panels, night train, fan and dark window match free design.",
+      "overlay_checked": false,
+      "note": "Left hand supports peeled mandarin and right hand lowers peel over paper bag; elbows and wrists continuous. Seated legs and sandals visible. Apricot bodice and tulip panels, night train, fan and dark window match free design."
+    },
+    "casual2": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Both arms attach naturally; right hand grips camera and left hand hangs at her side. Brown-and-white costume bodysuit, leaf fan train and red carpet match the planned costume scene. Knees fall beyond the square crop.",
+      "overlay_checked": false,
+      "note": "Both arms attach naturally; right hand grips camera and left hand hangs at her side. Brown-and-white costume bodysuit, leaf fan train and red carpet match the planned costume scene. Knees fall beyond the square crop."
+    },
+    "casual6": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Right fingers rest at cheek with continuous wrist and bent elbow, opposite arm rests on chair with hand hanging near the armrest. Two continuous shoulders; lower legs outside waist-up crop. Navy lingerie and piano bar visible. First image retained.",
+      "overlay_checked": false,
+      "note": "Right fingers rest at cheek with continuous wrist and bent elbow, opposite arm rests on chair with hand hanging near the armrest. Two continuous shoulders; lower legs outside waist-up crop. Navy lingerie and piano bar visible. First image retained."
+    },
+    "casual90": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Seated master fan maker in indigo vest, bandeau and short skirt. Right hand rests on knee, left hand on chair edge; both wrists and elbows continue naturally. Two legs cross at ankles with feet in sandals. Fan racks, ink pots, bamboo and warm lamps match the job scene. Left hand is on chair rather than lap, a minor pose deviation retained.",
+      "overlay_checked": false,
+      "note": "Seated master fan maker in indigo vest, bandeau and short skirt. Right hand rests on knee, left hand on chair edge; both wrists and elbows continue naturally. Two legs cross at ankles with feet in sandals. Fan racks, ink pots, bamboo and warm lamps match the job scene. Left hand is on chair rather than lap, a minor pose deviation retained."
+    },
+    "casual5": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Two continuous legs in high heels and two connected arms. Raised hand rests at high shelf and lower hand hangs beside thigh. Black bunny event costume, repair kiosk and golden-hour street match scene. Face is in profile as planned; no regeneration.",
+      "overlay_checked": false,
+      "note": "Two continuous legs in high heels and two connected arms. Raised hand rests at high shelf and lower hand hangs beside thigh. Black bunny event costume, repair kiosk and golden-hour street match scene. Face is in profile as planned; no regeneration."
+    },
+    "casual8": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Right palm plants beside her on the wooden platform, left hand rests over raised knee. Two continuous arms, hips and legs; lower left toes slightly meet frame edge. Dusty rose bikini, hat and dusk wetland setting match.",
+      "overlay_checked": false,
+      "note": "Right palm plants beside her on the wooden platform, left hand rests over raised knee. Two continuous arms, hips and legs; lower left toes slightly meet frame edge. Dusty rose bikini, hat and dusk wetland setting match."
+    },
+    "casual9": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Kneeling right knee and planted opposite shoe connect naturally through hips. One hand rests on raised knee, opposite arm leads to grounded hand at lower edge; visible fingers natural, some meet frame. Blue custom split-band bodice and compression skort match climbing rest scene. Face turns toward viewer rather than over shoulder; minor angle deviation retained.",
+      "overlay_checked": false,
+      "note": "Kneeling right knee and planted opposite shoe connect naturally through hips. One hand rests on raised knee, opposite arm leads to grounded hand at lower edge; visible fingers natural, some meet frame. Blue custom split-band bodice and compression skort match climbing rest scene. Face turns toward viewer rather than over shoulder; minor angle deviation retained."
+    },
+    "casual10": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Right hand grips mooring rope, left hand rests across raised knee. Both arms and legs attach normally; lower legs outside chosen crop. Terracotta panel swimsuit, early sunlight and moored boat match free design. Similar raised-knee rest to casual8, distinguished by rope activity, one-piece construction, crop and boat environment.",
+      "overlay_checked": false,
+      "note": "Right hand grips mooring rope, left hand rests across raised knee. Both arms and legs attach normally; lower legs outside chosen crop. Terracotta panel swimsuit, early sunlight and moored boat match free design. Similar raised-knee rest to casual8, distinguished by rope activity, one-piece construction, crop and boat environment."
+    },
+    "casual7": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connected through matching wrists and forearms; fingers counted where clear, gripping/curled/behind-head or cropped fingers are partly occluded. Reclining Slime cosplay in sky-blue knit mini dress, blue teardrop headpiece without a mascot face. Right upper arm bends naturally to elbow and forearm runs behind head, hand hidden as planned. Left hand grips nail polish bottle with five digits partly overlapping the grip. Lower legs outside waist-up crop. Bedroom and adjoining sunlit room visible.",
+      "overlay_checked": false,
+      "note": "Reclining Slime cosplay in sky-blue knit mini dress, blue teardrop headpiece without a mascot face. Right upper arm bends naturally to elbow and forearm runs behind head, hand hidden as planned. Left hand grips nail polish bottle with five digits partly overlapping the grip. Lower legs outside waist-up crop. Bedroom and adjoining sunlit room visible."
+    }
+  },
+  "style_25d": {
+    "light": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual1": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual3": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual4": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual2": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual6": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual90": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual5": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual8": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual9": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual10": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    },
+    "casual7": {
+      "verdict": "pass",
+      "basis": "Blended shading on nose, cheeks, lips and jaw, fine colored facial outlines, dimensional hair and fabric; no flat cel face."
+    }
+  },
+  "review": {
+    "light": "Selected candidate 4. Two continuous arms and two legs; raised hand fingers partly overlap in three-quarter view, opposite gloved hand loosely curled. Face and long side braid establish reference.",
+    "casual1": "Both shoulders and upper arms continue naturally beyond crop. Right hand makes a V sign beside face; index and middle extended, thumb and two fingers curled. Left arm continues out of frame. Mauve lace streetwear and stadium visible. Crop is wider than collarbone-only instruction; retained as framing deviation.",
+    "casual3": "Two elbows and forearms support chin, separate wrists and hands attached. Two bent legs end in two overlapping raised feet; no detached limbs. Plush olive wrap, jjimjilbang floor and wink visible. Camera is more oblique than overhead plan; retained as angle deviation.",
+    "casual4": "Left hand supports peeled mandarin and right hand lowers peel over paper bag; elbows and wrists continuous. Seated legs and sandals visible. Apricot bodice and tulip panels, night train, fan and dark window match free design.",
+    "casual2": "Both arms attach naturally; right hand grips camera and left hand hangs at her side. Brown-and-white costume bodysuit, leaf fan train and red carpet match the planned costume scene. Knees fall beyond the square crop.",
+    "casual6": "Right fingers rest at cheek with continuous wrist and bent elbow, opposite arm rests on chair with hand hanging near the armrest. Two continuous shoulders; lower legs outside waist-up crop. Navy lingerie and piano bar visible. First image retained.",
+    "casual90": "Seated master fan maker in indigo vest, bandeau and short skirt. Right hand rests on knee, left hand on chair edge; both wrists and elbows continue naturally. Two legs cross at ankles with feet in sandals. Fan racks, ink pots, bamboo and warm lamps match the job scene. Left hand is on chair rather than lap, a minor pose deviation retained.",
+    "casual5": "Two continuous legs in high heels and two connected arms. Raised hand rests at high shelf and lower hand hangs beside thigh. Black bunny event costume, repair kiosk and golden-hour street match scene. Face is in profile as planned; no regeneration.",
+    "casual8": "Right palm plants beside her on the wooden platform, left hand rests over raised knee. Two continuous arms, hips and legs; lower left toes slightly meet frame edge. Dusty rose bikini, hat and dusk wetland setting match.",
+    "casual9": "Kneeling right knee and planted opposite shoe connect naturally through hips. One hand rests on raised knee, opposite arm leads to grounded hand at lower edge; visible fingers natural, some meet frame. Blue custom split-band bodice and compression skort match climbing rest scene. Face turns toward viewer rather than over shoulder; minor angle deviation retained.",
+    "casual10": "Right hand grips mooring rope, left hand rests across raised knee. Both arms and legs attach normally; lower legs outside chosen crop. Terracotta panel swimsuit, early sunlight and moored boat match free design. Similar raised-knee rest to casual8, distinguished by rope activity, one-piece construction, crop and boat environment.",
+    "casual7": "Reclining Slime cosplay in sky-blue knit mini dress, blue teardrop headpiece without a mascot face. Right upper arm bends naturally to elbow and forearm runs behind head, hand hidden as planned. Left hand grips nail polish bottle with five digits partly overlapping the grip. Lower legs outside waist-up crop. Bedroom and adjoining sunlit room visible."
+  },
+  "diversity": "Eleven scenes use different contexts and activities; casual8 and casual10 share a raised-knee rest but differ in rope interaction, bikini versus panel one-piece, crop, light and wetland versus boat. Automated silhouette comparison passed.",
+  "exposure": {
+    "regenerated_for_exposure": false,
+    "changes": [],
+    "note": "All first returned images retained. No censorship-driven regeneration."
+  }
+}
