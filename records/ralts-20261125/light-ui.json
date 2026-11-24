@@ -108,8 +108,9 @@
   "generation": {
     "design": "generator",
     "selected_mecha": 1,
-    "reference": "랄토스_light_anime_25d_gloss_f.webp",
+    "reference": null,
     "submitted_sha256": "d8e375b189f20261f38ac4b8d3e5ac2bbf3020830297c1c15cb47f40f447de80",
-    "submitted_same": true
+    "submitted_same": true,
+    "input": "text_only"
   }
 }
