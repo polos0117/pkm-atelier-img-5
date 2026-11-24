@@ -1,0 +1,178 @@
+{
+  "casual1": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Far hand outside crop; reference head accessory remains.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Far hand outside crop; reference head accessory remains."
+  },
+  "casual2": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "V-sign hand visible; lower arm continues beyond crop.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "V-sign hand visible; lower arm continues beyond crop."
+  },
+  "casual3": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Cup grip partly hides fingers; other hand rests on knee; feet together on towel.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Cup grip partly hides fingers; other hand rests on knee; feet together on towel."
+  },
+  "casual4": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Fingertips at cheek and chair edge; reference-style earrings remain.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Fingertips at cheek and chair edge; reference-style earrings remain."
+  },
+  "casual5": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms connect naturally, each hand operates one prop; raised knee visible.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Both arms connect naturally, each hand operates one prop; raised knee visible."
+  },
+  "casual6": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Hands under cheeks partly occluded. Reference-inspired floating ornaments remain.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Hands under cheeks partly occluded. Reference-inspired floating ornaments remain."
+  },
+  "casual7": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both hands and shoulders visible with popcorn. Purple witch-style outfit; exact Prune costume fidelity unverified.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Both hands and shoulders visible with popcorn. Purple witch-style outfit; exact Prune costume fidelity unverified."
+  },
+  "casual8": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both hands visible, wrist connections natural; costume rendered.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Both hands visible, wrist connections natural; costume rendered."
+  },
+  "casual9": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Hands under cheeks, elbows on ground; legs bent and ankles crossed.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Hands under cheeks, elbows on ground; legs bent and ankles crossed."
+  },
+  "casual10": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both arms at sides; hands connected, two legs. Floating ornaments remain.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Both arms at sides; hands connected, two legs. Floating ornaments remain."
+  },
+  "casual90": {
+    "style_25d": {
+      "result": "pass",
+      "evidence": "Blended shading on nose, cheeks, lips and chin; layered hair and dimensional fabric."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "Both hands manipulating pointe-shoe fitting. Screwdriver follows PROP line; scene note requested sewing ribbons, a retained activity discrepancy.",
+      "hands": "Visible hands connect through wrists to the matching arms; fingers partly occluded in grips or against cheeks.",
+      "arms": 2,
+      "legs": "2 or outside crop"
+    },
+    "retained_deviations": "Both hands manipulating pointe-shoe fitting. Screwdriver follows PROP line; scene note requested sewing ribbons, a retained activity discrepancy."
+  }
+}

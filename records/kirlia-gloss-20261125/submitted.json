@@ -1,0 +1,87 @@
+{
+  "light": {
+    "prompt_sha256": "95291aba25496d32c15859ee8a3595601545ae1844a0db6597d1767163918ef0",
+    "submitted_sha256": "95291aba25496d32c15859ee8a3595601545ae1844a0db6597d1767163918ef0",
+    "same": true,
+    "source": "design-4-prompt.txt",
+    "design": "gpt_free",
+    "selected": 4
+  },
+  "casual1": {
+    "submitted_sha256": "2992fa2458955f3dd3eba75b236d6e26614422eb8c507108e85f359510ea0a0e",
+    "submitted_same": true,
+    "source": "casual1-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual2": {
+    "submitted_sha256": "2b40cd57903f85fb91a7ff25858ee35b43100f868ea94b2834a9aa8968479dc1",
+    "submitted_same": true,
+    "source": "casual2-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual3": {
+    "submitted_sha256": "dfe6cccf5f226f92f3008a5e713fc933fb3f19cbe305e57e3a27716e21350d97",
+    "submitted_same": true,
+    "source": "casual3-free-prompt.txt",
+    "design": "gpt_free",
+    "permitted_reason": "IMAGE_RULES free scene design"
+  },
+  "casual4": {
+    "submitted_sha256": "014fb3aa60cdba5d9e94fd83634055a0a4898e62b5fff33990ba1ca0df96a823",
+    "submitted_same": true,
+    "source": "casual4-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual5": {
+    "submitted_sha256": "2f82e9ba4dd4a9774bde8ec63a0408f96f4621da3d464d8d2aad83d58dca202b",
+    "submitted_same": true,
+    "source": "casual5-free-prompt.txt",
+    "design": "gpt_free",
+    "permitted_reason": "IMAGE_RULES free scene design"
+  },
+  "casual6": {
+    "submitted_sha256": "f071b7ac27bd087b5f16e7604e1be76c2083c7f66a33c8beaa219a3e72387bf1",
+    "submitted_same": true,
+    "source": "casual6-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual7": {
+    "submitted_sha256": "9961393382c54a2787c15fab7a754966aa4424abf78134aaaec1bee4a00fb738",
+    "submitted_same": true,
+    "source": "casual7-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual8": {
+    "submitted_sha256": "801e0e53709bcb4381ebc1fa838cc2ee5287d189b7fc3509f07fdf722d6b872b",
+    "submitted_same": true,
+    "source": "casual8-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual9": {
+    "submitted_sha256": "74ecf157e63d6c8ad9c39f6143494ca4d926654152daa6f78bc0e444ab9bcf04",
+    "submitted_same": true,
+    "source": "casual9-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual10": {
+    "submitted_sha256": "44a99be4ab9b7e8cbe33dd58bbcbd843683a8897c4aa74b828fdc1e69e21f4fc",
+    "submitted_same": true,
+    "source": "casual10-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  },
+  "casual90": {
+    "submitted_sha256": "75c527f3d98107cfa3c9057980fcb0b6e77d1fe2bd123a1ba052c73cd89184b6",
+    "submitted_same": true,
+    "source": "casual90-prompt.txt",
+    "design": "project",
+    "permitted_reason": "generated prompt verbatim"
+  }
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "slot": "light",
+    "file": "킬리아_light_anime_25d_gloss_f.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "fa5a7b185d5a322d2ed9074c129bc8af0f0e9bedff607e8ac1b929954cd3f0f0",
+    "sha256": "e569115f7a36c9aaed3f707206330151efbbf1a06914e1f39422e2f02615acf1"
+  },
+  {
+    "slot": "casual1",
+    "file": "킬리아_anime_25d_gloss_f_casual1.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "fe63d3cf51f8d0745849a9b8853649e4cb898bda11e8d6465ec685fa50d89eb4",
+    "sha256": "372d5f10ab530e2d992d22eef650a37b1c8d50f246d80a42e23e8ecfe3613a34",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual2",
+    "file": "킬리아_anime_25d_gloss_f_casual2.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "b42d662fef55d0fe3f3de61009522bbf73beff05907c9e1c8c55f9eb0a915ad3",
+    "sha256": "a352d775f394f4ff29ec3a6b42862e684e06b43f528871294f15f13c93006cf4",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual3",
+    "file": "킬리아_anime_25d_gloss_f_casual3.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "5713f490cdbbf0c7526de8723a927dfc4192532abfd2a2a78ed4a59a57de2ed5",
+    "sha256": "4cbaf7145ce4e1b12161c856f255fe62cf9453e3f6f5b88d572e6f880af382f1",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual4",
+    "file": "킬리아_anime_25d_gloss_f_casual4.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "8db49d3da0841074de099c48d1e90ab15fad9fd0c39bdb8d12e642985f4631a0",
+    "sha256": "539f9979ee3ad1600d152acfd824c39c2649111292fd0cf09f4b482a01413151",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual5",
+    "file": "킬리아_anime_25d_gloss_f_casual5.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "04e5c4a74cb5cf83eeefc044cbe080258141213a42f5e31d9848d35b5e842c2d",
+    "sha256": "2bb25d15401837c57228a956974a682a9b25bee23a8510f075b514c2c14d32b7",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual6",
+    "file": "킬리아_anime_25d_gloss_f_casual6.webp",
+    "width": 1536,
+    "height": 1024,
+    "original_sha256": "ca7651eefcdfc8011615967b0008bb5e679c79eaee98e4f64c8f26121b19da80",
+    "sha256": "6fafe8c4371fac08f8981e0407d9c6037d990ab6be6164aeb5d8ce64b9bfa34d",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual7",
+    "file": "킬리아_anime_25d_gloss_f_casual7.webp",
+    "width": 1024,
+    "height": 1536,
+    "original_sha256": "70fd9df0027ac7d2e19858140a4eae6e6e9f534c99e8a5fe86d31ccf63bc6e4f",
+    "sha256": "d4f3a5cf0df2e622673248df23a8515dfbf3076824f06302e0e7765dcbbd0012",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual8",
+    "file": "킬리아_anime_25d_gloss_f_casual8.webp",
+    "width": 1024,
+    "height": 1024,
+    "original_sha256": "f5fb5d164f4626c2f2bef9a320705acb9de44a812e4c500fad952f43a9e6e60f",
+    "sha256": "7bf58abc74971e3c1f45b4c470ad4e8d0a3dd826216869b0ccec320bce36eb6b",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual9",
+    "file": "킬리아_anime_25d_gloss_f_casual9.webp",
+    "width": 1536,
+    "height": 1024,
+    "original_sha256": "780b080b2a514989f9869ed1a33bb1702de1071a6f578bc1f5f6c44f5114e21e",
+    "sha256": "d9f27385791d0fc2d6767f8aa6e86624f251a886f2cb886a55d078c53ece63e3",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual10",
+    "file": "킬리아_anime_25d_gloss_f_casual10.webp",
+    "width": 1536,
+    "height": 1024,
+    "original_sha256": "e6126a00577d41e265d2f983e1a7f6fa8e2d8b9ff6f747f43e9510cf53d2ae04",
+    "sha256": "4dea803e8998fbee16b109f0b6649c7cfc7a39f6354fb1513c508ad2de738512",
+    "reference": "mecha-4-original.png"
+  },
+  {
+    "slot": "casual90",
+    "file": "킬리아_anime_25d_gloss_f_casual90.webp",
+    "width": 1024,
+    "height": 1024,
+    "original_sha256": "147a80585c205c1fe60bb7df5cba21c2018beea7bc95e14c01ccaf776005fec5",
+    "sha256": "b697ad05d843ce5e8b68942b03e32c9860570966cf769546f6a09941ed09d843",
+    "reference": "mecha-4-original.png"
+  }
+]
