@@ -1,0 +1,170 @@
+[
+ {
+  "slot": "light",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "1e98cde3605f96745c627528f6f4314c79bf0f86a5bdd10374729535bbc7a599",
+  "original_sha256": "cf9924a0a19a5f790f8f0368902d2cef4b9e8a4fc1271d391d6136a7b90d14d1",
+  "reference": "text only; candidate 2 selected by user"
+ },
+ {
+  "slot": "casual1",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "782c932b8f7349ef78c49c3f160cb9ea3faf353905a33199a8a78eb2243334f2",
+  "original_sha256": "680cd6509e343d08108c26aa5f0b55289238d93cc825c7e3c67c5da7b6e5b2a9",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual2",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "afa8c3de29276183af32dc8114792245889d64f51baf19ee35cf6fe0aacb5ae7",
+  "original_sha256": "758ad849744b42783408b8d95ed47520ea9f9ca387ed5210f85881935c719a70",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual3",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "5b37980b0a5151b500fd84f432a176c1ca0ed4b4364b31d7506bf5b50ff9d71b",
+  "original_sha256": "b9b60db69f3bc8b5991fd9a06f287c836199d181498b8b62db060dc80de7b736",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual4",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "61523f12b630b1c1faf2887ebc98d81616d839180e2927516dd2a20a21966df0",
+  "original_sha256": "0874a71cbae2f007cfadb9b45856bb9b382b67229e3cc8ce7c81a7803c969f3b",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual5",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "857b64495491ce3f96209f01807612d7b7d43317b775254fb0d4d3d18ce20e91",
+  "original_sha256": "0584784a7089ad8ba74af224ddd732e0f9ebb6ae58541f938a134f66ad2f8abb",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual6",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "1df197f87bbf01ff7c4168dc5dafc546207b4073600ab4f3008199aa508fa766",
+  "original_sha256": "4e4516079220a2f58d8a76a76c9f95adfc41e6728f178dba313521b49bb2f841",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual7",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "9cc13aeff0f495fa9d751d1450662dc5691b2bb054e4383005eb680ac6691f33",
+  "original_sha256": "8e8d074be3b9e87621889e213954de941192263d17dbeae699f681d7184b189c",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual8",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "2ec416952f1274d19402d1b6c6bb71fe57d0adcbe0925e9d5d2e950d93f3ee68",
+  "original_sha256": "6b37e4dda3f667cd6c27d465a68f7b9a02af513ad3495733335705e1e96a8d2c",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual9",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "e84bda4a22f47049acd62208177778c2ca4326f8ede7dda117193fce8a553716",
+  "original_sha256": "848bfa139aa3d326288f026d121e15269bd2a1e9b5fcc6e662eed89b3df2a65a",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual10",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "bcb578b98cb418cf76d7444afd0f0e92401ff3ec82f0619de9bdd9fc0201a183",
+  "original_sha256": "2cd35e119511c1d8c914f70a750f172363f69039125d417090b45902a5013390",
+  "reference": "selected mecha candidate 2"
+ },
+ {
+  "slot": "casual90",
+  "card": "테일로",
+  "style": "anime_25d_gloss",
+  "file": "테일로_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "a085473735c8a080a00988555044688d5a8d6f9bd336606aaeaadb0ee837a018",
+  "original_sha256": "4ff36a2da8317cbe8f8a53be64e1fa7f2990fe1e193272cb1f51ef319eebe6b3",
+  "reference": "selected mecha candidate 2"
+ }
+]

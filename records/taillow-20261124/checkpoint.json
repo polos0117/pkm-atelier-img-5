@@ -1,0 +1,10 @@
+{
+ "card": "테일로",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 2,
+ "status": "generated_reviewed",
+ "images": 12,
+ "reference_sha256": "cf9924a0a19a5f790f8f0368902d2cef4b9e8a4fc1271d391d6136a7b90d14d1",
+ "reservation_commit": "e91853d41618424130f5ce3563b85c2008d9a25e",
+ "regenerated_for_exposure": false
+}

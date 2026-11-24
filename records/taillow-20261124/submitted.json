@@ -1,0 +1,16 @@
+{
+ "light": [
+  {
+   "slot": "light",
+   "at": "2026-11-24T13:28:42.563Z",
+   "prompt_sha256": "ce188fa8932b37e49d5116e60d885401ae9992b1ea19c3abeb716150ec96fcc7",
+   "submitted_sha256": "ce188fa8932b37e49d5116e60d885401ae9992b1ea19c3abeb716150ec96fcc7",
+   "same": true,
+   "prompt_words": 895,
+   "submitted_words": 895,
+   "style_kept": true,
+   "missing": [],
+   "added": []
+  }
+ ]
+}

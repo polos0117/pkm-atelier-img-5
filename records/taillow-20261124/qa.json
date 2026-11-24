@@ -1,0 +1,206 @@
+{
+ "light": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both gloved arms and both legs connected. Open-hand fingers visible; other hand relaxed with partially overlapping fingers. Upper-thigh coverage differs from prompt; generated result retained per user instruction.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Both gloved arms and both legs connected. Open-hand fingers visible; other hand relaxed with partially overlapping fingers. Upper-thigh coverage differs from prompt; generated result retained per user instruction."
+ },
+ "casual1": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One visible hand grips cotton-candy stick; fingers partly occluded by grip. Other arm continues below crop. Legs out of crop.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "One visible hand grips cotton-candy stick; fingers partly occluded by grip. Other arm continues below crop. Legs out of crop."
+ },
+ "casual2": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms connected; right hand grips pastry with partly hidden fingers; left hand rests on bench with natural five-finger contour. Lower legs partly cropped.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Both arms connected; right hand grips pastry with partly hidden fingers; left hand rests on bench with natural five-finger contour. Lower legs partly cropped."
+ },
+ "casual3": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Right elbow raised with right hand occluded behind head. Left hand grips watermelon, fingers partly overlap fruit. Lower legs outside waist crop.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Right elbow raised with right hand occluded behind head. Left hand grips watermelon, fingers partly overlap fruit. Lower legs outside waist crop."
+ },
+ "casual4": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Right hand makes V sign: two extended fingers, three folded; thumb visible against folded fingers. Left arm exits crop naturally. Legs out of crop.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Right hand makes V sign: two extended fingers, three folded; thumb visible against folded fingers. Left arm exits crop naturally. Legs out of crop."
+ },
+ "casual5": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms connected. Supporting palm has five digits, other hand grips towel with fingers partly occluded. Legs folded on starting block; feet hidden naturally.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Both arms connected. Supporting palm has five digits, other hand grips towel with fingers partly occluded. Legs folded on starting block; feet hidden naturally."
+ },
+ "casual6": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both forearms support chin; fingers curve along cheeks, partially overlapping. Two connected raised lower legs and two feet. Top-down plan rendered at an oblique angle; recorded without regeneration.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Both forearms support chin; fingers curve along cheeks, partially overlapping. Two connected raised lower legs and two feet. Top-down plan rendered at an oblique angle; recorded without regeneration."
+ },
+ "casual7": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two connected folded arms, near hand has visible thumb and four fingers; far hand naturally occluded behind arm. Legs beyond crop.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Two connected folded arms, near hand has visible thumb and four fingers; far hand naturally occluded behind arm. Legs beyond crop."
+ },
+ "casual8": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One arm rests down beside body with hand obscured by seat; other arm bends to chair back, fingers relaxed over edge. Two crossed legs with connected ankles and shoes.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "One arm rests down beside body with hand obscured by seat; other arm bends to chair back, fingers relaxed over edge. Two crossed legs with connected ankles and shoes."
+ },
+ "casual9": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two connected arms rest on table. Near fingers partly overlap table edge; far fingers folded naturally. Legs out of crop.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Two connected arms rest on table. Near fingers partly overlap table edge; far fingers folded naturally. Legs out of crop."
+ },
+ "casual10": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms connect to two gloved hands on counter; fingers partly overlap surface. Legs connected with lower legs out of square crop. Face turned more toward viewer than plan; recorded.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Both arms connect to two gloved hands on counter; fingers partly overlap surface. Legs connected with lower legs out of square crop. Face turned more toward viewer than plan; recorded."
+ },
+ "casual90": {
+  "style_25d": {
+   "verdict": "2.5D",
+   "evidence": "Soft dimensional shading on nose, cheeks and lips; blended skin midtones and material-specific fabric/metal highlights, not flat cel blocks."
+  },
+  "identity": "Compared with selected candidate 2: same short navy hair with white streaks, eye shape and soft jaw. Expression and lighting vary.",
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both connected arms; right hand carries parcel, grip partially occludes fingers. Left hand relaxed with five-digit silhouette. Two legs and two shoes in mid-stride.",
+   "overlay_checked": false,
+   "note": "Visual review; occlusion and crop are recorded, not inferred as missing limbs."
+  },
+  "note": "Both connected arms; right hand carries parcel, grip partially occludes fingers. Left hand relaxed with five-digit silhouette. Two legs and two shoes in mid-stride."
+ }
+}
