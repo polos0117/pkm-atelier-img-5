@@ -1,0 +1,176 @@
+{
+  "selection": 2,
+  "generation_count": 12,
+  "blocked": [],
+  "skipped": [],
+  "anatomy": {
+    "light": {
+      "reviewed": "visual",
+      "note": "Selected candidate 2; full body, two arms and legs; open hand and relaxed curled hand connected naturally."
+    },
+    "casual1": {
+      "reviewed": "visual",
+      "note": "Both forearms lead to separate hands threading a needle. Seated knees continuous; square crop. Face turns more toward viewer than planned profile."
+    },
+    "casual2": {
+      "reviewed": "visual",
+      "note": "Right hand holds swing rope, left hand holds chestnut cone; both arms and legs continuous. Full-body seated swing pose."
+    },
+    "casual3": {
+      "reviewed": "visual",
+      "note": "Kneeling leg and forward planted boot connect through the hips and knees. Lantern grip and grounded hand connect. Original cap ornament remains."
+    },
+    "casual4": {
+      "reviewed": "visual",
+      "note": "Two hands hold and twist bottle; both arms continuous. Lower body outside bust-up crop. Sweat is the planned situation."
+    },
+    "casual5": {
+      "reviewed": "visual",
+      "note": "Bouquet hand connected through forearm to shoulder; other arm bends to the back of her head. Reclining legs continuous. Framing is closer than environmental brief."
+    },
+    "casual6": {
+      "reviewed": "visual",
+      "note": "Right hand holds putter, left hand touches her thigh; both bent arms visible and both legs planted naturally."
+    },
+    "casual7": {
+      "reviewed": "visual",
+      "note": "Mask hand connected to bent forearm; opposite arm continues beyond bust-up crop. Original cap remains; skin-care action and veranda visible."
+    },
+    "casual8": {
+      "reviewed": "visual",
+      "note": "Both forearms rest on table with naturally connected gloved hands; seated legs and crossed ankles continuous. Blurred background operator does not compete with her."
+    },
+    "casual9": {
+      "reviewed": "visual",
+      "note": "One hand visible and connected; other arm continues beyond square crop. Small packaging labels are garbled incidental marks, not identifiable branding."
+    },
+    "casual10": {
+      "reviewed": "visual",
+      "note": "One hand at cheek and the other at hip; both connect naturally. Lower legs outside chosen crop. Green pointed cap and belt identify assigned Link cosplay."
+    },
+    "casual90": {
+      "reviewed": "visual",
+      "note": "Right hand holds fan beside face and connects naturally to elbow and shoulder; left arm continues below crop. Fan-shop workshop and apprentice outfit visible."
+    },
+    "tool": "unavailable: mediapipe not installed; all twelve original images reviewed visually"
+  },
+  "style_25d": {
+    "light": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual1": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual2": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual3": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual4": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual5": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual6": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual7": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual8": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual9": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual10": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    },
+    "casual90": {
+      "verdict": "pass",
+      "basis": "Soft painted gradients on cheeks, nose and lips, delicate face lines, layered hair highlights and dimensional fabric or armor; not flat cel shading."
+    }
+  },
+  "exposure": {
+    "light": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual1": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual2": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual3": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual4": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual5": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual6": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual7": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual8": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual9": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual10": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    },
+    "casual90": {
+      "verdict": "match",
+      "basis": "First returned image retained; opaque coverage at bust and hips with designed neckline, shoulders or waist visible. Close crops apply to visible upper body only."
+    }
+  },
+  "review": {
+    "light": "Selected candidate 2; full body, two arms and legs; open hand and relaxed curled hand connected naturally.",
+    "casual1": "Both forearms lead to separate hands threading a needle. Seated knees continuous; square crop. Face turns more toward viewer than planned profile.",
+    "casual2": "Right hand holds swing rope, left hand holds chestnut cone; both arms and legs continuous. Full-body seated swing pose.",
+    "casual3": "Kneeling leg and forward planted boot connect through the hips and knees. Lantern grip and grounded hand connect. Original cap ornament remains.",
+    "casual4": "Two hands hold and twist bottle; both arms continuous. Lower body outside bust-up crop. Sweat is the planned situation.",
+    "casual5": "Bouquet hand connected through forearm to shoulder; other arm bends to the back of her head. Reclining legs continuous. Framing is closer than environmental brief.",
+    "casual6": "Right hand holds putter, left hand touches her thigh; both bent arms visible and both legs planted naturally.",
+    "casual7": "Mask hand connected to bent forearm; opposite arm continues beyond bust-up crop. Original cap remains; skin-care action and veranda visible.",
+    "casual8": "Both forearms rest on table with naturally connected gloved hands; seated legs and crossed ankles continuous. Blurred background operator does not compete with her.",
+    "casual9": "One hand visible and connected; other arm continues beyond square crop. Small packaging labels are garbled incidental marks, not identifiable branding.",
+    "casual10": "One hand at cheek and the other at hip; both connect naturally. Lower legs outside chosen crop. Green pointed cap and belt identify assigned Link cosplay.",
+    "casual90": "Right hand holds fan beside face and connects naturally to elbow and shoulder; left arm continues below crop. Fan-shop workshop and apprentice outfit visible."
+  },
+  "diversity": "Distinct activities: needle threading, swing snack, rainy camping, bottle opening, reclining bouquet, miniature putting, skin care, foley booth, grocery shopping, cosplay event, fan-shop work. Repeated close portraits are intentional planned crops.",
+  "casual_look": {
+    "exit_code": 0,
+    "output": "/workspace/scratch/d698fb6e9965/generated_images/exec-8c78ffc2-915f-41e2-8b7b-8ebfef3cf411.png — 가까운 컷 0장(점수 245 미만)\n     303  직구리_anime_25d_gloss_f_casual7.webp\n     306  캥카_anime_25d_gloss_f_casual90.webp\n     314  꼬지모_anime_25d_gloss_f_casual7.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-5493c5d6-16f0-4516-8344-92fd344c4a0c.png — 가까운 컷 0장(점수 245 미만)\n     254  삐삐_anime_25d_f_casual4.webp\n     258  대코파스_glossy_promo_f_casual1.webp\n     262  파오리_glossy_promo_f_casual2.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-c4a3d0c0-3d3d-4852-aa87-11f428667f42.png — 가까운 컷 0장(점수 245 미만)\n     306  독개굴_glossy_promo_f_casual2.webp\n     311  파크로우_glossy_promo_f_casual1.webp\n     313  에레키드_glossy_promo_f_casual2.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-e3cdbe20-1e9d-4bc7-a794-6528313c22bc.png — 가까운 컷 0장(점수 245 미만)\n     309  캥카_anime_25d_gloss_f_casual5.webp\n     309  탕구리_anime_25d_gloss_f_casual4.webp\n     311  이상해씨_anime_25d_gloss_f_casual8.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-fbdbf9aa-896c-4566-a552-4f268fbc8914.png — 가까운 컷 0장(점수 245 미만)\n     277  리자몽_anime_25d_gloss_f_casual2.webp\n     279  발챙이_anime_25d_gloss_f_casual9.webp\n     280  쁘사이저_anime_25d_gloss_f_casual1.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-8588ee73-2fb6-4255-8353-c3a5169b9c4e.png — 가까운 컷 0장(점수 245 미만)\n     272  헤라크로스_anime_25d_gloss_f_casual3.webp\n     279  밀탱크_anime_25d_gloss_f_casual4.webp\n     289  캐터피_anime_25d_gloss_f_casual4.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-85d55edd-a428-47f5-b13b-c6318b70c351.png — 가까운 컷 0장(점수 245 미만)\n     280  니드리나_anime_25d_gloss_f_casual3.webp\n     281  이상해씨_anime_25d_f_casual4.webp\n     295  라플레시아_anime_25d_gloss_f_casual4.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-a14d1f8f-1640-48f0-85ab-a22ff265bc3d.png — 가까운 컷 0장(점수 245 미만)\n     306  직구리_anime_25d_gloss_f_casual7.webp\n     307  배루키_anime_25d_gloss_f_casual7.webp\n     312  가디_anime_25d_gloss_f_casual6.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-74f1c368-222b-4347-9852-fb448dcf4614.png — 가까운 컷 0장(점수 245 미만)\n     301  슬리프_anime_25d_gloss_f_casual4.webp\n     302  마그비_anime_25d_gloss_f_casual5.webp\n     307  앤테이_anime_25d_gloss_f_casual3.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-e094fcfb-9d80-4786-baf3-3cfce25dd1a6.png — 가까운 컷 0장(점수 245 미만)\n     305  페르시온_anime_25d_gloss_f_casual1.webp\n     310  에이팜_anime_25d_gloss_f_casual5.webp\n     313  푸푸린_glossy_promo_f_casual3.webp\n/workspace/scratch/d698fb6e9965/generated_images/exec-c25b6be3-714f-4fdc-9f60-aa7d8aabfa24.png — 가까운 컷 0장(점수 245 미만)\n     294  뿔카노_anime_25d_gloss_f_casual7.webp\n     298  삐_anime_25d_gloss_f_casual1.webp\n     299  포니타_anime_25d_gloss_f_casual5.webp\n통과 — 거의 같은 일상컷 없음\n"
+  }
+}
