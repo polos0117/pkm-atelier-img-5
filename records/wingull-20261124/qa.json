@@ -1,0 +1,206 @@
+{
+ "light": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both gloved hands connected; fingers separated or naturally bent. Two straight legs and boots aligned.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_light_anime_25d_gloss_f.webp"
+ },
+ "casual1": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Spoon grip and bowl grip partly occlude fingers; both arms connect naturally.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual1.webp"
+ },
+ "casual2": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both arms connected; one hand on knee, one on floor; folded legs coherent.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual2.webp"
+ },
+ "casual3": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Five digits on railing hand; hair-tucking fingers partly occluded. Both shoulders and elbows connected.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual3.webp"
+ },
+ "casual4": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One gloved pencil grip with partly hidden digits; far arm continues below crop.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual4.webp"
+ },
+ "casual5": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Hair-tucking hand partly obscured; both upper arms continue into frame edge. Profile composition as planned.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual5.webp"
+ },
+ "casual6": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both gloved hands connected, five fingers visible/partly curled; knees and boots align. Snowy festival background differs cosmetically from generic overcast festival.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual6.webp"
+ },
+ "casual7": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both hands drape naturally from forearms over chair; fingers separated, five per hand. Seated view is more frontal than planned; no change requested.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual7.webp"
+ },
+ "casual8": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Raised open hand has five digits; other hand wraps volleyball with grip-occluded fingers. Two bent legs connected.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual8.webp"
+ },
+ "casual9": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Folded arms both connect to shoulders; one hand visible on upper arm, other hidden by forearm. Legs outside crop.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual9.webp"
+ },
+ "casual10": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Raised shelf hand and lowered hand each connected; fingers visible/partly bent. Frontal pose differs from planned turned-away body.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual10.webp"
+ },
+ "casual90": {
+  "anatomy": {
+   "issue": "ok",
+   "tool": "unavailable: mediapipe not installed",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Both hands grasp fish crate handles, with partly occluded digits; natural shoulders and elbows. Legs outside crop.",
+   "overlay_checked": false,
+   "note": "Manual review at source resolution. Occluded fingers or limbs outside crop are not assumed fully visible."
+  },
+  "style_25d": {
+   "verdict": "pass",
+   "evidence": "Blended facial shading at nose, cheek and chin; softly colored contours; skin highlights and dimensional cloth/armor."
+  },
+  "reference_match": "Selected candidate 1 face, hair colours and wing-shaped sidelocks retained.",
+  "output": "갈모매_anime_25d_gloss_f_casual90.webp"
+ }
+}

@@ -1,0 +1,158 @@
+[
+ {
+  "slot": "light",
+  "path": "img/갈모매_light_anime_25d_gloss_f.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-599a5cdb-1913-4374-b203-6c124a926afb.png",
+  "original_sha256": "8a7a7b97a8b1070a651988e21361dee29f4139781cd9efe255993abc97815e1d",
+  "sha256": "de5b631023e1e2fbd3e39c7387e569f49bd162f656aadd930eac3f747eb9213a",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 336820
+ },
+ {
+  "slot": "casual1",
+  "path": "img/갈모매_anime_25d_gloss_f_casual1.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-1bb27be9-0bf2-4fa4-909f-d420ee9706a5.png",
+  "original_sha256": "ccf02355a58e867c5661a37ee87377d7225cebb4645e1c28e08e9da65b6abd5f",
+  "sha256": "2ae4adbc1d029a3441996e0af047d5a8beac1df657a86a73c37f6225cedec4e1",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 226714
+ },
+ {
+  "slot": "casual2",
+  "path": "img/갈모매_anime_25d_gloss_f_casual2.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-20c5e138-4eb0-4d27-baca-02cdf75821d1.png",
+  "original_sha256": "e98d85b0555c1f415c2049d44f37fe737e17aded12d4bd160df57c2eb8c17d6b",
+  "sha256": "636329534a5d1413dc7bbd33a1a96c3cd6c1d604193094a5318f096fe3dd4a83",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "webp",
+  "bytes": 166560
+ },
+ {
+  "slot": "casual3",
+  "path": "img/갈모매_anime_25d_gloss_f_casual3.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-4b0a577b-2c93-4714-9953-5a27c69f221c.png",
+  "original_sha256": "aa848f2d2bb7151acd6b96fea2c9714ce15f630100784241ab430785917ae569",
+  "sha256": "a246c9a60f5313276246b80307c743349425ca7f5aa8afe518a435ac508219a6",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "webp",
+  "bytes": 151938
+ },
+ {
+  "slot": "casual4",
+  "path": "img/갈모매_anime_25d_gloss_f_casual4.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-36cafa38-9310-4e66-a561-7629bece5bfc.png",
+  "original_sha256": "d383551253eb4b3ec67f4c2393c12bda7c94d44e0850b3fdf0ed0a29d183cabc",
+  "sha256": "56b15732a1dee14bdbe40e2709a6a8248538a6969c6cdf20b7a3e93b761b55c1",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 287078
+ },
+ {
+  "slot": "casual5",
+  "path": "img/갈모매_anime_25d_gloss_f_casual5.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-0bcdc314-632c-485e-94e5-88ea576d7bf8.png",
+  "original_sha256": "1b8e0dacf8c4c678047af0924dcc34930c3f62f91f7311e640997e7f2d29120a",
+  "sha256": "157ba1234c435408bf86c40e0a5da2e157362eed3129fb900ee2f9f2a86366cc",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 246170
+ },
+ {
+  "slot": "casual6",
+  "path": "img/갈모매_anime_25d_gloss_f_casual6.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-974e025e-e80e-40d6-a6c1-57b4aefed2f7.png",
+  "original_sha256": "b0d51911ff6bdfe433581abb97a2163442558ea54797cd00cd8afdd5e2446a0d",
+  "sha256": "982e506e102be0e741079eb03a876cd7b271838428a635f622847ca75b42d082",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 281930
+ },
+ {
+  "slot": "casual7",
+  "path": "img/갈모매_anime_25d_gloss_f_casual7.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-267d55e1-f0f6-4365-8208-ae1420d25d5f.png",
+  "original_sha256": "571848c0b0f4d48f87b3b3682b3df637d70a8bb2dc8297e46dddf37c48e784db",
+  "sha256": "54b6e67a06f9e9eb76ac3c3cc05e18c17ba2ff95a97d1cd0a0e3cc52c3396d0b",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 230468
+ },
+ {
+  "slot": "casual8",
+  "path": "img/갈모매_anime_25d_gloss_f_casual8.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-e9a59167-e3fb-4309-9e78-07542b66ad13.png",
+  "original_sha256": "40c659a30a507cc670d961f7870bf1ab6e0124fd892a145d6e0b0f91b53f2c6b",
+  "sha256": "07160e22be82d64d143fe535373bf0036d5ed18b1d8e953322914b3e7919453f",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 231456
+ },
+ {
+  "slot": "casual9",
+  "path": "img/갈모매_anime_25d_gloss_f_casual9.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-6b982109-3dc0-47a0-89cf-c3f746a29612.png",
+  "original_sha256": "53eec4dca487db9a1f2b8bec7424b9d9ee03b1a7259f1074ca20e40147769d34",
+  "sha256": "e0701d2d5e62e65a0ff8f61f232056fce0d72a9f0d397e00fbe66964650b4e97",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "webp",
+  "bytes": 207636
+ },
+ {
+  "slot": "casual10",
+  "path": "img/갈모매_anime_25d_gloss_f_casual10.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-d93395f8-510d-473c-a758-c85fec7ed2d8.png",
+  "original_sha256": "795d0bc1ec37b6ad117db0f162c25c999b42b57c2cf3bb3f63cf485b71433dd5",
+  "sha256": "034640e3d194549c4728c14e8a8b404fa7041a235cc5c65d448c97accfcf6eaf",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "webp",
+  "bytes": 149780
+ },
+ {
+  "slot": "casual90",
+  "path": "img/갈모매_anime_25d_gloss_f_casual90.webp",
+  "source": "/workspace/scratch/246325680ef1/generated_images/exec-d38a2fdd-24fc-4a9b-8f95-0202c516361d.png",
+  "original_sha256": "242f494d22ab1c72270e6803eb306cf2c34fa68ba52534914f19f76d2564d786",
+  "sha256": "ebd1bbdce43f4be92076ca120dbbd1da585d138938e9406212436b03f404e086",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "webp",
+  "bytes": 180492
+ }
+]

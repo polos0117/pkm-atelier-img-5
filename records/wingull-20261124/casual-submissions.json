@@ -1,0 +1,68 @@
+{
+  "casual1": {
+    "sha256": "9ba8bd5344a3f8f8b2766cd1b4a09dc76f607075abe1fb9ae0d658d43624e6f7",
+    "same": false,
+    "exception": "IMAGE_RULES free scene / outfit design",
+    "source_reference": "selected mecha 1"
+  },
+  "casual2": {
+    "sha256": "44ba4f92c340441fcfea5f791bea01cc2e827dd609390204c15f3a597e312531",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual3": {
+    "sha256": "72e7e6fbe977275e5c31e8325846bd087ff46994bdc39855eb115c2e69c097a7",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual4": {
+    "sha256": "ee289372bbd68d92ec1121989dc2ef8f8d5db3a99488b2b5e970e10fd10fbd15",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual5": {
+    "sha256": "a94ac6e7963ea953189041234137d7761d6227511be6e64d98f755bb97ee409b",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual6": {
+    "sha256": "492a8f9594c7ccd5c60d4e15bdcd0707f21926f929147d7f7ad6633d1ddac1be",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual7": {
+    "sha256": "2c6244710b2751baf917e5c499a5e805e236337d0d01d83ecc7d29148f9fd7f5",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual8": {
+    "sha256": "36dee869dba0b1d63f6df61d25d764ea03c606d000f3dee0cd1dc60248adf54f",
+    "same": false,
+    "exception": "IMAGE_RULES free scene / outfit design",
+    "source_reference": "selected mecha 1"
+  },
+  "casual9": {
+    "sha256": "2ff03a7498d1038d5fec579ea07edb4ff80841dd700b5ecd1ead3baf12f68ae5",
+    "same": false,
+    "exception": "IMAGE_RULES free scene / outfit design",
+    "source_reference": "selected mecha 1"
+  },
+  "casual10": {
+    "sha256": "d0ffff277d9e7d7777e4f3578c157c841de7b0b6f3da3f920c36d344b6e26ab6",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  },
+  "casual90": {
+    "sha256": "13260c6ab3dba266f9005dea00f75315a086e11786136881c033f88a86fc961b",
+    "same": true,
+    "exception": "",
+    "source_reference": "selected mecha 1"
+  }
+}
