@@ -1,0 +1,212 @@
+{
+  "selected_candidate": 1,
+  "images": {
+    "light": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Full body; two attached arms and legs. Open palm visible; lowered fingers overlap in relaxed curl.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Full body; two attached arms and legs. Open palm visible; lowered fingers overlap in relaxed curl."
+    },
+    "casual1": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Kneeling Diana cosplay; phone grip partially hides fingertips; other hand rests on thigh.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Kneeling Diana cosplay; phone grip partially hides fingertips; other hand rests on thigh."
+    },
+    "casual2": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Face close-up widened to upper torso; one hand holds coin, other hand outside crop. Preserve original framing.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Face close-up widened to upper torso; one hand holds coin, other hand outside crop. Preserve original framing."
+    },
+    "casual3": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Full body; hoop grip curls fingers and thumb, other hand rests on rail. Hoop is held to side after lifting.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Full body; hoop grip curls fingers and thumb, other hand rests on rail. Hoop is held to side after lifting."
+    },
+    "casual4": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Chest-up costume; both hands hold cup, contact and grip obscure portions of fingers. Laughing instead of blowing softly.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Chest-up costume; both hands hold cup, contact and grip obscure portions of fingers. Laughing instead of blowing softly."
+    },
+    "casual5": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Full body balancing; both arms extended; both open hands and natural joints inspected.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Full body balancing; both arms extended; both open hands and natural joints inspected."
+    },
+    "casual6": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Crouching beside scooter; phone grip partially hides fingers; other hand on knee.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Crouching beside scooter; phone grip partially hides fingers; other hand on knee."
+    },
+    "casual7": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square waist-up swimmer, boat is in background while she stands in water. Hair-touch hand partly hidden in hair; other hand touches surface.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Square waist-up swimmer, boat is in background while she stands in water. Hair-touch hand partly hidden in hair; other hand touches surface."
+    },
+    "casual8": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square three-quarter kitchen reach; both hands attached, fingers partly overlap basket.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Square three-quarter kitchen reach; both hands attached, fingers partly overlap basket."
+    },
+    "casual9": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Full body profile reading beside companion; one hand holds book, other inserts bookmark; grips obscure fingers.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Full body profile reading beside companion; one hand holds book, other inserts bookmark; grips obscure fingers."
+    },
+    "casual10": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square three-quarter rear turn at ballpark; both hands on seat arms; finger overlap at curved grips.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Square three-quarter rear turn at ballpark; both hands on seat arms; finger overlap at curved grips."
+    },
+    "casual90": {
+      "identity": "same reference face and blue flared bob retained",
+      "exposure": {
+        "result": "match",
+        "note": "Outfit remains as generated; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Chest-up server holding syrup jar; raised hand gripping jar, other arm continues below crop. No floating hand.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review; occluded fingers not claimed as counted."
+      },
+      "scene_note": "Chest-up server holding syrup jar; raised hand gripping jar, other arm continues below crop. No floating hand."
+    }
+  },
+  "skipped": [],
+  "regeneration_count": 0,
+  "comparison": "Compared actual outputs together: parade kneeling, coin close-up, hoop rehearsal, gondola cup close-up, museum balance, scooter crouch, lake swim, kitchen reach, companion reading, ballpark rear turn, syrup jar server."
+}

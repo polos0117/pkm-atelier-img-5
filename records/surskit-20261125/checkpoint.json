@@ -1,0 +1,24 @@
+{
+  "card": "비구술",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "status": "generated_and_verified_pending_publish",
+  "generated": 12,
+  "requested": 12,
+  "reference_sha256": "eada4c65f7dbd5f64d1a6f73e5bb32ae23cccb97145f0371053134193301afa4",
+  "reservation_commit": "18f9cdc7287c1d87c4f3df992711119ddd8eeb4f",
+  "files": [
+    "img/비구술_light_anime_25d_gloss_f.webp",
+    "img/비구술_anime_25d_gloss_f_casual1.webp",
+    "img/비구술_anime_25d_gloss_f_casual2.webp",
+    "img/비구술_anime_25d_gloss_f_casual3.webp",
+    "img/비구술_anime_25d_gloss_f_casual4.webp",
+    "img/비구술_anime_25d_gloss_f_casual5.webp",
+    "img/비구술_anime_25d_gloss_f_casual6.webp",
+    "img/비구술_anime_25d_gloss_f_casual7.webp",
+    "img/비구술_anime_25d_gloss_f_casual8.webp",
+    "img/비구술_anime_25d_gloss_f_casual9.webp",
+    "img/비구술_anime_25d_gloss_f_casual10.webp",
+    "img/비구술_anime_25d_gloss_f_casual90.webp"
+  ]
+}

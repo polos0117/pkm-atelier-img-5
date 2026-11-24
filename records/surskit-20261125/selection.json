@@ -1,0 +1,88 @@
+{
+  "card": "비구술",
+  "style": "anime_25d_gloss",
+  "status": "generating_casual",
+  "candidates": [
+    {
+      "number": 1,
+      "source": "/workspace/scratch/b521fb742504/generated_images/exec-1123d997-c2c2-4df0-99cb-e250fce180f7.png",
+      "sha256": "eada4c65f7dbd5f64d1a6f73e5bb32ae23cccb97145f0371053134193301afa4",
+      "prompt_sha256": "dcefa1b17b588be1447ed34d968fe56858a63e561aa3a25e62bfc14fe7500269",
+      "submitted_same": true,
+      "design": "base",
+      "qa": {
+        "anatomy": {
+          "tool": "unavailable: mediapipe not installed",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both hands attached; relaxed fingers overlap or curl on lowered hand. Open hand checked visually.",
+          "overlay_checked": false
+        },
+        "note": "Full body visible; both arms and legs connected; hand overlap noted."
+      }
+    },
+    {
+      "number": 2,
+      "source": "/workspace/scratch/b521fb742504/generated_images/exec-723ac717-2121-42ad-82d9-76c3838b9b6b.png",
+      "sha256": "8b06c3f91a7256432124474f096b82eeb7a1798fb810f8713ad8015479d031ba",
+      "prompt_sha256": "dcefa1b17b588be1447ed34d968fe56858a63e561aa3a25e62bfc14fe7500269",
+      "submitted_same": true,
+      "design": "base",
+      "qa": {
+        "anatomy": {
+          "tool": "unavailable: mediapipe not installed",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both hands attached; relaxed fingers overlap or curl on lowered hand. Open hand checked visually.",
+          "overlay_checked": false
+        },
+        "note": "Full body visible; both arms and legs connected; hand overlap noted."
+      }
+    },
+    {
+      "number": 3,
+      "source": "/workspace/scratch/b521fb742504/generated_images/exec-ae9e5929-82e8-4dc3-8c94-1c50119b242d.png",
+      "sha256": "2dde3046f256585b1b032aad974f4ad66a90956c0a3cc362fc766b36b36dd9b5",
+      "prompt_sha256": "27f1e3a1554244cc6488380d982a502ddc878bb1e5b5b90cbac2f313a007d914",
+      "submitted_same": true,
+      "design": "gpt",
+      "qa": {
+        "anatomy": {
+          "tool": "unavailable: mediapipe not installed",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both hands attached; relaxed fingers overlap or curl on lowered hand. Open hand checked visually.",
+          "overlay_checked": false
+        },
+        "note": "3: armor palette shifts to blue despite pink/yellow prompt; 4: upper thighs exposed beyond specified exposure. Preserved without regeneration."
+      }
+    },
+    {
+      "number": 4,
+      "source": "/workspace/scratch/b521fb742504/generated_images/exec-853e3a4c-85f5-42d2-886b-f07420a201ec.png",
+      "sha256": "8c896082c978f76d3fbb7bd67c1816e778133eeae362aed639b913a6978a6a6a",
+      "prompt_sha256": "8caf4271b080a22b18c973d501d51aa679e2479519369a27eedbf04b4c72c244",
+      "submitted_same": true,
+      "design": "gpt",
+      "qa": {
+        "anatomy": {
+          "tool": "unavailable: mediapipe not installed",
+          "arms": 2,
+          "legs": 2,
+          "hands": "Both hands attached; relaxed fingers overlap or curl on lowered hand. Open hand checked visually.",
+          "overlay_checked": false
+        },
+        "note": "3: armor palette shifts to blue despite pink/yellow prompt; 4: upper thighs exposed beyond specified exposure. Preserved without regeneration."
+      }
+    }
+  ],
+  "worktree": "/workspace/scratch/b521fb742504/pkm-atelier",
+  "branch": "work/surskit-b521fb7",
+  "selected": 1,
+  "casual_generated": 0,
+  "committed": false,
+  "pushed": false,
+  "reservation_commit": "18f9cdc7287c1d87c4f3df992711119ddd8eeb4f",
+  "plan": "plan-current.json",
+  "source_policy": "Read reused metadata from existing worktrees; no other character images downloaded; filename-only indexes for sparse inventory; prior Surskit glossy_promo excluded only from new-style planning inventory."
+}

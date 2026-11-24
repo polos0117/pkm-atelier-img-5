@@ -1,0 +1,62 @@
+{
+  "light": {
+    "sha256": "dcefa1b17b588be1447ed34d968fe56858a63e561aa3a25e62bfc14fe7500269",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual1": {
+    "sha256": "6a1bb47684eb7fce70dea49cb54a5d7589ec4fdd8859063b11635633f6c25d67",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual2": {
+    "sha256": "a3e8f556c528840e0fbee4e73ae4601d12312f85930d10224e22ae962d5412d4",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual3": {
+    "sha256": "7fa1fe70a5a5c3c6c52c589174b96b1b803f124670578073387a7c5904884d10",
+    "same_as_generated_prompt": false,
+    "authorized_free_scene": true
+  },
+  "casual4": {
+    "sha256": "eb28e1afe2df310be62831955fcb20ccb32482751c56620728ba91e4223eefb3",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual5": {
+    "sha256": "4ef48ea97bb35f1489e63b5f6cdc68490b8693b575023241f086b9f3118407ec",
+    "same_as_generated_prompt": false,
+    "authorized_free_scene": true
+  },
+  "casual6": {
+    "sha256": "a65f7e30f8f4db38a2ae40739a08fc1bd5235487d39c2318465a5fce062ecde3",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual7": {
+    "sha256": "4dbb3ff2f88d40ff6c39cd08f59e7998b8f6e32a6697896662a809d1548fae67",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual8": {
+    "sha256": "3aa9527d872ade9886e2962939d1a3410f24bc2a69f02419033d0aebce4768af",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual9": {
+    "sha256": "69f2206e2cc9cd863fa1770a2dfeb2a4a2248f9928ef7c612a37a1b2324bf9a1",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual10": {
+    "sha256": "9024fa17f58f5e442dd8712ea6604020e3c14096fca4c0ca8c49512617bdac8f",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  },
+  "casual90": {
+    "sha256": "7f4bfbff8b392b00734be8793feb123bbacc7003f35ff6d678f7416f509ba3f1",
+    "same_as_generated_prompt": true,
+    "authorized_free_scene": false
+  }
+}

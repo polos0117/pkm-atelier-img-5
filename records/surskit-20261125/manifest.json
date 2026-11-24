@@ -1,0 +1,288 @@
+[
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "light",
+    "file": "img/비구술_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "eada4c65f7dbd5f64d1a6f73e5bb32ae23cccb97145f0371053134193301afa4",
+    "webp_sha256": "fc1705e3b801ea721b71ee1d5a13b1f40370876a3a157c91127aed0fbcb8a71c",
+    "reference": null,
+    "generation": {
+      "source": "image_gen",
+      "reference": null,
+      "selected_candidate": 1,
+      "submitted_sha256": "dcefa1b17b588be1447ed34d968fe56858a63e561aa3a25e62bfc14fe7500269",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual1",
+    "file": "img/비구술_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "99ffc7daec3c9d6b6c803eb6638710c217b60318721d1d8a1319c310601be3c7",
+    "webp_sha256": "fd45cc2c6ab2d19ec1da1d0573c18e638d637de2c26c53270cc9b882d6ac817d",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "6a1bb47684eb7fce70dea49cb54a5d7589ec4fdd8859063b11635633f6c25d67",
+      "submitted_same": true,
+      "design": "project",
+      "cosplay": {
+        "game": "league_of_legends",
+        "character": "Diana",
+        "cut": "corset",
+        "round": 1
+      }
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual2",
+    "file": "img/비구술_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "a8c54e7337b1b3a979e135377e7028f0cf7fd77572e31b64ed68d2b6166db37b",
+    "webp_sha256": "e49bef362c3a226e707d0b51078381c19295e69bb676112407c34ca8044cd51f",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "a3e8f556c528840e0fbee4e73ae4601d12312f85930d10224e22ae962d5412d4",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual3",
+    "file": "img/비구술_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "63314005f4c561c8f9672d05c241180ccea245721e223fff109bd22edd384e5f",
+    "webp_sha256": "ea49333f13080053be4ff88d295245bfd7be1f43938cae0ef4947186e05100ba",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "7fa1fe70a5a5c3c6c52c589174b96b1b803f124670578073387a7c5904884d10",
+      "submitted_same": false,
+      "design": "gpt_free",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Surskit (비구술) personified, bug / water type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a quiet floating rehearsal deck beside an empty canal at dawn, folded stage towels and a round rehearsal hoop beside a safety rail; the first pale light is cool and quiet.\nActivity: she is an adult aquatic stage performer finishing a gentle warm-up. Seen full-body in a front three-quarter view from a slightly elevated camera, she stands steadily beside the rail and lifts the large rehearsal hoop clear of her waist with her own right hand, her right elbow angled outward. Her own left arm extends down and her left hand rests on the rail. Both arms are clearly connected to their own shoulders.\nOutfit: an opaque deep-teal sculptural performance maillot with a folded crescent collar, open shoulders, a low neckline, two large symmetrical waist windows and an attached short overlapping scalloped peplum; bare arms and legs, secure lined chest and pelvis, soft rehearsal slippers. This is a human stage costume, no armor.\nMomentary situation: she has just raised the broad rehearsal hoop away from her waist, uncovering the designed waist windows that the hoop obscured during practice; all clothing stays securely in place. A small water-droplet charm hangs on the rail, and a single rounded antenna-shaped hair clip hints at her species. One hand handles the hoop and the other stays on the rail.\nEXPRESSION: one eye closed in a playful wink while the other stays open and bright, one mouth corner lifted in a small smile, brows relaxed. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; other people may appear only as small, soft-focus background extras — never posed with her. No Pokémon, animals or other creatures, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n",
+      "reason": "Authorized free-scene slot: only SCENE content replaced, fixed identity/style/intensity preserved."
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual4",
+    "file": "img/비구술_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "e0bd307da96f23975099e9302b70efdc4e9027565b5cadce335c2d64351c744c",
+    "webp_sha256": "db27b83c3b752eaf46e88e88fd6b1bb55e2e106cc835ad891437c740093c1e9f",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "eb28e1afe2df310be62831955fcb20ccb32482751c56620728ba91e4223eefb3",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual5",
+    "file": "img/비구술_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "56c295877358a60f492a5684e9590bfb3e5053bdbf35880422c1e76068bde240",
+    "webp_sha256": "935f8ff98815aedc69869db14cd400bd9b4c80d2e60410ec566fdfdbb005501c",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "4ef48ea97bb35f1489e63b5f6cdc68490b8693b575023241f086b9f3118407ec",
+      "submitted_same": false,
+      "design": "gpt_free",
+      "free_prompt": "CHARACTER: the same woman as the attached image — Surskit (비구술) personified, bug / water type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a bright indoor interactive science-museum sound gallery in daytime, a wide luminous floor of circular pads responding to footsteps, glass partitions and distant out-of-focus exhibits.\nActivity: she playfully tries a musical stepping-stone installation, balancing on her own left foot on one glowing circular pad while lifting her right knee slightly toward the next pad. Her own right arm extends outward at shoulder level and her right hand is open for balance; her own left arm extends outward lower and her left hand is open, both shoulders and elbows clearly visible. The pads are dry and solid. A few ripple-shaped light circles respond beneath her, with no magical power or armor.\nComposition: full body with clear margins, viewed from the front and gently above eye level; her face turns toward the pad she is about to reach, caught in a natural mid-syllable moment.\nOutfit: a fitted ivory sculptural halter romper with a folded fan-shaped neckline, triangular open side-waist panels and short overlapping petal-shaped shorts, bare shoulders and thighs, flexible cream ballet-flat shoes; opaque lined fabric securely covers her chest and pelvis. A small droplet pendant and a rounded antenna-shaped clip are the only species accessories.\nEXPRESSION: an unposed in-between expression, mouth caught mid-shape, brows natural. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; other people may appear only as small, soft-focus background extras — never posed with her. No Pokémon, animals or other creatures, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n",
+      "reason": "Authorized free-scene slot: only SCENE content replaced, fixed identity/style/intensity preserved."
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual6",
+    "file": "img/비구술_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "5cfbdacba93cadb50ae99583c39aa7eb9da29dea8325344d52c84179ace32ca7",
+    "webp_sha256": "9beb84e2bdb476aef476a451c76800fbe81f5b1aaa388592afe8ba16364a316e",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "a65f7e30f8f4db38a2ae40739a08fc1bd5235487d39c2318465a5fce062ecde3",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual7",
+    "file": "img/비구술_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "original_sha256": "1df807f6ddd63e22af9ef00882e1901a653fa0733e3c1d33a2943ff414175352",
+    "webp_sha256": "a8a2237287655f180bd38bacadde4af2b9b35a066669662841dfd08d417e6993",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "4dbb3ff2f88d40ff6c39cd08f59e7998b8f6e32a6697896662a809d1548fae67",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual8",
+    "file": "img/비구술_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "original_sha256": "18821620b6892a6f0e4f6e01312a075ceb002b416e2f601c271c5f64e47fa8aa",
+    "webp_sha256": "668f55aae0e7fe0c0f5ea7db50547d7a78a36b36fbea194fcb9b484a8a230970",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "3aa9527d872ade9886e2962939d1a3410f24bc2a69f02419033d0aebce4768af",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual9",
+    "file": "img/비구술_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "a409975bd039f4e192851530b1fdc86cacf852870fa882d46efe824557b456f4",
+    "webp_sha256": "2d041691963acf49427751229b411a36a1b1716155c4f155eeb0931c067d70e2",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "69f2206e2cc9cd863fa1770a2dfeb2a4a2248f9928ef7c612a37a1b2324bf9a1",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual10",
+    "file": "img/비구술_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "original_sha256": "6b3d58ffa75754b3b1f69ba4de00fd7e7bdb397a18adbc0a29a4a6b21fef03f7",
+    "webp_sha256": "3bd7c51af57f7902294dfc2a70f4138bd9cd936508629d8aa94045371f86b742",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "9024fa17f58f5e442dd8712ea6604020e3c14096fca4c0ca8c49512617bdac8f",
+      "submitted_same": true,
+      "design": "project"
+    }
+  },
+  {
+    "card": "비구술",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "slot": "casual90",
+    "file": "img/비구술_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "original_sha256": "6be1d67956f38fa4902c36e2d380310b16cc09a6e972308b90ef3deb1b0794bf",
+    "webp_sha256": "42b2f52d9858de1043f1436a363b10e3e466ac1ec0e383dd93882543fc7d0517",
+    "reference": "light",
+    "generation": {
+      "source": "image_gen",
+      "reference": "비구술_light_anime_25d_gloss_f.webp",
+      "selected_candidate": null,
+      "submitted_sha256": "7f4bfbff8b392b00734be8793feb123bbacc7003f35ff6d678f7416f509ba3f1",
+      "submitted_same": true,
+      "design": "project"
+    }
+  }
+]
