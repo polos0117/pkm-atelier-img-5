@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "filename": "잎새코_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "0c94700a3d07b0001f39034e7079799742b5d47ac28b8641bdf286fa31e49764",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-4c094407-5604-4fce-931d-477edba5f482.png",
+    "reference_sha256": null,
+    "submitted_sha256": "c6e81ad88c1c924ceefb815781d257a96968f3467534f81a073217fb42c1e982"
+  },
+  {
+    "slot": "casual1",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "11808e67c8628831b167557b9be02645d79cf368f29b5ff4535955cb06bc7af7",
+    "filename": "잎새코_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "6bec0b6ff67b4a30e5031e0c980c0dd0637ba3550f355573baf3052f2431b18d",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-8d064c43-3961-4d9c-8f26-7f2ad197c300.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "cfb1633306f946e0e08f7453e345abad00aa93e717e4abcc7386bddf29c5330c"
+  },
+  {
+    "slot": "casual2",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "7a24d34ba66c1cecc780357c5379ce8fed014122c59c6d5829ef3be5a747cdd1",
+    "filename": "잎새코_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "6b418bed890d46c18831971f440f8e5afb75c77f20dcd83d008e645037d17d32",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-a9ae3306-7d84-4c41-bad3-8a662134ea0a.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "60388bef6eae1acf99cd7b6fa270968261d8607b45a27cf5026257fd1a07e655"
+  },
+  {
+    "slot": "casual3",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "7c751bdf0f96d1d442c98468e4f37d1bdb0d2def5bd2ebe665355fa52bc21cce",
+    "filename": "잎새코_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "6916f73b30a9dd414fb7b56c3541fa67b5924e11b3058f193fef501d2f3dbc4b",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-2bcf6ca7-2e4b-4437-8717-efdde2d800aa.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "aa8a0a84b4450f730e5fbda901c9a7b25732655e6c80d04833c88d58930e7363"
+  },
+  {
+    "slot": "casual4",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "77efe0e3a74aafdfd1e3ffabb9199692e39d754b65835464c562388b95c3b08e",
+    "filename": "잎새코_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "57a69ca6ffbeadf9bb5ce0199b9523517d206dfaa05dac9de1ba840d129d45bb",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-ced2e9d4-4b88-4c09-bfaf-fdbf1e613d4d.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "cc6accd44e46d26a79a47ae500152f0d73587d398b28370928ec862eb56b9dc8"
+  },
+  {
+    "slot": "casual5",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "3dda196fef2c5d61712cb242238733f66c75b66ff274bcab457ab886a6a2308d",
+    "filename": "잎새코_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "1aa302ee294b6b924ff9c41c8b7aca403ebd0b49fb645ebcdde865e6245c3130",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-080bd988-a8c6-431b-b735-5c7035af96d5.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "ed24aeabb49953b2ec98edb6c596315ef08d30f0ac81cc39793ce3b30515eb99"
+  },
+  {
+    "slot": "casual6",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "6162093e64cb5129b75f84540ba08cf112b8021b2ac20b4829358b337f267a46",
+    "filename": "잎새코_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "0b78e8fd6975687eddd01b3a60f1abff0e8b96ccdf1d4a15640abfa6225e426f",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-eca7dbf0-47f8-42e0-a839-3412c036eedf.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "9dedc875d97942594922f48154c2b67a31085cb72152fd5d3edc375ba5b45837"
+  },
+  {
+    "slot": "casual7",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "d05aa9aa17e2c4c1acb8680b697aa5ab831990ebb94d99775c9e37f3dd1b3238",
+    "filename": "잎새코_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "68b1c8fe2994afc54e7c83976eeb0973e3265ab1d6db0f382d6373a7d71338c8",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-142e1317-1c67-4b1c-9a52-59f8b60635c9.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "b31ff4ade9dc9008f8c9eee799770abb626be7a6720aa4a3c62471f7ee63dd65"
+  },
+  {
+    "slot": "casual8",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "9444dd62cc0af4c6d136f1632c205655a55a1aa0e5798abb3c757ec8fed1fed0",
+    "filename": "잎새코_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "68e564f5ef37fb6296e8ccea362e08a6d4eae70e79900696e6e35a11c7612985",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-0e2ea8a2-6874-4aa1-8343-d42993a41625.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "39894d94dece1368392c8e05a244315449700075b4488809e65aab016d0c3118"
+  },
+  {
+    "slot": "casual9",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "484baae4d7dcb81a89bdfde92b38f0db11a1af154ecd1080b3eb9382ec044083",
+    "filename": "잎새코_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "f1dfa64fd6ec4d979cd1153e41e5dbd056d82c8785267e23ce18e66b78768505",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-e2e0bce9-b63a-4241-82f5-c9301a876cf3.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "8f901eed9c8c7b6d57111111b28f2f910ce9c8d538f4046b5e10beabe0f826ba"
+  },
+  {
+    "slot": "casual10",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "148bb667d1f7b94e7dda10b219c825f3e97e8c736b1e3b80cc9c9418052c1e29",
+    "filename": "잎새코_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "b60055608985787376755122de8612e2bdaa062cd80fc3ce7569a5e1ceb0ed71",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-4c08af5b-19df-4e5f-a73e-852c972cb317.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "344e6377eda1767a7c520cc1fe6518198e7d557f75089e041a437ae8008469a4"
+  },
+  {
+    "slot": "casual90",
+    "card": "잎새코",
+    "style": "anime_25d_gloss",
+    "source_sha256": "569cea0b05bd067c63229a3376447efc8a1996748cba9b870dab285fb43d6d75",
+    "filename": "잎새코_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "2a601c592a5bcb2a4976402763b0052306f873aba76f8c37e89c04e8a3166847",
+    "source": "/workspace/scratch/abc59f7069e4/generated_images/exec-7f24e7df-c70e-433d-9545-0d9cce2f1569.png",
+    "reference_sha256": "66c701acb2e17349b1b31e9f5785cccece1ed04a6e9a59b800e2e48bd6c96b66",
+    "submitted_sha256": "d656cc99a438afe6173cb134946027a06b9de84d1b3d9885a975ad7906bf7cf7"
+  }
+]
