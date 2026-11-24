@@ -1,0 +1,68 @@
+{
+ "casual1": {
+  "submitted_sha256": "a830a518edce734fe24236051cf35b34b70ed62dac18cebca69707d16c08af1e",
+  "submitted_same": false,
+  "exception": "IMAGE_RULES free scene/outfit design",
+  "reference": "selected mecha candidate 1"
+ },
+ "casual2": {
+  "submitted_sha256": "bc17e3a1cf340cc0853ae4851c9e42bb1d1fa2ffd5f75cf73d232c201233c976",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual3": {
+  "submitted_sha256": "57f8309fe52b83ca827939bb37a515aa3bc14e2d18a5670b937223a0facd2f79",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual4": {
+  "submitted_sha256": "c9123b7f6aa24704a60170672773194280fd3010dafd859b0df3651772192f65",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual5": {
+  "submitted_sha256": "93d5bd8dee73aa1a5f7d88db01bfd906ede8f65d180c1b6af3a634b4f0a1870e",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual6": {
+  "submitted_sha256": "6e34023b2e61569a7ae993f06b1b34ef279cf9d47862454220b46c7114f015aa",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual7": {
+  "submitted_sha256": "7d94231669eeeb632a21224cd592f39b3ad232060cf64fc469407dc2c82f7fe4",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual8": {
+  "submitted_sha256": "74d817c9d0d1ad152b34234e360f91260cce7067859a06259c64eea8c84c1f24",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ },
+ "casual9": {
+  "submitted_sha256": "20a2d34eeda4720f84f8f1250d2cd28cc52229de5556beef44774ddfc94bae94",
+  "submitted_same": false,
+  "exception": "IMAGE_RULES free scene/outfit design",
+  "reference": "selected mecha candidate 1"
+ },
+ "casual10": {
+  "submitted_sha256": "4c173f238eb7fc406d6373b88709385e999ad520b2b3e84c123c6cb8725676d8",
+  "submitted_same": false,
+  "exception": "IMAGE_RULES free scene/outfit design",
+  "reference": "selected mecha candidate 1"
+ },
+ "casual90": {
+  "submitted_sha256": "66555ec1deb160500d1ddbfbb537f8ae0ba749723ccb1ce6735b1ec2ca9950c5",
+  "submitted_same": true,
+  "exception": null,
+  "reference": "selected mecha candidate 1"
+ }
+}

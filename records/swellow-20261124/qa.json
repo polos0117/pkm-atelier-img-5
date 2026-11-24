@@ -1,0 +1,254 @@
+{
+ "light": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two gloved arms and both legs connect normally; lifted hand has five-digit outline, lowered glove fingers partly overlap. Upper-thigh armor is more open than prompt; retained as selected by user.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Two gloved arms and both legs connect normally; lifted hand has five-digit outline, lowered glove fingers partly overlap. Upper-thigh armor is more open than prompt; retained as selected by user."
+ },
+ "casual1": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Right arm bends forward to dessert fork, fingers partly occluded by grip; left hand rests on stool with five digits. Two naturally crossed legs with both ankles visible. Outfit rendered as copper satin romper rather than exact modular plan.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Right arm bends forward to dessert fork, fingers partly occluded by grip; left hand rests on stool with five digits. Two naturally crossed legs with both ankles visible. Outfit rendered as copper satin romper rather than exact modular plan."
+ },
+ "casual2": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two connected arms hold ukulele: fretting and strumming fingers partly occluded by instrument. Two legs and two platform boots. White costume rendered with high hip openings rather than full trouser legs.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Two connected arms hold ukulele: fretting and strumming fingers partly occluded by instrument. Two legs and two platform boots. White costume rendered with high hip openings rather than full trouser legs."
+ },
+ "casual3": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One hand supports cheek; other palm rests on stage with thumb and four fingers. Two bent legs and two overlapping feet; toe tips partly occluded. Opaque lingerie bodysuit retained.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "One hand supports cheek; other palm rests on stage with thumb and four fingers. Two bent legs and two overlapping feet; toe tips partly occluded. Opaque lingerie bodysuit retained."
+ },
+ "casual4": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One elbow on raised knee with relaxed hand near chin; other arm reaches to supporting palm with five digits on floor. Bent legs continue naturally through lower crop.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "One elbow on raised knee with relaxed hand near chin; other arm reaches to supporting palm with five digits on floor. Bent legs continue naturally through lower crop."
+ },
+ "casual5": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Near arm connects to hand at temple; four long fingers and partly obscured thumb. Far arm continues outside close crop; legs outside crop. Profile angle follows plan.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Near arm connects to hand at temple; four long fingers and partly obscured thumb. Far arm continues outside close crop; legs outside crop. Profile angle follows plan."
+ },
+ "casual6": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two arms connect to hands on chair and thigh; fingers partly overlap surfaces. Lower legs beyond crop. Costume and seated karaoke setting present; face turns more toward viewer than selected angle.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Two arms connect to hands on chair and thigh; fingers partly overlap surfaces. Lower legs beyond crop. Costume and seated karaoke setting present; face turns more toward viewer than selected angle."
+ },
+ "casual7": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One connected gloved hand grips sparkler, digits partly curled and occluded; other arm continues below crop. Lower legs outside crop. Original Swellow costume is the intended costume exception.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "One connected gloved hand grips sparkler, digits partly curled and occluded; other arm continues below crop. Lower legs outside crop. Original Swellow costume is the intended costume exception."
+ },
+ "casual8": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "One hand on hip and one on raised thigh, each has thumb and four fingers. Two legs connect naturally to bare feet, one foot on stone step. Dress opens along thigh by design.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "One hand on hip and one on raised thigh, each has thumb and four fingers. Two legs connect naturally to bare feet, one foot on stone step. Dress opens along thigh by design."
+ },
+ "casual9": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Right hand rests on rail, left hand holds ticket, fingers naturally overlap props. Two legs and two roller skates. Three-panel mint playsuit and fluorescent rink present.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Right hand rests on rail, left hand holds ticket, fingers naturally overlap props. Two legs and two roller skates. Three-panel mint playsuit and fluorescent rink present."
+ },
+ "casual10": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two arms fold across torso; near hand shows thumb and four fingers on upper arm, other hand occluded under folded arm. Legs outside crop. Camera is closer to level than low-angle plan.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Two arms fold across torso; near hand shows thumb and four fingers on upper arm, other hand occluded under folded arm. Legs outside crop. Camera is closer to level than low-angle plan."
+ },
+ "casual90": {
+  "style_25d": {
+   "판정": "2.5D",
+   "근거": "Nose, cheek, lips and chin have soft dimensional gradients; fine coloured contours and skin specular highlights rather than flat cel-shadow blocks."
+  },
+  "identity": "Compared with selected candidate 1: same blue eyes, long dark violet hair with white streaks, softly tapered jaw and fair skin; changes in expression and light are retained.",
+  "exposure": {
+   "result": "match",
+   "note": "Visible neckline, shoulders or thigh openings follow the selected outfit; generated variation is retained per user instruction."
+  },
+  "anatomy": {
+   "tool": "unavailable: mediapipe is not installed",
+   "issue": "ok",
+   "arms": 2,
+   "legs": 2,
+   "hands": "Two arms connect to a hand on hip and a hand near hair/cap, glove digits partly occluded. Two upper legs continue beyond lower crop. Courier outfit, parcels, bicycle and mailbox present.",
+   "overlay_checked": false,
+   "note": "Visual review; occluded fingers and cropped limbs are recorded without guessing their hidden positions."
+  },
+  "note": "Two arms connect to a hand on hip and a hand near hair/cap, glove digits partly occluded. Two upper legs continue beyond lower crop. Courier outfit, parcels, bicycle and mailbox present."
+ }
+}

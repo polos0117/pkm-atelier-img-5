@@ -1,0 +1,194 @@
+[
+ {
+  "slot": "light",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "2875402831a0345a55a21176bbfc6eb6b6306034b886ff0463ed0ac2f3d78f4c",
+  "original_sha256": "9f3f4d3f5a7da0ce656f49ea7b05b26403bb3ce5fa2dcd3ff0ef8c82699fc694",
+  "submitted_sha256": "c9d0d389162177fc00b1c8028c36fff69133cbdbd905aa29a8b416d2afdb29a5",
+  "submitted_same": true,
+  "reference": "text only; candidate 1 selected by user"
+ },
+ {
+  "slot": "casual1",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "c181ed9e2dd00669bd2af37dca6742ccb122e2368eb28dfac9e44b56b8ae1807",
+  "original_sha256": "37089ea9b36de00cfd957ccea8f1d9ccdc4364dbf2b9703368dcd9c1bc9dcf83",
+  "submitted_sha256": "a830a518edce734fe24236051cf35b34b70ed62dac18cebca69707d16c08af1e",
+  "submitted_same": false,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual2",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "0fef5322280c151cfcc25cbbb2c6afb2ac629044d3b764618fafe1da676b0f7e",
+  "original_sha256": "58fc9653e98d5625ae57b93aa22c7c76d2b265cc7a9ac0192a39274103e7575c",
+  "submitted_sha256": "bc17e3a1cf340cc0853ae4851c9e42bb1d1fa2ffd5f75cf73d232c201233c976",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual3",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "56f94ea7ddff1e9528210b4d6502a65a4aa7263abf79dbbd6507e9ed774e9620",
+  "original_sha256": "ee8d11949c8abf8773eec816b644126df704007b9101bb23077a32cc72ccc763",
+  "submitted_sha256": "57f8309fe52b83ca827939bb37a515aa3bc14e2d18a5670b937223a0facd2f79",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual4",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "c2fcce587679cea16b60ecd7abfeca67468b624bb9421aade27c91edc8dc1722",
+  "original_sha256": "74ee51f515764ba059a382284db35f2586da206ee4652fb8694f3ef67b33c472",
+  "submitted_sha256": "c9123b7f6aa24704a60170672773194280fd3010dafd859b0df3651772192f65",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual5",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "77301169d715e1ec9c11c0eb1cc9a7eb605808441f25c88e8e5468c056f54a75",
+  "original_sha256": "b49ed06091f9eb5976e15b8461bb13ed904b04358419ee4288e569b724805a95",
+  "submitted_sha256": "93d5bd8dee73aa1a5f7d88db01bfd906ede8f65d180c1b6af3a634b4f0a1870e",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual6",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "90c9254d26695e4fef1ff9f2a0ec9406abd4a36ee1ae15095a70289f86ecd492",
+  "original_sha256": "3ffc17660089a3d1d420f54e164dc2533570cbad48c2b8426f5a6ae924727654",
+  "submitted_sha256": "6e34023b2e61569a7ae993f06b1b34ef279cf9d47862454220b46c7114f015aa",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual7",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "91e4590cc89ac10ba0b62ec4196dfe038226694f9f5c90a4d203c0132d258817",
+  "original_sha256": "3cada07262dff580393d31a5956603657e14f811985eb1ed02e789b49fd83235",
+  "submitted_sha256": "7d94231669eeeb632a21224cd592f39b3ad232060cf64fc469407dc2c82f7fe4",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual8",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "627aab0215fb112fa7f018b3d9f865aeff7f01559b3b434aeb6c6345aa51e7b6",
+  "original_sha256": "3c589833ce17f956e950f804fbd41d4ab640e04ccdc95f07e05c7a8b98415eae",
+  "submitted_sha256": "74d817c9d0d1ad152b34234e360f91260cce7067859a06259c64eea8c84c1f24",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual9",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "e3bcd2f584dcfcade0f5fe4f6b41ba3471aeedf5c3b89e7978c16df03f6c3c90",
+  "original_sha256": "8023f64db4ef64bf05b848aedf14fafc57a9019b4fefed6d2c0614ababf77c51",
+  "submitted_sha256": "20a2d34eeda4720f84f8f1250d2cd28cc52229de5556beef44774ddfc94bae94",
+  "submitted_same": false,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual10",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "d7267d802891909f56f4101374deaa936ccebbcdef6dce62dee8d747e7052ac4",
+  "original_sha256": "671f71a057f54b74844cccd1c733aaa98cd0a9eed05683ed65449fbabaf3e692",
+  "submitted_sha256": "4c173f238eb7fc406d6373b88709385e999ad520b2b3e84c123c6cb8725676d8",
+  "submitted_same": false,
+  "reference": "selected mecha candidate 1"
+ },
+ {
+  "slot": "casual90",
+  "card": "스왈로",
+  "style": "anime_25d_gloss",
+  "file": "스왈로_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "ed483a1c2c2d020119e021ecfbe3b7ce975bde9440c427202e024778cea0df1e",
+  "original_sha256": "91d8635f1c5be5e0aa23da2c48d8fb994560311bb23aac42bcf10380c75d4618",
+  "submitted_sha256": "66555ec1deb160500d1ddbfbb537f8ae0ba749723ccb1ce6735b1ec2ca9950c5",
+  "submitted_same": true,
+  "reference": "selected mecha candidate 1"
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "card": "스왈로",
+ "style": "anime_25d_gloss",
+ "status": "selected_planning_casual",
+ "candidates": [
+  {
+   "candidate": 1,
+   "original": "/workspace/scratch/f4eb147021dc/generated_images/exec-1549c1a0-e6f5-4fe4-813d-a6f77d3e36b2.png",
+   "sha256": "9f3f4d3f5a7da0ce656f49ea7b05b26403bb3ce5fa2dcd3ff0ef8c82699fc694",
+   "prompt_file": "/workspace/scratch/f4eb147021dc/swellow-pack/candidate-1-prompt.txt"
+  },
+  {
+   "candidate": 2,
+   "original": "/workspace/scratch/f4eb147021dc/generated_images/exec-f56c1e91-b3c6-43ad-b0f7-e0d74331ffb9.png",
+   "sha256": "50da245e70004d06bdd8608be82e03643ebafca44b2c8f32d2d5db6549e7a64b",
+   "prompt_file": "/workspace/scratch/f4eb147021dc/swellow-pack/candidate-2-prompt.txt"
+  },
+  {
+   "candidate": 3,
+   "original": "/workspace/scratch/f4eb147021dc/generated_images/exec-45ab0fc0-4777-4b0e-8371-88ac8465332a.png",
+   "sha256": "dd7d2201987211b57d2a3a8e80a04f63e9105d0c33969f31218e2e06b0be3080",
+   "prompt_file": "/workspace/scratch/f4eb147021dc/swellow-pack/candidate-3-prompt.txt"
+  },
+  {
+   "candidate": 4,
+   "original": "/workspace/scratch/f4eb147021dc/generated_images/exec-4fb5eb22-c5fc-4c04-940a-6a1ecceec1de.png",
+   "sha256": "bc43f7d403dab109c89deab4e8f3a559a1c48219a087552cf5162bab893c55b2",
+   "prompt_file": "/workspace/scratch/f4eb147021dc/swellow-pack/candidate-4-prompt.txt"
+  }
+ ],
+ "selected_candidate": 1
+}
