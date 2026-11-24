@@ -1,0 +1,696 @@
+{
+  "card": "로토스",
+  "style": "anime_25d_gloss",
+  "selection": 2,
+  "image_repo": "pkm-atelier-img-5",
+  "review": {
+    "light": "User selected option 2. Full-body light armor, intact single figure, water rings and green lily-pad profile.",
+    "casual1": "Covered rainy porch, kneeling pose, dark technical-knit top and ivory shorts. The companion is an original small amphibian. Reference headpiece remains visible as an accessory.",
+    "casual2": "Sunlit ranch with wood rafters and straw, dark teal ring-front one-piece and straw hat. Single figure confirmed despite the landmark model detecting a second pose proposal.",
+    "casual3": "Glass-walled office at dusk, baker peplum and apron, and the square portrait. Both forearms connect through their elbows to the shoulders.",
+    "casual4": "Roadside stall with a berry pitcher, performance outerwear and a partial front opening. Pouring and supporting arms are both continuous.",
+    "casual5": "Lace veil and bodice at the esports stage. The closest hand is attached to the forearm leading to the visible elbow and shoulder. The second arm is cropped at the shoulder; the close crop confuses the landmark detector.",
+    "casual6": "Twilight amusement-park stalls, custom cosplay neckline with recognizable color blocking, and a forward-reaching wink. The gown hem is outside the planned crop.",
+    "casual7": "Harbor ferry deck at night, blue leaf-trim event costume and lily-pad headpiece. Face keeps the selected green eyes and swept layered blue-green hair.",
+    "casual8": "Backstage vanity and costume rails, blue embroidered sari-blouse-inspired set, full figure in a landscape composition.",
+    "casual9": "Golden-hour tidal boardwalk, lifted listening horn, bronze pleated vest and a stepped mulberry skirt. The hands swap their planned sides while performing the two intended actions. The overlay wrist falls onto the background while the rail hand and its forearm are visibly continuous in the original.",
+    "casual10": "A public sound archive with headphones, lavender tailored romper and cool overhead light. The relaxed hand rests on the thigh and the other lightly holds the earcup. The raised upper arm projects toward the viewer, explaining the shortened landmark span. Original and overlay both show continuous limbs.",
+    "casual90": "Indoor pool lifeguard scene. She sits sideways on the chair and checks the kickboard with both hands. Whistle, sports swimsuit and short wrap are visible."
+  },
+  "anatomy": {
+    "light": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands visible, fingers overlap in relaxed gloves.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "note",
+      "flags": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "detected_hands": 0
+    },
+    "casual1": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connect to their forearms. Several tips are angled or partly obscured in the supporting hand.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "ok",
+      "flags": [],
+      "detected_hands": 1
+    },
+    "casual2": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Hip hand and lowered hand connect to their respective arms. Tips are partly overlapping.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "note",
+      "flags": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "detected_hands": 1
+    },
+    "casual3": {
+      "arms": 2,
+      "legs": 0,
+      "hands": "Two posed hands, overlapping tips around the headphones. Lower body outside the crop.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "ok",
+      "flags": [],
+      "detected_hands": 1
+    },
+    "casual4": {
+      "arms": 2,
+      "legs": 0,
+      "hands": "Both hands in a grip, fingertips partly hidden by pitcher handle and glass.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "ok",
+      "flags": [],
+      "detected_hands": 2
+    },
+    "casual5": {
+      "arms": 1,
+      "legs": 0,
+      "hands": "Visible raised hand connects to the visible elbow and shoulder. Far hand is outside the crop.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "check",
+      "flags": [
+        {
+          "level": "note",
+          "what": "faint_body",
+          "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+        },
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 0.7 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+        }
+      ],
+      "detected_hands": 1
+    },
+    "casual6": {
+      "arms": 2,
+      "legs": 0,
+      "hands": "Five tips on the extended hand confirmed at original size. The far hand is beyond the frame.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "note",
+      "flags": [
+        {
+          "level": "note",
+          "what": "faint_body",
+          "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+        }
+      ],
+      "detected_hands": 0
+    },
+    "casual7": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected arms. One gloved hand rests on the bench and the other is near her face. Fingers partly overlap.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "note",
+      "flags": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        }
+      ],
+      "detected_hands": 0
+    },
+    "casual8": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms descend from the shoulders, visible on either side. Individual fingertips overlap at this distance.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "ok",
+      "flags": [],
+      "detected_hands": 1
+    },
+    "casual9": {
+      "arms": 2,
+      "legs": 0,
+      "hands": "Two connected hands. One grips the listening horn and the other rests on the rail. The skirt covers the knees.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "check",
+      "flags": [
+        {
+          "level": "note",
+          "what": "bodies",
+          "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+        },
+        {
+          "level": "check",
+          "what": "loose_hand",
+          "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 3.2 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+        }
+      ],
+      "detected_hands": 1
+    },
+    "casual10": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two connected hands. Fingertips at the earcup partially occluded.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "check",
+      "flags": [
+        {
+          "level": "check",
+          "what": "arm_sym",
+          "msg": "왼·오른 위팔 길이가 0.47 배 — 한쪽만 늘어났나"
+        }
+      ],
+      "detected_hands": 2
+    },
+    "casual90": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands connect to their forearms and grip opposite edges of the kickboard. Several fingertips are hidden by the board.",
+      "overlay_checked": true,
+      "issue": "ok",
+      "tool": "ok",
+      "flags": [],
+      "detected_hands": 1
+    }
+  },
+  "style_25d": {
+    "light": {
+      "verdict": "pass",
+      "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+    },
+    "casual1": {
+      "verdict": "pass",
+      "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+    },
+    "casual2": {
+      "verdict": "pass",
+      "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+    },
+    "casual3": {
+      "verdict": "pass",
+      "basis": "Soft face shadows, dimensional burgundy tailoring and individually highlighted blue-green hair strands."
+    },
+    "casual4": {
+      "verdict": "pass",
+      "basis": "Coloured contours, smooth modeled face shadows and distinct fabric highlights."
+    },
+    "casual5": {
+      "verdict": "pass",
+      "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+    },
+    "casual6": {
+      "verdict": "pass",
+      "basis": "Soft rendered face, luminous hair edges, shaped tailoring and feature-consistent eye colors."
+    },
+    "casual7": {
+      "verdict": "pass",
+      "basis": "Eyes and cheeks use soft shading, with layered hair and distinct reflective fabric finishing."
+    },
+    "casual8": {
+      "verdict": "pass",
+      "basis": "Coloured contours, smooth modeled face shadows and distinct fabric highlights."
+    },
+    "casual9": {
+      "verdict": "pass",
+      "basis": "Soft face shading, detailed flowing hair, warm directional light and rendered fabric structure."
+    },
+    "casual10": {
+      "verdict": "pass",
+      "basis": "Blue-green hair shading, soft contours and consistent dimensional lace-free wool texture."
+    },
+    "casual90": {
+      "verdict": "pass",
+      "basis": "Face and hair use softly blended shading. Reflected pool light and fabric render dimensional surfaces."
+    }
+  },
+  "plan_match": {
+    "light": true,
+    "casual1": true,
+    "casual2": true,
+    "casual3": true,
+    "casual4": true,
+    "casual5": true,
+    "casual6": true,
+    "casual7": true,
+    "casual8": true,
+    "casual9": true,
+    "casual10": true,
+    "casual90": true
+  },
+  "skipped": [],
+  "aspect_differences": {},
+  "selection_basis": {
+    "number": 2,
+    "design": "atelier",
+    "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20",
+    "face_basis": "The selected atelier design uses the generated Lombre face and leaf-layered hair, shown with green eyes and a blue-green palette.",
+    "comparison": [
+      "Lombre options 1, 3, and 4"
+    ],
+    "accepted_count": 12,
+    "requested_count": 12
+  },
+  "slots": {
+    "light": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "User selected option 2. Full-body light armor, intact single figure, water rings and green lily-pad profile.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands visible, fingers overlap in relaxed gloves.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "note",
+        "flags": [
+          {
+            "level": "note",
+            "what": "bodies",
+            "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+          }
+        ],
+        "detected_hands": 0
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    "casual1": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Covered rainy porch, kneeling pose, dark technical-knit top and ivory shorts. The companion is an original small amphibian. Reference headpiece remains visible as an accessory.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands connect to their forearms. Several tips are angled or partly obscured in the supporting hand.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "ok",
+        "flags": [],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "d304db63e150c91d91a3fb84039dfed671986c3be91d0d9172c58874eda75487"
+    },
+    "casual2": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Sunlit ranch with wood rafters and straw, dark teal ring-front one-piece and straw hat. Single figure confirmed despite the landmark model detecting a second pose proposal.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Hip hand and lowered hand connect to their respective arms. Tips are partly overlapping.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "note",
+        "flags": [
+          {
+            "level": "note",
+            "what": "bodies",
+            "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+          }
+        ],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "61d633775373c90a3091e8eb57550252ba473cc114b8135feb3fd489d5852541"
+    },
+    "casual3": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Glass-walled office at dusk, baker peplum and apron, and the square portrait. Both forearms connect through their elbows to the shoulders.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 0,
+        "hands": "Two posed hands, overlapping tips around the headphones. Lower body outside the crop.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "ok",
+        "flags": [],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Soft face shadows, dimensional burgundy tailoring and individually highlighted blue-green hair strands."
+      },
+      "status": "ok",
+      "source": [
+        1254,
+        1254
+      ],
+      "planned_aspect": "1:1",
+      "target": [
+        1024,
+        1024
+      ],
+      "original_sha256": "e47035bd2682c30173c0e9b5cf5003dbc3eba72691e6b476f17a25b0620a6c6b"
+    },
+    "casual4": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Roadside stall with a berry pitcher, performance outerwear and a partial front opening. Pouring and supporting arms are both continuous.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 0,
+        "hands": "Both hands in a grip, fingertips partly hidden by pitcher handle and glass.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "ok",
+        "flags": [],
+        "detected_hands": 2
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Coloured contours, smooth modeled face shadows and distinct fabric highlights."
+      },
+      "status": "ok",
+      "source": [
+        1254,
+        1254
+      ],
+      "planned_aspect": "1:1",
+      "target": [
+        1024,
+        1024
+      ],
+      "original_sha256": "2bc455446a8e72d9ba777bc20d0adcf8553bcdb7f6d825e2f490aadc41576f6d"
+    },
+    "casual5": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Lace veil and bodice at the esports stage. The closest hand is attached to the forearm leading to the visible elbow and shoulder. The second arm is cropped at the shoulder; the close crop confuses the landmark detector.",
+      "anatomy": {
+        "arms": 1,
+        "legs": 0,
+        "hands": "Visible raised hand connects to the visible elbow and shoulder. Far hand is outside the crop.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "check",
+        "flags": [
+          {
+            "level": "note",
+            "what": "faint_body",
+            "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+          },
+          {
+            "level": "check",
+            "what": "loose_hand",
+            "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 0.7 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+          }
+        ],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Fine coloured contours, soft cheek and nose shading, layered blue-green hair and detailed fabric or armor surfaces."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "276ae8c0ad8b4a67e8957a68b28481b59238c9b603950e6bc7c5ca39505fed0a"
+    },
+    "casual6": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Twilight amusement-park stalls, custom cosplay neckline with recognizable color blocking, and a forward-reaching wink. The gown hem is outside the planned crop.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 0,
+        "hands": "Five tips on the extended hand confirmed at original size. The far hand is beyond the frame.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "note",
+        "flags": [
+          {
+            "level": "note",
+            "what": "faint_body",
+            "msg": "몸을 문턱을 낮춰 찾았다 — 뼈대가 흐려 팔다리 길이·각도는 안 본다"
+          }
+        ],
+        "detected_hands": 0
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Soft rendered face, luminous hair edges, shaped tailoring and feature-consistent eye colors."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "0cbce3a81a8b891c1ebd574a7bfaabcc0273c77e5cbce7a61217806829125ad4"
+    },
+    "casual7": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Harbor ferry deck at night, blue leaf-trim event costume and lily-pad headpiece. Face keeps the selected green eyes and swept layered blue-green hair.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two connected arms. One gloved hand rests on the bench and the other is near her face. Fingers partly overlap.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "note",
+        "flags": [
+          {
+            "level": "note",
+            "what": "bodies",
+            "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+          }
+        ],
+        "detected_hands": 0
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Eyes and cheeks use soft shading, with layered hair and distinct reflective fabric finishing."
+      },
+      "status": "ok",
+      "source": [
+        1254,
+        1254
+      ],
+      "planned_aspect": "1:1",
+      "target": [
+        1024,
+        1024
+      ],
+      "original_sha256": "1284c0bfa9cf1ad463271aa5c942a3cbb68409d4fe3953abb9465c63182cbf83"
+    },
+    "casual8": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Backstage vanity and costume rails, blue embroidered sari-blouse-inspired set, full figure in a landscape composition.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms descend from the shoulders, visible on either side. Individual fingertips overlap at this distance.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "ok",
+        "flags": [],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Coloured contours, smooth modeled face shadows and distinct fabric highlights."
+      },
+      "status": "ok",
+      "source": [
+        1536,
+        1024
+      ],
+      "planned_aspect": "3:2",
+      "target": [
+        1536,
+        1024
+      ],
+      "original_sha256": "01c695e230d37c87274688dd9fdbb770552e85a96d5f8b0d921a5fce9e24b423"
+    },
+    "casual9": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Golden-hour tidal boardwalk, lifted listening horn, bronze pleated vest and a stepped mulberry skirt. The hands swap their planned sides while performing the two intended actions. The overlay wrist falls onto the background while the rail hand and its forearm are visibly continuous in the original.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 0,
+        "hands": "Two connected hands. One grips the listening horn and the other rests on the rail. The skirt covers the knees.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "check",
+        "flags": [
+          {
+            "level": "note",
+            "what": "bodies",
+            "msg": "몸이 2 개로 잡혔다 — 거울·그림자·겹친 팔다리. 두 번째 인물이 있나 본다"
+          },
+          {
+            "level": "check",
+            "what": "loose_hand",
+            "msg": "손 하나가 어느 팔 끝에도 안 붙었다(가까운 오른손목에서 어깨너비의 3.2 배) — 셋째 손·떨어진 손 · 뼈대가 흐려 더 확실치 않다"
+          }
+        ],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Soft face shading, detailed flowing hair, warm directional light and rendered fabric structure."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "273a650c7a0ac67c3b43e33b20294a37ed53200984c950ef54d3ed95d680a63b"
+    },
+    "casual10": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "A public sound archive with headphones, lavender tailored romper and cool overhead light. The relaxed hand rests on the thigh and the other lightly holds the earcup. The raised upper arm projects toward the viewer, explaining the shortened landmark span. Original and overlay both show continuous limbs.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two connected hands. Fingertips at the earcup partially occluded.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "check",
+        "flags": [
+          {
+            "level": "check",
+            "what": "arm_sym",
+            "msg": "왼·오른 위팔 길이가 0.47 배 — 한쪽만 늘어났나"
+          }
+        ],
+        "detected_hands": 2
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Blue-green hair shading, soft contours and consistent dimensional lace-free wool texture."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "b60bf8cde103f0258ea615a65340b639127fc9003ba4a5387e0ed947006b2cbc"
+    },
+    "casual90": {
+      "accepted": true,
+      "plan_match": true,
+      "observations": "Indoor pool lifeguard scene. She sits sideways on the chair and checks the kickboard with both hands. Whistle, sports swimsuit and short wrap are visible.",
+      "anatomy": {
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands connect to their forearms and grip opposite edges of the kickboard. Several fingertips are hidden by the board.",
+        "overlay_checked": true,
+        "issue": "ok",
+        "tool": "ok",
+        "flags": [],
+        "detected_hands": 1
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "basis": "Face and hair use softly blended shading. Reflected pool light and fabric render dimensional surfaces."
+      },
+      "status": "ok",
+      "source": [
+        1024,
+        1536
+      ],
+      "planned_aspect": "2:3",
+      "target": [
+        1024,
+        1536
+      ],
+      "original_sha256": "ff1cb020f3ad9f908f5f86d37ce5770197cc7eaa605c1e25f6cf129956dfb752"
+    },
+    "selection": {
+      "number": 2,
+      "design": "atelier",
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20",
+      "face_basis": "The selected atelier design uses the generated Lombre face and leaf-layered hair, shown with green eyes and a blue-green palette.",
+      "comparison": [
+        "Lombre options 1, 3, and 4"
+      ],
+      "accepted_count": 12,
+      "requested_count": 12
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "card": "로토스",
+  "style": "anime_25d_gloss",
+  "selection": 2,
+  "assets": [
+    {
+      "slot": "light",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20",
+      "sha256": "2d0cb57adc21dfc300c68bde579dd92813f01e9ed8d876bb486a3c9eafd1f982",
+      "submitted_sha256": "be5f63c14514e4cb8cb7492f0c06df763c3c186f52c68342600856af3fc29b85",
+      "submitted_same": true,
+      "reference_sha256": null
+    },
+    {
+      "slot": "casual1",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "d304db63e150c91d91a3fb84039dfed671986c3be91d0d9172c58874eda75487",
+      "sha256": "1a5ddf5317d064a4310b45a1b6a8da3248b53d2a263b94d3f326df075c5a92ef",
+      "submitted_sha256": "38a22e415c564d731d94230c95faf7ca06beb3cbdf93c144b989a4472ebf59ee",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual2",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "61d633775373c90a3091e8eb57550252ba473cc114b8135feb3fd489d5852541",
+      "sha256": "f4ad6b1c3a793a0f17760d47f75f77d3c63298aa8740e4924132ced18160cd3a",
+      "submitted_sha256": "b89279ede5549310ef6a51792cf9e36bb87334c681db082c17941920b78b3754",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual3",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "e47035bd2682c30173c0e9b5cf5003dbc3eba72691e6b476f17a25b0620a6c6b",
+      "sha256": "fbdeb0e53aed24bf5106e0aa5b8f070a742fb73ad38d01dd9d8625036c1957fb",
+      "submitted_sha256": "8de8675bf7533175afc91879b0910d4497228f44fcf8158ea17ed53588869360",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual4",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "2bc455446a8e72d9ba777bc20d0adcf8553bcdb7f6d825e2f490aadc41576f6d",
+      "sha256": "3cf7cfcd5618d347f618147dbf2457bc3422e639bbd4df9320358e4e31792b42",
+      "submitted_sha256": "52091ca0846be0fde63713db46aa3e526bc53faf3073ac14c6b14273f6bbe9dd",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual5",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "276ae8c0ad8b4a67e8957a68b28481b59238c9b603950e6bc7c5ca39505fed0a",
+      "sha256": "ca7a22305d5ddbff7c594b49850eb83605af0b88d83209d4a7c1f5c1e5e731ef",
+      "submitted_sha256": "0313d42245cc09ddcbff89ed72338f3202b64b8779172de9eed4b4b0e000c993",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual6",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "0cbce3a81a8b891c1ebd574a7bfaabcc0273c77e5cbce7a61217806829125ad4",
+      "sha256": "468f5e402fad7bbde8985cdc2ffe7260cec7fde42a02e621bf579f6461d939a7",
+      "submitted_sha256": "d53e8c1563434a39ea2713a54c2bf6fcf37c3ca3444e2d100eb682538a3974e0",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual7",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_size": [
+        1254,
+        1254
+      ],
+      "format": "WEBP",
+      "planned_aspect": "1:1",
+      "aspect_matches": true,
+      "original_sha256": "1284c0bfa9cf1ad463271aa5c942a3cbb68409d4fe3953abb9465c63182cbf83",
+      "sha256": "37509cf8933b1460b95ac4f8fa40e2f8ebab6efce7aa0a37664944633db24071",
+      "submitted_sha256": "bc33394a3767a8ff3c40a9bfc760f0404b2841506ceb248ba22534089870e040",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual8",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "planned_aspect": "3:2",
+      "aspect_matches": true,
+      "original_sha256": "01c695e230d37c87274688dd9fdbb770552e85a96d5f8b0d921a5fce9e24b423",
+      "sha256": "82c16a14171f2faa358e354856e6d81ab9b9aa5fd39282edf5d2711cedd31616",
+      "submitted_sha256": "4ed44fcaf8e5e2e84b77e0ffe1db4e794cfba8faa654df5f7f43330996b2fa37",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual9",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "273a650c7a0ac67c3b43e33b20294a37ed53200984c950ef54d3ed95d680a63b",
+      "sha256": "b4c32fa03c0515295b9ad73f2962d6441b37e9e65122884c884e588e4bcdf48a",
+      "submitted_sha256": "5dff93cb2a52fc239272a11abe7f94b921c021bc8439fadfb5610423bc2a84b4",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual10",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "b60bf8cde103f0258ea615a65340b639127fc9003ba4a5387e0ed947006b2cbc",
+      "sha256": "2e9d1e21656e3bb36a2d9bdbfa0dc45305c5a96218a2c0005d2f4667cf6c706b",
+      "submitted_sha256": "bf68806b74780ac4ccc5009cfda74e58aee86ddc048de62fef449e39b9d37598",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    },
+    {
+      "slot": "casual90",
+      "card": "로토스",
+      "style": "anime_25d_gloss",
+      "filename": "로토스_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "planned_aspect": "2:3",
+      "aspect_matches": true,
+      "original_sha256": "ff1cb020f3ad9f908f5f86d37ce5770197cc7eaa605c1e25f6cf129956dfb752",
+      "sha256": "46c91e3fb2f24fe1f38e734400f656a845d83253d53dc67944abd068b7f23218",
+      "submitted_sha256": "8ec73ee9c9eb8392dbcf62ece9bf62131a4009b076b6778165b1b5bb009c5c8b",
+      "submitted_same": true,
+      "reference_sha256": "9f67cb66929cf236f3cd83e73c73beaf183fe8e25476df394d6ab2b701c17b20"
+    }
+  ]
+}
