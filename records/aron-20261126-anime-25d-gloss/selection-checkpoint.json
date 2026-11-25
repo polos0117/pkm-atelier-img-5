@@ -1,0 +1,104 @@
+{
+  "card": "가보리",
+  "style": "anime_25d_gloss",
+  "stage": "casual_planning",
+  "branch": "gpt/aron-20261126",
+  "code_worktree": "/workspace/scratch/06e1ee678a81/pkm-atelier",
+  "image_repo": "polos0117/pkm-atelier-img-5",
+  "candidates": [
+    {
+      "number": 1,
+      "source": "/workspace/scratch/06e1ee678a81/generated_images/exec-84f7d7c5-a418-4994-83e2-477150740ef3.png",
+      "sha256": "32fc5dc7aecf0990d9d219abf4fffc4b99d7b7db49ec007813d199d2c3b5cb70",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/06e1ee678a81/aron-pack/light-prompt.txt",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft nose, lip and jaw gradients with dimensional armor; fine coloured outlines."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised open gloved hand has five digits; lowered loosely curled hand partly occluded. Both attached to wrists.",
+        "tool": "not run; visual selection review",
+        "overlay_checked": false
+      },
+      "observations": "Short blunt silver hair, heavy shoulder and leg thrusters."
+    },
+    {
+      "number": 2,
+      "source": "/workspace/scratch/06e1ee678a81/generated_images/exec-ab7b4c76-142d-40eb-9b7e-43fcd18f8119.png",
+      "sha256": "493c2f14dc93f01d9d2605af2922b5e10925ea17f7c97df22e19c34d56bc80f7",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/06e1ee678a81/aron-pack/light-prompt.txt",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft nose, lip and jaw gradients with dimensional armor; fine coloured outlines."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised open gloved hand has five digits; lowered loosely curled hand partly occluded. Both attached to wrists.",
+        "tool": "not run; visual selection review",
+        "overlay_checked": false
+      },
+      "observations": "Short blunt silver hair, heavy shoulder and leg thrusters."
+    },
+    {
+      "number": 3,
+      "source": "/workspace/scratch/06e1ee678a81/generated_images/exec-2029d823-e257-4318-8faa-2bc3915ed0ca.png",
+      "sha256": "1a4821c6be20cf9b3fb188933d7cafbef0d01d7bb28a74783adcd2addee64dfe",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/06e1ee678a81/aron-pack/light-gpt-1-prompt.txt",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft nose, lip and jaw gradients with dimensional armor; fine coloured outlines."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised open gloved hand has five digits; lowered loosely curled hand partly occluded. Both attached to wrists.",
+        "tool": "not run; visual selection review",
+        "overlay_checked": false
+      },
+      "observations": "Braided crown and long braid; rounded aperture pauldrons."
+    },
+    {
+      "number": 4,
+      "source": "/workspace/scratch/06e1ee678a81/generated_images/exec-2e7bd097-245e-4af9-af5a-b9ae091c3c96.png",
+      "sha256": "39b8676b5b66de82bb22ecc05b0ccff4aa990d882e7ffd97dc83221c60699755",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/06e1ee678a81/aron-pack/light-gpt-2-prompt.txt",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft nose, lip and jaw gradients with dimensional armor; fine coloured outlines."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised open gloved hand has five digits; lowered loosely curled hand partly occluded. Both attached to wrists.",
+        "tool": "not run; visual selection review",
+        "overlay_checked": false
+      },
+      "observations": "Long loose silver hair, articulated shell with round recessed apertures; teal eyes render blue."
+    }
+  ],
+  "published": false,
+  "selected": 2
+}

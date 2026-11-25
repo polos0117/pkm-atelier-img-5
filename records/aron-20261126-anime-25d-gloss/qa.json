@@ -1,0 +1,341 @@
+{
+  "reviewer": "gpt",
+  "selected_candidate": 2,
+  "accepted": true,
+  "cuts": [
+    {
+      "slot": "light",
+      "filename": "가보리_light_anime_25d_gloss_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "493c2f14dc93f01d9d2605af2922b5e10925ea17f7c97df22e19c34d56bc80f7",
+      "webp_sha256": "8d54123949c90c00c96e02a48cece092e57c8313ee3cdc7e6f3b0bb9d794a837",
+      "submitted_sha256": "3fac185a3ae9e078d41eaa3ae755f2445f11eb80333da254e379716c33364a56",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": null,
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Silver blunt bob, blue eyes, separate steel plates and heavy shoulder thrusters. Two arms and two legs continuous; raised hand open, lowered hand loosely closed.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Silver blunt bob, blue eyes, separate steel plates and heavy shoulder thrusters. Two arms and two legs continuous; raised hand open, lowered hand loosely closed."
+    },
+    {
+      "slot": "casual1",
+      "filename": "가보리_anime_25d_gloss_f_casual1.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "07e40544d2c46a87b9c5ea359167d2e4c56f41056aec9db334cde4d6e181e984",
+      "webp_sha256": "daa11f64f83a8e76cc7c5b438fee570d8e98ce6513d5893cbb4875cdb060761a",
+      "submitted_sha256": "7dfc50099eab80d1e9e85c07d5ed10fc54666f6848343de8d4b41d5067f9246d",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Night penthouse, sage tailored trousers, hat, jacket tied at waist, sunglasses in one hand. Both hands continuous, fingers partly hidden by sunglasses grip.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Night penthouse, sage tailored trousers, hat, jacket tied at waist, sunglasses in one hand. Both hands continuous, fingers partly hidden by sunglasses grip."
+    },
+    {
+      "slot": "casual2",
+      "filename": "가보리_anime_25d_gloss_f_casual2.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "ce7b70fe7812a131d111153864b6422ff3c74d2894bb10e7397b2c55fcacbf3e",
+      "webp_sha256": "3dd62d010fad7335ba78662607988d9eade2c6977b9b16d8f12d9041e84818a0",
+      "submitted_sha256": "a3e9068c15c7a11fd8d51e7187b8df693cf900b826787764479acc27ff747db5",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Harbour ferry close-up, ice pop held in raised gloved hand, five digits partly occluded by grip; second shoulder and upper arm continue beyond crop. Costume includes rigid mechanical-looking panels rather than entirely textile pieces; preserved.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Harbour ferry close-up, ice pop held in raised gloved hand, five digits partly occluded by grip; second shoulder and upper arm continue beyond crop. Costume includes rigid mechanical-looking panels rather than entirely textile pieces; preserved."
+    },
+    {
+      "slot": "casual3",
+      "filename": "가보리_anime_25d_gloss_f_casual3.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "b2f7f240af303d1e1897db877e090a3b5273443d4316927a6681eec6140029cd",
+      "webp_sha256": "7e36ff555d01957fc01fd53728037d035a42c5b73252a48400d1aab91f8babfd",
+      "submitted_sha256": "e26782b920dd91bda4f98626f7da380fa82b16c4da3f60424881a59f1c1f1c01",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Bedroom black mini dress with tie and white collar. Seated on bed edge, both hands rest on bed and connect to shoulders. Camera rendered front three-quarter rather than planned turned-away view; preserved.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Bedroom black mini dress with tie and white collar. Seated on bed edge, both hands rest on bed and connect to shoulders. Camera rendered front three-quarter rather than planned turned-away view; preserved."
+    },
+    {
+      "slot": "casual4",
+      "filename": "가보리_anime_25d_gloss_f_casual4.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "7c1a8b9f5152c2c9a15d73ca9f13c759c276ecbed0735331b104a0cfeade2d12",
+      "webp_sha256": "2519ab4c42c58a1ce237da1b7aca95c99e8b78e035424897c36343abf27fe0e0",
+      "submitted_sha256": "65679d1cba0d73f7a0a39a148193257db0eb0cdb9cebae20146f6f111a7f9e05",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square grotto scene in dark satin pajama camisole and shorts; open shirt, ribbon, glowing spring creatures. Two arms attached, raised fingers relaxed and partly overlapping; lowered hand five digits.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Square grotto scene in dark satin pajama camisole and shorts; open shirt, ribbon, glowing spring creatures. Two arms attached, raised fingers relaxed and partly overlapping; lowered hand five digits."
+    },
+    {
+      "slot": "casual5",
+      "filename": "가보리_anime_25d_gloss_f_casual5.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "e333cb44e7a6349880a98432e21e52b9f94412f64720848b6a4a6513d44ce04f",
+      "webp_sha256": "18c3c75c17239efeee683b00c91a032533da67bd0ce856495f2d2c454928ad13",
+      "submitted_sha256": "c8bdb1fe109a00a30d70a43a56803689d79724ba2f5cc5f3f3cf02d2e8ec7ce9",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Salon face close-up, brush in raised hand, apron and safety glasses. Both shoulder contours connect to visible upper arms; second hand outside crop. Brush grip partly conceals fingers.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Salon face close-up, brush in raised hand, apron and safety glasses. Both shoulder contours connect to visible upper arms; second hand outside crop. Brush grip partly conceals fingers."
+    },
+    {
+      "slot": "casual6",
+      "filename": "가보리_anime_25d_gloss_f_casual6.webp",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "050cf8aa0e059287ab004e0b77af2e2207215ca76e5269c74ff1cf3a9a03e0cb",
+      "webp_sha256": "fa149ef338ae0c77ac1fcb5d14f437fef353c9d5ab651a5cb161111e84396a1d",
+      "submitted_sha256": "16543d97e45b901cd0e990ea6d4dc6d88b93f1590db503fccac337c1aea0ad1c",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Landscape riverside fireworks scene in purple dealer waistcoat and bow tie; kneeling with two attached hands on thighs. Digits separate, thumbs turned toward body. Head faces camera rather than over-shoulder plan; preserved.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Landscape riverside fireworks scene in purple dealer waistcoat and bow tie; kneeling with two attached hands on thighs. Digits separate, thumbs turned toward body. Head faces camera rather than over-shoulder plan; preserved."
+    },
+    {
+      "slot": "casual7",
+      "filename": "가보리_anime_25d_gloss_f_casual7.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "819f3c623ec555f71e94d94655bc8908b00980f38f127e7eb5300db156ed1b23",
+      "webp_sha256": "00f9c835f602223306801bbd9464271b6dd1fd972cf11b16188308f0dfdcab91",
+      "submitted_sha256": "0b831c831a08fda5a7cafb54593664a634a5ddbae97d46a01a6f0937532e381b",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square orbital berth, cross-legged body with two joined legs and feet partly overlapping. Juice pouch in raised hand, other hand on thigh. Fingers partly occluded by pouch; no extra limbs.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Square orbital berth, cross-legged body with two joined legs and feet partly overlapping. Juice pouch in raised hand, other hand on thigh. Fingers partly occluded by pouch; no extra limbs."
+    },
+    {
+      "slot": "casual8",
+      "filename": "가보리_anime_25d_gloss_f_casual8.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "81d86609d29b3d1fddb3434710ab58916a57ce5cad025b4a53f8d3f4ca6ba195",
+      "webp_sha256": "84af5e1b1dafb93624c56fd9bfbaea8d83c05256db637162f62cda63ee300c94",
+      "submitted_sha256": "ed410c5bd810f50d03d0f899b40ffe265a458bfb735e532c89bbee40cd61d6a7",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Boardgame lounge, aubergine tailored culotte romper, leaning on wall. Two full arms and attached hands visible; five digits indicated with natural overlaps. Closed-eye laughter.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Boardgame lounge, aubergine tailored culotte romper, leaning on wall. Two full arms and attached hands visible; five digits indicated with natural overlaps. Closed-eye laughter."
+    },
+    {
+      "slot": "casual9",
+      "filename": "가보리_anime_25d_gloss_f_casual9.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "b1d905a13082800489d4c6bde5e19d4748059fb702d9caabe30d784056cf5b41",
+      "webp_sha256": "898d35f6fe04f7ca8f136ae0d92b4d318a6b3afa5946d76a5cc398da75d2b1ba",
+      "submitted_sha256": "27b5a7fac1a0b9f9e2ec24ad5fd07cc6e2b4c071ea2f32a89e740c35d7c5a0a0",
+      "submitted_same": false,
+      "authorized_free_design": true,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Dawn rooftop, apricot opaque two-piece, paper glider in air, one hand raised and one on bench. Bench hand five digits; raised hand partly reaches frame edge. Legs continuous. Tired expression retained.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Dawn rooftop, apricot opaque two-piece, paper glider in air, one hand raised and one on bench. Bench hand five digits; raised hand partly reaches frame edge. Legs continuous. Tired expression retained."
+    },
+    {
+      "slot": "casual10",
+      "filename": "가보리_anime_25d_gloss_f_casual10.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "8872e94ef41b7cce4554a888ce061dedbb78f5325912b5ff6369ceed89de4a14",
+      "webp_sha256": "2102600296cfd472f5c0203d3cc7ccdbaa48db458daa685fbabc2603ebde4a65",
+      "submitted_sha256": "2cf3ff2d2e6202919fcf6960494b2d921726c9c826496e74bbecb42758da093c",
+      "submitted_same": false,
+      "authorized_free_design": true,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Railway dessert cafe, surprised expression, coral halter playsuit, huge souffle. Spoon grip and table hand attach naturally to arms; five digits with grip occlusion.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Railway dessert cafe, surprised expression, coral halter playsuit, huge souffle. Spoon grip and table hand attach naturally to arms; five digits with grip occlusion."
+    },
+    {
+      "slot": "casual90",
+      "filename": "가보리_anime_25d_gloss_f_casual90.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "78a5e5f19a206bff8b7fd00e41d8d1b5599b8f8669338482028a34f77481f6e6",
+      "webp_sha256": "af31e1b512ce8f4f368c2bc81306e7a9b299ef7171a7b9becd806be5c896bef0",
+      "submitted_sha256": "02ca3fbcf43f8ea21e4a685d1354f476391d62d31d79031cd4b7b7661de145a7",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 2",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft painted gradients on nose, lips and jaw, fine contours; dimensional hair and cloth."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square forge scene, leather apron, bandeau, both hands on hammer handle. Both arms attach to matching shoulders; fingers wrapped around handle with thumbs partly hidden. Background creatures separate from woman.",
+        "overlay_checked": false,
+        "note": "Original examined visually; hidden/cropped digits not guessed."
+      },
+      "observations": "Square forge scene, leather apron, bandeau, both hands on hammer handle. Both arms attach to matching shoulders; fingers wrapped around handle with thumbs partly hidden. Background creatures separate from woman."
+    }
+  ],
+  "skipped": [],
+  "diversity_comparison": {
+    "within_set": "Penthouse walking / harbour close-up / seated bedroom / grotto standing / salon portrait / kneeling fireworks / floating berth / leaning lounge / rooftop glider / dining cafe / forge work. Distinct activity, clothing and framing; no image regenerated.",
+    "recent_characters": [
+      "입치트",
+      "깜까미",
+      "델케티"
+    ],
+    "visual_evidence": "Reviewed recent light and casual1 thumbnails for these three. Their long dark / purple or curled blonde hair and gold / purple armor contrast with Aron silver blunt bob and broad steel shoulder units. Their seated event / shrine or station scenes differ from this set standing penthouse, harbour ice pop, grotto, salon brush, kneeling fireworks and orbital berth. Free scenes use rooftop glider and railway souffle."
+  }
+}
