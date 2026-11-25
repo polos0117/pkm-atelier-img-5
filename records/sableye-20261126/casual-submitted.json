@@ -1,0 +1,68 @@
+[
+  {
+    "slot": "casual1",
+    "sha256": "a055ea7da28465163ef25ff17b77cd89b4ed0dde3026ad2be0d171b922764b38",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual2",
+    "sha256": "8b7d1e33095abbe882155bc222365a1944aa90c8b275c8b32c00917edd9ae8ee",
+    "same_as_build": false,
+    "authorized_fill": "free_scene"
+  },
+  {
+    "slot": "casual3",
+    "sha256": "48e4037ad24567b0f173e85c6a09e6aaead6bb0ad7e8075f496dd523bc75ed19",
+    "same_as_build": false,
+    "authorized_fill": "free_scene"
+  },
+  {
+    "slot": "casual4",
+    "sha256": "e3a6f2984a8c3b73bcc8e078d64c50b9a3ff92e467edbee45237f75f604076d7",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual5",
+    "sha256": "077b355b2c6ddb8f9d5a2f078532da758cc92f1659b8cc53515251b2e24dfa02",
+    "same_as_build": false,
+    "authorized_fill": "free_outfit"
+  },
+  {
+    "slot": "casual6",
+    "sha256": "d4128c99194cab3d8e5965ba6577ee055ee3e8b7d587be8719ec19f64423f777",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual7",
+    "sha256": "b45848bdf7061f0513deb2ea34ab3bdfaa553c3a02ed698258cec2faa4eec625",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual8",
+    "sha256": "f10ea502d3f3bf5279721a70fc272130f494126568394a0a27692fb3c5f6f409",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual9",
+    "sha256": "f09b57e272c9921b1b005de98a46c53c9477d0e4ee4672f8d37d0cf495fb4c0d",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual10",
+    "sha256": "d01f731a98c31a0e7f87980250d5bcd07f07a44f01b02d69e2a114eaba24d22d",
+    "same_as_build": true,
+    "authorized_fill": null
+  },
+  {
+    "slot": "casual90",
+    "sha256": "3a1ef268a3e750a5852a04a08dd792bad0ad6b3a8acfa8e434da648ab2142f79",
+    "same_as_build": true,
+    "authorized_fill": null
+  }
+]

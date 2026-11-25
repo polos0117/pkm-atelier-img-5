@@ -1,0 +1,218 @@
+{
+  "character": "깜까미",
+  "no": 302,
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "selected_design": "generator",
+  "status": "ready_to_publish",
+  "output_count": 12,
+  "reference_sha256": "d6504b5df9547a5bb6524e0b5caa3da1c1b421472830a9c5e3335270581f9c7c",
+  "reservation_commit": "6ff82f8de2b4a48aa55f39b5814e41387d918ee4",
+  "regenerated": false,
+  "files": [
+    {
+      "slot": "light",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_light_anime_25d_gloss_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f812150946e2f59ee3d904d85a1ae036a6b17503d950cedb8b3d86360e9abf3b",
+      "original_sha256": "d6504b5df9547a5bb6524e0b5caa3da1c1b421472830a9c5e3335270581f9c7c",
+      "submitted_sha256": "bc6d8603470f69ce9e6471edf28876e1d7e8ba38313d1c2ba84581c03ae4e354",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": null
+    },
+    {
+      "slot": "casual1",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual1.webp",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "e54be849ad20d9d8815569a6829f704e2a209262932a115b2510c10e9e6f3cf7",
+      "original_sha256": "f9a9f705304fce7ad33f79938cb5a64fe63746e47209a3bca432d3f90e6114a7",
+      "submitted_sha256": "a055ea7da28465163ef25ff17b77cd89b4ed0dde3026ad2be0d171b922764b38",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual2.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1dedf6193821832558a6648088d633f9c041d482d91df63d4c69d25c00ea1d53",
+      "original_sha256": "4500134cf0ff496b6353b4deb83fbfd930f431fa5526f8145b84ad06aefd143f",
+      "submitted_sha256": "8b7d1e33095abbe882155bc222365a1944aa90c8b275c8b32c00917edd9ae8ee",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual3.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "16b796849e47f37c3b7e83b968f1a7d948ebf7bf21d2cd9527e4ff72aa2c13a5",
+      "original_sha256": "7b6d7277c049e96eb2fc8662534cf80531dd0b4d042328ac07ebac1c0db51077",
+      "submitted_sha256": "48e4037ad24567b0f173e85c6a09e6aaead6bb0ad7e8075f496dd523bc75ed19",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual4",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual4.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ae0bbf2cd3fbe737c6095641741e32d77e4f00aa4e94afad1c5490b4a83bf556",
+      "original_sha256": "e40f967b1fe8f6506316556fe7cf6d6fd6a44d6019ca083b3ffe9e0214b3bf1c",
+      "submitted_sha256": "e3a6f2984a8c3b73bcc8e078d64c50b9a3ff92e467edbee45237f75f604076d7",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual5",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual5.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f3416527fc5bc96a2e8491cb68867252d667bbaa18a2f0b0ebd7bd4e2ced77c5",
+      "original_sha256": "6f3edd7bd63c142d32d61a25872b689f55523db18aae3f3813f6adb0946134b6",
+      "submitted_sha256": "077b355b2c6ddb8f9d5a2f078532da758cc92f1659b8cc53515251b2e24dfa02",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual6",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual6.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0cc27b112f7920a3f1292a65faf6265eb5ae909180e4cdc1db97aa56bc7e95aa",
+      "original_sha256": "08b021f7d5bd0b2be1868a4f9c99b7ee293d033ce80a14138abbc305b7464f8d",
+      "submitted_sha256": "d4128c99194cab3d8e5965ba6577ee055ee3e8b7d587be8719ec19f64423f777",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual7",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual7.webp",
+      "pixels": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "d21e58d73c5c6d3dd4387ba71477d999b4c2696fddec95e5f30c5d53da827956",
+      "original_sha256": "672a6aa843ddeb65a36cd7388ff330686b860a189b9631729b1c929565c63182",
+      "submitted_sha256": "b45848bdf7061f0513deb2ea34ab3bdfaa553c3a02ed698258cec2faa4eec625",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual8",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual8.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4fed24a553deac025008597f0dac73c52d4d284c5044424c30a31be4056c6e28",
+      "original_sha256": "a51f83a02a61c71e4676f169b4e842cfc4447ac6626e06102449786617936067",
+      "submitted_sha256": "f10ea502d3f3bf5279721a70fc272130f494126568394a0a27692fb3c5f6f409",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual9",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual9.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a51328026c22644cbf55cd5f9d25473fefc309952e73a5f6da9122d3f0bee4b5",
+      "original_sha256": "e4d5a13d40c49622287eaf123f47ff5bba1c750158d97795d5fc680c98cf4b4c",
+      "submitted_sha256": "f09b57e272c9921b1b005de98a46c53c9477d0e4ee4672f8d37d0cf495fb4c0d",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual10",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual10.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e51144e929af710316425bb48e66ee161ce0307033664826d17b9029e5c3be9c",
+      "original_sha256": "a3ff5ac0f61a01e38a9b2760d37fb071d269ff30a4eb7e89ce9933d4e1006c70",
+      "submitted_sha256": "d01f731a98c31a0e7f87980250d5bcd07f07a44f01b02d69e2a114eaba24d22d",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual90",
+      "card": "깜까미",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "file": "깜까미_anime_25d_gloss_f_casual90.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "309ea3cb7a88558002292c208564697eebac99fa0711b641b4fddaf1d864bc2f",
+      "original_sha256": "d87a8ce5dd97e6f425f412b81af3d0f178bc2be37aefee84d33576523b4367fe",
+      "submitted_sha256": "3a1ef268a3e750a5852a04a08dd792bad0ad6b3a8acfa8e434da648ab2142f79",
+      "classification_basis": "generator settings and user selection 2",
+      "reference": "깜까미_light_anime_25d_gloss_f.webp"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "light": {
+    "source": "exec-2ddbf988-9316-4aa3-975d-c0c5fb3c5aee.png",
+    "sha256": "d6504b5df9547a5bb6524e0b5caa3da1c1b421472830a9c5e3335270581f9c7c"
+  },
+  "casual1": {
+    "source": "exec-84470cb3-9608-4f4b-8334-4cdcc1cd653d.png",
+    "sha256": "f9a9f705304fce7ad33f79938cb5a64fe63746e47209a3bca432d3f90e6114a7"
+  },
+  "casual2": {
+    "source": "exec-3ee508b0-8de3-48bf-90f7-6314f1de5140.png",
+    "sha256": "4500134cf0ff496b6353b4deb83fbfd930f431fa5526f8145b84ad06aefd143f"
+  },
+  "casual3": {
+    "source": "exec-41c2cdad-31ca-4945-96a0-80196f02a8a6.png",
+    "sha256": "7b6d7277c049e96eb2fc8662534cf80531dd0b4d042328ac07ebac1c0db51077"
+  },
+  "casual4": {
+    "source": "exec-f15aabbd-5cee-4078-9498-9e29098e7b15.png",
+    "sha256": "e40f967b1fe8f6506316556fe7cf6d6fd6a44d6019ca083b3ffe9e0214b3bf1c"
+  },
+  "casual5": {
+    "source": "exec-97b6e602-37b6-4b5f-8068-98b462c9afcf.png",
+    "sha256": "6f3edd7bd63c142d32d61a25872b689f55523db18aae3f3813f6adb0946134b6"
+  },
+  "casual6": {
+    "source": "exec-2592f01d-0356-43a5-aabf-141f75f3671f.png",
+    "sha256": "08b021f7d5bd0b2be1868a4f9c99b7ee293d033ce80a14138abbc305b7464f8d"
+  },
+  "casual7": {
+    "source": "exec-e15ab98c-08c6-4859-9f56-3b161cc2f4b6.png",
+    "sha256": "672a6aa843ddeb65a36cd7388ff330686b860a189b9631729b1c929565c63182"
+  },
+  "casual8": {
+    "source": "exec-3dfdeaaa-0a3a-4760-8988-400428036ef0.png",
+    "sha256": "a51f83a02a61c71e4676f169b4e842cfc4447ac6626e06102449786617936067"
+  },
+  "casual9": {
+    "source": "exec-3f3ab5ef-cc95-4538-8b0b-86b4a3387569.png",
+    "sha256": "e4d5a13d40c49622287eaf123f47ff5bba1c750158d97795d5fc680c98cf4b4c"
+  },
+  "casual10": {
+    "source": "exec-e83e1aed-695d-4c80-98ff-3ee772f34966.png",
+    "sha256": "a3ff5ac0f61a01e38a9b2760d37fb071d269ff30a4eb7e89ce9933d4e1006c70"
+  },
+  "casual90": {
+    "source": "exec-066a5d6e-cd9b-43ff-8976-0d2042559b76.png",
+    "sha256": "d87a8ce5dd97e6f425f412b81af3d0f178bc2be37aefee84d33576523b4367fe"
+  }
+}
