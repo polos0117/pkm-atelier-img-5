@@ -1,0 +1,214 @@
+{
+  "card": "아이스크",
+  "style": "anime_25d_gloss",
+  "selected_mecha_candidate": 2,
+  "expected": {
+    "mecha": 1,
+    "casual": 10,
+    "own_job": 1
+  },
+  "actual": {
+    "mecha": 1,
+    "casual": 10,
+    "own_job": 1
+  },
+  "regeneration_count": 0,
+  "anatomy_tool": "unavailable: mediapipe is not installed; manually inspected all images",
+  "cuts": {
+    "light": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised palm shows five fingers; hanging hand has overlapping fingers. Both wrists join matching forearms.",
+        "overlay_checked": false,
+        "note": "Two human arms separate from two mechanical backpack supports; natural knees and ankles."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft graduated shading on nose, cheek, lips and jaw; delicate colored facial outlines; dimensional armor and fabric."
+      },
+      "selection": 2
+    },
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "two thighs visible; lower legs outside crop",
+        "hands": "Right hand grips spoon, overlapping fingers partly hidden; left palm on counter with natural five-finger grouping. Wrists and forearms continuous.",
+        "overlay_checked": false,
+        "note": "Both upper arms originate at shoulders, no extra detached hand."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft light on cheek, nose bridge and lip contours; layered hair highlights, rendered satin folds."
+      },
+      "plan_match": "Syrup tasting spoon, separate counter-resting left palm, copper-rose scarf panel top and ivory shorts; midday woodland room."
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside waist-up crop",
+        "hands": "Right hand rests at chin, fingers partly curled; left hand supports bowl with thumb and four fingers wrapping naturally. Both elbows and shoulders connect.",
+        "overlay_checked": false,
+        "note": "No detached or duplicated hand; waist-up square composition."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft cheek and nose shading, dimensional lips, layered hair and reflected warm light."
+      },
+      "plan_match": "Mint monokini, silk hair ribbon, neon bar with steaming bowl, seated lean toward counter; square ratio matches plan."
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Right fingers pluck strings; left fingers grip tuning peg, remaining fingers partly occluded; both wrists and elbow chains attached.",
+        "overlay_checked": false,
+        "note": "Kneeling legs folded naturally below pelvis; no duplicated hands or feet."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Softly rendered profile nose, lips and cheek, hair strands, woven fabric and polished buttons."
+      },
+      "plan_match": "Kneeling at bus shelter in epaulette uniform leotard, tuning ukulele, profile view and square crop as planned."
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "two thighs visible; lower legs outside crop",
+        "hands": "Right hand grips ladle with partly curled fingers; left open palm shows thumb and four fingers, naturally joined to forearm.",
+        "overlay_checked": false,
+        "note": "Left arm extends forward and right forearm crosses torso with clear shoulder origins."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Face has delicate nose and lip modeling, soft cheek gradients and fine hair, warm reflected sunset light."
+      },
+      "plan_match": "Bathhouse terrace, plum asymmetric swimwear, ladle pouring water over forearm, golden hour. Clothing remains securely fitted."
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Left hand holds watermelon wedge, fingertips overlapping naturally; right hand is hidden behind head, elbow and upper arm remain continuous.",
+        "overlay_checked": false,
+        "note": "Two legs extend separately to two natural bare feet; no extra hand or detached limb."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients along nose, cheek and jaw; rendered chiffon folds, reflected lamplight on skin."
+      },
+      "plan_match": "Sleeper compartment, tiered coral babydoll slip, reclining on berth with watermelon; horizontal environmental composition."
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "two thighs visible; lower legs outside crop",
+        "hands": "Right hand grips camera; thumb partly hidden by grip. Left hanging hand has natural thumb and four fingers, all connected through wrist.",
+        "overlay_checked": false,
+        "note": "Two shoulder-to-elbow chains visible; looking back with a gentle torso turn, no disconnected limb."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Layered hair, fine eyelids, soft nose and cheek shading, dimensional denim and waistcoat."
+      },
+      "plan_match": "Cowgirl plaid top, denim shorts, fitted vest, hat, camera in right hand on dance floor; small soft-focus extras only, square crop."
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside close crop",
+        "hands": "Right fingers touch cheek, partly overlapped; hand connects through wrist and forearm. Left hand outside crop, left upper arm continues beyond edge.",
+        "overlay_checked": false,
+        "note": "Both shoulder origins visible; no floating hand or armless torso."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Delicate eyelid lines and soft nose/lip highlights; dimensional cheeks without increased realism; finely layered black-and-white hair."
+      },
+      "plan_match": "Archery range in soft overcast light, fitted off-shoulder lavender look and drop earrings; close crop is slightly wider than face-only plan, recorded without regeneration."
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside chest-up crop",
+        "hands": "Both palms cup jaw; fingers overlap naturally beside cheeks and ears, thumbs partly hidden. Wrists connect to two forearms and visible upper arms.",
+        "overlay_checked": false,
+        "note": "Both shoulders present; no armless torso or detached hand."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Softly blended nose, cheek and lips, fine eyelids and layered hair; reference amber eyes and pale hair tips retained."
+      },
+      "plan_match": "Prone, forearms propped with both palms cupping chin, sleepy dawn expression, apricot pleated sleep top; small wing ornament is an accessory."
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two gloved palms support chin; fingers curl beside cheeks with overlap, natural wrists and elbows.",
+        "overlay_checked": false,
+        "note": "Both thighs, bent knees, lower legs and boots connect; decorative wing cape does not form extra limbs."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft face gradients and fine contours, rendered glove fabric, boot highlights and translucent costume wing panels."
+      },
+      "plan_match": "Ninjask motif adult costume with wing pieces, black-gray and gold details, prone full body at circus ring; horizontal frame."
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "two crossed thighs and knee continuations, lower legs outside crop",
+        "hands": "Right hand holds porcelain doll with overlapping fingers, left hand rests on knee with natural thumb and four fingers.",
+        "overlay_checked": false,
+        "note": "Both elbows and wrists connect; porcelain dolls are clearly small inanimate props, not extra human figures."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Profile has softly painted nose, lips and cheek, strands and fabric textures retain anime 2.5D rendering."
+      },
+      "plan_match": "Quick-handed doll repairer, halter top and short apron/tool belt, seated cross-legged with porcelain doll and thimble necklace; square composition."
+    },
+    "casual10": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside waist-up crop",
+        "hands": "Right fingertips rest on cheek, other fingers partly curled; left hand on hip shows naturally spread fingers and thumb partly hidden. Wrists, forearms and shoulders continuous.",
+        "overlay_checked": false,
+        "note": "No extra or detached limb."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Same amber eyes, soft facial shading, fine outlines and black hair with white tips, dimensional cloth and leather reflections."
+      },
+      "plan_match": "Mavuika-inspired red-black-gold cropped jacket and idol skirt at amusement snack area; cheek-touch and hip hand; no change to face or hair color."
+    }
+  },
+  "diversity": "Woodland syrup tasting, neon bar, sleeper train, bus shelter, bathhouse terrace, archery range, dance floor, dawn bedroom, circus, amusement snack plaza, doll workshop. Clothes, posture and crop differ across the pack.",
+  "fixed_reference": "아이스크_light_anime_25d_gloss_f.webp",
+  "registration": "Automatic workflow; no manual data/img.json or thumbnails written."
+}

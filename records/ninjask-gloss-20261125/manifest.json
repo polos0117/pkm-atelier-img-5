@@ -1,0 +1,182 @@
+[
+  {
+    "slot": "light",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "user selected mecha candidate 2",
+    "reference": null,
+    "source_sha256": "fe8fda5a0901bca88681ad6d29093472a77350c9da17f985e3b08d93993c38b2",
+    "output": "아이스크_light_anime_25d_gloss_f.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "2750cde266b73b7c3f2bb976da37dc8e6794b3a4666863bb4c979acb438b0c6a"
+  },
+  {
+    "slot": "casual1",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "6ebe6116c6ca58d0363c593fa24e9fa8d41c9406f17d17f2724c0d74511a56f8",
+    "output": "아이스크_anime_25d_gloss_f_casual1.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "0ff79eb3fd44986e20f8f9d5048b640b2d5a0eb99a0a67defb4460b8fdd9bde9"
+  },
+  {
+    "slot": "casual2",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "935f6def935f89b9eea3d9f876666e87114cc3131ccddf26bbd87e2d7e4f2142",
+    "output": "아이스크_anime_25d_gloss_f_casual2.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "a7d3998311547610af717766b6f3095275d0fcbfc7eb7ff6bb6315d50273c5c3"
+  },
+  {
+    "slot": "casual4",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "69110ff4863915ee1daa4de8c17f554703b910480ad4294dbe1138a63e7c37cb",
+    "output": "아이스크_anime_25d_gloss_f_casual4.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "6a371bdacd4004db590c966d9c8e4fee9cfdd6cfbd2472109eb5f69c15d2d2bf"
+  },
+  {
+    "slot": "casual5",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "e8f2d3f57c6d11c0bcade21c7e19c88c2b2f2011ba8ba541980b38ae84e70da0",
+    "output": "아이스크_anime_25d_gloss_f_casual5.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "069f820c18cba1ab7ddf7a5158455561c73d1479dc5ee5d2dc1b8c314518f4f2"
+  },
+  {
+    "slot": "casual3",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "b4b5f115e4e156ef6694125702d7db270bde1ebe48037fbcfba9d349d29fbbf6",
+    "output": "아이스크_anime_25d_gloss_f_casual3.webp",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "c512db98d0413b043674342b1255a28bb50a12e126e9a88f67a7b5b53fdd9574"
+  },
+  {
+    "slot": "casual7",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "a12b841966ca27e3c1f0fb6a5d4611e74c228f1dbebe5b1ad0ae16b971471144",
+    "output": "아이스크_anime_25d_gloss_f_casual7.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "c0ade05d4d36d4ee17855ac2070689369ffd65441a0a1f0688466296758a477a"
+  },
+  {
+    "slot": "casual6",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "71d92aa0c6c4016c7a6dac237f3e1dc2d80cfed5a86f82a7369ccca5acdf28b1",
+    "output": "아이스크_anime_25d_gloss_f_casual6.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "029ce055957d2b9071dbe51b58d543e6dffd4b422dea70ee56130677a937c2b3"
+  },
+  {
+    "slot": "casual8",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "39e649713988849d210a92a77c8e6fb7b39547eee75b6f1392f27ba817bcb461",
+    "output": "아이스크_anime_25d_gloss_f_casual8.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "d6d8c9bdd08dc5cbed893a7edb565194abb873a0deb5a62115fc720abf2d617e"
+  },
+  {
+    "slot": "casual9",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "e9c26521eff4ed4a0ea7f9ecb1e1e6b0824e9a425147725b98862c0e4c09fbb1",
+    "output": "아이스크_anime_25d_gloss_f_casual9.webp",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "53af594401055e26f78625ee258a37c91679ffb2b87551682055112fb1c60ac2"
+  },
+  {
+    "slot": "casual90",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "6d154f48febec61d6137cac1abb36b8f4f8d5112b5f758bfc6fb3e6bba565dda",
+    "output": "아이스크_anime_25d_gloss_f_casual90.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "daf3174671021ed18813c39c993f198adb57a7f555b2740b58d4447e5e456e58"
+  },
+  {
+    "slot": "casual10",
+    "card": "아이스크",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; generated planner settings",
+    "reference": "아이스크_light_anime_25d_gloss_f.webp",
+    "source_sha256": "85773c5cb862de6aca304816c31e4cb3367b9ab775d9cbdd4b5439699c8e9de9",
+    "output": "아이스크_anime_25d_gloss_f_casual10.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "c18ce1bafada764c1a9ab0415eea71e90f83978d1bb78641d0c1d2fc2516332e"
+  }
+]

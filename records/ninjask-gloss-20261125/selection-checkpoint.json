@@ -1,0 +1,48 @@
+{
+  "card": "아이스크",
+  "style": "anime_25d_gloss",
+  "status": "generation_complete_prepublication",
+  "candidates": [
+    {
+      "number": 1,
+      "source": "generated_images/exec-4d3b2a77-19fc-48a7-9d60-69e6decdc4a7.png",
+      "sha256": "788a3005b4124e892ceae3ad9bec60a020d0ab20242ab471a4f40f92301ca656",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "base"
+    },
+    {
+      "number": 2,
+      "source": "generated_images/exec-56e9a4a5-e655-4330-8f1c-b4c4c7fa1972.png",
+      "sha256": "fe8fda5a0901bca88681ad6d29093472a77350c9da17f985e3b08d93993c38b2",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "base"
+    },
+    {
+      "number": 3,
+      "source": "generated_images/exec-79896850-d2a1-43af-87de-e4dc4c099b41.png",
+      "sha256": "aaf0b8383e8159160c690a03faea74645af9ab3f8ed6dc9da60e214ea169c7d8",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "gpt_free"
+    },
+    {
+      "number": 4,
+      "source": "generated_images/exec-de037f45-a211-4025-8877-99c87203e498.png",
+      "sha256": "5912c5e00e239550b9ec86e240a56ff7fbdeedc2f91fde2425b3a1114a4f0dec",
+      "size": [
+        1024,
+        1536
+      ],
+      "design": "gpt_free"
+    }
+  ],
+  "selected": 2
+}
