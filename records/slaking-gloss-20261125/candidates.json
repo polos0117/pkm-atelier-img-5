@@ -1,0 +1,54 @@
+[
+  {
+    "candidate": 1,
+    "design": "project",
+    "original": "/workspace/scratch/37eb4fda506d/generated_images/exec-38f34e10-3c14-46f8-8a6b-921242746ac3.png",
+    "original_sha256": "2eeb90753411dd3a7a6f9f8ddaed29f182ab77e0bfe85eb46ea16b22d0b1a3c1",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "prompt_file": "/workspace/scratch/37eb4fda506d/slaking-pack/candidate-1-prompt.txt",
+    "submitted_sha256": "c39507c3259a0f513cc025f20af717aab8d483ed06d4e67cd29ba46f0df4367f",
+    "submitted_same": true
+  },
+  {
+    "candidate": 2,
+    "design": "project",
+    "original": "/workspace/scratch/37eb4fda506d/generated_images/exec-7603c5d3-7cc6-4dfc-98fb-b66bf495f055.png",
+    "original_sha256": "5f7c05042a653b1d22796dbaa3a413d659eacb224e797de0f82906bf3b3a5357",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "prompt_file": "/workspace/scratch/37eb4fda506d/slaking-pack/candidate-2-prompt.txt",
+    "submitted_sha256": "c39507c3259a0f513cc025f20af717aab8d483ed06d4e67cd29ba46f0df4367f",
+    "submitted_same": true
+  },
+  {
+    "candidate": 3,
+    "design": "gpt_free",
+    "original": "/workspace/scratch/37eb4fda506d/generated_images/exec-ff515923-f69c-4eaf-8ab4-1ee20b5852a5.png",
+    "original_sha256": "3d55584be2c25069003aa15225a367e9856358b74865fd27dfe0bded7283bf3e",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "prompt_file": "/workspace/scratch/37eb4fda506d/slaking-pack/candidate-3-prompt.txt",
+    "submitted_sha256": "11b69e16327e96a33b34f174921ca87aa57800e2dc23404554aaf0e21c23efa5",
+    "submitted_same": true
+  },
+  {
+    "candidate": 4,
+    "design": "gpt_free",
+    "original": "/workspace/scratch/37eb4fda506d/generated_images/exec-e2173a38-a8a4-40e9-89a5-74ebe444f3fb.png",
+    "original_sha256": "eb6047890de38dc7f1e3fa136a221b13b4d602066141abfc7db08b164983e4ba",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "prompt_file": "/workspace/scratch/37eb4fda506d/slaking-pack/candidate-4-prompt.txt",
+    "submitted_sha256": "5123ecf63a5bc998c5695646474f9f9edbf19dcd7711a275ed74f2554fd68290",
+    "submitted_same": true
+  }
+]

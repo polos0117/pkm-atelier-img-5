@@ -1,0 +1,633 @@
+{
+  "selection": 2,
+  "no_existing_image_regenerated_for_exposure": true,
+  "blocked_attempts": [
+    {
+      "slot": "casual4",
+      "request_id": "67d83fe4-2de8-4700-a2d1-bc49e1e9a5d7",
+      "image_returned": false,
+      "next_step": "canonical exposure moderate"
+    }
+  ],
+  "similarity_gate": {
+    "crowd_below": 245,
+    "cuts": [
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-bb008048-064b-4f74-8aa0-c0ec26c26295.png",
+        "near": [
+          [
+            "레디안_anime_25d_gloss_f_casual3.webp",
+            316
+          ],
+          [
+            "나메일_glossy_promo_f_casual3.webp",
+            320
+          ],
+          [
+            "삐_glossy_promo_f_casual1.webp",
+            322
+          ],
+          [
+            "우츠동_glossy_promo_f_casual2.webp",
+            322
+          ],
+          [
+            "차오꿀_glossy_promo_f_casual3.webp",
+            322
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-03b68e83-0e8e-443a-af54-70d39014190c.png",
+        "near": [
+          [
+            "캐이시_anime_25d_gloss_f_casual2.webp",
+            316
+          ],
+          [
+            "럭키_anime_25d_gloss_f_casual10.webp",
+            322
+          ],
+          [
+            "점토도리_glossy_promo_f_casual1.webp",
+            325
+          ],
+          [
+            "코바르온_glossy_promo_f_casual2.webp",
+            329
+          ],
+          [
+            "리자드_anime_gloss_f_casual4.webp",
+            331
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-c0998a85-40d5-4892-9cd1-ab3d99dc5ce6.png",
+        "near": [
+          [
+            "메꾸리_anime_25d_gloss_f_casual1.webp",
+            263
+          ],
+          [
+            "직구리_anime_25d_gloss_f_casual7.webp",
+            278
+          ],
+          [
+            "레오꼬_glossy_promo_f_casual3.webp",
+            288
+          ],
+          [
+            "노라키_glossy_promo_f_casual1.webp",
+            292
+          ],
+          [
+            "패리퍼_anime_25d_gloss_f_casual4.webp",
+            295
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-0ad9594d-5fb9-45c5-b195-e2e2fd0a77e1.png",
+        "near": [
+          [
+            "헤라크로스_glossy_promo_f_casual1.webp",
+            281
+          ],
+          [
+            "펄기아_glossy_promo_f_casual2.webp",
+            284
+          ],
+          [
+            "꼬렛_anime_25d_gloss_f_casual10.webp",
+            287
+          ],
+          [
+            "덩쿠리_glossy_promo_f_casual3.webp",
+            289
+          ],
+          [
+            "버섯꼬_glossy_promo_f_casual1.webp",
+            289
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-052d79dc-3198-4dc3-8a86-46e4b9fd5774.png",
+        "near": [
+          [
+            "미뇽_anime_25d_gloss_f_casual8.webp",
+            318
+          ],
+          [
+            "닥트리오_anime_25d_gloss_f_casual2.webp",
+            321
+          ],
+          [
+            "나시_anime_25d_gloss_f_casual8.webp",
+            323
+          ],
+          [
+            "맘복치_glossy_promo_f_casual3.webp",
+            324
+          ],
+          [
+            "내루미_glossy_promo_f_casual1.webp",
+            325
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-61c1477c-2c32-4df1-98b2-36f3ce12f4f4.png",
+        "near": [
+          [
+            "초라기_anime_25d_gloss_f_casual9.webp",
+            250
+          ],
+          [
+            "나인테일_anime_25d_gloss_f_casual3.webp",
+            261
+          ],
+          [
+            "우츠동_anime_25d_gloss_f_casual2.webp",
+            261
+          ],
+          [
+            "레오꼬_glossy_promo_f_casual2.webp",
+            267
+          ],
+          [
+            "비조푸_glossy_promo_f_casual2.webp",
+            267
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-0bd770af-98d0-4e0f-913b-b550946dee12.png",
+        "near": [
+          [
+            "번치코_anime_25d_gloss_f_casual8.webp",
+            285
+          ],
+          [
+            "버섯모_anime_25d_gloss_f_casual5.webp",
+            294
+          ],
+          [
+            "대짱이_anime_25d_gloss_f_casual8.webp",
+            301
+          ],
+          [
+            "늪짱이_anime_25d_gloss_f_casual3.webp",
+            317
+          ],
+          [
+            "홍수몬_anime_25d_gloss_f_casual10.webp",
+            320
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-e3c32649-3a2e-4e2f-bd74-0e5473b7705c.png",
+        "near": [
+          [
+            "레오꼬_glossy_promo_f_casual3.webp",
+            264
+          ],
+          [
+            "통통코_anime_25d_gloss_f_casual4.webp",
+            275
+          ],
+          [
+            "솜솜코_anime_25d_gloss_f_casual90.webp",
+            278
+          ],
+          [
+            "배루키_anime_25d_gloss_f_casual8.webp",
+            279
+          ],
+          [
+            "발바로_anime_25d_gloss_f_casual10.webp",
+            284
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-ab49d530-e288-4bdf-a5d1-5f757b1acea0.png",
+        "near": [
+          [
+            "발바로_anime_25d_gloss_f_casual5.webp",
+            282
+          ],
+          [
+            "다꼬리_anime_25d_gloss_f_casual8.webp",
+            293
+          ],
+          [
+            "델케티_glossy_promo_f_casual3.webp",
+            297
+          ],
+          [
+            "나인테일_anime_25d_gloss_f_casual90.webp",
+            304
+          ],
+          [
+            "페르시온_anime_25d_gloss_f_casual1.webp",
+            307
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-13123aec-1cbb-499f-928f-22bf4024c64f.png",
+        "near": [
+          [
+            "꾸꾸리_anime_25d_gloss_f_casual4.webp",
+            253
+          ],
+          [
+            "그랑블루_anime_25d_gloss_f_casual3.webp",
+            254
+          ],
+          [
+            "마그케인_anime_25d_gloss_f_casual6.webp",
+            260
+          ],
+          [
+            "에레브_anime_25d_gloss_f_casual8.webp",
+            262
+          ],
+          [
+            "캐이시_anime_25d_gloss_f_casual1.webp",
+            270
+          ]
+        ],
+        "same_as_own": []
+      },
+      {
+        "crowd": 0,
+        "duplicate_of": [],
+        "file": "/workspace/scratch/37eb4fda506d/generated_images/exec-215297c9-4936-4d7f-bd10-79cb2bf99b91.png",
+        "near": [
+          [
+            "윈디_anime_25d_gloss_f_casual4.webp",
+            286
+          ],
+          [
+            "이상해풀_anime_25d_f_casual5.webp",
+            290
+          ],
+          [
+            "픽시_anime_gloss_f_casual1.webp",
+            294
+          ],
+          [
+            "고우스트_anime_25d_gloss_f_casual90.webp",
+            295
+          ],
+          [
+            "피츄_anime_25d_gloss_f_casual4.webp",
+            295
+          ]
+        ],
+        "same_as_own": []
+      }
+    ],
+    "dup_below": 215,
+    "ok": true
+  },
+  "cuts": {
+    "light": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 거대한 갈색 트윈테일과 호박갈색 눈, 흰색·분홍 기계 장갑, 한 손의 금빛 구체와 바닥 광륜."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "거대한 갈색 트윈테일과 호박갈색 눈, 흰색·분홍 기계 장갑, 한 손의 금빛 구체와 바닥 광륜."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "전신과 양발이 들어오고 양팔이 어깨에서 이어짐. 펼친 장갑 손의 5지 윤곽과 반대 손을 확인."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "어깨와 위팔·허벅지가 드러나고 흉갑·골반 장갑은 유지."
+      },
+      "regenerated": false
+    },
+    "casual1": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 식물과 전등이 있는 실내의 매달린 의자, 테라코타 퀼팅 의상. 무릎을 겹치고 견과류 그릇을 듦."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "식물과 전등이 있는 실내의 매달린 의자, 테라코타 퀼팅 의상. 무릎을 겹치고 견과류 그릇을 듦."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "그릇을 잡는 오른손과 의자에 놓인 왼손이 각 팔에 이어짐. 그릇을 감싼 손가락 일부는 가려짐."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "어깨·가슴선·허벅지가 보임. 계획의 숏롬퍼 하단은 앉은 자세에서 짧은 랩스커트처럼 읽힘."
+      },
+      "regenerated": false
+    },
+    "casual2": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 푸른 바다 옆 의자에 앉아 파라솔 손잡이를 든 모습. 코발트 수영 롬퍼와 허리 타원 창."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "푸른 바다 옆 의자에 앉아 파라솔 손잡이를 든 모습. 코발트 수영 롬퍼와 허리 타원 창."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "오른팔이 파라솔로 올라가고 왼팔은 의자 팔걸이에 연결. 손잡이를 감싼 손가락은 일부 가려짐."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "설계된 어깨·복부·허벅지 노출. 오른쪽 주름 소매는 펼쳐졌으나 이동 순간은 정지 화면에서 약함."
+      },
+      "regenerated": false
+    },
+    "casual3": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 나이트클럽 무대, 넓은 환경 구도 속 분홍 크롭 의상·짧은 스커트·머리 소품."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "나이트클럽 무대, 넓은 환경 구도 속 분홍 크롭 의상·짧은 스커트·머리 소품."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "두 팔과 두 다리가 연결되고 양발이 프레임 안. 원거리 손의 세부 손가락은 판독이 제한됨."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "복부와 허벅지가 드러남. 흰·분홍 원작 코스튬 갈래이며 별도 생물은 없음."
+      },
+      "regenerated": false
+    },
+    "casual4": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 안개 낀 케이블카 안에서 뒤돌아본 흰 메이드 점프슈트, 카메라를 든 손."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "안개 낀 케이블카 안에서 뒤돌아본 흰 메이드 점프슈트, 카메라를 든 손."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "카메라를 든 손과 반대쪽 아래로 내린 손이 각 팔에 연결. 손가락 일부는 카메라에 가려짐. 무릎 아래는 계획 프레이밍 밖."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "moderate 적용. 어깨와 등선이 보이고 바지와 가슴 패널이 덮음. 원래 검정·흰색 대신 흰색 위주 결과이며 기록만 함."
+      },
+      "regenerated": false
+    },
+    "casual5": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 나무열매 상자와 작업대, 푸른 이벤트 레오타드·날개·후광·작은 뿔 소품, 젖은 피부와 의상."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "나무열매 상자와 작업대, 푸른 이벤트 레오타드·날개·후광·작은 뿔 소품, 젖은 피부와 의상."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "두 팔이 각 어깨에서 작업대의 양손으로 이어짐. 테이블에 대는 손가락 일부가 겹침."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "어깨와 가슴선·허리 창이 드러남. 축축한 광택과 물방울을 확인. 날개는 의상 소품이며 메카 장갑 없음."
+      },
+      "regenerated": false
+    },
+    "casual6": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 산장 욕조와 창문 곁, 살구색 오픈 셔츠와 란제리, 한 발을 계단에 올림."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "산장 욕조와 창문 곁, 살구색 오픈 셔츠와 란제리, 한 발을 계단에 올림."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "오른손은 허리, 왼손은 올린 무릎. 양다리·발목·발이 연결되고 발끝까지 보임. 굽힌 손가락은 접촉으로 일부 가려짐."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "가슴선·어깨·복부·다리가 드러나며 란제리의 불투명 패널이 유지."
+      },
+      "regenerated": false
+    },
+    "casual7": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 실로닌 코스프레의 귀 모양 장식·금색 장신구·흰색과 검정 의상, 엎드려 양손으로 턱을 괸 근접 컷."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "실로닌 코스프레의 귀 모양 장식·금색 장신구·흰색과 검정 의상, 엎드려 양손으로 턱을 괸 근접 컷."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "양팔꿈치에서 손목을 거쳐 양손이 볼에 이어짐. 접힌 손가락 일부는 볼에 가려짐. 하체는 가슴 위 구도 밖."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "어깨와 가슴선이 보임. 코스프레 의상은 상체만 보이고 참조의 얼굴과 머리색을 유지."
+      },
+      "regenerated": false
+    },
+    "casual8": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 공원 분수와 벤치 옆 긴 의자에 기대 누운 모습, 연노랑 집업 수영복, 넓은 가로 화면."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "공원 분수와 벤치 옆 긴 의자에 기대 누운 모습, 연노랑 집업 수영복, 넓은 가로 화면."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "두 다리와 발이 길게 이어지고 두 팔도 각 어깨에 연결. 한 손은 머리 쪽, 한 손은 우산 손잡이. 손가락 일부는 잡은 소품 뒤."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "허벅지·다리·어깨가 보이며 수영복은 유지. 계획의 누운 자세는 한 팔을 올린 리클라이닝으로 표현됨."
+      },
+      "regenerated": false
+    },
+    "casual9": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 마을 야경이 보이는 발코니 테이블, 자주색 꼬인 홀터와 허리 창, 한 손의 구형 소품."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "마을 야경이 보이는 발코니 테이블, 자주색 꼬인 홀터와 허리 창, 한 손의 구형 소품."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "한 손은 턱 아래, 다른 손은 둥근 물건을 잡음. 양손 모두 손목·팔꿈치를 통해 어깨에 연결, 잡은 손가락 일부 가려짐."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "어깨·가슴선·복부 창이 보임. 계획보다 몸이 카메라 정면에 가까움."
+      },
+      "regenerated": false
+    },
+    "casual10": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 음식 트럭의 조명·시장 배경, 금빛 목 장식과 드레이프, 웃으며 손가락 V 제스처."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "음식 트럭의 조명·시장 배경, 금빛 목 장식과 드레이프, 웃으며 손가락 V 제스처."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "보이는 손의 V 두 손가락과 접힌 손가락·엄지 구조를 확인. 반대팔과 하체는 얼굴 중심 프레이밍 밖."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "목선·어깨가 보임. 계획 얼굴 클로즈업보다 가슴까지 넓게 담김."
+      },
+      "regenerated": false
+    },
+    "casual90": {
+      "identity": {
+        "status": "match",
+        "evidence": "갈색 계열의 거대한 트윈테일·호박갈색 눈·짧고 부드러운 턱과 입술을 기준 컷과 대조. 쿠션 소파·담요 선반·스탠드의 낮잠 카페, 카디건과 캐미솔·짧은 하의·털 슬리퍼, 양손의 찻잔."
+      },
+      "scene": {
+        "status": "match_with_notes",
+        "evidence": "쿠션 소파·담요 선반·스탠드의 낮잠 카페, 카디건과 캐미솔·짧은 하의·털 슬리퍼, 양손의 찻잔."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "method": "visual",
+        "status": "no_obvious_error",
+        "evidence": "양팔에서 찻잔 양쪽의 손목으로 연결. 컵을 감싼 손가락 일부는 가려짐. 양다리와 슬리퍼 속 발이 연결."
+      },
+      "style_25d": {
+        "status": "pass",
+        "evidence": "코 옆·입술·광대·턱에 연속적인 입체 음영, 가는 색 윤곽과 층을 이룬 머리카락. 피부와 직물/갑옷의 재질 반사가 구분됨."
+      },
+      "exposure": {
+        "status": "match_with_notes",
+        "evidence": "어깨와 허벅지·종아리가 보임. 카페 점장 직업컷의 도구와 장소가 유지."
+      },
+      "regenerated": false
+    }
+  },
+  "diversity": {
+    "status": "pass",
+    "evidence": "실내 슬링 의자·바닷가 파라솔·클럽 무대·케이블카·나무열매 저장고·산장 욕조·코스프레 근접·공원 리클라이닝·발코니·시장 근접·낮잠 카페로 활동과 환경이 구분됨. 캐주얼1·2·90은 앉은 구도지만 장소·의상·손의 활동과 화면 범위가 구분됨. 실제 결과 시트로 대조했고 생김새 문턱은 전 컷 duplicate_of 없음."
+  }
+}

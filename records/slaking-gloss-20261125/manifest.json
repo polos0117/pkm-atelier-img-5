@@ -1,0 +1,254 @@
+[
+  {
+    "slot": "light",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_light_anime_25d_gloss_f.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "5f7c05042a653b1d22796dbaa3a413d659eacb224e797de0f82906bf3b3a5357",
+    "sha256": "0a8cb1f153fd3a32cdb2ba5f4081394f1e79fba3136bde04dc684af398e29208",
+    "submitted_sha256": "c39507c3259a0f513cc025f20af717aab8d483ed06d4e67cd29ba46f0df4367f",
+    "reference": null,
+    "bytes": 276568
+  },
+  {
+    "slot": "casual1",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual1.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "a5a5d2b4bce962f9ffa645e1f3b08d60745451b28ff4a00033c5cd8611e4a947",
+    "sha256": "85e06dd1c80cac94ff88c896383ac0d495523230daabc83a66bd156d802f8586",
+    "submitted_sha256": "62f8c8848aceebe2dc5d4a25c011d1c13fadd402aa5b53ce9b2db708efbb8471",
+    "reference": "light",
+    "bytes": 244032
+  },
+  {
+    "slot": "casual2",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual2.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "d1473e4e5ea19db6b6ab58645c454e01a084af936615b7237e54c7bcc9af44b1",
+    "sha256": "df81d337d996c888d42c8c94709ef5b1a8da0ddaa16a9b84ce2703a52d6ec828",
+    "submitted_sha256": "f125778fd56ee613d1fbf42ed2b05218a86085c9e34ac920f7520f4754d3a4e5",
+    "reference": "light",
+    "bytes": 269472
+  },
+  {
+    "slot": "casual3",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual3.webp",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "original_size": [
+      1536,
+      1024
+    ],
+    "original_sha256": "1b78fa7dd9d364811a67cdd12e12d1f4ce0ad2544f9eff2cbc11401748f20e83",
+    "sha256": "7aa0f4b965ccced92919c56329b8e02ab4c71c1c138590b6c864305e71cac281",
+    "submitted_sha256": "a7c4e58c863f336a74c9c401f6ac1dc4e4a859be6d7ff0f687d721461fd6c305",
+    "reference": "light",
+    "bytes": 289212
+  },
+  {
+    "slot": "casual4",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual4.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_sha256": "fcec66cf139a96969c8d826a30a9cdd44bb0e81405e376b8b1ce0e903e4851eb",
+    "sha256": "fd29700f0ae6bec217e3d356ed2da28b9441244b9a9e4c66182e9c70ec6f630e",
+    "submitted_sha256": "2b7cc8a2193bc44f0a897889fb5341ef6169ac3e5429f162687b921aa360ff90",
+    "reference": "light",
+    "bytes": 129510
+  },
+  {
+    "slot": "casual5",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual5.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "original_size": [
+      1254,
+      1254
+    ],
+    "original_sha256": "4819b0746938750b7e6bdf7280f778096600d02e8d33d941186aaac0f9324578",
+    "sha256": "58a88c457e757c0ddb4c86621e2f72fe663b541429f8689729d39658df8f4172",
+    "submitted_sha256": "3a743dc48aa3219d22dd5216e566ee59916b7eb2d4d4240da387d1fe184a6a16",
+    "reference": "light",
+    "bytes": 167996
+  },
+  {
+    "slot": "casual6",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual6.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "56135eebc9c242d2a82f7bb3fe93f9d493a91c91b648c513f73986cb4d229ea9",
+    "sha256": "e37e4c575151fd9275f24eb5686f9a53a3035149a81e208b5f1a93fef755ff1b",
+    "submitted_sha256": "e46d96f71d9a78d4e04d06f6a02f385eef4040cbe16c250601430c3c0f20ddd2",
+    "reference": "light",
+    "bytes": 208082
+  },
+  {
+    "slot": "casual7",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual7.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "47dfd20e1843efe4eb883d1072b78dcd2317e2305e2c00c0fd1c173c3e8609e9",
+    "sha256": "c1996aeae58b6c86d17f7c3d90e3d2750e96970305bba16d404540b100d313c0",
+    "submitted_sha256": "7e1ece20a8d91f5c61f35ddbece2a30ceaf440c13ba05eef1e90c011e9fa9064",
+    "reference": "light",
+    "bytes": 176374
+  },
+  {
+    "slot": "casual8",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual8.webp",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "original_size": [
+      1536,
+      1024
+    ],
+    "original_sha256": "03e8d92800cd7aea057d589eb8250fe7fbfd91ea79d6f5ec294e1e92cd2a0ff5",
+    "sha256": "7781d48cef7475bbe04d8ca0295c74d7be94f0a7abc6552d41bfdaab06687d24",
+    "submitted_sha256": "e7e82467e7ac125b41ea18ccd6d1fda1b167abcdd2eac4335b186400dbdc10f3",
+    "reference": "light",
+    "bytes": 340462
+  },
+  {
+    "slot": "casual9",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual9.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "4b83970f536df981dc2ed54278fe033ddc1a91f81c967163287f3708b3952dc8",
+    "sha256": "bba9985af8265a7f8280bfcede05b5efe8a97ebdda9ae9d4dfdbd9cc063572d9",
+    "submitted_sha256": "9f27946cd3529d0d7965342b963715869ffc3ce022a06ba59f7c45fe09d1eab2",
+    "reference": "light",
+    "bytes": 260678
+  },
+  {
+    "slot": "casual10",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual10.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "e7d316d3399748ca7f86f92bdeda893f534aef01b3637ed8561a12f1b0525dd6",
+    "sha256": "fdfbddf1ae59b9d860a68f699828857afdb102fb22fa797b5eb932ec9cefe137",
+    "submitted_sha256": "f3b7f65e22576d275a1149237f4d09a4d7b80dbc08719ec95868aa005620537c",
+    "reference": "light",
+    "bytes": 266860
+  },
+  {
+    "slot": "casual90",
+    "card": "게을킹",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "img/게을킹_anime_25d_gloss_f_casual90.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "b916da69c57713b387b8037d8440c79e6b00b2decf0e9fbf12a0bb878810cf16",
+    "sha256": "efe6753ad5edf052ff4c7dc5c41e95115e76a8cbc1e9fcbc274b11b8271663a3",
+    "submitted_sha256": "4bf31262000fc5ccc5e33b15f2af60956b51de8e702d655e0913f5347a7f8b35",
+    "reference": "light",
+    "bytes": 267774
+  }
+]

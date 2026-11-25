@@ -1,0 +1,60 @@
+[
+  {
+    "cut": 1,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-bb008048-064b-4f74-8aa0-c0ec26c26295.png"
+  },
+  {
+    "cut": 2,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-03b68e83-0e8e-443a-af54-70d39014190c.png"
+  },
+  {
+    "cut": 3,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-c0998a85-40d5-4892-9cd1-ab3d99dc5ce6.png"
+  },
+  {
+    "cut": 4,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-0ad9594d-5fb9-45c5-b195-e2e2fd0a77e1.png",
+    "attempts": 2,
+    "exposure": "moderate",
+    "previous_block": "67d83fe4-2de8-4700-a2d1-bc49e1e9a5d7"
+  },
+  {
+    "cut": 5,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-052d79dc-3198-4dc3-8a86-46e4b9fd5774.png"
+  },
+  {
+    "cut": 6,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-61c1477c-2c32-4df1-98b2-36f3ce12f4f4.png"
+  },
+  {
+    "cut": 7,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-0bd770af-98d0-4e0f-913b-b550946dee12.png"
+  },
+  {
+    "cut": 8,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-e3c32649-3a2e-4e2f-bd74-0e5473b7705c.png"
+  },
+  {
+    "cut": 9,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-ab49d530-e288-4bdf-a5d1-5f757b1acea0.png"
+  },
+  {
+    "cut": 10,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-13123aec-1cbb-499f-928f-22bf4024c64f.png"
+  },
+  {
+    "cut": 90,
+    "status": "generated",
+    "path": "/workspace/scratch/37eb4fda506d/generated_images/exec-215297c9-4936-4d7f-bd10-79cb2bf99b91.png"
+  }
+]
