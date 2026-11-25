@@ -1,0 +1,50 @@
+{
+ "light": {
+  "submitted_sha256": "16491d92bdab5b65f070128c184d36798180ce6326e6e45980b22c6ed8069d72",
+  "same": true
+ },
+ "casual1": {
+  "submitted_sha256": "2537bd2540e28e87000b8798274b8dd03ac602e191957202868ee121b243113c",
+  "same": true
+ },
+ "casual2": {
+  "submitted_sha256": "1df877ca33813096974b786252db2a6cfe2bb408f89e0f060558e43881f876e1",
+  "same": true
+ },
+ "casual3": {
+  "submitted_sha256": "03cf616bcbb3467db276c8e5d53dbe8df133eaf4d655bdeabb1ea60a1101dc6c",
+  "same": true
+ },
+ "casual4": {
+  "submitted_sha256": "1700c909935210167741f4b251fc4ed829bb6e81afb831022b35858f5ca748d5",
+  "same": true
+ },
+ "casual5": {
+  "submitted_sha256": "7cd5920c049fb1a5f803b3e6ab1a1591ec46677cf704666e77a7e9a45bf364af",
+  "same": true
+ },
+ "casual6": {
+  "submitted_sha256": "780cd9e4276aa4fc01f8519a0c481fa6d1d07347def92ecaf11f9f7e11a28311",
+  "same": true
+ },
+ "casual7": {
+  "submitted_sha256": "6f6a348913ebe71a3ed155c2be098d8914961f2f22faa4a9a75ee8e48c75ef99",
+  "same": true
+ },
+ "casual8": {
+  "submitted_sha256": "f74163a1070a62b1397da6268eef1fcf6625d412968ccd82ded4cb200b7ab299",
+  "same": true
+ },
+ "casual9": {
+  "submitted_sha256": "0134a8863bcbfd5088aa08b21e36ed231f811da57274e5ce8c5b32d75f3db60f",
+  "same": true
+ },
+ "casual10": {
+  "submitted_sha256": "3baae1f6706a4a5b89f8f56b61ea90c567457b48fa69e59a053f07a57dc441cf",
+  "same": true
+ },
+ "casual90": {
+  "submitted_sha256": "0cab0265110577f87880405c1a8709efe34fd1f052fb787c6be6e191cf4f236d",
+  "same": true
+ }
+}
