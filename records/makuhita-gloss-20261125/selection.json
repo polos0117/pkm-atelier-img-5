@@ -1,0 +1,76 @@
+{
+  "card": "마크탕",
+  "english": "Makuhita",
+  "style": "anime_25d_gloss",
+  "stage": "planning_casual",
+  "selected": 2,
+  "designs": [
+    {
+      "number": 1,
+      "design": "project",
+      "prompt_file": "makuhita-pack/light-prompt.txt",
+      "submitted_sha256": "e957c6ef260953c418e962e1688399eb4356cd50b688930de374bf98197492ef",
+      "submitted_same": true,
+      "regenerated": false,
+      "image_path": "/workspace/scratch/03a974f68c00/generated_images/exec-770d5316-5570-491c-9003-b2706aa39b14.png",
+      "image_sha256": "2fceafb56d44e11b41465a32ddb7c723d9762ec136c3d13157888645d31bf023",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "prompt_file": "makuhita-pack/light-prompt.txt",
+      "submitted_sha256": "e957c6ef260953c418e962e1688399eb4356cd50b688930de374bf98197492ef",
+      "submitted_same": true,
+      "regenerated": false,
+      "image_path": "/workspace/scratch/03a974f68c00/generated_images/exec-88dbca9e-1860-4b2c-a5bc-f64ef48df8c8.png",
+      "image_sha256": "8a7e4bb6b85dcd6e00ae40067e3a44e7286427049d38065650649e4b1512c06a",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "prompt_file": "makuhita-pack/design3-prompt.txt",
+      "submitted_sha256": "c76467be9f184950c5d11b906ccc7657f0fcf226a07260aa8876c449392abd43",
+      "submitted_same": true,
+      "regenerated": false,
+      "image_path": "/workspace/scratch/03a974f68c00/generated_images/exec-e136bb0b-67bd-4b14-bc4b-723473c4cdf4.png",
+      "image_sha256": "59b792dbf444cd4957493ee360701819eb06e0f018d369f696a13a2ebb26d222",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "prompt_file": "makuhita-pack/design4-prompt.txt",
+      "submitted_sha256": "28c24aad2fcf57eee592245d7e6706a6d9cc62f6e389724c31af0bfd808e1138",
+      "submitted_same": true,
+      "regenerated": false,
+      "image_path": "/workspace/scratch/03a974f68c00/generated_images/exec-7d0f5da4-aaa5-4b4e-9abf-b12c2f3d4cea.png",
+      "image_sha256": "a2d067113c3f39904cbdfd6a1c8aa5dbddf45c03fe313be24545da343c551f38",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "code_base": "1c1b58747d838e057cd314250003cc099a1297fa",
+  "worktree": "/workspace/scratch/03a974f68c00/pkm-makuhita",
+  "branch": "work/makuhita-03a974",
+  "image_repo": "polos0117/pkm-atelier-img-5",
+  "user_constraints": [
+    "do not regenerate for exposure censorship",
+    "do not edit data/img.json",
+    "automatic thumbnail and dex registration",
+    "normal push only",
+    "preserve existing work"
+  ]
+}

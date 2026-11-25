@@ -1,0 +1,143 @@
+{
+  "casual1": [
+    {
+      "slot": "casual1",
+      "at": "2026-11-25T13:39:37.074Z",
+      "prompt_sha256": "1b8a12b5393483ec65b31b8334cc877219dac74a162b8eaba2dab560777679c9",
+      "submitted_sha256": "1b8a12b5393483ec65b31b8334cc877219dac74a162b8eaba2dab560777679c9",
+      "same": true,
+      "prompt_words": 1266,
+      "submitted_words": 1266,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual2": [
+    {
+      "slot": "casual2",
+      "at": "2026-11-25T13:39:37.198Z",
+      "prompt_sha256": "b8a911c9fc3e6aa5e275008230c42404533750cda3cc5c870af78275cc8626d4",
+      "submitted_sha256": "b8a911c9fc3e6aa5e275008230c42404533750cda3cc5c870af78275cc8626d4",
+      "same": true,
+      "prompt_words": 1290,
+      "submitted_words": 1290,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual3": [
+    {
+      "slot": "casual3",
+      "at": "2026-11-25T13:39:37.281Z",
+      "prompt_sha256": "f4d65933a68b497e670a7c2c7205023b6d6a7d95615fb563d0645c7e5efbb14c",
+      "submitted_sha256": "f4d65933a68b497e670a7c2c7205023b6d6a7d95615fb563d0645c7e5efbb14c",
+      "same": true,
+      "prompt_words": 1238,
+      "submitted_words": 1238,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual4": [
+    {
+      "slot": "casual4",
+      "at": "2026-11-25T13:39:37.372Z",
+      "prompt_sha256": "bfa9cf11b326e506efc3ecad8cc4d8693f5e317e28149d094261280b78657ba4",
+      "submitted_sha256": "bfa9cf11b326e506efc3ecad8cc4d8693f5e317e28149d094261280b78657ba4",
+      "same": true,
+      "prompt_words": 1222,
+      "submitted_words": 1222,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual5": [
+    {
+      "slot": "casual5",
+      "at": "2026-11-25T13:39:37.471Z",
+      "prompt_sha256": "9ef448a45723944bf9166fa60a489ae9e6f8cfa62d2f90d6403e3522f72f750c",
+      "submitted_sha256": "9ef448a45723944bf9166fa60a489ae9e6f8cfa62d2f90d6403e3522f72f750c",
+      "same": true,
+      "prompt_words": 1327,
+      "submitted_words": 1327,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual6": [
+    {
+      "slot": "casual6",
+      "at": "2026-11-25T13:39:37.572Z",
+      "prompt_sha256": "870fa58d5fd2897e234644a90cec50d06be3f7f773dd73f39bccb987a513fc7a",
+      "submitted_sha256": "870fa58d5fd2897e234644a90cec50d06be3f7f773dd73f39bccb987a513fc7a",
+      "same": true,
+      "prompt_words": 1256,
+      "submitted_words": 1256,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual8": [
+    {
+      "slot": "casual8",
+      "at": "2026-11-25T13:39:37.654Z",
+      "prompt_sha256": "b3faacc8d549925f48c61e102a7380b3fd33454fa7a872eee6d88d6545b8dfce",
+      "submitted_sha256": "b3faacc8d549925f48c61e102a7380b3fd33454fa7a872eee6d88d6545b8dfce",
+      "same": true,
+      "prompt_words": 1248,
+      "submitted_words": 1248,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual90": [
+    {
+      "slot": "casual90",
+      "at": "2026-11-25T13:39:37.750Z",
+      "prompt_sha256": "df927b6c5fd6dfc053ab58f4b93475186d7af14657ad18f248d06b2db5ef715c",
+      "submitted_sha256": "df927b6c5fd6dfc053ab58f4b93475186d7af14657ad18f248d06b2db5ef715c",
+      "same": true,
+      "prompt_words": 1117,
+      "submitted_words": 1117,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "light": [
+    {
+      "slot": "light",
+      "at": "2026-11-25T13:27:48.669Z",
+      "prompt_sha256": "e957c6ef260953c418e962e1688399eb4356cd50b688930de374bf98197492ef",
+      "submitted_sha256": "e957c6ef260953c418e962e1688399eb4356cd50b688930de374bf98197492ef",
+      "same": true,
+      "prompt_words": 869,
+      "submitted_words": 869,
+      "style_kept": true,
+      "missing": [],
+      "added": []
+    }
+  ],
+  "casual7": {
+    "submitted_sha256": "7a4701aca2ab15349171c79f6680c746857583a65c8e41122f3794fea02b5fbd",
+    "same": false,
+    "allowed_exception": "IMAGE_RULES: 자유 장면 — SCENE 안의 장면과 의상을 작성; SCENE 밖과 표정·강도 유지"
+  },
+  "casual10": {
+    "submitted_sha256": "7f3bd803efb67da28a0c8895819bc7304da3d9a8cf9d49a18efa0d93ee454213",
+    "same": false,
+    "allowed_exception": "IMAGE_RULES: 자유 장면 — SCENE 안의 장면과 의상을 작성; SCENE 밖과 표정·강도 유지"
+  },
+  "casual9": {
+    "submitted_sha256": "116586e9f1750ff3f82718d82f02a2447930f17423a7211f4de01528cc64be6e",
+    "same": false,
+    "allowed_exception": "IMAGE_RULES: 옷 자유 — Outfit 줄만 작성"
+  }
+}

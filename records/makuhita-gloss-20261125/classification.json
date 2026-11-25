@@ -1,0 +1,230 @@
+[
+  {
+    "slot": "light",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "user selected mecha candidate 2",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-88dbca9e-1860-4b2c-a5bc-f64ef48df8c8.png",
+    "original_sha256": "8a7e4bb6b85dcd6e00ae40067e3a44e7286427049d38065650649e4b1512c06a",
+    "file": "마크탕_light_anime_25d_gloss_f.webp",
+    "sha256": "aa0dd94f19f4a3bdbc7953c15dd8c3c9992a1baefa6570f4a2e74ebb713ec4d5",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": null,
+    "submitted_sha256": "e957c6ef260953c418e962e1688399eb4356cd50b688930de374bf98197492ef",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual1",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-d8ce21eb-cdfa-4be1-892f-57d2cfe9a9a7.png",
+    "original_sha256": "59cfbaf0ffbf7c5a28260322f4c2c5374a722322f7401dabeb43dd2a4731280b",
+    "file": "마크탕_anime_25d_gloss_f_casual1.webp",
+    "sha256": "9a99f267c08fa12db3a1313b838111a498c8eb3f0f91b059d41e58983d23d61d",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "1b8a12b5393483ec65b31b8334cc877219dac74a162b8eaba2dab560777679c9",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual2",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-4ac67a8a-0d35-4421-af4a-e1633895bc5f.png",
+    "original_sha256": "0ec7a37d0c58f623d4646f1fc72e21fa0840155c35910cf71c72139bb25e04a0",
+    "file": "마크탕_anime_25d_gloss_f_casual2.webp",
+    "sha256": "750aba1610ae869b24ce7655ad7d53e236c705773af9de7883d6ff64fa37f39f",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "b8a911c9fc3e6aa5e275008230c42404533750cda3cc5c870af78275cc8626d4",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual3",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-7a31a336-8ed5-4a1d-866c-e67749bf7e75.png",
+    "original_sha256": "ea6258ea88647ef872248bf52ddda342705149a2a7b95422f5ac72f9a2265d89",
+    "file": "마크탕_anime_25d_gloss_f_casual3.webp",
+    "sha256": "200c01ee0acc4408b27aef55938b50283ece246b99b438db43c06bd8b9a9437d",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "f4d65933a68b497e670a7c2c7205023b6d6a7d95615fb563d0645c7e5efbb14c",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual4",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-eb6ddd52-6e9e-4818-92ba-420e5564553e.png",
+    "original_sha256": "2e5507b687ff67ebbefbb75e27dbb2ee576e058a09d92999ff3fc90a623ad533",
+    "file": "마크탕_anime_25d_gloss_f_casual4.webp",
+    "sha256": "6b37c0e2afd3202638a5961ca12b26483660f546e54626623b6f9a4a0855b616",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "bfa9cf11b326e506efc3ecad8cc4d8693f5e317e28149d094261280b78657ba4",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual5",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-3a1e3bed-7580-4b42-bede-6a103fac9c77.png",
+    "original_sha256": "bc4971fa492f1cac83cb13b4f2bfbe8a50ffb6a0ce4a108b7c7c209f0abc0676",
+    "file": "마크탕_anime_25d_gloss_f_casual5.webp",
+    "sha256": "f695d4acbbd88d6768cd45a8525bcd7d5416264beea0d2c5ecf4198dfcbf290f",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "9ef448a45723944bf9166fa60a489ae9e6f8cfa62d2f90d6403e3522f72f750c",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual6",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-fe3e202c-3eea-4b60-8d29-0f09bf9865fe.png",
+    "original_sha256": "c63f188b732837e28131efff0aafa7e6449276f3904ad51ab89f36298e07d35c",
+    "file": "마크탕_anime_25d_gloss_f_casual6.webp",
+    "sha256": "6f34e7816bb8ee5274817a158e66709c235257a58bf41c41dd8f0e7f53dd37f5",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "870fa58d5fd2897e234644a90cec50d06be3f7f773dd73f39bccb987a513fc7a",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual7",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-9a0ce904-2e91-4dc4-8f69-96d7d00cdf8f.png",
+    "original_sha256": "4298d65ebcf8130c956f38431851083c0da01f7686e62906de1e9f0035cd0c33",
+    "file": "마크탕_anime_25d_gloss_f_casual7.webp",
+    "sha256": "b6007f4f39b9641f41513b57d62fdc823bc152c1a0480cb7eaa45f5a6c46d510",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "7a4701aca2ab15349171c79f6680c746857583a65c8e41122f3794fea02b5fbd",
+    "submitted_same": false,
+    "exception": "IMAGE_RULES: 자유 장면 — SCENE 안의 장면과 의상을 작성; SCENE 밖과 표정·강도 유지"
+  },
+  {
+    "slot": "casual8",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-153cc528-5041-4476-942f-b344309724c1.png",
+    "original_sha256": "2ae0995b9afaf3306ee87fa688d78e34731a42c794e366903ffa3594f5a37562",
+    "file": "마크탕_anime_25d_gloss_f_casual8.webp",
+    "sha256": "557359daa8183d8fb450c40563ff7f18fd001b5dffe48ed67c0bdd8b0d9fb6bd",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "b3faacc8d549925f48c61e102a7380b3fd33454fa7a872eee6d88d6545b8dfce",
+    "submitted_same": true,
+    "exception": null
+  },
+  {
+    "slot": "casual9",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-2917872b-2208-4542-bb8a-63c2ee1cc88a.png",
+    "original_sha256": "34a6adb3c442732836c767008a9367f572b7c86988a54c1957b89cc66532202d",
+    "file": "마크탕_anime_25d_gloss_f_casual9.webp",
+    "sha256": "27449529b0556d1f855a6d15d3e6f0f18919e23401855e74d8adc5630297b6ec",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "116586e9f1750ff3f82718d82f02a2447930f17423a7211f4de01528cc64be6e",
+    "submitted_same": false,
+    "exception": "IMAGE_RULES: 옷 자유 — Outfit 줄만 작성"
+  },
+  {
+    "slot": "casual10",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-c1c2be8d-4378-4f31-9eea-ae8e913b674e.png",
+    "original_sha256": "1efe8295d8ddbc876e4dc0f3b9dfacf7dc866719b7907d361e676e571bc20bf6",
+    "file": "마크탕_anime_25d_gloss_f_casual10.webp",
+    "sha256": "9aff2fa6a7828e23a8764097658e030c5083df8193bf48710b0b26825308ce91",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "7f3bd803efb67da28a0c8895819bc7304da3d9a8cf9d49a18efa0d93ee454213",
+    "submitted_same": false,
+    "exception": "IMAGE_RULES: 자유 장면 — SCENE 안의 장면과 의상을 작성; SCENE 밖과 표정·강도 유지"
+  },
+  {
+    "slot": "casual90",
+    "card": "마크탕",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack plan and generated scene",
+    "source": "/workspace/scratch/03a974f68c00/generated_images/exec-14dc0656-7205-43d0-a918-a401d4f21c28.png",
+    "original_sha256": "2d59a4c521243c2d702261350fb847888cc7011c57730e5b6f86f67cc04c80af",
+    "file": "마크탕_anime_25d_gloss_f_casual90.webp",
+    "sha256": "20dd98d34d0b314c387b026bb37ec9d3e0327ae177b8e1baf51ca8b376532cc4",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "reference": "마크탕_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "df927b6c5fd6dfc053ab58f4b93475186d7af14657ad18f248d06b2db5ef715c",
+    "submitted_same": true,
+    "exception": null
+  }
+]
