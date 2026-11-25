@@ -1,0 +1,242 @@
+{
+  "light": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "전신의 양팔·양다리와 자연 관절 확인"
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "selected candidate 2"
+  },
+  "casual1": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "옆모습에 가까운 얼굴. 수영복 반신 구도."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "옆모습에 가까운 얼굴. 수영복 반신 구도."
+  },
+  "casual2": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "자유 설계: 야외 DJ 부스."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "자유 설계: 야외 DJ 부스."
+  },
+  "casual3": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Lady Liadrin의 빨강·금색 니트 코스프레."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "Lady Liadrin의 빨강·금색 니트 코스프레."
+  },
+  "casual4": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "부채가 입 주변을 가림. 코스튬 상반신 구도."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "부채가 입 주변을 가림. 코스튬 상반신 구도."
+  },
+  "casual5": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 팔을 올려 천을 널고 있음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "두 팔을 올려 천을 널고 있음."
+  },
+  "casual6": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "얼굴·어깨 근접 구도. 한 손은 프레임 밖."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "얼굴·어깨 근접 구도. 한 손은 프레임 밖."
+  },
+  "casual7": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 손과 두 발의 연결과 관절을 확인."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "두 손과 두 발의 연결과 관절을 확인."
+  },
+  "casual8": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "실내 DJ. casual2와 활동은 같고 장소·의상·조명이 다름."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "실내 DJ. casual2와 활동은 같고 장소·의상·조명이 다름."
+  },
+  "casual9": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "두 손으로 컵을 잡음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "두 손으로 컵을 잡음."
+  },
+  "casual10": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "아이스크림을 들고 무릎을 꿇음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "아이스크림을 들고 무릎을 꿇음."
+  },
+  "casual90": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 연속 명암과 머리카락의 층진 음영. 피부 광택은 강함."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "2; cropped where out of frame",
+      "hands": "보이는 손은 해당 팔에 연결. 잡거나 굽힌 손가락은 일부 가려짐.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "가수 녹음실 직업컷."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "요청 의상의 피부 노출을 유지; 완성된 그림에 노출 사유 재생성 없음"
+    },
+    "note": "가수 녹음실 직업컷."
+  }
+}

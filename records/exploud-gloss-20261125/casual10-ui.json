@@ -1,0 +1,182 @@
+{
+ "storage": {
+  "last": "폭음룡",
+  "cards": {
+   "폭음룡": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "laughing_open",
+      "scene": "",
+      "outfit": "a fitted jade silk halter romper with a petal-shaped double-layer front, a deeply dipped neckline, open shoulders, triangular waist cutouts and short scalloped legs, fastened by a covered side placket; flat cream sandals",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "balanced",
+       "separates_preference": "prefer separates"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "time": true,
+       "light": true,
+       "depth": true,
+       "view": true,
+       "ofam": true,
+       "item": true,
+       "expose": true,
+       "ofree": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "use": true,
+       "gaze": true,
+       "expr": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "now",
+      "place": "amuse_night",
+      "time": "neon",
+      "light": "side",
+      "depth": "deep",
+      "view": "foreground",
+      "ofam": "everyday",
+      "item": "cinema_date",
+      "expose": [
+       "sweetheart neckline",
+       "strapless top"
+      ],
+      "ofree": true,
+      "posture": "kneel",
+      "support": "none",
+      "frame": "three_quarter",
+      "body": "front_3q",
+      "head": "tilt",
+      "camera": "high",
+      "right": "prop",
+      "left": "lap",
+      "use": "ic_turn",
+      "gaze": "at_prop",
+      "preset": "kneel_high_prop",
+      "turn": "left"
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Exploud (폭음룡) personified, normal type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: curvy — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: an amusement park at night, every ride outlined in thousands of warm bulbs, the light reflected on the paved paths\nTime of day: night under neon and signage light, coloured reflections.\nLight direction: side light — the light falls from one side, the far side of her face in soft shadow.\nOutfit: a fitted jade silk halter romper with a petal-shaped double-layer front, a deeply dipped neckline, open shoulders, triangular waist cutouts and short scalloped legs, fastened by a covered side placket; flat cream sandals\nCut: sweetheart neckline and strapless top built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters, her chest angled toward the left of the frame; head tilted slightly, her face turned a little toward the left of the frame; camera slightly above, looking down at her; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on her knee.\nPROP: with her own right hand she turns an ice cream cone to catch a drip before it reaches her fingers; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: mouth open wide in a laugh with teeth showing and cheeks raised, eyes open and engaged with lids only slightly narrowed. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\nseparates_preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; other people may appear only as small, soft-focus background extras — never posed with her. No Pokémon, animals or other creatures, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+ "plan": {
+  "cut": 10,
+  "treeV": 2,
+  "era": "now",
+  "place": "amuse_night",
+  "ofam": "everyday",
+  "item": "cinema_date",
+  "garments": [
+   "knit_top",
+   "skirt",
+   "slip"
+  ],
+  "ocolor": "",
+  "weather": "",
+  "time": "neon",
+  "moment": "",
+  "light": "side",
+  "spot": "",
+  "depth": "deep",
+  "view": "foreground",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "three_quarter",
+  "body": "front_3q",
+  "head": "tilt",
+  "camera": "high",
+  "right": "prop",
+  "left": "lap",
+  "use": "ic_turn",
+  "legs": "",
+  "gaze": "at_prop",
+  "preset": "kneel_high_prop",
+  "turn": "left",
+  "expr": "laughing_open",
+  "aspect": "2:3",
+  "ofree": true,
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "balanced",
+   "source_influence": "balanced",
+   "separates_preference": "prefer separates"
+  },
+  "expose": [
+   "sweetheart neckline",
+   "strapless top"
+  ],
+  "lead": "light",
+  "shade": ""
+ },
+ "manual_inputs": {
+  "outfit": "a fitted jade silk halter romper with a petal-shaped double-layer front, a deeply dipped neckline, open shoulders, triangular waist cutouts and short scalloped legs, fastened by a covered side placket; flat cream sandals"
+ },
+ "manual_why": {
+  "outfit": "옷 자유 칸: 목록에 없는 꽃잎 겹침 구조의 실크 홀터 롬퍼를 설계"
+ },
+ "generation": {
+  "design": "prompt_pack",
+  "reference": "폭음룡_light_anime_25d_gloss_f.webp",
+  "selected_candidate": 2
+ }
+}

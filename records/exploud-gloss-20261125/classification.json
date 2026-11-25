@@ -1,0 +1,170 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-6624c0e3-2d5b-4b01-84a2-f98b60209580.png",
+    "original_sha256": "cfacfa3056fb7ac914de6f02539d24e6767a60aa29d834731a3fc42620eef57e",
+    "file": "폭음룡_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "312cb36b0519285ee47c5a80b7a7c4a62559f345707990e006b5f6d47ce07a28",
+    "style": "anime_25d_gloss",
+    "classification_basis": "user selection 2",
+    "reference": "light"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-f0a3d527-2489-4a06-bebc-55079806409b.png",
+    "original_sha256": "5f2528891144fd9f33b7159dadc184459010d806069e08d155f2083aa4c3117f",
+    "file": "폭음룡_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "33e4df48e775f360c132cd0f9165c0b2bfaf6176e2167c9540ae94cc307e1215",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-4a19ef2c-cc64-4f9d-b185-e3427309a8e8.png",
+    "original_sha256": "9752932802c81ddc86091bcb495afd539e2ea85e355bb3ee5fa7182efb3c9b93",
+    "file": "폭음룡_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "2368611812369e6ce739930193a5c402f21f598295040411f2881e65bdeebbbc",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-974fc4bf-d0e9-4866-a3ad-6823c7e6c5fb.png",
+    "original_sha256": "1e1bc2ab491ef50c4c9e776ea111dbc1f087969f7e41c751e427faac2eaa52f6",
+    "file": "폭음룡_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "027ae8532c43e98aa738db21c74fd40217c54e5af8d0550f096edb4230e01d35",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual4",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-f0e91a48-1324-4ea9-aa14-3c9eb0bb1c43.png",
+    "original_sha256": "c4e042c9bb2eb6132b577bdd4c2f0851d9edb0c4663c73363d461afd7db7e799",
+    "file": "폭음룡_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "f73b772a5046210d03a8f2230dc5ed637c1b5805137b22abac4ef0c376e895bb",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual5",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-a54e5778-277a-4bd2-b140-e32bbc1fc0ff.png",
+    "original_sha256": "93cbe6493219367ccd0beb82620b1e8cea89454a80eb7cbe9e9d5846fd7c891b",
+    "file": "폭음룡_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "b12071e2ba7af0bc853a32c5b65bdb573d412ef7183d0e69dde96a2336dfc543",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual6",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-1d2a739d-dce3-496f-b6d1-ab98302ce7b4.png",
+    "original_sha256": "b7dd15b1e05eeec02befbbb801ef69ee2d58c6bd9b2de3e980de387964d24b3b",
+    "file": "폭음룡_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "1b11feabf69f5893759046e7afad9b94465bc24ad861020000145c8be58e44a8",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual7",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-c261a194-4011-4291-97c0-789e972b2fb1.png",
+    "original_sha256": "f14451fa6e1f31366436ed380368e57637cf1d593fda77430c6a5a1c8dbbdb72",
+    "file": "폭음룡_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "530582d5677153e645ef694d256233ea61496f6e5c7972c3db895293cedfa09e",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual8",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-c7bc2e6c-df8d-4d18-9290-c796aca21610.png",
+    "original_sha256": "996cbe6593db46e92df66c4e95e4c8780c0c1e5e541613c2276efb32865bcf33",
+    "file": "폭음룡_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "3e7d8ad0f418a523876b583c646ef51c8c161d8ccb18b4333fd47961304adad8",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual9",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-a49411a4-6d3c-44d9-b2f6-3210e3eb84b7.png",
+    "original_sha256": "efd687c27d49f23ae31121dc087b41c709d67b2030052571cc4c24c7d04510fd",
+    "file": "폭음룡_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "24417c583669c6b3cc2ab0648d7a2f2815110c28d14f3183520d4d929423d5e3",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual10",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-234e6e77-d34f-449f-9dce-b6da0eb36197.png",
+    "original_sha256": "f6229a912105700fd0cde1f68a5b52557a94f14930e324df7e06a46494cdcfed",
+    "file": "폭음룡_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "2b4526eae58368af5e88d38082ac0a7eddc99d6a154dfc9edeba046019cea802",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  },
+  {
+    "slot": "casual90",
+    "source": "/workspace/scratch/e74bed9abe8d/generated_images/exec-1963873d-cf6d-4c98-abca-7b1f9823b5cf.png",
+    "original_sha256": "2232675fe09978b7831243ba38b10c12f5ebeeaa8ae05e4c55a9f840cd13a8ba",
+    "file": "폭음룡_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "56402672fd4aeb70f667683a50ce9d8fcdb50e3da38e2e48aa26501f8e7ae78c",
+    "style": "anime_25d_gloss",
+    "classification_basis": "prompt pack settings and plan",
+    "reference": "light"
+  }
+]
