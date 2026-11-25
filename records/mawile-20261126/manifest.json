@@ -1,0 +1,206 @@
+[
+  {
+    "slot": "light",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_light_anime_25d_gloss_f.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2886b28012b835819e3dac6777872fe1aaeba526321c0d608d807474beed5797",
+    "original_sha256": "c192118969a604256ff156856f4dab27b97185e93cb6365ae5c2fa059565de22",
+    "submitted_sha256": "2950ec2d500448a67f497ffc19131fc37a9eeed87ad23731d21ff1dc19f3584c",
+    "basis": "generator settings and user selection 2",
+    "reference": null
+  },
+  {
+    "slot": "casual1",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual1.webp",
+    "pixels": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "c918c5c39d1ff400e15eeac6dadc98702cc494c154f8faa3b81bf60445baedfd",
+    "original_sha256": "d87954d1c7b680a39e31bbccb0603c50c4d93681bf40ba13fc2e7e69545994dc",
+    "submitted_sha256": "7197f35f395e0c5c7e0931cf317784daacb52d7c17e846c617cd9b141ef1b62a",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual2",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual2.webp",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "83c27e266fa945db95f5ffe5eba54687331ab8e11a075e65bc12face106fbb86",
+    "original_sha256": "98e0c578409a8b129b4070d87aa5ad65093f398b423c811f9140ccf4c476909e",
+    "submitted_sha256": "6a97bf6f88c44168827742f3f11aee98448b0658b9ba401a97649016e6a0c66d",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual3",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual3.webp",
+    "pixels": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "c83d09c3bf3b34ebb166504164002f0a0f68d90ffb929fe43ac30d4e96c5248e",
+    "original_sha256": "ef371010cf26e0a01bd8fe45148fae60ee975fdb3be056a623a9ad049825bbbd",
+    "submitted_sha256": "ba29f4efbd599e597f6dbf22405591800ff4fb48dd6ca044ce63336785465430",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual4",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual4.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c62bf417f0fa3a8297df98eb7d462fd6e8081ca32f82d0a8cc05625c3960bee8",
+    "original_sha256": "19f2a1198f5343f1a1721d1a0d021dfce3597bcad02dab35b24efdd5f788e619",
+    "submitted_sha256": "a42af558d02afc86056c4bdd042f893c8a9df173b0ce900b5cfbec81ff6d5979",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual5",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual5.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "83efa7253368aa51ad1719f5acf05c228676caba4ed41fcdeb7a0512034f2358",
+    "original_sha256": "3c111f169d6d30bd234c820b4f508696c16ed13f2b2b2c1e151c821394887fd7",
+    "submitted_sha256": "658e443ec1a3b066b073a6db49e324d5c0bfec86b9019a2a99276b04acb36e87",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual6",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual6.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9a200b5f4642763a94b790f01206644a5c914734ce439fa274bf4d48689ea866",
+    "original_sha256": "5ed29b2a785de82dc23824f1d0cf2f885d109220b5e18da589c81afdfcd397ed",
+    "submitted_sha256": "3e2f4b962932adb28fad2dda71dae3acdc090b5a0f0fe0f7e05f0d644f463741",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual7",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual7.webp",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "f1765f54c908a277c4a547ae530b1795d391bb8010cf6f0be09c38b5fa2a07a5",
+    "original_sha256": "2f1a0f3b536729b3546ddfb23f080f6fb0aef3e54bc36ba7b36224f56f4c1b7a",
+    "submitted_sha256": "7e9db3e6676f01bb60908d450d26d03d91f7cd85c09119582e0dedf4bb1beb3c",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual8",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual8.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "76ca10ed9a09be283b7c9db47ad3e3a5216938b2cd07601d93b1b571af81000a",
+    "original_sha256": "60c782b0d960800dd0a283fdedc6b6c5bd2fd693b780e96ea95776ed0992f91d",
+    "submitted_sha256": "de82af47a324ef5118b7b82da13d111cf9af401cab4c422aa74d5bb1517b7d6c",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual9",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual9.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4b933f5fc2138e483019cd2b5501e865d04a46bcf7d94f5094327204dbc7be80",
+    "original_sha256": "43307e70f2617d8ff6176cdbc1bb0120e2eee13f24ffbb5caa1a6bdbff92f79d",
+    "submitted_sha256": "9efbe582651ded42e967b723f995adae92bcf355a3cd549662de34f2cb820e52",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual10",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual10.webp",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "fa08eea30bfc22c9261dfd1c4ecbc6cff3d22fe3f65e7a42fb17dabd2bc6854e",
+    "original_sha256": "79a19bf0e80c3ea46f6ca5dbe00c88e1c56b2f18bc4f954d758259fc93a79a08",
+    "submitted_sha256": "b9e9ee414c71cc3c32c8b58ca117783978b8ab6723aaba0c2e86210a411bbfd8",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  },
+  {
+    "slot": "casual90",
+    "card": "입치트",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "file": "입치트_anime_25d_gloss_f_casual90.webp",
+    "pixels": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "dfa9776eb043d032402c04031a031de5bc1884a1b1ec005adef66ec91789b610",
+    "original_sha256": "980b4ee1a74c564b1aa487204df8d26ef70531ef14b79eaa535030fcb4fab078",
+    "submitted_sha256": "f3249ec79194edd21d65361050055989fb69a46b8dec576afe189d7f4c17dfda",
+    "basis": "generator settings and user selection 2",
+    "reference": "입치트_light_anime_25d_gloss_f.webp"
+  }
+]

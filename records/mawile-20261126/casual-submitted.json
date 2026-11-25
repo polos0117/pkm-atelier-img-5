@@ -1,0 +1,68 @@
+{
+  "casual1": {
+    "prompt_sha256": "7197f35f395e0c5c7e0931cf317784daacb52d7c17e846c617cd9b141ef1b62a",
+    "submitted_sha256": "7197f35f395e0c5c7e0931cf317784daacb52d7c17e846c617cd9b141ef1b62a",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual2": {
+    "prompt_sha256": "6a97bf6f88c44168827742f3f11aee98448b0658b9ba401a97649016e6a0c66d",
+    "submitted_sha256": "6a97bf6f88c44168827742f3f11aee98448b0658b9ba401a97649016e6a0c66d",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual3": {
+    "prompt_sha256": "ba29f4efbd599e597f6dbf22405591800ff4fb48dd6ca044ce63336785465430",
+    "submitted_sha256": "ba29f4efbd599e597f6dbf22405591800ff4fb48dd6ca044ce63336785465430",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual4": {
+    "prompt_sha256": "a42af558d02afc86056c4bdd042f893c8a9df173b0ce900b5cfbec81ff6d5979",
+    "submitted_sha256": "a42af558d02afc86056c4bdd042f893c8a9df173b0ce900b5cfbec81ff6d5979",
+    "same": true,
+    "authorized_fill": "free_outfit_via_settings"
+  },
+  "casual5": {
+    "prompt_sha256": "658e443ec1a3b066b073a6db49e324d5c0bfec86b9019a2a99276b04acb36e87",
+    "submitted_sha256": "658e443ec1a3b066b073a6db49e324d5c0bfec86b9019a2a99276b04acb36e87",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual6": {
+    "prompt_sha256": "3e2f4b962932adb28fad2dda71dae3acdc090b5a0f0fe0f7e05f0d644f463741",
+    "submitted_sha256": "3e2f4b962932adb28fad2dda71dae3acdc090b5a0f0fe0f7e05f0d644f463741",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual7": {
+    "prompt_sha256": "7e9db3e6676f01bb60908d450d26d03d91f7cd85c09119582e0dedf4bb1beb3c",
+    "submitted_sha256": "7e9db3e6676f01bb60908d450d26d03d91f7cd85c09119582e0dedf4bb1beb3c",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual8": {
+    "prompt_sha256": "fa987563fa560d89a7e3e7518364342db1239e4f0f19fcc9cbf83ea3f8cd1993",
+    "submitted_sha256": "de82af47a324ef5118b7b82da13d111cf9af401cab4c422aa74d5bb1517b7d6c",
+    "same": false,
+    "authorized_fill": "free_scene"
+  },
+  "casual9": {
+    "prompt_sha256": "5ed58978a847e176cffa62a9aef0d8895cdff3ceeeebd297527f56f414d14078",
+    "submitted_sha256": "9efbe582651ded42e967b723f995adae92bcf355a3cd549662de34f2cb820e52",
+    "same": false,
+    "authorized_fill": "free_scene"
+  },
+  "casual10": {
+    "prompt_sha256": "b9e9ee414c71cc3c32c8b58ca117783978b8ab6723aaba0c2e86210a411bbfd8",
+    "submitted_sha256": "b9e9ee414c71cc3c32c8b58ca117783978b8ab6723aaba0c2e86210a411bbfd8",
+    "same": true,
+    "authorized_fill": null
+  },
+  "casual90": {
+    "prompt_sha256": "f3249ec79194edd21d65361050055989fb69a46b8dec576afe189d7f4c17dfda",
+    "submitted_sha256": "f3249ec79194edd21d65361050055989fb69a46b8dec576afe189d7f4c17dfda",
+    "same": true,
+    "authorized_fill": null
+  }
+}

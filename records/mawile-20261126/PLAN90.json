@@ -1,0 +1,45 @@
+{
+ "session": "mawile-20261126-4133455",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "입치트",
+   "species": "mawile-20261019",
+   "own_only": true,
+   "cuts": [
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_workshop",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a dental mirror",
+     "preset": "stand_inspect",
+     "use": "sig_hold",
+     "posture": "stand",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "natural",
+     "legs": "",
+     "gaze": "at_prop",
+     "time": "overcast",
+     "own": "all",
+     "placeText": "a dental clinic — a reclining chair, an overhead lamp, trays of instruments",
+     "scene": "she is a hygienist with one hand on her hip, looking down at a dental mirror",
+     "outfit": "a dental hygienist look fitted to her body — a fitted short-sleeved scrub top and short scrub skirt, bare legs, a surgical cap, a mask hanging at her chin",
+     "job_ko": "치과 위생사",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "1:1"
+    }
+   ]
+  }
+ ]
+}

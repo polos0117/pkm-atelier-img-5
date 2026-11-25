@@ -1,0 +1,23 @@
+{
+  "name_check": {
+    "result": "passed",
+    "read_only": true,
+    "remote_inventory": "git ls-tree with core.quotepath=false; no other character image bytes downloaded",
+    "new_mawile_files": 12,
+    "missing_registered_files": 0
+  },
+  "plan_check": {
+    "result": "passed",
+    "command": "casual-ledger.py check PLAN.json --fresh",
+    "reservation_stamp": "verified",
+    "rechecked_after_unicode_inventory_correction": true
+  },
+  "own_cut": {
+    "result": "build passed after source table preset correction",
+    "source_commit": "d091c24de060a714fce6e448ef3963952455f224"
+  },
+  "anatomy_tool": "unavailable: mediapipe is not installed; exit 3",
+  "manual_review": "Full images and enlarged hand crops reviewed for all 12 assets",
+  "data_img_json_modified_manually": false,
+  "regenerated_images": 0
+}
