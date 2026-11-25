@@ -1,0 +1,150 @@
+{
+  "tool": "unavailable: mediapipe not installed",
+  "policy": "Preserve every generated result; no regeneration for exposure review.",
+  "slots": {
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "One hand grips the peeling mask; thumb and bent index read, other fingers partially overlap. Other arm continues beyond crop.",
+        "overlay_checked": false
+      },
+      "identity": "same hazel eyes, beige segmented ponytail and adult face as selected concept 3",
+      "exposure": "retained; not used as a regeneration reason"
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Both hands remain attached to visible forearms; two kneeling legs; visible digits natural.",
+        "overlay_checked": false
+      },
+      "identity": "same hazel eyes, beige segmented ponytail and adult face as selected concept 3",
+      "exposure": "retained; not used as a regeneration reason"
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both relaxed hands join visible wrists; five digits with natural overlap.",
+        "note": "Wide snowy court composition, both shoes visible; original close-up retained only as an unregistered attempt."
+      },
+      "regenerated": true,
+      "reason": "composition similarity; unrelated to exposure"
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "One hand rests on railing, other joins raised forearm at hair. Both shoulders and arms continuous.",
+        "overlay_checked": false
+      },
+      "identity": "same hazel eyes, beige segmented ponytail and adult face as selected concept 3",
+      "exposure": "retained; not used as a regeneration reason"
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Cup-holding fingers partly occluded by handle; other hand lies on knee. Two crossed legs.",
+        "overlay_checked": false
+      },
+      "identity": "same hazel eyes, beige segmented ponytail and adult face as selected concept 3",
+      "exposure": "retained; not used as a regeneration reason"
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Two connected arms and two folded legs; open hands with five digits each; bare feet present. Small reference ornaments retained.",
+        "overlay_checked": false
+      },
+      "regenerated": false
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "One hand on hip shows five fingers; other arm runs beyond crop. Collar-holding action was replaced by a hanging arm; retained as pose variation.",
+        "overlay_checked": false
+      },
+      "regenerated": false
+    },
+    "casual10": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Both hands attached at wrists; visible fingers relaxed, far hand overlaps; lower legs are outside three-quarter crop.",
+        "overlay_checked": false
+      },
+      "regenerated": false
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Two joined arms and two seated legs; relaxed fingers, far fingertips overlap wheel. Pose turned toward camera rather than selected rear-three-quarter orientation; retained and recorded.",
+        "overlay_checked": false
+      },
+      "regenerated": false
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Two arms support the chin, both hands attached to wrists, fingertips overlap cheeks; two legs bend backward with feet raised and five toes each.",
+        "overlay_checked": false
+      },
+      "regenerated": false
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "note": "Two crossed forearms connect to the shoulders; near hand rests on opposite upper arm, far hand occluded by the crossing; lower body outside chest crop.",
+        "overlay_checked": false
+      },
+      "regenerated": false
+    },
+    "light": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Gloved fingers partly overlap; both wrists join forearms.",
+        "note": "Head and boots inside frame; no visible extra limbs."
+      },
+      "selected": 3
+    }
+  },
+  "qa_passed": true,
+  "similarity_flag": {
+    "slot": "casual3",
+    "distance": 210,
+    "threshold": 215,
+    "comparator": "코리갑_anime_25d_gloss_f_casual5.webp",
+    "status": "resolved_by_replanning"
+  },
+  "regeneration": {
+    "slot": "casual3",
+    "reason": "initial close-up matched an existing composition at distance 210 below the 215 threshold",
+    "exposure_related": false,
+    "original_preserved": true,
+    "kept_slots": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      90
+    ]
+  },
+  "final_similarity_passed": true
+}

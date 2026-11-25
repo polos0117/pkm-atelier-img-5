@@ -1,0 +1,36 @@
+{
+  "selected": 3,
+  "style": "anime_25d_gloss",
+  "scope_note": "New style edition. Existing glossy_promo assets are preserved; its 20261015 records omitted from this style-specific planner view.",
+  "candidates": [
+    {
+      "variant": 1,
+      "source": "/workspace/scratch/469c72200167/generated_images/exec-62bc3ee1-a129-47fe-aa05-36e8cb8546be.png",
+      "webp": "/workspace/scratch/469c72200167/slakoth-choice-1/candidate.webp",
+      "source_sha256": "d204f530687bb9b42a62bb243e7d29f476f55b66c7c11b2c2eadb1ac51497ad2",
+      "status": "awaiting_user_selection"
+    },
+    {
+      "variant": 2,
+      "source": "/workspace/scratch/469c72200167/generated_images/exec-29b5636a-7e80-4770-8ae3-d110e056de90.png",
+      "webp": "/workspace/scratch/469c72200167/slakoth-choice-2/candidate.webp",
+      "source_sha256": "a0859ea26b7ddf744cf243dcdbaa04b09f7fd4d9976cb52747452797866b4fec",
+      "status": "awaiting_user_selection"
+    },
+    {
+      "variant": 3,
+      "source": "/workspace/scratch/469c72200167/generated_images/exec-891c0517-1f1c-4cc4-9840-3f1a6e0cecd5.png",
+      "webp": "/workspace/scratch/469c72200167/slakoth-choice-3/candidate.webp",
+      "source_sha256": "f0de4e2aebe70765272aded73d4ae9227548200b9c2a55d9e4d5746263080fdb",
+      "status": "awaiting_user_selection",
+      "selected": true
+    },
+    {
+      "variant": 4,
+      "source": "/workspace/scratch/469c72200167/generated_images/exec-4632ad82-1171-4515-9e7e-6ba4721b182a.png",
+      "webp": "/workspace/scratch/469c72200167/slakoth-choice-4/candidate.webp",
+      "source_sha256": "6571fed564038144ad406436f93a3e80042e61842bb9f8c7074d7f15cbaedd56",
+      "status": "awaiting_user_selection"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "files_decoded": 12,
+  "name_check": true,
+  "form_checks": true,
+  "shard_checks": true,
+  "similarity_final": true,
+  "anatomy": "visual review; automated tool unavailable: mediapipe missing",
+  "reserved_plan_stamp_valid": true,
+  "old_style_preserved": "glossy_promo",
+  "no_force_push": true
+}

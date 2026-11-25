@@ -1,0 +1,15 @@
+{
+  "card": "게을로",
+  "style": "anime_25d_gloss",
+  "selected_mecha": 3,
+  "requested_outputs": 12,
+  "state": "ready_to_publish",
+  "reservation_commit": "558f4830fedf761ba9ffc76729cd9115cd2286d1",
+  "original_mecha_sha256": "f0de4e2aebe70765272aded73d4ae9227548200b9c2a55d9e4d5746263080fdb",
+  "publication": {
+    "images": "pending",
+    "dex": "pending"
+  },
+  "source_retention": "session_only; original PNG files are excluded from Git",
+  "generated_outputs": 12
+}
