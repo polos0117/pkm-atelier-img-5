@@ -1,0 +1,260 @@
+{
+  "selected_mecha": 2,
+  "regenerations": 0,
+  "anatomy_tool": "unavailable: mediapipe is not installed",
+  "cuts": {
+    "casual1": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Toast held by lips; side profile and hand releasing toast read clearly. Ear ornament from reference persists; recorded without regeneration."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual2": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Both gloved hands hold mask; eyes remain visible. Idol jacket and pleated skirt are present; representation uses military cosplay motifs."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual3": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Two arms and legs; bent leg rests on step. Rounded ear ornaments persist. Full jumpsuit, moonlit pond and stepping stones present."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual4": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Right hand rings bell, left hand rests on wall; both arms connected. Expanded side openings are a stylized interpretation of the free scene."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual5": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "One hand grips ball with partly hidden digits; opposite upper arm continues beyond crop. Laundry setting, sari-inspired top and drape visible."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual6": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Two hands hold handheld game device; two legs and both feet visible. Environmental arcade composition, no duplicated fingers seen at original size."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual7": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Right hand on headphone cup, left hand holds record sleeve. Mid-thigh framing follows the authorized free scene rather than template full-body framing."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual8": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "One gloved hand holds watermelon, other rests under chin. Both elbows connect to shoulders. Costume intentionally reuses source palette in this dedicated costume category."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual9": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Reclining pose: lower hand on ground and upper bent arm support head, two folded legs; digits partly hidden by grip and perspective."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual10": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Both shoulders and upper arms continue beyond crop; hands and lower body outside frame. Actual framing is chest-up rather than the planned face close-up; recorded without regeneration."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "casual90": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Nose, cheek and jaw use blended shadows; hair strands and fabric have dimensional highlights."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands checked; digits partly occluded by grips, pose or frame as described.",
+        "overlay_checked": false,
+        "note": "Two arms visibly connected; right hand turns grinder crank, left hand grips body, digits partly hidden by grip. Chef apron and hotpot kitchen read clearly."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "Planned bold fashion exposure; chest and pelvis remain covered."
+      },
+      "regenerated": false
+    },
+    "light": {
+      "style_25d": {
+        "result": "2.5D",
+        "evidence": "Blended cheek, nose, lip and chin shadows with fine facial contours; dimensional armor edges."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "One open gloved hand with five fingers; other hand curled with some digits occluded. Both connected at wrists.",
+        "overlay_checked": false,
+        "note": "Visually checked full-size generated output. Both legs and boots attached; no extra limbs."
+      },
+      "regenerated": false
+    }
+  },
+  "skipped": [],
+  "comparison": {
+    "references": [
+      "whismur-result-sheet.jpg",
+      "loudred-result-sheet.jpg",
+      "exploud-result-sheet.jpg"
+    ],
+    "method": "Viewed the three existing result sheets side by side with this set.",
+    "result": "Kitchen toast, bell ringing, moonlit dealer jumpsuit, vinyl listening and hotpot-chef scenes differ in activity, outfit silhouette and composition. Watermelon and headphones recur as props in recent work; the corresponding setting, outfit and framing differ.",
+    "regeneration": false
+  },
+  "planning_validation": {
+    "reservation_check": "passed before generation; stamped reservation committed",
+    "prepublish_recheck": "6 orientation/framing pair overlap warnings against the current comparison set",
+    "details": "  ✗ 하리뭉: 1번: (방향, 프레이밍) 짝 (side+tilt, chest_up) 이 비교 대상과 겹친다\n  ✗ 하리뭉: 4번: (방향, 프레이밍) 짝 (rear_3q+over_shoulder, three_quarter) 이 비교 대상과 겹친다\n  ✗ 하리뭉: 5번: (방향, 프레이밍) 짝 (side+over_shoulder, chest_up) 이 비교 대상과 겹친다\n  ✗ 하리뭉: 7번: (방향, 프레이밍) 짝 (front_3q+with_body, full_body) 이 비교 대상과 겹친다\n  ✗ 하리뭉: 8번: (방향, 프레이밍) 짝 (front_3q+tilt, waist_up) 이 비교 대상과 겹친다\n  ✗ 하리뭉: 10번: (방향, 프레이밍) 짝 (front+tilt, face_close) 이 비교 대상과 겹친다\n계획 미통과 6건 — 고친 뒤 다시 check\n",
+    "action": "Preserved all received images. Actual scenes compared visually; scene, activity and outfit differences documented. No plan values or images changed to suppress warnings."
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "card": "하리뭉",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "phase": "ready_to_publish",
+  "image_repository": "polos0117/pkm-atelier-img-5",
+  "reservation_commit": "ad3a751954f2f7cbede9ff015195b84d7dd3189d",
+  "selection_basis": "User selected 2",
+  "requested": 12,
+  "completed": 12,
+  "regenerated": 0,
+  "files": [
+    {
+      "card": "하리뭉",
+      "slot": "light",
+      "style": "anime_25d_gloss",
+      "selected_candidate": 2,
+      "output": "하리뭉_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "06ae105bdd0043d02b8aef81670c20ab60213dcc9c251cf82165b4094abf47f8",
+      "original_sha256": "f5bc86fe1216f3a6baf06885c1de986312e6926f3e6b057673273d8f0bac7253"
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual1",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-6c0feb86-3440-41ce-82b0-671d50ec04dc.png",
+      "original_sha256": "9600b8b433b10563e06d607c064fd91a92d8e7818b4d52e1e465feb985585237",
+      "output": "하리뭉_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "64935d345c481e55171601aa93997041252a93b558ccc7cf4bebadab4e069413",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "68c79f86493ff450204e9a8043496922222f680996f2e3d90be2330bf93cd7bf",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual2",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-00def570-e22e-4af7-871a-8ef71b7cce19.png",
+      "original_sha256": "7f873af76477c3cb18ce9d6b030f593959e89401deebe040d77a3624e6119a96",
+      "output": "하리뭉_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0d3189a182a0b48721f01c4b354378fb3632312f45f27c0b7369a7058396aa5a",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "8da508e36b23ada59ac4afff72ed1b7b8a9a9c69144092f1100df2fc6f979664",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual3",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-b291b84b-169d-450e-8a4d-38095da165f7.png",
+      "original_sha256": "831e072dcce1de66d6d463b45c8b6f59dc8cd6950a73cce0456a338a9689575b",
+      "output": "하리뭉_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e8697bce3a11569d45598f2a149ff1fab220c3bde1d6922aab494b52b479dabe",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "a26c3bf5e47c8079c9905be0b0670e9bff9c1c1eefe1a83a37ea6da9e0551fd7",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual4",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-211e1b7a-c228-4c6a-8d51-f181158df84e.png",
+      "original_sha256": "b82fbb56e7b40f0649b702871ba637797032bef3577578f1682ff05740a6e5d9",
+      "output": "하리뭉_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "970773c2358bb99ee8576237765f0e4e01469472892bfe884533734131bebb4d",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "55697427df2cd6e512110849b92049bba6eb47affbac9cc6b0f064bf67a17504",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual5",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-93e926e3-f3c4-4c16-8a2d-15cea96776fc.png",
+      "original_sha256": "a3477ddac370234792a78706163c595edc249847fe3e13df0d3aeabfc95dc463",
+      "output": "하리뭉_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f516a660708178e12f6e2ec23b2464bddec79ca5f19cecb84366cf4b74f6af65",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "79bd7e5973357ccc686292b51aaa9cd70e5a230aa74f81561da9a0331d93bd61",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual6",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-3a57b411-1347-4500-97e5-706a8f1aeecc.png",
+      "original_sha256": "0314923d2e154df4b81ca785b75d9ae810914541c54e310e7383fc325e50220e",
+      "output": "하리뭉_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "0d189e9b627db74c5e23ad040b7d7556f8c03c428a44f2df73c4b2a7b00ca204",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "33f433b34ea9ab04308913b34ae5f37122d99c19d633e2dc0dd1b633a3674ffd",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual7",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-b03bc4b1-0fb5-4221-b23c-ee71530588a4.png",
+      "original_sha256": "649a783cbf73c7eebcc0c76cf5b6957c032ab7b6547d6b977798db7fc01f84b9",
+      "output": "하리뭉_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "957c7938e534e65353380a6b01d6ee710c6d7490272cd8b62a4f9f2c6e0bc6cb",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "8de14456cd4be13c29d0f32d793b1320e4b0af512f57df207ed786b152433259",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual8",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-662a1bfb-348e-4512-88f2-046786cc242a.png",
+      "original_sha256": "58571232bf1c41f3a613e8b44572240df65307ce988d70a051dccc69563b478b",
+      "output": "하리뭉_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "6d69a86d4673ee375ab5d2441c667666c2deca224abbddc7caff2c9e242b6d51",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "ddca7aa1b0023847c7473c86f5706d6eb086b5e9c9c0e73040ccd0cef3ccdad9",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual9",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-ecf3bfb2-b80c-4db5-8920-211cd09e442e.png",
+      "original_sha256": "50715215297a6b2784016aa6a941c607849661d32e93efee92625046b56cb1ce",
+      "output": "하리뭉_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "9d1a30e6264ef1e3aa15d313bdd2cd11659bd9725560f0186b6edd64770c585b",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "f102385ab245c30113ecf1dc5cba9301b8c7fdbef4078811761eb48e9f431f6a",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual10",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-496760f8-7f8f-44b7-b201-491903868743.png",
+      "original_sha256": "f5a0e9161746a87e27f61002564bca416db8122a0f943d6a9a615251d47cea9f",
+      "output": "하리뭉_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "89d3c231e7539d7335150f0169f067fe988f1417ba46016766e4c5834d606104",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "da10f3294794af5e80ad586ba882a00b5bbc23ae7c4448cf1d045de74f3fb5ca",
+      "submitted_same": true
+    },
+    {
+      "card": "하리뭉",
+      "slot": "casual90",
+      "style": "anime_25d_gloss",
+      "original": "/workspace/scratch/93ca07f78a9e/generated_images/exec-9f3653ea-5231-45a1-9f15-df63958e169c.png",
+      "original_sha256": "2e0468e7fb206282742ea76ed09d80711de5cb02f259d398ff4fb6705eee2566",
+      "output": "하리뭉_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "9665d2aeb3e9ab15906f9a51527312ac459a0d85c15c018b7142d956eb9df13a",
+      "reference": "하리뭉_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "0016327e75d07619124153efab31f6d9670a1f8d4d7726799934843c573c4484",
+      "submitted_same": true
+    }
+  ],
+  "scope_note": "New anime_25d_gloss set; previous glossy_promo images and records preserved. Metadata checkout contains only recent comparison records and reservations.",
+  "warnings": [
+    "prepublish orientation/framing comparison: 6 overlaps; actual visual scene comparison recorded"
+  ]
+}
