@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "user selected candidate 2",
+    "reference": null,
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-b0dadaa8-cb2a-47d0-8b3f-6f518285cc90.png",
+    "source_sha256": "e1eab4010c3f7e1eea6bac5493e39eabfa4c902f9193c782c30d68917d0f9282",
+    "output": "소곤룡_light_anime_25d_gloss_f.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "42c65d3e3a376f40d31f765e82c3b2d312379f09b34de042a82dfbbcb17ab6c5"
+  },
+  {
+    "slot": "casual1",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-c12034a8-83f1-4106-85c6-cc3f2894af42.png",
+    "source_sha256": "362a8035dcced5a5757f3349b515950f480e8aa9fe0fe5900561f8559141410b",
+    "output": "소곤룡_anime_25d_gloss_f_casual1.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "85026bb3c6f5c5d700f6743070c679b47868a1ec39f0b591a171dc738316799a"
+  },
+  {
+    "slot": "casual2",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-fda7dc6d-5816-4f01-be45-e5e67b8e034c.png",
+    "source_sha256": "a20a6bbf61752cf7a959dc75c20fa6570fa63a968293bfb3c11f56d4b42d4a31",
+    "output": "소곤룡_anime_25d_gloss_f_casual2.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "62548f39347b12dde1b97bb549b196ee0103addf130baf5abbbd6603328b3b8a"
+  },
+  {
+    "slot": "casual3",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-8541b0e8-eb7b-4e3c-b2e8-54020ab29704.png",
+    "source_sha256": "e72f7dc31bb3d5dd78158b56d5c79f58f5c9a71483062d1862fbc76cd8f4902c",
+    "output": "소곤룡_anime_25d_gloss_f_casual3.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "5ee9ff44fbecf8aff9ec0c5cc89fa2587fa6be103de615994c9d32f03379f245"
+  },
+  {
+    "slot": "casual4",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-c69d019f-a7f0-485b-a6c2-8173a4a67f12.png",
+    "source_sha256": "cf262e806e65b26a91d56aa89fb8515acc23eecfb3279e474763c02b3a48e139",
+    "output": "소곤룡_anime_25d_gloss_f_casual4.webp",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "932c2d5802e7503b8d356011f555a74217f31c2af5c6d0142b68f385b503b4ff"
+  },
+  {
+    "slot": "casual5",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-cb6b0e94-5adc-4151-8674-a0ea743351b1.png",
+    "source_sha256": "b5ef5422665e9f116b7f4c1960d6ea5458e7f2f19fe17411c8718ba2f359f424",
+    "output": "소곤룡_anime_25d_gloss_f_casual5.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "65d33f2aa3590c752e372bf5febf6bdc93e93630ff0fa18bb4e6877f8dc7d9e9"
+  },
+  {
+    "slot": "casual6",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-7cc3a5ae-f94b-4098-ab11-558b6a0da1d7.png",
+    "source_sha256": "cec247e42ba3cd96361586199fe1ab035eefe3a050c984ff40b71d764705a021",
+    "output": "소곤룡_anime_25d_gloss_f_casual6.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "cac1bd457c33f371e761f9462c7caf57a3c98aa5e83022e0787a84a6f37ea913"
+  },
+  {
+    "slot": "casual7",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-bfb49f4e-3675-4ea6-a578-3be131c407ef.png",
+    "source_sha256": "86e12bf2a51cf35c36356bb0907e5acf2a2c551fb5a698ae3ec70d5bc4e7a2ea",
+    "output": "소곤룡_anime_25d_gloss_f_casual7.webp",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "236166ad7511257bba33ab8adaa3e112f8fbd72f34db6a1053155ef6f78ef9a9"
+  },
+  {
+    "slot": "casual8",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-d12526be-7705-4a2c-9421-87021ca43815.png",
+    "source_sha256": "62210942c2bef61c41906d06830d0d59f5c9de9b8441b8e04fd6b3f0b79b3bdb",
+    "output": "소곤룡_anime_25d_gloss_f_casual8.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "05a0dd254b34e76b91cbb3073559b738f0cd88fd973011bc00f0050dfc4f99f4"
+  },
+  {
+    "slot": "casual9",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-6f0f629f-e6ca-44bd-ad59-e179edf8171d.png",
+    "source_sha256": "5f155e7a6886ea329ffb9ab530cfa2623077d44b8a114e33e1a01b0223b1bbad",
+    "output": "소곤룡_anime_25d_gloss_f_casual9.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "c319fd9cdc403494ec1520ef4d13ca4d536184ad209451d0d9ac34053577c4a1"
+  },
+  {
+    "slot": "casual10",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-3e89d61a-4815-4aee-a54a-261d80ad882e.png",
+    "source_sha256": "38d82d5289e6d6a02ff672f5f66218fbf8c829666837a2b0b1a87edd75403d82",
+    "output": "소곤룡_anime_25d_gloss_f_casual10.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "1282b8666fd3096a996978db4cd3678fe3d42b6781c3fc735040ceb1ab76daa0"
+  },
+  {
+    "slot": "casual90",
+    "card": "소곤룡",
+    "style": "anime_25d_gloss",
+    "basis": "approved light candidate 2 reference; planner settings",
+    "reference": "소곤룡_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/f7be664325e1/generated_images/exec-b176229e-3825-4396-8689-c48398f65b26.png",
+    "source_sha256": "b16530e615453cb9dff9652037019dd5a20f3f0305a33e19393e0edbabb3edad",
+    "output": "소곤룡_anime_25d_gloss_f_casual90.webp",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "323d1ee6e3b084a32f69c62ff84a33ac36effd18b1c34cd7e4b441a94d80b9e0"
+  }
+]

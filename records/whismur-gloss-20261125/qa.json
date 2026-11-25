@@ -1,0 +1,163 @@
+{
+  "tool": "visual inspection of generated originals and contact sheet",
+  "automated_anatomy": "unavailable: mediapipe is not installed",
+  "regeneration_count": 0,
+  "cuts": {
+    "light": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two relaxed gloved hands; fingers partly overlap at image scale.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Selected candidate 2; full-body face and feet visible.",
+      "regenerated": false
+    },
+    "casual1": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two hands joined to their forearms, four long fingers and partly concealed thumb on thigh.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Planned rear three-quarter pose became front three-quarter; retained and recorded. Species hair ornaments remain.",
+      "regenerated": false
+    },
+    "casual2": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two hands, tool grip partially hides right fingers; left fingers separate.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Costume recognizable; nail-painting gesture visible. Planned square output downscaled from 1254 square.",
+      "regenerated": false
+    },
+    "casual3": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Hands outside close-up; both shoulders and upper arms continue below frame.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Face close-up; no detached hands.",
+      "regenerated": false
+    },
+    "casual4": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two resting hands with natural wrist connections; thumb partly hidden on knee.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Rooftop outfit and seated scene recognizable; face turns toward viewer beyond planned direction.",
+      "regenerated": false
+    },
+    "casual5": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands attached, five digits discernible on abdomen and wall.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Whispering wall and singer-breath gesture visible; expression more smiling than singing; original outfit panels retained.",
+      "regenerated": false
+    },
+    "casual6": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two lowered hands, curled fingers overlap naturally; no detached digits.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Front three-quarter instead of planned rear three-quarter; inherited ear ornaments remain. Recorded without regeneration.",
+      "regenerated": false
+    },
+    "casual7": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two hands on chair and knee, thumbs partly hidden.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Seated stage scene and open wrap visible; hands remain attached.",
+      "regenerated": false
+    },
+    "casual8": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two hands, cracker grip and dish grip partly obscure digits; wrists connect clearly.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Rice-cracker listening booth scene, no detached hands.",
+      "regenerated": false
+    },
+    "casual9": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two resting hands on pool edge, far hand partly cropped after forearm; no floating hand.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Game cosplay character and bikini palette recognizable; two shoulders and forearms continuous.",
+      "regenerated": false
+    },
+    "casual10": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Hands outside chest-up crop; both shoulder-to-upper-arm connections visible.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Pajama top and veranda visible; expression differs slightly from planned gaze.",
+      "regenerated": false
+    },
+    "casual90": {
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two hands on microphone stand; fingers partly hidden by cylindrical grip.",
+        "overlay_checked": false,
+        "note": "Visual review: no extra limbs or detached hands visible; hidden or cropped parts not independently countable."
+      },
+      "visual_note": "Singing trainee and microphone visible, square downscaled from 1254 square. Original palette retained in stage outfit.",
+      "regenerated": false
+    }
+  }
+}

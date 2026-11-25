@@ -1,0 +1,61 @@
+{
+  "card": "소곤룡",
+  "style": "anime_25d_gloss",
+  "status": "selected; casual plan reserved remotely",
+  "candidates": [
+    {
+      "number": 1,
+      "source": "/workspace/scratch/f7be664325e1/generated_images/exec-f3ff2fb0-2603-4668-b8d4-3423067ee7a7.png",
+      "source_sha256": "9b80d0b69bd3bed2f8aeaeca200142e9a7af30bbc018f259df4029cb8a2beb05",
+      "prompt": "/workspace/scratch/f7be664325e1/whismur-pack/candidate1-prompt.txt",
+      "submitted_sha256": "16fccfa3b615d35d71a12086f9e7b3c6add83c27c4bd6e8152d36301dffdccb4",
+      "design": "base",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "source": "/workspace/scratch/f7be664325e1/generated_images/exec-b0dadaa8-cb2a-47d0-8b3f-6f518285cc90.png",
+      "source_sha256": "e1eab4010c3f7e1eea6bac5493e39eabfa4c902f9193c782c30d68917d0f9282",
+      "prompt": "/workspace/scratch/f7be664325e1/whismur-pack/candidate2-prompt.txt",
+      "submitted_sha256": "16fccfa3b615d35d71a12086f9e7b3c6add83c27c4bd6e8152d36301dffdccb4",
+      "design": "base",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "source": "/workspace/scratch/f7be664325e1/generated_images/exec-85c9102f-8dee-41e3-a9ef-69b80286821d.png",
+      "source_sha256": "f73f3f8634f0c879319a68a7c761c59a29911fbbf2c7bbc84b10a0586f7f8f73",
+      "prompt": "/workspace/scratch/f7be664325e1/whismur-pack/candidate3-prompt.txt",
+      "submitted_sha256": "2b2b7e8717f0319ec2658dc7daee7c8adef79c74721a32b9442a54dcc1b56f76",
+      "design": "gpt_free",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "source": "/workspace/scratch/f7be664325e1/generated_images/exec-8bc43567-305d-4a4d-9afe-e9494e168cb6.png",
+      "source_sha256": "1c068fea07e29eff8f03468d562a0249f7faeedaac72643eee6f99468ebba04f",
+      "prompt": "/workspace/scratch/f7be664325e1/whismur-pack/candidate4-prompt.txt",
+      "submitted_sha256": "f9339b4c857d335cd8d5e3139670cc47c6d6a9c7ea22e761d7e7142a1e2c02c2",
+      "design": "gpt_free",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "publication": "not started; wait for selection",
+  "regeneration_count": 0,
+  "repository": "/workspace/shared-git/pkm-atelier.git",
+  "worktree": "/workspace/scratch/f7be664325e1/pkm-whismur",
+  "selected": 2,
+  "reservation_commit": "9208b8e842ca7ac75b7d2920118b75c6b8e981cb"
+}

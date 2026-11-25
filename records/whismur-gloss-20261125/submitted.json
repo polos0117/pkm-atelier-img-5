@@ -1,0 +1,62 @@
+{
+  "light": {
+    "submitted_sha256": "16fccfa3b615d35d71a12086f9e7b3c6add83c27c4bd6e8152d36301dffdccb4",
+    "submitted_same": true,
+    "file": "light-submitted.txt"
+  },
+  "casual1": {
+    "submitted_sha256": "9ea389f6c2aa2647d92c63851ba6764c9cea855b4a6d8eb73dc93e412ad6bc81",
+    "submitted_same": true,
+    "file": "casual1-submitted.txt"
+  },
+  "casual2": {
+    "submitted_sha256": "71081fdb7dd06b5d36aa6bb1794d6c1a5cecbaacb645db3d3967ed52ed6726d5",
+    "submitted_same": true,
+    "file": "casual2-submitted.txt"
+  },
+  "casual3": {
+    "submitted_sha256": "4268edf84a456e1964ec7d2652a1b13ae44d228a9ed826c999732ccff247b2e4",
+    "submitted_same": true,
+    "file": "casual3-submitted.txt"
+  },
+  "casual4": {
+    "submitted_sha256": "8ef26e637bcf1329b02313d8917988db574451862730cd45cd28b2d4cf19f650",
+    "submitted_same": true,
+    "file": "casual4-submitted.txt"
+  },
+  "casual5": {
+    "submitted_sha256": "c9c86f1300fd2dc87e58d07f03ead3ad6074320fd5b3b5b0e60d11d8544ef5b8",
+    "submitted_same": true,
+    "file": "casual5-submitted.txt"
+  },
+  "casual6": {
+    "submitted_sha256": "35474d478c3b8beb9e8a5d33501efce1e5192b08bd91509b65bdbe2b1be65841",
+    "submitted_same": true,
+    "file": "casual6-submitted.txt"
+  },
+  "casual7": {
+    "submitted_sha256": "e6e1f3a8adc12495cdc2ac1eacf513b9e0f635cb519a42bdeaaa717deef566a3",
+    "submitted_same": true,
+    "file": "casual7-submitted.txt"
+  },
+  "casual8": {
+    "submitted_sha256": "8a886cf79d60682ad2d2823016e1a23c45dff4b6e94f0c64cecec23e072c60a9",
+    "submitted_same": true,
+    "file": "casual8-submitted.txt"
+  },
+  "casual9": {
+    "submitted_sha256": "daa56bb87030b542124b6709de33bb1b60d28facdabf34c90fd74ef867f341a5",
+    "submitted_same": true,
+    "file": "casual9-submitted.txt"
+  },
+  "casual10": {
+    "submitted_sha256": "1045c258c2360b068f77c55756cfd4ba81ad31abaea1faefdfc052ab4e18f802",
+    "submitted_same": true,
+    "file": "casual10-submitted.txt"
+  },
+  "casual90": {
+    "submitted_sha256": "e8aebba944b332540439d968ea8d0b50947fcc6ff9c8781048d9f4ecb5e5d78d",
+    "submitted_same": true,
+    "file": "casual90-submitted.txt"
+  }
+}
