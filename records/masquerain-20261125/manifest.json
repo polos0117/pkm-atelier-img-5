@@ -1,0 +1,123 @@
+[
+  {
+    "slot": "light",
+    "file": "비나방_light_anime_25d_gloss_f.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-d2610f60-001f-45e6-ad45-a8648c17fa14.png",
+    "original_sha256": "97772b59555a87ae494597861f5fcf1b6604bd90e1a594a126290db1aa55d9cd",
+    "sha256": "b6cf36f16154262cefe3cb369b291c1e8753ffd312c366533dc338c1bcf34a2d",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual1",
+    "file": "비나방_anime_25d_gloss_f_casual1.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-65659d7a-853c-4f37-b222-e1fc42127abc.png",
+    "original_sha256": "689d347b21e386098161d4d0367e3afefa9b31746ba83715a5610abb70546c48",
+    "sha256": "229110b1e71ae3eeb56ab38dbf67d2724e762409c27cda26220902d52ae2e85a",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual2",
+    "file": "비나방_anime_25d_gloss_f_casual2.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-0a13f431-056e-4d27-82a0-46d2109acfc2.png",
+    "original_sha256": "894d23f9f1be047c7d5eb1c1f8472062e9c948454492fdedb8320e1d3cf442a4",
+    "sha256": "eb74023f71b5f3bcc3d7271f9de07c24cd803eff3ed746622814f1b96e23ce1a",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual3",
+    "file": "비나방_anime_25d_gloss_f_casual3.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-d8a1ddba-4235-4023-8329-80defdade22b.png",
+    "original_sha256": "f4d2de1ad865c9847f862c2ba76c25dd8879b3d6830314290362b649da2e073a",
+    "sha256": "814d5cac14d113ba6c583b27837c547587487f25dc306884a037dc8ebb846c2b",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual4",
+    "file": "비나방_anime_25d_gloss_f_casual4.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-65d8b8d8-9da8-4ad0-be60-179b26625706.png",
+    "original_sha256": "76faeb7e01173dfa361e724a3c9c6df558b3f406a0dabd61eec0d995537d37a6",
+    "sha256": "8a4cd4386fc0a4c336e78334591de3357dda593d66ac4636c4ea17d86e5b477f",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual5",
+    "file": "비나방_anime_25d_gloss_f_casual5.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-3d0962a0-fe0c-4423-966a-35653b59fb17.png",
+    "original_sha256": "b19bd1e7a8a023c979df405dcb92da09e3146977cf34757d6451b99c2cde9d9e",
+    "sha256": "3b54d1d1c6c1f3cbe77a700089a2a28f25f09b19f8845fd2096f5c405fa014a2",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual6",
+    "file": "비나방_anime_25d_gloss_f_casual6.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-14f0aadc-eb07-451a-9b82-97d67d4657ba.png",
+    "original_sha256": "a3f71ddf17cd71ecae8ac6c7835c790ba6b712e3adba34b89a0f50f6cea1205a",
+    "sha256": "36c51ec88f2bfdc7c8fd809090e76bdf2a4508c4988418122749258fb6d4f10f",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual7",
+    "file": "비나방_anime_25d_gloss_f_casual7.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-11a53ff8-c352-4d3a-9817-f3c0525bb94a.png",
+    "original_sha256": "766cdfd4ab52b88a12d7687e3dbbe947876beda99ef9338be5af4b6035582ea7",
+    "sha256": "f50f4c1eb9b5dfc2c167de38e9b894e8886e1d2fa331f1bd252c1548130ee908",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual8",
+    "file": "비나방_anime_25d_gloss_f_casual8.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-e72e8099-9b53-45d0-b48b-07d51aaa49fd.png",
+    "original_sha256": "b350f4db50e16baa61d97f6f80f02defac77a89bc0f6beb9cc2d248625fd40a8",
+    "sha256": "6d48cee2436fd32bd3716ca9ce0d2130e415b616072ee582a330b6f0b3ae8659",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual9",
+    "file": "비나방_anime_25d_gloss_f_casual9.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-bee18646-c7db-4420-8d9d-45d53ecaf6ea.png",
+    "original_sha256": "a11533c0d60cb3d762c25fd9ee8e0ed4f2462f74247925789a6b83c48fdd7853",
+    "sha256": "073a60ba29f8ec748552887391eee5a759a348ad9838969f6893b52a4f74d481",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "slot": "casual10",
+    "file": "비나방_anime_25d_gloss_f_casual10.webp",
+    "source": "/workspace/scratch/6c6541770deb/generated_images/exec-5707de15-79e2-4381-88c4-1b5c7a0f2cca.png",
+    "original_sha256": "02dbb645cd1a7c82644bdb43c615c0f329fe80f9167bb740104dad01c4bad726",
+    "sha256": "94836615195784727981c7a07557d0b57e6de99efeb200668c802ab1e66b688d",
+    "size": [
+      1024,
+      1536
+    ]
+  }
+]

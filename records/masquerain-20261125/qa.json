@@ -1,0 +1,178 @@
+{
+  "light": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual1": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual2": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual3": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual4": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual5": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual6": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual7": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual8": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual9": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  },
+  "casual10": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Soft gradients across nose, cheek, lips; dimensional material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": "two or outside crop",
+      "hands": "Visible hands appear connected; curled fingertips or hands outside crop are occluded.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Contact sheet visual inspection; no detached extra limbs observed."
+    },
+    "reference_fidelity": "Face and hair retained; source ornaments and pink palette carried over in several casual images. Recorded without regeneration."
+  }
+}

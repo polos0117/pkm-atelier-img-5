@@ -1,0 +1,85 @@
+{
+  "card": "비나방",
+  "style": "anime_25d_gloss",
+  "status": "awaiting_user_selection",
+  "worktree": "/workspace/scratch/6c6541770deb/pkm-atelier",
+  "branch": "work/masquerain-6c654177",
+  "images": [
+    {
+      "number": 1,
+      "original": "/workspace/scratch/6c6541770deb/generated_images/exec-d2610f60-001f-45e6-ad45-a8648c17fa14.png",
+      "sha256": "97772b59555a87ae494597861f5fcf1b6604bd90e1a594a126290db1aa55d9cd",
+      "prompt": "/workspace/scratch/6c6541770deb/masquerain-pack/light-prompt.txt",
+      "submitted_sha256": "49780561337c9ca9b6aff8148410b5071bc03f5c26d83b4e62406c9354736837",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands present; open and curled gloved fingers visible, some curled fingertips overlap at selection-sheet scale. Full-resolution review pending selection.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review of four images: limbs attached, no detached extra limbs observed. No regeneration."
+      }
+    },
+    {
+      "number": 2,
+      "original": "/workspace/scratch/6c6541770deb/generated_images/exec-b9ca1caf-e461-4ae6-9b58-0be13a7b87e3.png",
+      "sha256": "981d1bb2eccbfc1aac8b4fde6524df911dbe6c26541caa82ff2912ec565c987b",
+      "prompt": "/workspace/scratch/6c6541770deb/masquerain-pack/light-prompt.txt",
+      "submitted_sha256": "49780561337c9ca9b6aff8148410b5071bc03f5c26d83b4e62406c9354736837",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands present; open and curled gloved fingers visible, some curled fingertips overlap at selection-sheet scale. Full-resolution review pending selection.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review of four images: limbs attached, no detached extra limbs observed. No regeneration."
+      }
+    },
+    {
+      "number": 3,
+      "original": "/workspace/scratch/6c6541770deb/generated_images/exec-7cdbf5c6-4e5d-4c97-b40c-e1949ad10f6e.png",
+      "sha256": "809b9e91bc720b0fbc28a0dc983a1203d448e5ba242359abf33006cade4c2850",
+      "prompt": "/workspace/scratch/6c6541770deb/masquerain-pack/design3-prompt.txt",
+      "submitted_sha256": "aaa19feeb7da3ef253c5f4d65e1b7ecad600424dae4162e2caca8add390fc720",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands present; open and curled gloved fingers visible, some curled fingertips overlap at selection-sheet scale. Full-resolution review pending selection.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review of four images: limbs attached, no detached extra limbs observed. No regeneration."
+      }
+    },
+    {
+      "number": 4,
+      "original": "/workspace/scratch/6c6541770deb/generated_images/exec-8f75b9fc-fdea-457e-b178-480dc21d5fcf.png",
+      "sha256": "1e2bc8314827331480254812bd3a9a98d383648b344d6be75c8e12ecb50320af",
+      "prompt": "/workspace/scratch/6c6541770deb/masquerain-pack/design4-prompt.txt",
+      "submitted_sha256": "b4a8caaebb0614eaf18f57afefed19156c51aafa99573c30e6947b16bc694ea2",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands present; open and curled gloved fingers visible, some curled fingertips overlap at selection-sheet scale. Full-resolution review pending selection.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Visual review of four images: limbs attached, no detached extra limbs observed. No regeneration."
+      }
+    }
+  ],
+  "selection_sheet_library_file_id": "libfile_f19325955c208191bf267db2849fcb50",
+  "selection_sheet": "/workspace/scratch/6c6541770deb/masquerain-selection-sheet.png",
+  "pending": [
+    "User selection 1–4",
+    "Full-resolution anatomy review of selected image",
+    "Casual images following selected identity",
+    "Image and dex commits; normal push to remote main"
+  ]
+}
