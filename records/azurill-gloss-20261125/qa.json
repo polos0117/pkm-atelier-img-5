@@ -1,0 +1,162 @@
+{
+ "selected_mecha": 1,
+ "regenerations": 0,
+ "blocked": [],
+ "anatomy_tool": "unavailable: mediapipe not installed; visual inspection used",
+ "images": {
+  "light": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visual inspection: two attached gloved hands; fingers overlap in relaxed poses, no detached hands observed",
+    "overlay_checked": false
+   },
+   "note": "halo/crown clipped at upper border; head and feet visible"
+  },
+  "casual1": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Waist-up cosplay in rain at coaster plaza. Right hand on rail, left hand at hair; both shoulders and forearms attached. Costume colours are purple/gold rather than the typical pale character palette; recorded without regeneration.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual2": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Seated garden companion scene. Right hand touches companion, left hand braces on grass. Two arms/two legs visible; both hands joined to wrists. Small abstract marks on bowl retained.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual3": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Chest-up creature costume. Right palm reaches forward, left arm continues naturally beyond crop. Extended hand has foreshortened fingers; no duplicate hand observed.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual4": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Landscape spa rest. Two forearms and hands support chin; fingers partly overlap cheeks. Two bent legs and two feet visible. Actual interior is warm-toned rather than pure-white futuristic; retained.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual5": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Free design: full-body bell exhibit. Raised right arm leads to bell, left hand rests rail. Two arms and legs; one hand partly foreshortened.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual6": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Kneeling climbing-wall rest. Right hand on thigh, left hand at shoe. Two arms and two folded legs visible. Camera reads front three-quarter rather than requested strict side; retained.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual7": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Half-kneeling lodge swimsuit. One planted foot and opposite bent leg visible; both arms connect. Autumn leaves with distant snow rather than entirely snowy terrace; retained.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual8": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Witch bakery portrait. One hand at cheek, opposite shoulder and upper arm continue to crop edge. No floating hand. Hat and lower outfit intentionally cropped.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual9": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Free design: ferry landing snack. Right hand grips pastry pouch, left hand braces on bollard, two legs and shoes visible.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual10": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Environmental record-shop cowgirl. Both hands meet rail, two arms and legs visible; generated face reads side profile, retained.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  },
+  "casual90": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visible hands visually checked; fingers partly hidden or overlapping where stated in note",
+    "overlay_checked": false
+   },
+   "note": "Car-wash apprentice. Both arms connect to hands gripping one sponge; several fingers partly hidden by foam and grip. Lower legs are outside planned square crop.",
+   "source_matches_face_hair": true,
+   "regenerated": false
+  }
+ }
+}

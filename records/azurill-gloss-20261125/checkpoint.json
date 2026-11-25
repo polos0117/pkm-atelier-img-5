@@ -1,0 +1,276 @@
+{
+ "card": "루리리",
+ "style": "anime_25d_gloss",
+ "selected_mecha": 1,
+ "generated_mecha": 4,
+ "final_images": 12,
+ "casual_generated": 11,
+ "regenerations": 0,
+ "stage": "ready_to_publish",
+ "reference_original_sha256": "4d0b43e488a73fa8a573546a8f1b3752271bed8c4eb9d5bec3a6786bb15022ff",
+ "outputs": [
+  {
+   "slot": "light",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "4d0b43e488a73fa8a573546a8f1b3752271bed8c4eb9d5bec3a6786bb15022ff",
+   "output": "루리리_light_anime_25d_gloss_f.webp",
+   "output_sha256": "bd317552588a8b1fc8b438100858b9c66b409d6c3a13ce3d43d72060deb19338",
+   "size": [
+    1024,
+    1536
+   ],
+   "reference": null,
+   "evidence": "user selected mecha 1",
+   "submitted_sha256": "1fc277ead9ea9a17a688b53f0bfe4282b1410a247fe55407adbdbf6d98db58f1",
+   "submitted_same": true
+  },
+  {
+   "slot": "casual1",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "3751b6313418f3174347acfa8eb6f5ba1e3463055be42e3441991461e4c1fe3c",
+   "output": "루리리_anime_25d_gloss_f_casual1.webp",
+   "output_sha256": "668e954e3dd98eb91af8707cf085d290475d3bebf2bdf1e435b68d3fd8920149",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "36c2c7d26ed9d51873ba4b32a0bca48aa62edb0795a4393ad2589ad1f7a0d2bb",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual2",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "6c932430c12c89e96ceeaab529d31c66ce1ab963f24e130fdc52fc30133cc2e2",
+   "output": "루리리_anime_25d_gloss_f_casual2.webp",
+   "output_sha256": "b1fddf478fe3af5222f2742f2f1e2e005d320a27619370362373b5deed9171d0",
+   "size": [
+    1536,
+    1024
+   ],
+   "source_size": [
+    1536,
+    1024
+   ],
+   "reference": "light",
+   "submitted_sha256": "2d96b07a80aebfb213f9d7f7a3c13062c9e4fc767aaefa81282e6f6eefedaacd",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual3",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "0258b7c96942f0f2918e96e2c28197459777ac8bffa8e2f0a77801d4dcdde1a6",
+   "output": "루리리_anime_25d_gloss_f_casual3.webp",
+   "output_sha256": "4677b2b6d0ad471e8ead2438414bc0f0a3fcb7d2b6192b68230079855426a217",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "58e376938c6691d4c48933e8e4c9a47650d30144324f5aeae2ddc21d8e560b44",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual4",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "cca065404460d8a0104b7f1ecc12975521a83e683133009a79bb220d3246ab12",
+   "output": "루리리_anime_25d_gloss_f_casual4.webp",
+   "output_sha256": "8a706ac631810c40a77dd767d5a5936753dceb025e7d8b18b755fe9c43feda9d",
+   "size": [
+    1536,
+    1024
+   ],
+   "source_size": [
+    1536,
+    1024
+   ],
+   "reference": "light",
+   "submitted_sha256": "707c56ea104ab7315add33d48a1af15d89a8a716905a53990eece557b02484d4",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual5",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "49e11819d4253e1a21b656c36e97a225213dd87ceaa492a7d35f49444c08eb1d",
+   "output": "루리리_anime_25d_gloss_f_casual5.webp",
+   "output_sha256": "04af1c18b88e2ef5580e325248b87363f7aa50d53098dec5baab7fdeea234159",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "f7e331c6d801c22a5c5a39f8c4573c855142d2c213d1b291575d81b3e6ee4503",
+   "submitted_same": true,
+   "same_as_generator_brief": false,
+   "reason": "free scene design expressly required by rules"
+  },
+  {
+   "slot": "casual6",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "5d1d949f2814c573b72a8b753d371174c050021469e87edd3f8f1cc1ba1acfa9",
+   "output": "루리리_anime_25d_gloss_f_casual6.webp",
+   "output_sha256": "b225208ec87328e30a811317e23ec31e5248f11819e7c4a75788f819ff3462ff",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "ca5c2fc2cc3b701ccb875353113e49de62b33525e3b2247424a137e665b62633",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual7",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "5f61137e1cab3cf0850dad4c9c732e02889c5ad0a44d8cbd44ad9040090b998d",
+   "output": "루리리_anime_25d_gloss_f_casual7.webp",
+   "output_sha256": "0479f95b6450c120f35e42023bf1a8d09146c7980f4660068d728fb98f21f7c6",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "9001f8ddf30fb6f14fae385fe038ac0127e704d920b77666c85d1b008bcf2221",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual8",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "9fa51c1217de0cbd464ccd82ae2a5ef9048947b5adb3d336744efb87fb6fe616",
+   "output": "루리리_anime_25d_gloss_f_casual8.webp",
+   "output_sha256": "6f363de70f36cc5f619e11232f1939bf4ad663ca32b2d368cac2176caf8ab54f",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "ec486cfd5f18be3641bc81fc82f204f220ae799d151e4ec8122439413c20b7dd",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual9",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "7b1b68b552bb6635d379334e2c1b174aba4a15f1cff174b68a36c19dbb744344",
+   "output": "루리리_anime_25d_gloss_f_casual9.webp",
+   "output_sha256": "c42647c2556178d511605cbd529541713e3e327b8a9ba090d96bfe518edc0b27",
+   "size": [
+    1024,
+    1536
+   ],
+   "source_size": [
+    1024,
+    1536
+   ],
+   "reference": "light",
+   "submitted_sha256": "d7bafa20723e1f324127948c9f0c5c8ef278d5f60c49f5f588b0496495c613d9",
+   "submitted_same": true,
+   "same_as_generator_brief": false,
+   "reason": "free scene design expressly required by rules"
+  },
+  {
+   "slot": "casual10",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "f7613ea6d3ff1154d6f5602c784c72183471e2e8568e94281e5d201623e85b60",
+   "output": "루리리_anime_25d_gloss_f_casual10.webp",
+   "output_sha256": "09778f89ee1badf9516a8d8f515c7e540ceaa7728261246b98c4efab3de268fe",
+   "size": [
+    1536,
+    1024
+   ],
+   "source_size": [
+    1536,
+    1024
+   ],
+   "reference": "light",
+   "submitted_sha256": "79fb743fbc35658db14a07b5378b25818b52b6d12d2b6f29d0394d8c5e71a110",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  },
+  {
+   "slot": "casual90",
+   "card": "루리리",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "source_sha256": "37b8f5ecc1c3378dd7adb666807edc0702de061a0100a78a800c7ef741184af5",
+   "output": "루리리_anime_25d_gloss_f_casual90.webp",
+   "output_sha256": "436712ca6f251b69ea89ffa097725bf7a2b7c73745d17d5763580c39087463d5",
+   "size": [
+    1024,
+    1024
+   ],
+   "source_size": [
+    1254,
+    1254
+   ],
+   "reference": "light",
+   "submitted_sha256": "c678db06d187327f4c87f426432869ed4320946ed7c32068d73c31437451ed92",
+   "submitted_same": true,
+   "same_as_generator_brief": true,
+   "reason": null
+  }
+ ],
+ "code_repo_changed": false,
+ "img_json_direct_edit": false,
+ "thumbnail_manual_edit": false,
+ "reservation_commit": "38bd65fca1351319646f5797ec4b43e90d04aac5"
+}
