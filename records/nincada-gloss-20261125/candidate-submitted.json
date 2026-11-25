@@ -1,0 +1,26 @@
+{
+  "1": {
+    "prompt_sha256": "59fa0f38adfc1bbf48d61858ebc3140c5e9401db7537269af97774a0e2dc6522",
+    "submitted_sha256": "59fa0f38adfc1bbf48d61858ebc3140c5e9401db7537269af97774a0e2dc6522",
+    "same": true,
+    "source": "light-prompt.txt"
+  },
+  "2": {
+    "prompt_sha256": "59fa0f38adfc1bbf48d61858ebc3140c5e9401db7537269af97774a0e2dc6522",
+    "submitted_sha256": "59fa0f38adfc1bbf48d61858ebc3140c5e9401db7537269af97774a0e2dc6522",
+    "same": true,
+    "source": "light-prompt.txt"
+  },
+  "3": {
+    "prompt_sha256": "da27f807ca438a048099d5918f76b077aaa29979c1d91f5f986b75890fc1419c",
+    "submitted_sha256": "da27f807ca438a048099d5918f76b077aaa29979c1d91f5f986b75890fc1419c",
+    "same": true,
+    "source": "light-free-1-prompt.txt"
+  },
+  "4": {
+    "prompt_sha256": "1688272da44fedb11ac6e5d369f290f2a625c3b83fc5b0ab71e20bd3836537ed",
+    "submitted_sha256": "1688272da44fedb11ac6e5d369f290f2a625c3b83fc5b0ab71e20bd3836537ed",
+    "same": true,
+    "source": "light-free-2-prompt.txt"
+  }
+}

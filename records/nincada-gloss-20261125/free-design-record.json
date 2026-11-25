@@ -1,0 +1,14 @@
+{
+  "5": {
+    "design": "gpt_free",
+    "free_prompt": "casual5-free-prompt.txt",
+    "submitted_sha256": "dd1703a3ec0c5af6e394992cca876b47e43c2d836a7371f2ffa5f15abf4a2d71",
+    "outside_scene_preserved": true
+  },
+  "8": {
+    "design": "gpt_free",
+    "free_prompt": "casual8-free-prompt.txt",
+    "submitted_sha256": "07758134de6f97c6ac0dd3bb040e6e51043e06d2b8a52cb2c2e0963932ff1589",
+    "outside_scene_preserved": true
+  }
+}

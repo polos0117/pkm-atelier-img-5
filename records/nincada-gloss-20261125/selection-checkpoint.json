@@ -1,0 +1,36 @@
+{
+  "card": "토중몬",
+  "style": "anime_25d_gloss",
+  "status": "awaiting_user_selection",
+  "images": [
+    {
+      "number": 1,
+      "source": "/workspace/scratch/ffbe6999720c/generated_images/exec-9cbf7ffe-7d85-4f56-bcc8-157b1c8febad.png",
+      "sha256": "2237dc8389fa0597d889b1c3d8eafda93038ecba06e4cd591ab3fa16c615a4e0",
+      "prompt": "/workspace/scratch/ffbe6999720c/nincada-pack/light-prompt.txt",
+      "design": "project"
+    },
+    {
+      "number": 2,
+      "source": "/workspace/scratch/ffbe6999720c/generated_images/exec-7385299e-9311-4970-a6e1-919a70bff3c7.png",
+      "sha256": "37b6771b3e715b35ad126f67b93ae820adf8b8f6d0d9a0c091705dccecce79c1",
+      "prompt": "/workspace/scratch/ffbe6999720c/nincada-pack/light-prompt.txt",
+      "design": "project"
+    },
+    {
+      "number": 3,
+      "source": "/workspace/scratch/ffbe6999720c/generated_images/exec-03eb1bb9-4f71-4ef0-abfa-97796dfb41eb.png",
+      "sha256": "921b1ddb549cb9820956925fd6db9943c07565840ea2394497a42d6f333216b3",
+      "prompt": "/workspace/scratch/ffbe6999720c/nincada-pack/light-free-1-prompt.txt",
+      "design": "gpt"
+    },
+    {
+      "number": 4,
+      "source": "/workspace/scratch/ffbe6999720c/generated_images/exec-ad4552f6-11ef-403e-85fc-96e57c5d46e5.png",
+      "sha256": "9c2551d998ec51772830be6337207a9cc0210b22d4194771328018e8e000619b",
+      "prompt": "/workspace/scratch/ffbe6999720c/nincada-pack/light-free-2-prompt.txt",
+      "design": "gpt"
+    }
+  ],
+  "no_regeneration": true
+}

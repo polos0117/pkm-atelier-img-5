@@ -1,0 +1,258 @@
+{
+  "status": "generated_awaiting_automatic_registration",
+  "selected_candidate": 2,
+  "card": "토중몬",
+  "style": "anime_25d_gloss",
+  "final_count": 12,
+  "casual_count": 11,
+  "regeneration_count": 0,
+  "reservation_commit": "152d11e88c365ffda714eb001ba7f236b157f2c6",
+  "outputs": [
+    {
+      "slot": "light",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-7385299e-9311-4970-a6e1-919a70bff3c7.png",
+      "source_sha256": "37b6771b3e715b35ad126f67b93ae820adf8b8f6d0d9a0c091705dccecce79c1",
+      "filename": "토중몬_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "86624a91f72d3a2556e72bb3e796ed4e46780159bd16c9456d079810eed98346",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "59fa0f38adfc1bbf48d61858ebc3140c5e9401db7537269af97774a0e2dc6522",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual1",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-c7907632-eddb-44c2-8e46-d14560de2e24.png",
+      "source_sha256": "514db81880c0be333a594f3a8d0d003b94d004bd7cfdd7a15889d49f6b343f3c",
+      "filename": "토중몬_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "5b29c24457309d8e712d7f0e5c46f611668381cfa73ae027146581caf05add2d",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "4d47faeb38d774d984ad8cb8737f658c20aaaa8cebb3a45fb0b3b018c67ec062",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual2",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-54f00561-2f07-4acb-b21f-7901701043d9.png",
+      "source_sha256": "7f85875f5c08d401c9560c5365f9a60a227d9f0151c330545ea047bffaa2aabf",
+      "filename": "토중몬_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "ccc65d02093d1ac62e4278dd5459453d9920332e9280ecc84468ddb12077c0bd",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "6a94e9fc536c00d6906b173510980237a4543869765c7fd8943288926e1eded4",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual3",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-14e22303-1c1d-4e75-9bd6-0a4666857093.png",
+      "source_sha256": "184ede65afcb2b08dc19e28c22191dd39469226a5e9e2e601cf011eb71242f33",
+      "filename": "토중몬_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "c3b6bad99c75668248d99499a9b2639456aa98d5c3fb0d0d6d8ab9adfc70bb5d",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "f82bb0efab0c80f3364110be087f76d922bb0544cd4d419e286345e233ace01e",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual4",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-a344126d-fc9f-42c1-ac5a-edfeefed6f18.png",
+      "source_sha256": "cd92ebf7f93472f4ad180f93b4537780ff4b4a98f63356989940245d279a3203",
+      "filename": "토중몬_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "0f95b97903abe80d33aea6f158058aebbfdced4a1cab0e3187ccff965b7e2aa2",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "dea14b4a846d80de88648b99a67ddd655b07bbad78a4939ed4f5e6954dffd137",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual5",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-7cad357a-8e7f-42b0-9c9c-48aa6506fdbe.png",
+      "source_sha256": "b7a5a6609ca21d4e1d91a8b26856c3d1a538b6ed7f7e509c48335b2f6dd041f0",
+      "filename": "토중몬_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "4e7dff03e9ab867d26f7644dea307e8b79d02bd4fd898967918bfe06405de6d3",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "dd1703a3ec0c5af6e394992cca876b47e43c2d836a7371f2ffa5f15abf4a2d71",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual6",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-02e68899-4e39-4ed5-af6f-d7aa3ea5cb8b.png",
+      "source_sha256": "85d11ecc6877e6129264cac4606c92cb7d512d4abd2a1044bee55c83a818858c",
+      "filename": "토중몬_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "1d002071d99171f9a15ef6f7b5fb7d3b50938a53fcc90d3db0930b819fbb1f72",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "3f7752b8f989c97a283dbcb70aba3d7f647ecba96ff691a85d68678bbe38e638",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual7",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-f00643c4-96f3-4049-8b72-214eaa9d6c11.png",
+      "source_sha256": "9e829ec784070847c8e9b0a8621e83050fc86394f088018f69ff0b9a7b577716",
+      "filename": "토중몬_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "59c135896750287e84244e6daaaa3dd3825eb09bcf44d747beb0435a4b2f3d5d",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "b90f21f0a42150f1c7165ab987c1f4f8d4d3a451df1c1c2528e12188311e8baa",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual8",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-00b626af-4544-4f00-8686-7f5fb5d9364f.png",
+      "source_sha256": "42a01387e324f866a83a2890adcdfc7f5acdb05d691a24a84c5037b215a8c6c8",
+      "filename": "토중몬_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "ad8f3bf51dd440648fcf915bc075a41016831d14981cf81d66d475c8b9c13402",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "07758134de6f97c6ac0dd3bb040e6e51043e06d2b8a52cb2c2e0963932ff1589",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual9",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-2cbb4954-d920-44ae-a7ee-dc013abcc051.png",
+      "source_sha256": "0fd53ca167e7f1ff70b4a38b39a4f98ef48981821b17eda8e9f633a17c06d472",
+      "filename": "토중몬_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "e0b31073fa4b2668222c6860e35db96c2f376b7e09534ac2a4b96951d0ac1320",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "a9c831c73c6c6247ebda92552bff5b8f18f56b55934dc84fed77ac24672b7cc1",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual10",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-2c6c729f-d2d6-498b-b825-0487e888892c.png",
+      "source_sha256": "846231f4d08405f4b65989c8e322bf3eb0d12753741854be4b3e629883260c68",
+      "filename": "토중몬_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "0ce2b97633b6ed1fece9659eb1999ebe7beca9bebc41791a3bb2f9cf8dd6d56c",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "d99fd3c0bd8f91b7a5e72d1278400ac53dce37fd01977b381150baa75735296f",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual90",
+      "card": "토중몬",
+      "style": "anime_25d_gloss",
+      "source_file": "exec-cdf28d1c-3d91-4b49-9caf-883e85246482.png",
+      "source_sha256": "ba25504c4dde1d31a3276698ee2e3c7efb30214c01da0ee89a0e4d17f693e93a",
+      "filename": "토중몬_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WebP",
+      "quality": 85,
+      "method": 6,
+      "sha256": "4de9032465052cd69859800c4cab35957b5ba68841b96947c01d81fe79551c36",
+      "reference": "selected candidate 2",
+      "submitted_sha256": "eaf1734beb309a5d49ba746aa44f1bb2585acdcfea58f9c2b7a95b6f2bafd0a4",
+      "submitted_same": true
+    }
+  ],
+  "comparison": {
+    "recent_cards": [
+      "게을킹",
+      "발바로",
+      "버섯모",
+      "버섯꼬",
+      "게을로",
+      "비나방"
+    ],
+    "records_scope": "recent comparison UI records only; historical record trees and other character images not copied",
+    "current_set": "distinct settings, activities, outfit silhouettes and framing; visual deviations retained in qa.json"
+  },
+  "checks": {
+    "file_names": "register-images --check accepted the twelve added filenames; no prune applied with sparse checkout",
+    "forms": "PASS",
+    "anatomy_tool": "unavailable: mediapipe missing; visual checks recorded",
+    "source_png_policy": "hashes only in repository"
+  }
+}

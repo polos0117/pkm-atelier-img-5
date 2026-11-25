@@ -1,0 +1,37 @@
+{
+  "status": "selection_pending",
+  "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "overlay_checked": false
+  },
+  "images": {
+    "1": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "open hand: five visible digits; lowered hand: curled fingers partly occluded by glove",
+      "issue": "ok",
+      "note": "Visual review of generated full-resolution outputs: limbs connected, feet inside frame. Wing binder edges approach or meet frame for candidates 1 and 2."
+    },
+    "2": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "open hand: five visible digits; lowered hand: curled fingers partly occluded by glove",
+      "issue": "ok",
+      "note": "Visual review of generated full-resolution outputs: limbs connected, feet inside frame. Wing binder edges approach or meet frame for candidates 1 and 2."
+    },
+    "3": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "open hand: five visible digits; lowered hand: curled fingers partly occluded by glove",
+      "issue": "ok",
+      "note": "Visual review: limbs connected; five digits on open hand; closed hand digits partly occluded; feet inside frame."
+    },
+    "4": {
+      "arms": 2,
+      "legs": 2,
+      "hands": "open hand: five visible digits; lowered hand: curled fingers partly occluded by glove",
+      "issue": "ok",
+      "note": "Visual review: limbs connected; five digits on open hand; closed hand digits partly occluded; feet inside frame."
+    }
+  }
+}

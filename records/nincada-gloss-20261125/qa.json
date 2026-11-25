@@ -1,0 +1,170 @@
+{
+  "light": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Wing binders reach the left and top frame edges. Chosen by user as candidate 2."
+    },
+    "notes": "Wing binders reach the left and top frame edges. Chosen by user as candidate 2."
+  },
+  "casual1": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Maid kneeling in stairwell, both hands rest on thighs; fingers partly overlap."
+    },
+    "notes": "Maid kneeling in stairwell, both hands rest on thighs; fingers partly overlap."
+  },
+  "casual2": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Cinema lobby, Itto-inspired cosplay. Body faces more toward camera than the planned rear three-quarter; background signage is blurred and decorative."
+    },
+    "notes": "Cinema lobby, Itto-inspired cosplay. Body faces more toward camera than the planned rear three-quarter; background signage is blurred and decorative."
+  },
+  "casual3": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "hands outside crop",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Museum bust portrait; hands and legs outside crop; near upper arm continues beyond lower frame, far shoulder partially occluded. Outfit is a draped halter rather than a clearly specific traditional dress."
+    },
+    "notes": "Museum bust portrait; hands and legs outside crop; near upper arm continues beyond lower frame, far shoulder partially occluded. Outfit is a draped halter rather than a clearly specific traditional dress."
+  },
+  "casual4": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Stadium sunset, body leaning onto table. Ski-suit interpretation has bare shoulders and shorts; original outfit silhouette differs, retained without regeneration."
+    },
+    "notes": "Stadium sunset, body leaning onto table. Ski-suit interpretation has bare shoulders and shorts; original outfit silhouette differs, retained without regeneration."
+  },
+  "casual5": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Record listening booth. Right hand on earphone, left hand on knee; knees together; both upper arms attached."
+    },
+    "notes": "Record listening booth. Right hand on earphone, left hand on knee; knees together; both upper arms attached."
+  },
+  "casual6": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Sewing room full-body costume; hands relaxed at sides, thumb and curled fingers partly overlapped. Face turned less than planned."
+    },
+    "notes": "Sewing room full-body costume; hands relaxed at sides, thumb and curled fingers partly overlapped. Face turned less than planned."
+  },
+  "casual7": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Airship lounge, hands resting on counter; jumpsuit lower panels outside crop."
+    },
+    "notes": "Airship lounge, hands resting on counter; jumpsuit lower panels outside crop."
+  },
+  "casual8": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Bell tower, right hand grips rope and left hand rests on rail; fingers partly occluded by grip. Accordion pleats appear at hips; no clothing accident."
+    },
+    "notes": "Bell tower, right hand grips rope and left hand rests on rail; fingers partly occluded by grip. Accordion pleats appear at hips; no clothing accident."
+  },
+  "casual9": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Camping chair, both hands resting, lower legs outside square crop. Swimwear interpreted as one-piece, open yukata kept."
+    },
+    "notes": "Camping chair, both hands resting, lower legs outside square crop. Swimwear interpreted as one-piece, open yukata kept."
+  },
+  "casual10": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Hammam, both forearms lead from shoulders to resting hands; fingertips partly overlap; two legs continue to bare feet."
+    },
+    "notes": "Hammam, both forearms lead from shoulders to resting hands; fingertips partly overlap; two legs continue to bare feet."
+  },
+  "casual90": {
+    "visual_review": "reviewed_preserve_result",
+    "reference_identity": "same silver-gray eyes, short layered pale hair with ochre accent, adult face; pose-dependent variations noted",
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands reviewed at full resolution; five-digit structure, grip-hidden fingers marked in note",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Doll workshop; two hands use a small tool and hold doll sleeve. Tiny fingers partly hidden by grip. Tool resembles small shears rather than a sewing needle."
+    },
+    "notes": "Doll workshop; two hands use a small tool and hold doll sleeve. Tiny fingers partly hidden by grip. Tool resembles small shears rather than a sewing needle."
+  }
+}
