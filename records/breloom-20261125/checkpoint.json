@@ -1,0 +1,203 @@
+{
+ "card": "버섯모",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 4,
+ "phase": "ready_to_publish",
+ "completed": 12,
+ "requested": 12,
+ "regenerated": false,
+ "manifest": [
+  {
+   "slot": "light",
+   "file": "버섯모_light_anime_25d_gloss_f.webp",
+   "source_sha256": "dac240302fe532d71bc24da643c3b0cb3b2195fa626d301194249fb98b70ddf4",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "5a66befd2dadfcb4a88853fe2be802a162d38886e30dd2415bb7be8345c31b57",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": null
+  },
+  {
+   "slot": "casual1",
+   "file": "버섯모_anime_25d_gloss_f_casual1.webp",
+   "source_sha256": "3e91cb949b7a162f3d0e22b938d02d6ef1dc52344f19d6557db5f15669cfcb61",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "a09e2b0409bb447692051b7db5c48033062646b0a56f67cac8dfaa3bf614be3f",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual2",
+   "file": "버섯모_anime_25d_gloss_f_casual2.webp",
+   "source_sha256": "2d051faf24fe9f6de4fc0376bb23c939271b2b271b1e85b93336cbef3ef4e384",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "ba15a217916036b6c779e064061631be81d33118f2b379ee557206e879a764bc",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual3",
+   "file": "버섯모_anime_25d_gloss_f_casual3.webp",
+   "source_sha256": "8a83ee3fbb8fc494ef14349261615554206033ea5beffe5d325bf1aca6e5e6e3",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "2605f3d3cc491b6e1c52121a76a4b2471aa33e384d8213aa261e7a87b4e961d0",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual4",
+   "file": "버섯모_anime_25d_gloss_f_casual4.webp",
+   "source_sha256": "621d56fb525ddb855160ab79ee4bf4156174d566bd1f5fef4a474b53ad1e5026",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "aa33556d6893b507e2ed60e72a44d7ec23e9e03e3a998dd6a18f54956030b8c4",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual5",
+   "file": "버섯모_anime_25d_gloss_f_casual5.webp",
+   "source_sha256": "833d87f574a0a664ed3241ca4e46d612812a3f1f387d8b4b3d27fd4be08f8567",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "31de42363fcc34af8512eb196ff1abd8b59f6efa6866980a6b778c3349dad07d",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual6",
+   "file": "버섯모_anime_25d_gloss_f_casual6.webp",
+   "source_sha256": "5bd2307251370883e4425d9afbbf11062e57421f411c5df5d46d5c1b83153bf1",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "af95de9966b7b9ad97633a27bdf2811495ea411eab2710723afe82b50509856b",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual7",
+   "file": "버섯모_anime_25d_gloss_f_casual7.webp",
+   "source_sha256": "32f6b0543aaa15ea4157e118d8e13608c4293d9ca9617d4a981e27f5020202c3",
+   "source_size": [
+    1254,
+    1254
+   ],
+   "sha256": "2416d4d1768df4e5e3b3bde64acf303b0fc156315bcef58f3420708076367890",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual8",
+   "file": "버섯모_anime_25d_gloss_f_casual8.webp",
+   "source_sha256": "28b743c8f745be661b5c034e43d6af679aba96d4b1698e7592b79b7ba6484e55",
+   "source_size": [
+    1536,
+    1024
+   ],
+   "sha256": "c386fc85948acc2eccb77b886278a1c9e6dff3e7cf8a439332c8dbe902cf0336",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual9",
+   "file": "버섯모_anime_25d_gloss_f_casual9.webp",
+   "source_sha256": "c5395506798e8350ff3eec64877a0f1e94dc5242a67baefc1c2dde6d76d67102",
+   "source_size": [
+    1024,
+    1536
+   ],
+   "sha256": "f4981a886ee67bd28d6e3becd2cb405f50af8ac07077e1970bd4add34713ff83",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual10",
+   "file": "버섯모_anime_25d_gloss_f_casual10.webp",
+   "source_sha256": "ba109b6ff0e32e0ff75754d9c8cfe1e1d9be5ad34f9b0bffd4e4ccaf2f10d576",
+   "source_size": [
+    1536,
+    1024
+   ],
+   "sha256": "b80f5af2e4a5604e78545cd8a39c1f9a622502a2dd8ab1e701bb157ae0330edf",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  },
+  {
+   "slot": "casual90",
+   "file": "버섯모_anime_25d_gloss_f_casual90.webp",
+   "source_sha256": "fb20704a88dc2e196aa2ebbc3701967531bc299276b2ad09d1120369d64d65e2",
+   "source_size": [
+    1254,
+    1254
+   ],
+   "sha256": "7d03f13be6cb37d3c3b843d4e60d257f587d8d64aa64d210459b3201b772289d",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "WEBP",
+   "reference": "candidate 4"
+  }
+ ]
+}

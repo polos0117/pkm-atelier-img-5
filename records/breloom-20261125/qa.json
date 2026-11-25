@@ -1,0 +1,237 @@
+{
+ "card": "버섯모",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 4,
+ "regenerated": false,
+ "skipped": [],
+ "slots": {
+  "light": {
+   "scene": {
+    "evidence": "양팔과 양다리가 장갑을 통해 몸에 이어짐. 왼손 펼침, 오른손 주먹으로 손가락 일부 가림.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "양팔과 양다리가 장갑을 통해 몸에 이어짐. 왼손 펼침, 오른손 주먹으로 손가락 일부 가림."
+   }
+  },
+  "casual1": {
+   "scene": {
+    "evidence": "발코니 가슴 위, 한 손으로 얼굴 팩을 잡고 반대 위팔은 아래 프레임으로 이어짐.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "발코니 가슴 위, 한 손으로 얼굴 팩을 잡고 반대 위팔은 아래 프레임으로 이어짐."
+   }
+  },
+  "casual2": {
+   "scene": {
+    "evidence": "사막에서 한쪽 무릎을 꿇고 한 손은 바닥, 다른 손은 선글라스. 장갑과 갑옷풍 장식이 코스튬에 남아 있음.",
+    "match": "variation noted"
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "사막에서 한쪽 무릎을 꿇고 한 손은 바닥, 다른 손은 선글라스. 장갑과 갑옷풍 장식이 코스튬에 남아 있음."
+   }
+  },
+  "casual3": {
+   "scene": {
+    "evidence": "체육관에서 한 손으로 농구공 드리블, 반대팔을 내림. 전신 양발과 양팔 연결.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "체육관에서 한 손으로 농구공 드리블, 반대팔을 내림. 전신 양발과 양팔 연결."
+   }
+  },
+  "casual4": {
+   "scene": {
+    "evidence": "강변에서 외발로 뛰는 전신. 양손을 벌려 균형을 잡고 들린 다리와 지지 다리가 자연스럽게 이어짐.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "강변에서 외발로 뛰는 전신. 양손을 벌려 균형을 잡고 들린 다리와 지지 다리가 자연스럽게 이어짐."
+   }
+  },
+  "casual5": {
+   "scene": {
+    "evidence": "사진 부스 얼굴 근접. 입술 앞 검지와 손목이 아래팔에 연결. 반대 어깨와 위팔은 프레임 밖으로 이어짐.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "사진 부스 얼굴 근접. 입술 앞 검지와 손목이 아래팔에 연결. 반대 어깨와 위팔은 프레임 밖으로 이어짐."
+   }
+  },
+  "casual6": {
+   "scene": {
+    "evidence": "천문관에서 한 손은 망원경 다이얼, 반대 손은 난간. 한 발을 낮은 스툴 위에 둠.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "천문관에서 한 손은 망원경 다이얼, 반대 손은 난간. 한 발을 낮은 스툴 위에 둠."
+   }
+  },
+  "casual7": {
+   "scene": {
+    "evidence": "요트 정사각 허리 위. 오른손은 난간, 왼손은 관자놀이. 팔꿈치와 손목이 연결됨.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "요트 정사각 허리 위. 오른손은 난간, 왼손은 관자놀이. 팔꿈치와 손목이 연결됨."
+   }
+  },
+  "casual8": {
+   "scene": {
+    "evidence": "나무열매 가게 가로 전신. 양손은 카운터에 놓임. 후면 3/4 방향에 고개를 돌려 얼굴을 보임.",
+    "match": "variation noted"
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "나무열매 가게 가로 전신. 양손은 카운터에 놓임. 후면 3/4 방향에 고개를 돌려 얼굴을 보임."
+   }
+  },
+  "casual9": {
+   "scene": {
+    "evidence": "방탈출 공간 허리 위. 한 손은 볼에, 반대 손은 허리. 손가락은 잡힘 없이 자연스럽게 놓임.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "방탈출 공간 허리 위. 한 손은 볼에, 반대 손은 허리. 손가락은 잡힘 없이 자연스럽게 놓임."
+   }
+  },
+  "casual10": {
+   "scene": {
+    "evidence": "스파 가로 환경 구도. 양손을 벤치에 놓고 두 다리와 맨발이 보임.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "스파 가로 환경 구도. 양손을 벤치에 놓고 두 다리와 맨발이 보임."
+   }
+  },
+  "casual90": {
+   "scene": {
+    "evidence": "버섯 농장 정사각. 오른손 허리, 왼손 모자. 양팔이 어깨부터 연결되고 다리는 무릎 아래 프레임 밖.",
+    "match": true
+   },
+   "style_25d": {
+    "verdict": "2.5D",
+    "evidence": "코·입술·턱과 볼에 연속적인 입체 음영, 얼굴과 머리에 부드러운 그라데이션과 가는 윤곽선."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "보이는 손의 손목·아래팔 연결을 확인. 펼친 손의 손가락은 자연스러운 배열, 주먹·물건을 잡은 손과 가려진 손가락은 가려짐으로 기록.",
+    "overlay_checked": false,
+    "note": "버섯 농장 정사각. 오른손 허리, 왼손 모자. 양팔이 어깨부터 연결되고 다리는 무릎 아래 프레임 밖."
+   }
+  }
+ }
+}
