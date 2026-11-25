@@ -1,0 +1,78 @@
+{
+ "card": "루리리",
+ "style": "anime_25d_gloss",
+ "selected_mecha": 1,
+ "selection_evidence": "User reply: 1",
+ "generated_proposals": [
+  {
+   "number": 1,
+   "source_sha256": "4d0b43e488a73fa8a573546a8f1b3752271bed8c4eb9d5bec3a6786bb15022ff",
+   "prompt": "light-prompt.txt",
+   "submitted_sha256": "1fc277ead9ea9a17a688b53f0bfe4282b1410a247fe55407adbdbf6d98db58f1",
+   "submitted_same": true,
+   "kind": "generator",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visual inspection: two attached gloved hands; fingers overlap in relaxed poses, no detached hands observed",
+    "overlay_checked": false
+   },
+   "notes": "halo/crown clipped at upper border; head and feet visible"
+  },
+  {
+   "number": 2,
+   "source_sha256": "073b47223c0f594a22059027ab60582e019a8f0880c3ed3160ef9a73ec01a4e1",
+   "prompt": "light-prompt.txt",
+   "submitted_sha256": "1fc277ead9ea9a17a688b53f0bfe4282b1410a247fe55407adbdbf6d98db58f1",
+   "submitted_same": true,
+   "kind": "generator",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visual inspection: two attached gloved hands; fingers overlap in relaxed poses, no detached hands observed",
+    "overlay_checked": false
+   },
+   "notes": "head and feet visible; no extra limbs observed"
+  },
+  {
+   "number": 3,
+   "source_sha256": "248f6f418f0046a978d14f500e3a2d57dad393f57852696a22a0aba7da0a574f",
+   "prompt": "mecha-3-prompt.txt",
+   "submitted_sha256": "e3823ffe066ca6945684f11b672f9277bdad48892e9def9dcdf0a7fc0a34b9bf",
+   "submitted_same": true,
+   "kind": "filled-design",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visual inspection: two attached gloved hands; fingers overlap in relaxed poses, no detached hands observed",
+    "overlay_checked": false
+   },
+   "notes": "head and feet visible; no extra limbs observed"
+  },
+  {
+   "number": 4,
+   "source_sha256": "2a713ac25581d580a0f540a6f410fa34ea3aaf5a89888e5420cccf0bfd7f119a",
+   "prompt": "mecha-4-prompt.txt",
+   "submitted_sha256": "327260df974ffe5c8bc35a02dc2581b3422b1cc1bb8e1802243d4fcb20a2ac20",
+   "submitted_same": true,
+   "kind": "filled-design",
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "visual inspection: two attached gloved hands; fingers overlap in relaxed poses, no detached hands observed",
+    "overlay_checked": false
+   },
+   "notes": "head and feet visible; no extra limbs observed"
+  }
+ ],
+ "regenerations": 0,
+ "unselected_binaries_uploaded": false
+}
