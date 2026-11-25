@@ -1,0 +1,191 @@
+{
+ "version": 4,
+ "card": "에나비",
+ "no": 300,
+ "style": "anime_25d_gloss",
+ "plan": "/workspace/scratch/9b9aadb3216e/skitty-pack/PLAN.json",
+ "note": "고칠 수 있는 칸만 있다. 자리마다 고정인 것(출력·인물 기준·장갑 폼·폭주 기준·첨부)은 tools/prompt-pack.cjs 가 정한다. 다 쓰면 build.",
+ "slots": {
+  "light": {
+   "motifs": "",
+   "formOverride": "",
+   "headFeature": "",
+   "faceDesignOn": true,
+   "params": {
+    "body type": "lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust"
+   },
+   "scene": {
+    "expr": "",
+    "pose": "",
+    "orient": "",
+    "frame": "",
+    "lens": "",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "",
+    "outfit": "",
+    "custom": "",
+    "action": {
+     "category": "",
+     "example": "",
+     "timing": "",
+     "equipment": "",
+     "power": "",
+     "effects": "",
+     "speed": "",
+     "environment": ""
+    }
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "mecha": {
+    "set": {
+     "silhouette": "knight_plate"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "normal"
+     },
+     {
+      "key": "aura",
+      "type": "normal"
+     },
+     {
+      "key": "trail",
+      "type": "normal"
+     }
+    ]
+   },
+   "mecha_auto": {
+    "set": {
+     "silhouette": "knight_plate"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "normal"
+     },
+     {
+      "key": "aura",
+      "type": "normal"
+     },
+     {
+      "key": "trail",
+      "type": "normal"
+     }
+    ]
+   },
+   "mecha_recent": [],
+   "mecha_why": ""
+  },
+  "casual1": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual2": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual3": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual4": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual5": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual6": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual7": {
+   "scene": "At night in a quiet rooftop observatory, she sits sideways on a padded bench watching a distant meteor through an open dome. Knee-up front three-quarter view. Her right forearm rests on her right thigh, her left hand holds a small crescent pendant at chest height. A yarn-shaped charm hangs on her bag beside the bench.",
+   "outfit": "a midnight-blue asymmetric halter playsuit with a sculpted origami neckline, open sides and a pleated fan-shaped short hem",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "scene": "free design slot required by generated brief",
+    "outfit": "free outfit design outside catalog, required by generated brief"
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual8": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual9": {
+   "scene": "In a bright daytime ferry lounge she stands by a broad window, gently balancing a paper windmill in her right hand; her left hand rests on a seat back. Full body frontal view, sea visible outside. A tiny crescent bag charm is her only motif.",
+   "outfit": "a copper-orange sculpted scarf-neck crop blouse with a wraparound open back and high-waisted ivory culotte shorts with diagonal button tabs",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "scene": "free design slot required by generated brief",
+    "outfit": "free outfit design outside catalog, required by generated brief"
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual10": {
+   "scene": "",
+   "outfit": "a cobalt-blue cutaway racer vest with silver zipper edges over a black bandeau, paired with a low-rise asymmetric skort with vinyl side panels and silver platform sneakers",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "outfit": "free outfit design outside catalog, required by generated brief"
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  }
+ }
+}

@@ -1,0 +1,173 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    },
+    "note": "A creature-like plush or companion appears beside her despite no-creature instruction; preserved without regeneration."
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    },
+    "note": "Returned scene is a classroom seat rather than the requested ferry lounge; preserved."
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    },
+    "note": "Torso faces front rather than specified rear three-quarter; preserved."
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "visible hands visually reviewed; fingers partly occluded in grips",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "soft face gradients at nose, lips and jaw; layered hair and dimensional fabric"
+    }
+  }
+}

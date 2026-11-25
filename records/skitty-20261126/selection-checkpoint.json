@@ -1,0 +1,70 @@
+{
+  "card": "에나비",
+  "no": 300,
+  "style": "anime_25d_gloss",
+  "status": "awaiting-user-selection",
+  "branch": "work/skitty-9b9aad",
+  "worktree": "/workspace/scratch/9b9aadb3216e/pkm-skitty",
+  "slots": {
+    "1": {
+      "design": "standard",
+      "prompt": "/workspace/scratch/9b9aadb3216e/skitty-pack/light-prompt.txt",
+      "submitted_sha256": "1990098b86ac847e049c168b7ee6ba1a8440e93b5102aa18e2ee2f5188e1d0ac",
+      "generation_calls": 1,
+      "reference": null,
+      "source": "/workspace/scratch/9b9aadb3216e/generated_images/exec-deb0e632-1a99-4644-a15d-6fe996e080c2.png",
+      "source_sha256": "55e248ae8a3d6f4109b52b23118db28b5ce8ee61c731f0849ff5364738fdfdc6",
+      "webp": "/workspace/scratch/9b9aadb3216e/skitty-pack/mecha-1.webp",
+      "webp_sha256": "d9bc2e48891b1033e215e3d240970a0cc1d299c38cccaa9a6b3cc83ca11936e1",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "2": {
+      "design": "standard",
+      "prompt": "/workspace/scratch/9b9aadb3216e/skitty-pack/light-prompt.txt",
+      "submitted_sha256": "1990098b86ac847e049c168b7ee6ba1a8440e93b5102aa18e2ee2f5188e1d0ac",
+      "generation_calls": 1,
+      "reference": null,
+      "source": "/workspace/scratch/9b9aadb3216e/generated_images/exec-e3dfde08-9d70-4139-90fe-5bdddc4213df.png",
+      "source_sha256": "09dfef6f643c59699c8979dc8c9cc06f0b23d7c828b3f6a6a75549b0a7320860",
+      "webp": "/workspace/scratch/9b9aadb3216e/skitty-pack/mecha-2.webp",
+      "webp_sha256": "215a50edead881223b61b11547d879d469aed8e14df9da3371b13af01fedfbed",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "3": {
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/9b9aadb3216e/skitty-pack/light-gpt-1-submitted.txt",
+      "submitted_sha256": "0ed4d20c9391a704024a5eb9674937a1ac64dc7c2fe792f2c12fe2e21b7b0584",
+      "generation_calls": 1,
+      "reference": null,
+      "source": "/workspace/scratch/9b9aadb3216e/generated_images/exec-034786c8-b9ef-4e09-aae1-671e6261ec77.png",
+      "source_sha256": "4f51491a6728d1466a1db80a8fba6db6f426672dbb33150f2fa19cbfd6ce0026",
+      "webp": "/workspace/scratch/9b9aadb3216e/skitty-pack/mecha-3.webp",
+      "webp_sha256": "0ad41a4b01bce7a88057801ed36f3d671bdc202b34c68157b8dcd45abf4dfcf7",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "4": {
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/9b9aadb3216e/skitty-pack/light-gpt-2-submitted.txt",
+      "submitted_sha256": "370e2644ca1003cab428c9578ec5f05b7ef180fe4dc081da77201b149b129d69",
+      "generation_calls": 1,
+      "reference": null,
+      "source": "/workspace/scratch/9b9aadb3216e/generated_images/exec-25483614-d9e9-4e05-9945-9813d43f5e33.png",
+      "source_sha256": "c3a4b24fc59cedbbddb51002040d9c2eb25dae8f4e35b5336c77d54c40c97bf1",
+      "webp": "/workspace/scratch/9b9aadb3216e/skitty-pack/mecha-4.webp",
+      "webp_sha256": "81c63031f1d770b101b5f830cd41bfd40e913441238b6d8b480441fd2103c87e",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  }
+}

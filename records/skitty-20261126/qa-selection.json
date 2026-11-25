@@ -1,0 +1,62 @@
+{
+  "1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "two naturally attached hands; open palm and relaxed downward hand, visible fingers reviewed; some fingers overlap in relaxed poses",
+      "overlay_checked": false,
+      "note": "visual inspection; no extra or disconnected limbs"
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱에 그라데이션 음영, 머리 가닥과 장갑 재질의 입체 묘사"
+    }
+  },
+  "2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "two naturally attached hands; open palm and relaxed downward hand, visible fingers reviewed; some fingers overlap in relaxed poses",
+      "overlay_checked": false,
+      "note": "visual inspection; no extra or disconnected limbs"
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱에 그라데이션 음영, 머리 가닥과 장갑 재질의 입체 묘사"
+    }
+  },
+  "3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "two naturally attached hands; open palm and relaxed downward hand, visible fingers reviewed; some fingers overlap in relaxed poses",
+      "overlay_checked": false,
+      "note": "visual inspection; no extra or disconnected limbs"
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱에 그라데이션 음영, 머리 가닥과 장갑 재질의 입체 묘사"
+    }
+  },
+  "4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "two naturally attached hands; open palm and relaxed downward hand, visible fingers reviewed; some fingers overlap in relaxed poses",
+      "overlay_checked": false,
+      "note": "visual inspection; no extra or disconnected limbs"
+    },
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱에 그라데이션 음영, 머리 가닥과 장갑 재질의 입체 묘사"
+    }
+  }
+}
