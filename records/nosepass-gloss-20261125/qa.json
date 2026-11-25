@@ -1,0 +1,254 @@
+{
+  "light": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "팔 둘·다리 둘 연결, 열린 왼손 5지, 오른손은 장갑 주먹으로 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "복부와 상부 허벅지가 장갑의 설계된 개구부로 보임."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual1": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "등불 손은 손잡이를 쥔 손가락 일부 가림, 반대 손은 몸 옆에 연결. 팔 둘·다리 둘 연결.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "민트 니트 비키니, 어깨·허리·다리 노출. 얼음 궁전과 등불 확인."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual2": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "한 손은 난간, 다른 손은 허리. 양팔·양다리 자연스럽게 연결.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "기울어진 방에서 무릎을 들어 계단을 디딤. 의상 절개와 허벅지 노출."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual3": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "양팔이 각 어깨에 연결. 수건을 잡은 위 손 일부 가림, 반대 손은 목덜미 뒤 수건에 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "세일러 베스트렛, 어깨·목선·복부가 보임. 해변 수건 동작 확인."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual4": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "감귤을 쥔 손 손가락 일부 가림, 반대 손은 돌 좌석을 짚음. 양다리 연결.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "어깨·목선·옆구리·다리 노출. 돌 계단에서 감귤을 맛보는 장면."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual5": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "팝콘 컵 손은 쥔 부분 가림, 무릎 위 손 5지. 양팔·두 다리 연결.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "크로셰 상의와 청바지, 열린 가디건. 어깨·목선·배 노출."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual6": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "티켓을 든 손가락 일부 가림. 반대 팔은 아래 프레임으로 이어지고 손은 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "찻잔 놀이기구, 붉은 무대 의상과 깊은 목선·옆구리 절개."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual7": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "한 손으로 팝콘을 집고 다른 손으로 컵을 쥠. 두 손 모두 팔목과 어깨에 연결, 쥔 손가락 일부 가림.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "재즈바의 코코파스 성인 코스튬, 목선·어깨·배 노출. 장갑 같은 부품은 코스튬 갈래로 기록."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual8": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "휴대전화를 쥔 손가락 일부 가림, 반대 손 5지가 허벅지 위에 있음. 양팔·무릎을 접은 두 다리 연결.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "호숫가의 새틴 파자마 세트와 열린 셔츠. 목선·어깨·다리 노출."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual9": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "한 손은 허벅지 위, 반대 손은 팔걸이에 놓임. 보이는 손가락이 자연스럽고 팔 둘·교차한 두 다리 연결.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "차량 좌석의 제복풍 미니 의상, 목선·어깨·허벅지가 드러남. 정차 차량과 운전대 확인."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual10": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "팝콘 컵을 쥔 장갑 손은 일부 손가락 가림, 반대 손은 난간 위에 연결. 두 팔 자연스러움.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "붉은 코르셋과 짧은 치마의 게임 코스프레, 목선·어깨 노출. 퍼레이드 관람 장면."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  },
+  "casual90": {
+    "style_25d": {
+      "판정": "match",
+      "근거": "얼굴의 코·입술·볼·턱에 부드러운 입체 명암과 미세한 색 윤곽이 있고, 머리는 가닥별 음영으로 렌더됨."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "나침반을 쥔 오른손 손가락 일부 가림. 반대 팔이 몸 옆으로 이어지고 손은 프레임 밖.",
+      "overlay_checked": false,
+      "note": "원본 육안 검수. 크롭 밖의 손·다리는 직접 세지 않음."
+    },
+    "exposure": {
+      "판정": "match",
+      "근거": "측량복의 어깨·목선·복부 노출. 나침반과 삼각대 기구, 지도 게시판 확인."
+    },
+    "reference_identity": "short slate-gray asymmetric pixie and teal eyes retained",
+    "regenerated": false
+  }
+}

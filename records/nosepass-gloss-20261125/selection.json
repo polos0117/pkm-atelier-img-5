@@ -1,0 +1,82 @@
+{
+  "card": "코코파스",
+  "style": "anime_25d_gloss",
+  "status": "casual_generating",
+  "code_worktree": "/workspace/scratch/62641feaad76/pkm-nosepass",
+  "shared_git": "/workspace/shared-git/pkm-atelier.git",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "standard",
+      "original": "/workspace/scratch/62641feaad76/generated_images/exec-df9fa4e3-689f-42b4-a2e0-0377e84eb45f.png",
+      "original_sha256": "81013bdc44b479b1354972f11c6ab072b671f2392aa99d01ee287741a3910836",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/62641feaad76/nosepass-pack/candidate-1-submitted.txt",
+      "submitted_sha256": "a758a7f74aa07fa9dec9fd218d7554aa5978a149a3b098bab4ca431b4232ffbd",
+      "submitted_same": true
+    },
+    {
+      "number": 2,
+      "design": "standard",
+      "original": "/workspace/scratch/62641feaad76/generated_images/exec-09d36935-7ab3-44b1-a5a6-d75e681e74ad.png",
+      "original_sha256": "a24bf6e785af12812bb35c9738d81682438783f1f55697c8b39349d9ab20215e",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/62641feaad76/nosepass-pack/candidate-2-submitted.txt",
+      "submitted_sha256": "a758a7f74aa07fa9dec9fd218d7554aa5978a149a3b098bab4ca431b4232ffbd",
+      "submitted_same": true
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/62641feaad76/generated_images/exec-ed73b40c-7255-447c-a357-65a4e751cf12.png",
+      "original_sha256": "068b89c9412292c59ebb2c4123bc7491263d395acded46718bdc6addceec27d6",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/62641feaad76/nosepass-pack/candidate-3-submitted.txt",
+      "submitted_sha256": "026d3efc39f5ef4b56e801d6fc362488a875d06f157d51f2ee447bf43430fc6b",
+      "submitted_same": true
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/62641feaad76/generated_images/exec-1927fe51-0526-44da-a909-d7397e2eff0d.png",
+      "original_sha256": "e3d9c5565a4b8510790f2d589ea66c24dfbe54035f4c5b6c06e53f2592a8aa4a",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/62641feaad76/nosepass-pack/candidate-4-submitted.txt",
+      "submitted_sha256": "def0b927bb44d5b1bfaff4e58fca1cdbb968d461e8fd10d6b8fa8b1a85889c2a",
+      "submitted_same": true
+    }
+  ],
+  "selected": 4,
+  "publication": "not_started",
+  "next": "Wait for user choice 1-4, then plan/reserve casuals and generate from selected reference; publish images and records to pkm-atelier-img-5; verify automatic thumbnail and registration workflows.",
+  "reference": "/workspace/scratch/62641feaad76/generated_images/exec-1927fe51-0526-44da-a909-d7397e2eff0d.png",
+  "casual_plan": "/workspace/scratch/62641feaad76/nosepass-PLAN.json",
+  "own_plan": "/workspace/scratch/62641feaad76/nosepass-PLAN90.json",
+  "reservation_commit": "398bd7583b1fc27e04546c2a8293d7d59571695a",
+  "casual_requested": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    90
+  ],
+  "code_fix_commit": "802afdcbede204cf5beb5bd810927bd93a8c85fa"
+}

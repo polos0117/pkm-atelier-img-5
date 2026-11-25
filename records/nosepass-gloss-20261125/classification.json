@@ -1,0 +1,206 @@
+[
+  {
+    "slot": "light",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_light_anime_25d_gloss_f.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "e3d9c5565a4b8510790f2d589ea66c24dfbe54035f4c5b6c06e53f2592a8aa4a",
+    "output_sha256": "18c823988ae79ecd8ea52e2212be05658859735b21b6508f17035fe8ccede9de",
+    "reference": null,
+    "submitted_sha256": "def0b927bb44d5b1bfaff4e58fca1cdbb968d461e8fd10d6b8fa8b1a85889c2a",
+    "submitted_same": true,
+    "authority": "selected_gpt_design"
+  },
+  {
+    "slot": "casual1",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual1.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "a002b62acf51870ce25fde0940565f464ad1d4c1d4767020fdf7f2da73cc7214",
+    "output_sha256": "266ee8695f7a2d9751cc676e2eca40625f105caf96677e0d7da57257f18d71ce",
+    "reference": "light",
+    "submitted_sha256": "7d0cbc36f2df7fdfb1cf4e625dad55b95749d29a33466238cc0eec87b943842f",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual2",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual2.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "43700494d11e5372346bf072eaa5116c0b7083ca94a23974cecb8409eb418e1a",
+    "output_sha256": "26700571cd904a8a02fe4fb34c5036b75f661ee4a5b7e6170209ecdfeebce20f",
+    "reference": "light",
+    "submitted_sha256": "07139d25385a030e0d5a9d1a57e18de90379388cbbd573dd3c52813deba2c3b7",
+    "submitted_same": true,
+    "authority": "gpt_free_scene_fixed_sections_verified"
+  },
+  {
+    "slot": "casual3",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual3.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "76bc3f38cb2aa718c1e0bc17a540987e2d7751f35618e2e1781edfa3b3ddb948",
+    "output_sha256": "dfa958179d75bd26074707eca662224b7d213ee5c617ac35e8e434dd28e4d680",
+    "reference": "light",
+    "submitted_sha256": "cd1897435bfd86aa2f53e58166218aceb96b1bbda0cf6b014c4ebb937af189a8",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual4",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual4.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "94f0608ca1ae9c2e50b1a6de82f17aa37d96977b2b6485e1691bbd28a2909b06",
+    "output_sha256": "7ea2152874adc70e6b59983c158a7ae9dbbc4d1c5db99ba07d78d4da69857f61",
+    "reference": "light",
+    "submitted_sha256": "51501d0af68539d236a79d0337c11be814fdb5f394ebaece879a55ed71623686",
+    "submitted_same": true,
+    "authority": "gpt_free_scene_fixed_sections_verified"
+  },
+  {
+    "slot": "casual5",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual5.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "a5dbb8a2ad02d4a349bfe18fd06dc66c179f59caeeefec881dc91c7dfb909265",
+    "output_sha256": "20b2bf5e3f50e046ec5486dd1a0d812a746134a0a343e3c78757334419e8bf42",
+    "reference": "light",
+    "submitted_sha256": "3b9f5d19fe18016aec0ac2206297f616a2e7a5c891f20e6884cc29df1aeddac9",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual6",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual6.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "c5efd511bb4fabb4c99baf9e7e2f6dfee520639ec2d4b1f42befe50d003d207f",
+    "output_sha256": "8a926a41fd6b399820ecbbc318e0ceb63c6ce5bc39be99849aa25e68b2e7d999",
+    "reference": "light",
+    "submitted_sha256": "393c4632c9bf150b573c9287b9a282ed9a94e04983ffc720098c2720f9bc9277",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual7",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual7.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "240a97a6ad36405e6387546b2580c815003fd87fdc29fd98b1ef4c440366ec18",
+    "output_sha256": "5148215e2044f9ba708b342b4442c00a2ded24e5ca10481aff14d877990e04cb",
+    "reference": "light",
+    "submitted_sha256": "6973838d3ded48dba8fe0be8fefb87244998705b42d2333cc931ac446aa160ab",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual8",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual8.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1024
+    ],
+    "original_sha256": "7f5a11207482ff332365725a20ac653c87fd60d95da1f7a47be08fb1d4c8cb97",
+    "output_sha256": "5f80bda2f649f8c1c40d2f108badfe1a871eb82be458e09025e8491ebb2a2a79",
+    "reference": "light",
+    "submitted_sha256": "e1a95a4e297f88256a566ced2b83a5ecd0aba95da34ed681f620882276e8b7e2",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual9",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual9.webp",
+    "format": "WebP",
+    "size": [
+      1536,
+      1024
+    ],
+    "original_sha256": "57edff20a6e11c3054fbab4730f13da3a46f94f46694f996fe38e7530e5a3134",
+    "output_sha256": "11a16229d40042776372f156063f53b8ce1df359be6bea040c2a3b1131be6826",
+    "reference": "light",
+    "submitted_sha256": "5b4f7eec4319c1c32700ff932cc5b783926e8663009762e925a5240195f03868",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual10",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual10.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1536
+    ],
+    "original_sha256": "9bcb315f02c5c606a41489736f8800b984e22f0815897a8f0a2e3223075d1ce2",
+    "output_sha256": "2d0752d5368f9c03a66a192c36be1005fd89639ad43d92755550d31b82a10c7f",
+    "reference": "light",
+    "submitted_sha256": "c91e7f6752df209a92ad7a850adc3617cebfc61a4481a0181b41169ff12d566c",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  },
+  {
+    "slot": "casual90",
+    "card": "코코파스",
+    "style": "anime_25d_gloss",
+    "filename": "코코파스_anime_25d_gloss_f_casual90.webp",
+    "format": "WebP",
+    "size": [
+      1024,
+      1024
+    ],
+    "original_sha256": "c02d44be0b1e096a138f2751b3abb26c8687fa6e5f90a7d0b2edd9d9eb2e4b73",
+    "output_sha256": "394a702804e043a6f85ccb58ae48d6c961f83c0022b453713c67b2ce1b112ae7",
+    "reference": "light",
+    "submitted_sha256": "22c4e1b23d2e4c8b976ad5fdd5e4869e4e70a8ea13efb87ee3f49fe6019d14ea",
+    "submitted_same": true,
+    "authority": "prompt_pack_exact"
+  }
+]

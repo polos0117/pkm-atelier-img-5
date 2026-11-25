@@ -1,0 +1,62 @@
+{
+  "light": {
+    "sha256": "def0b927bb44d5b1bfaff4e58fca1cdbb968d461e8fd10d6b8fa8b1a85889c2a",
+    "same": true,
+    "authority": "selected_gpt_design"
+  },
+  "casual1": {
+    "sha256": "7d0cbc36f2df7fdfb1cf4e625dad55b95749d29a33466238cc0eec87b943842f",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual2": {
+    "sha256": "07139d25385a030e0d5a9d1a57e18de90379388cbbd573dd3c52813deba2c3b7",
+    "same": true,
+    "authority": "gpt_free_scene_fixed_sections_verified"
+  },
+  "casual3": {
+    "sha256": "cd1897435bfd86aa2f53e58166218aceb96b1bbda0cf6b014c4ebb937af189a8",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual4": {
+    "sha256": "51501d0af68539d236a79d0337c11be814fdb5f394ebaece879a55ed71623686",
+    "same": true,
+    "authority": "gpt_free_scene_fixed_sections_verified"
+  },
+  "casual5": {
+    "sha256": "3b9f5d19fe18016aec0ac2206297f616a2e7a5c891f20e6884cc29df1aeddac9",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual6": {
+    "sha256": "393c4632c9bf150b573c9287b9a282ed9a94e04983ffc720098c2720f9bc9277",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual7": {
+    "sha256": "6973838d3ded48dba8fe0be8fefb87244998705b42d2333cc931ac446aa160ab",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual8": {
+    "sha256": "e1a95a4e297f88256a566ced2b83a5ecd0aba95da34ed681f620882276e8b7e2",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual9": {
+    "sha256": "5b4f7eec4319c1c32700ff932cc5b783926e8663009762e925a5240195f03868",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual10": {
+    "sha256": "c91e7f6752df209a92ad7a850adc3617cebfc61a4481a0181b41169ff12d566c",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  },
+  "casual90": {
+    "sha256": "22c4e1b23d2e4c8b976ad5fdd5e4869e4e70a8ea13efb87ee3f49fe6019d14ea",
+    "same": true,
+    "authority": "prompt_pack_exact"
+  }
+}
