@@ -1,0 +1,194 @@
+[
+  {
+    "slot": "light",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_light_anime_25d_gloss_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "8d4b4d477161b82eeceb26b9215ec3728c9ed5cc3d63f3e07111816fc0b4803a",
+    "source_png_sha256": "00e6e5559c279e783045ccba848d6f3860fdccc6a6fa489dd0b22fd69bd681a2",
+    "reference": null,
+    "submitted_sha256": "a31f75f5b6c30116cdb8a098148af43b4e8150c3c6783d171a25e8ff20953b6f",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual1",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual1.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "360a32a53c115e4f7c4d1dcd3d7b6cd0228818e729218490d5aeb04465e4263a",
+    "source_png_sha256": "8c5efffb7145596db2564fa321f9882abc3e153f8c28dd37c86b3390d82b07bc",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "0440bcd4e5efa30271aa6e7fcbd8409ffe54ddb8cc4db24483c3d2203801455b",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual2",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual2.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "cc17abee4cee6f0446fd9e251b87e24b944cd340aa66f86de18c6e7232fa115e",
+    "source_png_sha256": "5f4cf120815d94dbd73524094672c4581894d9b18f0ed74a016f2f6285b2baea",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "9c1e37024397551065253dda556dd85b44cff8cf4fe0e8c12df23472a64a53b1",
+    "submitted_same": false
+  },
+  {
+    "slot": "casual3",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual3.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "10748647847d246ebdd0f3cbb6f6522e1e4bb5db3470186391dae14da193ee6c",
+    "source_png_sha256": "feb67eb6a8af3fc86bb239f8f470587b8a31c296865ce0965501487e9589eb66",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "91758eb33a5a778c3617dabb0ee327c742dd1a9ec1ad69d2539222b1ec1c34e7",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual4",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual4.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "87d84ed72ad40e202e3b52bfd9174da135c8a6e403b07773f674fd54c2dcac7e",
+    "source_png_sha256": "287f833c745474ec4ea0efe1c7754be7c0e30f4e941b5466359e42ba28ef57f8",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "d7df08674346b3bd11896f72096f6e6ec6c6a000d5d9fe99686afa5b5ad947f1",
+    "submitted_same": false
+  },
+  {
+    "slot": "casual5",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual5.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "f3705cd28ceb77138104c49d3474d054663a6c446ca5b47a1881c719e139311e",
+    "source_png_sha256": "b6caf72de495002a31d7b469c49bb6da489a9b97e94fd584b4231ddc25cc5192",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "6e174707b4ba8bc535e298336422121ad4bb33d367d58253e69fc4a53a7412f7",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual6",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual6.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "c8ac4e0a2748a3c57dfe231c9c21c531112d2335807b9eb5459f74d12fff07f6",
+    "source_png_sha256": "a40c0784c2fa165e88b8b3a625a0fe6f741168fbfc0c9afa70d801bf23aec683",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "0c927db509acde237c33256257d2c334473df0cd4ab1f0e1e3ea1d586519a121",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual7",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual7.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "789136498538e04277503857881d259a4563618894502ffec9cff462c2f53824",
+    "source_png_sha256": "3effe1aeaa6b652d8a406f904af9ad7734b5e3c3a51db8298280aa22379789d3",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "16ade0d9886a188dc256e9724696282a1cfcb07766072e89aca1386eb693203b",
+    "submitted_same": false
+  },
+  {
+    "slot": "casual8",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual8.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "d95420ae10c72b170c248889a39049e85dd4fe69ff54a6d08023eb73e0fbe93f",
+    "source_png_sha256": "7d37dc3761fcfc332df12efa7de8ab609d7cdfaedfa6cb8c3a639116625b1a97",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "c632f27558acb28325d9c22c0d89c8556f5628bce2a3751f83009ed50df962cc",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual9",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "d24b8f853a6a7802f4ac0a936c495ff63ddad83907ffe9a8849671f0c174d8d8",
+    "source_png_sha256": "4a57694d292ac68c58ce575b0d80dc3db5200419b8a77543a3b100b75f513dbd",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "49c0e7906a33c7999fb8b1d0fcb3d52a7d6bee6996378752327f039e19c769d5",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual10",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual10.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "57ea9b2ab30903633406ff05bd4e9f6a7bf47c8d8799b663e17d119355e600a3",
+    "source_png_sha256": "85e1131593365fe03ee52a5436e02bd3079fa450395b1f5af5e713e095e08960",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "44c5b7f08f59c823d0e80b6608ceecaf4d3b64d3b9bd4eb6138e099163c29de2",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual90",
+    "card": "껍질몬",
+    "style": "anime_25d_gloss",
+    "output": "껍질몬_anime_25d_gloss_f_casual90.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "sha256": "ce5612d224f08a91b046051c3f87fdd9d3dfc27cdba2e3635cbd27b53960f4bd",
+    "source_png_sha256": "b068eecfdb93c65ede6dfe6317fc2d6bf5284f687f4b4ca833641c58ba763089",
+    "reference": "껍질몬_light_anime_25d_gloss_f.webp",
+    "submitted_sha256": "194fdc2a1f6ab3e3b3b39f7347ec6a004481db6cdd7b5b75fa36bd45395db09f",
+    "submitted_same": true
+  }
+]

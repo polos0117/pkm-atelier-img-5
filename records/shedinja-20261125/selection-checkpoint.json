@@ -1,0 +1,48 @@
+{
+  "card": "껍질몬",
+  "style": "anime_25d_gloss",
+  "status": "awaiting_user_selection",
+  "images": [
+    {
+      "number": 1,
+      "status": "moderation_blocked",
+      "regenerated": false
+    },
+    {
+      "number": 2,
+      "path": "/workspace/scratch/084346b02829/generated_images/exec-66388447-49b9-4c79-a6c5-d3d80898fc8d.png",
+      "sha256": "00e6e5559c279e783045ccba848d6f3860fdccc6a6fa489dd0b22fd69bd681a2",
+      "size": [
+        1024,
+        1536
+      ],
+      "style_25d": "pass; softly shaded nose, lips and jaw, dimensional facial shading",
+      "anatomy": "visual review; two arms, two legs, no obvious extra hands; gauntlets partially occlude fingers"
+    },
+    {
+      "number": 3,
+      "path": "/workspace/scratch/084346b02829/generated_images/exec-c19f2475-c015-40a7-b216-375216114167.png",
+      "sha256": "89b7748904f3ff89113fb3d4af2644f31fe9e9f30d35f14918e952b7ca7d10bc",
+      "size": [
+        1024,
+        1536
+      ],
+      "style_25d": "pass; softly shaded nose, lips and jaw, dimensional facial shading",
+      "anatomy": "visual review; two arms, two legs, no obvious extra hands; gauntlets partially occlude fingers"
+    },
+    {
+      "number": 4,
+      "path": "/workspace/scratch/084346b02829/generated_images/exec-afe9b77e-8c40-4e3c-8947-5953720afc95.png",
+      "sha256": "2f77f64d44dee9e9923ebd66bf51f1269949cfca6060d3c6ae3569a9eff1417f",
+      "size": [
+        1024,
+        1536
+      ],
+      "style_25d": "pass; softly shaded nose, lips and jaw, dimensional facial shading",
+      "anatomy": "visual review; two arms, two legs, no obvious extra hands; gauntlets partially occlude fingers"
+    }
+  ],
+  "code_base": "5ae52c88293d745db30e6c1e6de6cb94836aa7f3",
+  "worktree": "/workspace/scratch/084346b02829/pkm-shedinja",
+  "no_publish_before_selection": true
+}

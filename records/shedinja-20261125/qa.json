@@ -1,0 +1,227 @@
+{
+  "selected_mecha": 2,
+  "image_count": 12,
+  "slots": {
+    "light": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual1": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual2": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual3": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual4": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual5": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual6": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual7": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual8": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual9": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual10": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    },
+    "casual90": {
+      "style_25d": {
+        "judgement": "pass",
+        "evidence": "soft gradients on nose, cheek, lips and jaw; strand-level hair and dimensional clothing"
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed; visual inspection used",
+        "issue": "ok",
+        "arms": "two connected arms or cropped/occluded as framed",
+        "legs": "two; cropped or water-occluded in close views",
+        "hands": "visible hands visually checked; overlapping or cropped fingers noted, no obvious extra hand",
+        "overlay_checked": false
+      },
+      "exposure": {
+        "judgement": "match",
+        "note": "returned image preserved; no exposure-based regeneration"
+      }
+    }
+  },
+  "notes": [
+    "casual1,5,6: indistinct background bystanders returned despite single-figure instruction; no additional main subject",
+    "casual7: intended rear-three-quarter pose reads as frontal; recorded without regeneration",
+    "casual90: left hand touches hair rather than only viewing the doll; preserved"
+  ]
+}
