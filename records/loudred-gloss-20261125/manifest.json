@@ -1,0 +1,254 @@
+[
+  {
+    "slot": "light",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "user selected candidate 4",
+    "reference": null,
+    "source_sha256": "f1d070cf401521a377d2b9f26d94b72c2779ee5ed6170eeeec7f59bb041e5e5d",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8b4bc293e2251e851c076b53d3586cdf4e183d32a28d56dbc8673af2930987e4",
+    "submitted_sha256": "87fc5cd6bafd5826e066290c0e5ccf0cb46fb4eef48276435a03923c06be3448",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual1",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "18928ab57c3cc2ec9a746c29aff9a7fe72ca6807e886bd19761e0dde7419d6de",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "65b0f27794034eda3e622da596f02bcdf23cd11ef044b298b5addec8aab33001",
+    "submitted_sha256": "f3644532861d580e1fff47ea4942b05043cbcf3e3865aeef04847d7a04ed3733",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual2",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "7016d0df80e0d755f60add645f909bc33b95ddfc70c5abf4ae89bc627bd0890d",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "df9e1eb39249e3aa7806e25e2f9eadb9b119da38e6bb816112aee7652644035f",
+    "submitted_sha256": "a73b72c15743d89bfd4879b40e349528e5a60d50d57995aa265fcc6b06d213b5",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual3",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "fd5f6d475692c046ebd89d0029e79786347d2d7214fcc4a028c8f016c2b6186c",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2bf87579b99af6e71ca9cae72cc9daa8301f8a694147fa3e333a0f504cdda87e",
+    "submitted_sha256": "1f55c9cbebe985d8b928180c3e93def0f2f4593512e90a06654988843ed2687a",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual4",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "20ac398469555fda04374699e889967689fea3874f05192022a9dd91fc3e66fa",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d0ad21d9d6d8eeaf773f8775aead933d3eaee3e7c4ecf53b00683be3fceb6b8d",
+    "submitted_sha256": "31def07de45de042d0468b841aba5b547b6c8bfa6fa28a3f7b7220fcd7c5a333",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual5",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "ef7a093ec0299bb46928973820d4d933a1eac5e76790b0f6f7b60748064b3804",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "0631e55e102d70a9779742bbe9e007d2ab55782d6d8896f7162499ccd65d5f06",
+    "submitted_sha256": "08c5001c1a1a59e8c96c194aa2ab9ad59c66d786e300ae4d642c652760110d53",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual6",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "dd11989875af40a530b47599787f2d80cfbb5af228c8bf18149a1d3d5371e68c",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a6938c1edf0504890e796b63dc181610a998cb31abb68eeabcb3abab0f7a13e6",
+    "submitted_sha256": "f5b5d5052546b08e8e3b483f790444fc7a9bb63d2a0829adaff9e5e796102abb",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual7",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "2a5855c887a298d83e4fcc66efc5b07b02aee0ad19d9fad8f0489b773e3f0d8b",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "2bd1aee93265b233a05a53697f9d6719294c545937d0466dbfc192fee0f4a6dc",
+    "submitted_sha256": "ed70e458def9eca91da091560858106d7156174a8524afe630d7edc07e7ea6d0",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual8",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "ab5641431dde7835272768cd38e5e0740bebbc5e72ef2d267f049e1e0aef2ecf",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1c3c67f89f43785267a21096904ebf0e2f146c66c649b13ab1f7610a73ac5022",
+    "submitted_sha256": "a36869158e820311de45ad1fbbb3a9f6b5c7002c34547f76d8f55f529d5586d9",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual9",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "c3ae17d81a8bd979584d05cd844752f95839ca02fe1931e838ded50c88f013bf",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "fe31a81a4f13fbe1f4b3c114fa9f092c54ad2caa1ed1d946fbd9364628f52619",
+    "submitted_sha256": "7d6601ce06137dba341cb23ee2958ee84f545295d3af92596b0c63891322f593",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual10",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "3033c939c876d6f4f206ca786ed67c00c4368b66c69a227f51357c685ff5900d",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "27896eb7e4cd581f6ea3f45278bf5fb46ea6c523761888bb4c50022e3b15fca7",
+    "submitted_sha256": "8c892381fe6e36768690c57deb2f4e53f8caff9d45c880d60f25b99a237d3fa5",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual90",
+    "card": "노공룡",
+    "style": "anime_25d_gloss",
+    "basis": "selected candidate 4 direct reference; planner and authorized free design",
+    "reference": "노공룡_light_anime_25d_gloss_f.webp",
+    "source_sha256": "c47e7378d5459917562394e30875a8eb4cd258359dadd53e0de1284f4960c72b",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output": "노공룡_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "a39cebd70f804189531440c674e9aa983c09ec47de1a4059b4169107cbb2e606",
+    "submitted_sha256": "f93988e73970e96310b34ed293e87f86389e16ccc857776553408c977988535e",
+    "submitted_same": true
+  }
+]

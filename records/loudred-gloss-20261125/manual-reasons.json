@@ -1,0 +1,5 @@
+{
+  "motifs": "Correct extracted stalks to Loudred speaker-ear costume structures, based on the face-design source cues",
+  "formOverride": "Restore blue body colour in card.json; extracted yellow and black markings omitted the main body colour",
+  "params.hair color": "Tie human hair to source blue-violet palette"
+}

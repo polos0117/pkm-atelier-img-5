@@ -1,0 +1,218 @@
+{
+  "light": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Selected GPT design 2 (sheet candidate 4); complete head and armored boots, both arms and five-finger hands visible."
+    },
+    "regenerated": false,
+    "observed": "Selected GPT design 2 (sheet candidate 4); complete head and armored boots, both arms and five-finger hands visible."
+  },
+  "casual1": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Both arms hold the two risers; gripping fingers partly hidden. Two bent legs end in shoes. The requested neckline and harness are visible."
+    },
+    "regenerated": false,
+    "observed": "Both arms hold the two risers; gripping fingers partly hidden. Two bent legs end in shoes. The requested neckline and harness are visible."
+  },
+  "casual2": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Right hand supports cheek, left holds watermelon; fingers partly occluded by grip. Speaker ornaments persisted from reference; recorded without regeneration."
+    },
+    "regenerated": false,
+    "observed": "Right hand supports cheek, left holds watermelon; fingers partly occluded by grip. Speaker ornaments persisted from reference; recorded without regeneration."
+  },
+  "casual3": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Visible raised hand adjusts hair ornament; five fingers with overlap; opposite arm continues below the crop. Headpiece and market setting present."
+    },
+    "regenerated": false,
+    "observed": "Visible raised hand adjusts hair ornament; five fingers with overlap; opposite arm continues below the crop. Headpiece and market setting present."
+  },
+  "casual4": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Right hand holds cracker and left steadies packet; both connect to their shoulders. Embarrassed expression and quiet station visible. Small decorative comic marks present; recorded without regeneration."
+    },
+    "regenerated": false,
+    "observed": "Right hand holds cracker and left steadies packet; both connect to their shoulders. Embarrassed expression and quiet station visible. Small decorative comic marks present; recorded without regeneration."
+  },
+  "casual5": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Both arms extend to either side with relaxed open hands. One foot planted on mat, the other lifted; two legs connect naturally. Speaker ornaments persisted; recorded without regeneration."
+    },
+    "regenerated": false,
+    "observed": "Both arms extend to either side with relaxed open hands. One foot planted on mat, the other lifted; two legs connect naturally. Speaker ornaments persisted; recorded without regeneration."
+  },
+  "casual6": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Two arms, one hand grips guitar neck and one hangs relaxed; grip hides some fingers. Purple and gold mini-dress cosplay and living room visible."
+    },
+    "regenerated": false,
+    "observed": "Two arms, one hand grips guitar neck and one hangs relaxed; grip hides some fingers. Purple and gold mini-dress cosplay and living room visible."
+  },
+  "casual7": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "One hand at cheek and one at hip; natural wrist connections and partly overlapping fingers. Loudred hood and mouth-shaped trim visible."
+    },
+    "regenerated": false,
+    "observed": "One hand at cheek and one at hip; natural wrist connections and partly overlapping fingers. Loudred hood and mouth-shaped trim visible."
+  },
+  "casual8": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "One hand makes a V sign; bent ring and little fingers overlap naturally. Other arm exits crop. Face and twin-loop violet hairstyle remain readable."
+    },
+    "regenerated": false,
+    "observed": "One hand makes a V sign; bent ring and little fingers overlap naturally. Other arm exits crop. Face and twin-loop violet hairstyle remain readable."
+  },
+  "casual9": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Both forearms support the cheeks. Two bent legs and bare feet are visible; natural joints. Speaker ornaments persisted; recorded without regeneration."
+    },
+    "regenerated": false,
+    "observed": "Both forearms support the cheeks. Two bent legs and bare feet are visible; natural joints. Speaker ornaments persisted; recorded without regeneration."
+  },
+  "casual10": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Both arms descend naturally to resting hands. Fingers partly overlapped on stone wall and bicycle side. Free outfit differs from catalog; speaker ornaments persisted."
+    },
+    "regenerated": false,
+    "observed": "Both arms descend naturally to resting hands. Fingers partly overlapped on stone wall and bicycle side. Free outfit differs from catalog; speaker ornaments persisted."
+  },
+  "casual90": {
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended dimensional shading along nose, lips, cheeks and chin; fine colored contours, layered strands and rendered textile reflections."
+    },
+    "identity": "violet twin-loop hairstyle, blue/teal eyes, compact jaw and facial proportions retained",
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (No module named mediapipe)",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Five fingers where open; folded or gripping fingers partly occluded. See per-cut note.",
+      "overlay_checked": false,
+      "issue": "ok",
+      "note": "Both arms connect naturally to hands at mixer. Fingers partly hidden by knob grip and device edges. Seated singer and acoustic studio visible; ornament retained."
+    },
+    "regenerated": false,
+    "observed": "Both arms connect naturally to hands at mixer. Fingers partly hidden by knob grip and device edges. Seated singer and acoustic studio visible; ornament retained."
+  }
+}

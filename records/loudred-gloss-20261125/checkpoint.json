@@ -1,0 +1,11 @@
+{
+  "card": "노공룡",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "stage": "prepared_for_publication",
+  "images": 12,
+  "casual_images": 11,
+  "reservation_commit": "450b6f4655e4c941c95e94c30bca49c8bcaaed22",
+  "originals": "Excluded from image repository; hashes in manifest.json",
+  "workflow": "thumbnail and register-images handle generated files; data/img.json untouched"
+}

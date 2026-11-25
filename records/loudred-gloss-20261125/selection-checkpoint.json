@@ -1,0 +1,62 @@
+{
+  "card": "노공룡",
+  "style": "anime_25d_gloss",
+  "stage": "casual_generation",
+  "worktree": "/workspace/scratch/65eb22ed7f71/pkm-loudred",
+  "branch": "work/loudred-65eb22",
+  "candidates": [
+    {
+      "candidate": 1,
+      "design": "project",
+      "original": "/workspace/scratch/65eb22ed7f71/generated_images/exec-1224df75-de88-4f0a-a288-032984d4513f.png",
+      "sha256": "667a4f135075d2b0a68f1dda67741766f92d95ab52f7a95f588902e0216073df",
+      "prompt": "light-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 2,
+      "design": "project",
+      "original": "/workspace/scratch/65eb22ed7f71/generated_images/exec-a6c31c8e-0e48-4cc0-80b4-31f2a5a0d83a.png",
+      "sha256": "760a130729b6a63bec3ddc52b1779cee30cdc6f92b243d76249364604582fdfd",
+      "prompt": "light-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 3,
+      "design": "gpt_free",
+      "prompt": "candidate-3-prompt.txt",
+      "submitted_same": true,
+      "submitted_sha256": "9f0040efb212121d3162fc8aed24bd437d8d5b69e599493afdabfd0c5f5d61d7",
+      "original": "/workspace/scratch/65eb22ed7f71/generated_images/exec-2768a465-9cd6-44de-a210-5ea6edb65887.png",
+      "sha256": "594045ec8be308f8f676e33ed549082c0d10d8662665c045c61f333e64874fb2",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "candidate": 4,
+      "design": "gpt_free",
+      "prompt": "candidate-4-prompt.txt",
+      "submitted_same": true,
+      "submitted_sha256": "87fc5cd6bafd5826e066290c0e5ccf0cb46fb4eef48276435a03923c06be3448",
+      "original": "/workspace/scratch/65eb22ed7f71/generated_images/exec-61eb2378-2c0d-4cfe-b3a0-deccc5092969.png",
+      "sha256": "f1d070cf401521a377d2b9f26d94b72c2779ee5ed6170eeeec7f59bb041e5e5d",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "selected": 4,
+  "publishing": "wait_for_user_selection",
+  "selection_sheet": "/workspace/scratch/65eb22ed7f71/loudred-selection-sheet.jpg",
+  "reservation_commit": "450b6f4655e4c941c95e94c30bca49c8bcaaed22",
+  "selected_reference": "/workspace/scratch/65eb22ed7f71/generated_images/exec-61eb2378-2c0d-4cfe-b3a0-deccc5092969.png"
+}
