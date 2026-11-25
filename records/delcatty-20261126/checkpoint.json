@@ -1,0 +1,153 @@
+{
+  "card": "델케티",
+  "style": "anime_25d_gloss",
+  "selected_mecha": 3,
+  "images": {
+    "light": {
+      "file": "델케티_light_anime_25d_gloss_f.webp",
+      "source_sha256": "748e1e8d12a147ee73af8baca2dec215fbda26cb190b716bce95cf1c05adaaba",
+      "sha256": "f0d9948cc6f9186a2849cd42f3b1d832eea3b7ca42d1e81785bf915524e511ab",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": null,
+      "submitted_sha256": "910558e08c3a038da072c7735f0f9fdc1fd505d93c7cb35089a15ab93f6d0804",
+      "calls": 1
+    },
+    "casual1": {
+      "file": "델케티_anime_25d_gloss_f_casual1.webp",
+      "source_sha256": "35f6f3153d24d8ab3ebac9725bd960cb364415fc1d314319d77f6cf4c7ffd925",
+      "sha256": "7aa2beddf2cd220ef6e11d52f5c66d9e75d5bf0e31fa7aa79e7987c0336e5045",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "c290f0a22fce1a0a39f5833143bbabc7a96fab7a5538f0602521f3ae377098b9",
+      "calls": 1
+    },
+    "casual2": {
+      "file": "델케티_anime_25d_gloss_f_casual2.webp",
+      "source_sha256": "4998e577913a2e0071f7469887aedaf9d65da300ab12e5a4c71f1400def6758b",
+      "sha256": "a9dcf42e42aad99242577fcaa12d70c561086f87a047a262054e4256cd83e377",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "8a4201003d83b85306d9672a29d5a9dfa6d0d28f8936edfde25ecbb5510008ee",
+      "calls": 1
+    },
+    "casual3": {
+      "file": "델케티_anime_25d_gloss_f_casual3.webp",
+      "source_sha256": "c9430e815cc5b1a9ea7bd4146fdd333affc6e5c3ce49ae3d37d7f5754dea8fdb",
+      "sha256": "814090d3074458f7d4db41530200fea083eb614cb655ec5b5c729dae0b2fee15",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "7ca48f60b05e14ba5c1840c713e4998a93dfdfea1bd522822734ec3abf2128bf",
+      "calls": 1
+    },
+    "casual4": {
+      "file": "델케티_anime_25d_gloss_f_casual4.webp",
+      "source_sha256": "f60692214b151abf70e9bf7a0f976e40c7cb0e61a8b1f55e82390a0c85c5abb1",
+      "sha256": "5f443ff73b44dc7bfb9943aa7dcf7cca1ad07ce53b501f88969d653c0e34df1b",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "9f4bdfb1c83e34cdb99596c191f584a7970a53f92678b5c1cd21a28b9078e1cd",
+      "calls": 1
+    },
+    "casual5": {
+      "file": "델케티_anime_25d_gloss_f_casual5.webp",
+      "source_sha256": "6606ccc7ad0dd6073c85c5676d78c19eaf41a893406d65a6c2869789e90ba5a4",
+      "sha256": "56f9c1aaf7791e7a61eec2f94aa864de9ff5d978fb48a2d4705ba81c2bccf087",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "1fcf18d91f077b2f43cf5237c22dfa6bc153b20e0b53f0ce187b36905bc42bdb",
+      "calls": 1
+    },
+    "casual6": {
+      "file": "델케티_anime_25d_gloss_f_casual6.webp",
+      "source_sha256": "2b371e507a72eea328f6afb7e83753488868c762016116e7a19669f9a5ee9828",
+      "sha256": "ee41e1178f620eec795f612c7845c1902bd7e412955274f72bdc8044f01b558e",
+      "size": [
+        1024,
+        1024
+      ],
+      "reference": "light",
+      "submitted_sha256": "9fd9152c1b7bba1543508e068b57516746398a433761fdceb6c73fd3b0ab75b3",
+      "calls": 1
+    },
+    "casual7": {
+      "file": "델케티_anime_25d_gloss_f_casual7.webp",
+      "source_sha256": "74278b4835d55387a9e06f6ab7bd05842d09e31f30a124b74257ddb8a5afa049",
+      "sha256": "cff71cde8283b299e5a1bcc78b563bb443e074fe4c12aaf8ce73c4877bd54d9e",
+      "size": [
+        1024,
+        1024
+      ],
+      "reference": "light",
+      "submitted_sha256": "55c9a6ed65f3376516eead3fb357e7b5ab524f3e5615fd3b9c890fb381396205",
+      "calls": 1
+    },
+    "casual8": {
+      "file": "델케티_anime_25d_gloss_f_casual8.webp",
+      "source_sha256": "26a460f7ccf7382581cdfee3bacb576605e6a4dab5e4450e10e7772f0050d89a",
+      "sha256": "f5e38a57cd0948cbf5714c395092f866691aa158ece6c78f65faf6bb60ec4888",
+      "size": [
+        1536,
+        1024
+      ],
+      "reference": "light",
+      "submitted_sha256": "53091fc581c8211179da4281908c48b907f15370148f7743ad41b9ecefe5536e",
+      "calls": 1
+    },
+    "casual9": {
+      "file": "델케티_anime_25d_gloss_f_casual9.webp",
+      "source_sha256": "c4c1b9fcc77bdd7221e39882a526af1a2950c2704add5cdeeacd6f1ed29371a2",
+      "sha256": "52493251acdd65d8863e1cc11905a68e6d7ed753418baf471487318c77f6faca",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "5791e2499e1db0cfbf78c988c257aac704004396ac1b1a97274d83bda67b2e61",
+      "calls": 1
+    },
+    "casual10": {
+      "file": "델케티_anime_25d_gloss_f_casual10.webp",
+      "source_sha256": "9db0c7a0589209b36dde7b696989aa0ed10b066b65ddc58210264b1d1a7a5396",
+      "sha256": "2cec90e72fe1ac9e75cddab7c1a543ca9951fa9307e03eeb6d4327bf34f86fca",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "submitted_sha256": "b8287823308af8085fa9c017cdb6f74eb6d95d010adb8722a4e6e161cc61ef8b",
+      "calls": 1
+    },
+    "casual90": {
+      "file": "델케티_anime_25d_gloss_f_casual90.webp",
+      "source_sha256": "2b0b58515da0ca88932cbe3d053e83e51f991aed379abf7c718531a367389014",
+      "sha256": "0dfd37cf23406ef2d4020a28f36d57bb4857a9babc7bdb9d2040068db37fefe2",
+      "size": [
+        1024,
+        1024
+      ],
+      "reference": "light",
+      "submitted_sha256": "8106e8ad8e5dd446d42d8776e40685cc2ef74e3007cb5ed992f32a53e7076ac4",
+      "calls": 1
+    }
+  },
+  "status": "ready_to_publish",
+  "originals_session_only": true
+}

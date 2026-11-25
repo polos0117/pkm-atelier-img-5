@@ -1,0 +1,79 @@
+{
+  "casual1": {
+    "submitted_sha256": "c290f0a22fce1a0a39f5833143bbabc7a96fab7a5538f0602521f3ae377098b9",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual2": {
+    "submitted_sha256": "8a4201003d83b85306d9672a29d5a9dfa6d0d28f8936edfde25ecbb5510008ee",
+    "submitted_same": false,
+    "design": "gpt_free",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual3": {
+    "submitted_sha256": "7ca48f60b05e14ba5c1840c713e4998a93dfdfea1bd522822734ec3abf2128bf",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual4": {
+    "submitted_sha256": "9f4bdfb1c83e34cdb99596c191f584a7970a53f92678b5c1cd21a28b9078e1cd",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual5": {
+    "submitted_sha256": "1fcf18d91f077b2f43cf5237c22dfa6bc153b20e0b53f0ce187b36905bc42bdb",
+    "submitted_same": false,
+    "design": "gpt_free",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual6": {
+    "submitted_sha256": "9fd9152c1b7bba1543508e068b57516746398a433761fdceb6c73fd3b0ab75b3",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual7": {
+    "submitted_sha256": "55c9a6ed65f3376516eead3fb357e7b5ab524f3e5615fd3b9c890fb381396205",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual8": {
+    "submitted_sha256": "53091fc581c8211179da4281908c48b907f15370148f7743ad41b9ecefe5536e",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual9": {
+    "submitted_sha256": "5791e2499e1db0cfbf78c988c257aac704004396ac1b1a97274d83bda67b2e61",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual10": {
+    "submitted_sha256": "b8287823308af8085fa9c017cdb6f74eb6d95d010adb8722a4e6e161cc61ef8b",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  },
+  "casual90": {
+    "submitted_sha256": "8106e8ad8e5dd446d42d8776e40685cc2ef74e3007cb5ed992f32a53e7076ac4",
+    "submitted_same": true,
+    "design": "standard",
+    "calls": 1,
+    "status": "generated"
+  }
+}

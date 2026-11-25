@@ -1,0 +1,290 @@
+{
+  "light": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "선택한 3번. 양팔과 양다리 연결, 장갑 낀 손의 굽힘이 자연스러움.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2, connected",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual1": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "우산을 잡은 손은 손가락 일부가 손잡이에 가려짐. 원작 코스튬 컷으로 귀·칼라·색을 유지.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2, connected",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual2": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "오른팔이 어깨에서 헤드폰 쪽 손으로 이어지고 왼팔은 좌석 위 손으로 이어짐. 헤드폰 쥔 손과 반대 손의 엄지는 일부 가려짐. 무릎 아래는 프레임 밖.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual3": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "브이 손은 엄지·중지 이하 일부가 접힘. 양쪽 어깨에서 팔이 이어짐. 원작 머리장식이 남았고 카메라는 계획보다 낮음.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual4": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "왼팔은 머리 옆 손으로, 오른팔은 난간 위 손으로 이어짐. 머리카락을 만지는 손가락 일부 겹침. 겨울 설경과 카메라 높이가 계획과 다름.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual5": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "귤을 든 손은 손가락 일부 가려짐. 반대 손은 허벅지에 놓임. 원작 귀걸이 잔존. 구도는 계획보다 가까움.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2, connected",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual6": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "후면 3/4에서 양팔이 몸 옆으로 이어지고 오른손이 난간에 놓임. 반대 손끝은 하단 테두리에 일부 가려짐. 거울 속 형상은 동일 인물의 반사. 하체는 프레임 밖.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual7": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "양팔이 어깨에서 무대 가장자리의 손까지 이어짐. 손가락 일부 겹침. 바니 머리장식 위쪽이 테두리에 걸림.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual8": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "어깨에서 양손까지 두 팔이 허벅지 앞쪽에 이어짐. 양손은 손가락이 자연스럽게 붙어 있고 엄지는 일부 가려짐. 무릎을 꿇은 두 다리와 접힌 발이 자연스럽게 겹침. 귀장식 잔존.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2, connected",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual9": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "양팔과 손이 몸 앞으로 이어지며 두 다리는 누운 자세와 프레임에 일부 가려짐.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual10": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "얼굴 근접컷. 양 어깨와 위팔은 화면 아래 물속으로 이어지고 손·하체는 가려짐. 계획의 아침 만 대신 야간 조명 수변이 나옴.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  },
+  "casual90": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "코·입술·턱의 부드러운 음영, 가닥이 드러난 헤어, 직물과 피부의 입체적인 반사"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "issue": "ok",
+      "overlay_checked": false,
+      "note": "털실을 든 팔은 어깨에서 팔꿈치·손목으로 연결되고 반대 팔은 무릎 위 손까지 연결. 털실 쥔 손가락 일부 가려짐. 교차한 양다리는 하단 프레임에 일부 가려짐. 귀걸이 잔존.",
+      "arms": "2, both connected; visible portions reviewed",
+      "legs": "2; partly or fully outside the frame in close crops",
+      "hands": "visible fingers and thumb orientation reviewed; digits hidden by grips, overlap, water or crop are not claimed visible"
+    },
+    "exposure": {
+      "result": "match_or_stronger",
+      "note": "목선·어깨·허벅지 등 장면에 맞는 노출. 결과의 볼륨·광택이 강한 컷도 보존하고 재생성하지 않음."
+    },
+    "regenerated": false,
+    "identity": {
+      "result": "match",
+      "note": "호박색 눈과 단발 웨이브 헤어·얼굴 윤곽을 선택 3번과 대조"
+    }
+  }
+}
