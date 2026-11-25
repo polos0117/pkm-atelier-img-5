@@ -1,0 +1,11 @@
+{
+  "phase": "candidate_review",
+  "regenerations": 0,
+  "anatomy_tool": "unavailable: mediapipe is not installed",
+  "review": {
+    "all_candidates": "One adult woman, two connected arms and two connected legs, head and feet in frame. Some fingers curled or occluded; selected original will receive detailed hand review before publication.",
+    "style_25d": "Faces show blended nose, cheek, lip and jaw shading; fine colored contours rather than flat two-tone cel shading.",
+    "observations": "All four retain a white/silver dominant armor palette despite the generator Colours line red, black; preserve actual output without regeneration. GPT 2 has more upright hair and smaller rounded pauldrons than its design brief."
+  },
+  "publication": "Awaiting user selection; no images uploaded and data/img.json untouched."
+}

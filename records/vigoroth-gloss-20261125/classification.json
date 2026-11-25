@@ -1,0 +1,218 @@
+[
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "light",
+    "filename": "발바로_light_anime_25d_gloss_f.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "3c5515ac557b442a509ecd243f89dcbc775e06c601af93a8457916e3e81496f9",
+    "submitted_sha256": "45481f299dc84f8aa34cdc17bdf8386d228a54271781d50d2144564e82a95d06",
+    "reference": null,
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual1",
+    "filename": "발바로_anime_25d_gloss_f_casual1.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "d2ec5edb0bc61624d50906107d9c8149bc3bac76fd228511a2522d502565f413",
+    "submitted_sha256": "5bfbe928986d0eb39e2a9066d2444aaaa4095a3d0e082aba1b51f8705da00ce1",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual2",
+    "filename": "발바로_anime_25d_gloss_f_casual2.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "12a4eb4d5b5ecf6ea6cb24c273a6f3e4437eab0fbfda526a8a57b5644e1d871b",
+    "submitted_sha256": "6a9e00b15c8d9c4d9a99fed0fc582ff29974ab819796f8d13dab56bd9c7df695",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual3",
+    "filename": "발바로_anime_25d_gloss_f_casual3.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "f72044297734f5265845c74ceef0a743c3c4c20a22e6207089343937ff231bef",
+    "submitted_sha256": "58d0f46e1b06aa3a739a809f708382b7b98d50e6ad8c2f3a652a364259e34d20",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual4",
+    "filename": "발바로_anime_25d_gloss_f_casual4.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "0f27c3e00b7a01e20111fb479be7fd2714d215b78427658e234c42286912efd7",
+    "submitted_sha256": "2c8bb38095f55318ff1deafdefc4418883545b3efbc19733ac89bb5614f4a9a3",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual5",
+    "filename": "발바로_anime_25d_gloss_f_casual5.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "958026cfb25734873a2f00993d1abe944a7ff6904e962a6a0e14f5403bae98f2",
+    "submitted_sha256": "b2e768aa48f91a850019790dab1a04653f82a368931ce764909bea86a576e8a6",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual6",
+    "filename": "발바로_anime_25d_gloss_f_casual6.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "ff26b924e4cecf6cbc2cd1977d812fc95a6ec6ea0ac85c9e34e60765b5d28f1f",
+    "submitted_sha256": "b9a0e908582817bf7fc464865a75a989e46ee75344ee8296153db5a8343d8193",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual7",
+    "filename": "발바로_anime_25d_gloss_f_casual7.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "8fdee8c26c13bf951cb3beee8c7430ea917201b4cc63c13292c2ddbddd6e8293",
+    "submitted_sha256": "f198411b3d92eb6d8798dd7b272a05a7523b41d2ae30bf27a0690a80caeccccc",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual8",
+    "filename": "발바로_anime_25d_gloss_f_casual8.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "fad862e3ac5c807c39f97c6f1360039fec0ded26714e10867f8dce228959bcda",
+    "submitted_sha256": "672bb95cc3ea05d40e9c03ba91f9f6dc65ad7714323d7dfedb1205baf2c78e66",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual9",
+    "filename": "발바로_anime_25d_gloss_f_casual9.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "14022e50c8f777b69e85864f21976e745990346dd4e641d841c4bf113a131614",
+    "submitted_sha256": "a843e40999dd19895f408b4af200db6e19bff8b2f667400ceb6c5d82089b03f8",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual10",
+    "filename": "발바로_anime_25d_gloss_f_casual10.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "d41c5d04a4fd1f10d60cb07471cf7aa1583d2f99a2b3751000ac697289701c3a",
+    "submitted_sha256": "a7e672cf09722022e832efc9c9de85e4ce78f2f528a03e2309b280ee7b8661a4",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  },
+  {
+    "card": "발바로",
+    "style": "anime_25d_gloss",
+    "slot": "casual90",
+    "filename": "발바로_anime_25d_gloss_f_casual90.webp",
+    "repository": "polos0117/pkm-atelier-img-5",
+    "format": "WEBP",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "ccdb1f75f6d8171bbe3e058430b052fd7b6b3425914120f1d669c465e517273c",
+    "submitted_sha256": "9833e79776873ba80105fb985b6f4be1d12668fd0fbace440a510df7cdbdc5ef",
+    "reference": "selected mecha candidate 2",
+    "evidence": "user selected 2; project prompt settings",
+    "generation_tool": "built-in image_gen",
+    "regenerated": false
+  }
+]

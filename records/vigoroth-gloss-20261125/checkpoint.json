@@ -1,0 +1,202 @@
+{
+  "card": "발바로",
+  "style": "anime_25d_gloss",
+  "status": "generation_complete_ready_to_publish",
+  "code_base": "d63f5bacd2e923a289ed88d8b644fad2111bd089",
+  "selected": 2,
+  "candidates": [
+    {
+      "number": 1,
+      "design": "project",
+      "prompt_file": "light-prompt.txt",
+      "submitted_sha256": "45481f299dc84f8aa34cdc17bdf8386d228a54271781d50d2144564e82a95d06",
+      "submitted_same": true,
+      "status": "awaiting_selection",
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-4de45ceb-80f4-426d-b546-949f3e15efa9.png",
+      "original_sha256": "683f97ed5a1e0693a7bc82ee462fc23236720a63d6d0ba4e7b198bfaae154374",
+      "original_size": [
+        1024,
+        1536
+      ],
+      "webp": "/workspace/scratch/5beb9839299b/output/vigoroth-candidate-1.webp",
+      "webp_sha256": "8d47a4c199460d969098df8d9961e36cbac80e810d6fae3cc8a9faa440036e76"
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "prompt_file": "light-prompt.txt",
+      "submitted_sha256": "45481f299dc84f8aa34cdc17bdf8386d228a54271781d50d2144564e82a95d06",
+      "submitted_same": true,
+      "status": "awaiting_selection",
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-732fa46f-ce05-4d74-b5ba-977908e1e3f8.png",
+      "original_sha256": "7d1af28c0c18783ef30356365ea4157619c510fb07ea6bdf93fd20176d4eab00",
+      "original_size": [
+        1024,
+        1536
+      ],
+      "webp": "/workspace/scratch/5beb9839299b/output/vigoroth-candidate-2.webp",
+      "webp_sha256": "3c5515ac557b442a509ecd243f89dcbc775e06c601af93a8457916e3e81496f9"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "prompt_file": "light-gpt-1-prompt.txt",
+      "submitted_sha256": "0db775ecac5af5be63b0c0459e894af1abf69b40781c737182159280e9ad9975",
+      "submitted_same": true,
+      "status": "awaiting_selection",
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-c2de81d6-d664-4726-87f7-376fd76363ae.png",
+      "original_sha256": "bbe54e1948e8df855c3875a3e53391ff782214f94e0857967697adfc22319195",
+      "original_size": [
+        1024,
+        1536
+      ],
+      "webp": "/workspace/scratch/5beb9839299b/output/vigoroth-candidate-3.webp",
+      "webp_sha256": "7b58c2e532d93a42d22a9e52b6df5c5d24993890773809aa157046f01121bd45"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "prompt_file": "light-gpt-2-prompt.txt",
+      "submitted_sha256": "48a7b90d121637e4e0c1de709076ed41fac7d1b30d6d0f1cd06dc10d22665662",
+      "submitted_same": true,
+      "status": "awaiting_selection",
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-226a2e41-7155-427e-b2dd-50d3ef34ee6b.png",
+      "original_sha256": "b12e56e12bd2a17199f690ce4a9bdd5234309f7078b8f2f667a932143ea2b00d",
+      "original_size": [
+        1024,
+        1536
+      ],
+      "webp": "/workspace/scratch/5beb9839299b/output/vigoroth-candidate-4.webp",
+      "webp_sha256": "4e8bbcdfa58fc49841b1e23d5c3b8bb363f47d6fa5e24c7670a53993b5e950d5"
+    }
+  ],
+  "publication": "not published; user selection required",
+  "reference": "img/발바로_light_anime_25d_gloss_f.webp",
+  "reference_sha256": "3c5515ac557b442a509ecd243f89dcbc775e06c601af93a8457916e3e81496f9",
+  "reservation_commit": "fe6afa4a361866df655b1042e89a9f18afc45481",
+  "casuals": {
+    "2": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-d583102a-a3cd-4493-977f-157f703aedd1.png",
+      "original_sha256": "52d7c72a326fc81770e2d15e07db9123254a5046b01e04af6ccc4ea31b491202",
+      "file": "발바로_anime_25d_gloss_f_casual2.webp",
+      "sha256": "12a4eb4d5b5ecf6ea6cb24c273a6f3e4437eab0fbfda526a8a57b5644e1d871b",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "3": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-b9297e59-5ce4-480c-9d70-0dfce22a9483.png",
+      "original_sha256": "aa391767706131cae8343deb1c7acba626ab805a61df83627c83e120fd73a730",
+      "file": "발바로_anime_25d_gloss_f_casual3.webp",
+      "sha256": "f72044297734f5265845c74ceef0a743c3c4c20a22e6207089343937ff231bef",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "4": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-264aaadc-1781-48f7-95ef-b1b2750b6556.png",
+      "original_sha256": "bd04320a41545aa511483763b2cc367330fbabfc7dcc719047aa64374d367caa",
+      "file": "발바로_anime_25d_gloss_f_casual4.webp",
+      "sha256": "0f27c3e00b7a01e20111fb479be7fd2714d215b78427658e234c42286912efd7",
+      "size": [
+        1536,
+        1024
+      ],
+      "regenerated": false
+    },
+    "1": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-010bdb86-93be-448a-aa75-40e57109869d.png",
+      "original_sha256": "f41c4e33c15134bd8f00e70ab3aa34ed69932295262a216db4031266a7a4df17",
+      "file": "발바로_anime_25d_gloss_f_casual1.webp",
+      "sha256": "d2ec5edb0bc61624d50906107d9c8149bc3bac76fd228511a2522d502565f413",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "6": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-35a75317-ae55-4728-a3ac-d6e055ccd66b.png",
+      "original_sha256": "090d14760f186cff6d8a2bf2ffa477159a36851e5a7f130c1529df8da70f46f4",
+      "file": "발바로_anime_25d_gloss_f_casual6.webp",
+      "sha256": "ff26b924e4cecf6cbc2cd1977d812fc95a6ec6ea0ac85c9e34e60765b5d28f1f",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "7": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-5d87bde6-48c0-4ce5-a81a-15568b34c070.png",
+      "original_sha256": "cc2714a7f0557b7c1e730b3ea2015e0a7ca1e1de8543ff7e72c4352ff8bdf3cf",
+      "file": "발바로_anime_25d_gloss_f_casual7.webp",
+      "sha256": "8fdee8c26c13bf951cb3beee8c7430ea917201b4cc63c13292c2ddbddd6e8293",
+      "size": [
+        1024,
+        1024
+      ],
+      "regenerated": false
+    },
+    "5": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-ce05849a-43f6-4444-9943-d515da6c0c6d.png",
+      "original_sha256": "8e7ad16d85d5ddee887a1c8eed037d66a6d6d62dd3ef83fa8b35e867d80975a9",
+      "file": "발바로_anime_25d_gloss_f_casual5.webp",
+      "sha256": "958026cfb25734873a2f00993d1abe944a7ff6904e962a6a0e14f5403bae98f2",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "8": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-8377a9c8-dbbf-41ee-8e93-7a24f3a82fb9.png",
+      "original_sha256": "323b2a2b1639037b1812282d5d3e48926d4a6c6947eadac6a8f7d2bed4b54b48",
+      "file": "발바로_anime_25d_gloss_f_casual8.webp",
+      "sha256": "fad862e3ac5c807c39f97c6f1360039fec0ded26714e10867f8dce228959bcda",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "10": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-f6c1c1cc-0a1b-4db5-88ea-c56864c15fec.png",
+      "original_sha256": "f4772be8daa7bdfe5b00e40e1b9c93b241b1ee8ca73173b4920372bcb9714818",
+      "file": "발바로_anime_25d_gloss_f_casual10.webp",
+      "sha256": "d41c5d04a4fd1f10d60cb07471cf7aa1583d2f99a2b3751000ac697289701c3a",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "9": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-20663f5f-1431-4d15-ae4e-e2a8fa21de1c.png",
+      "original_sha256": "a8c7fa8451d87968d3b63af704c1bbd70d62609ef5bc5476d9100fb28f2aa48b",
+      "file": "발바로_anime_25d_gloss_f_casual9.webp",
+      "sha256": "14022e50c8f777b69e85864f21976e745990346dd4e641d841c4bf113a131614",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    },
+    "90": {
+      "original": "/workspace/scratch/5beb9839299b/generated_images/exec-8acda28a-8d15-41fc-8909-f6931d3d22bc.png",
+      "original_sha256": "bd0f7430f4cfd848520796e47afe1968ada94967c5ead9d908165d90c1781a37",
+      "file": "발바로_anime_25d_gloss_f_casual90.webp",
+      "sha256": "ccdb1f75f6d8171bbe3e058430b052fd7b6b3425914120f1d669c465e517273c",
+      "size": [
+        1024,
+        1536
+      ],
+      "regenerated": false
+    }
+  },
+  "expected_final_count": 12,
+  "originals_retention": "Session only; original PNGs are not published. Final WebP files and hashes are preserved."
+}

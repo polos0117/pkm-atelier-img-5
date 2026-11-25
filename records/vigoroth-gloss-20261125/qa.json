@@ -1,0 +1,196 @@
+{
+  "tool": "unavailable: mediapipe is not installed",
+  "policy": "Preserve generated outputs; no regeneration for exposure review.",
+  "slots": {
+    "light": {
+      "selected_candidate": 2,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised open palm has five digits; lowered hand is a closed gloved fist with overlapping fingers. Both wrists and forearms connect to their matching shoulders.",
+        "overlay_checked": false
+      },
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended cheek, nose and jaw shading with fine contours; dimensional armor panels and material reflections."
+      },
+      "notes": "White dominant armor despite generator red/black Colours line; preserved selected result."
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "Right hand holds ticket with thumb and curled fingers partly overlapping; left hand rests on railing with fingers partly overlapped. Both forearms join visible shoulders. Legs extend past lower crop.",
+        "overlay_checked": false
+      },
+      "identity": "Silver-white segmented ponytail with red crest, warm tan skin and same adult face structure.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended face shading and layered material rendering."
+      },
+      "regenerated": false
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "Both hands hold knitting needles with fingers naturally curled and partly occluded. Two connected arms and two seated legs; both shoes visible. Profile is stronger than reference, retained as planned angle variation.",
+        "overlay_checked": false
+      },
+      "identity": "Silver-white segmented ponytail with red crest, warm tan skin and same adult face structure.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended face shading and layered material rendering."
+      },
+      "regenerated": false
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "Two gloved hands grip knitting needles; fingers partly occluded by fabric and needles. Upper arms and forearms connect. Lower legs outside close crop. Background contains small horses despite no-animal constraint; preserved and recorded.",
+        "overlay_checked": false
+      },
+      "identity": "Silver-white segmented ponytail with red crest, warm tan skin and same adult face structure.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended face shading and layered material rendering."
+      },
+      "regenerated": false
+    },
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms continuous. Right hand curls around two cheering sticks; fingertips partly occluded by the grip. Left hand rests on knee, fingers overlap naturally. Two seated legs and both shoes visible.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver-white segmented ponytail, red crest, warm tan skin and adult face structure.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended facial planes, fine contours and dimensional fabrics."
+      },
+      "regenerated": false
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Right arm extends overhead from shoulder; open hand with partly overlapped fingers at the top margin. Left palm rests on rail with fingers overlapping. Two connected legs, both bare feet and toes visible.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver-white segmented ponytail, red crest, warm tan skin and adult face structure.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended facial planes, fine contours and dimensional fabrics."
+      },
+      "regenerated": false
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "Right hand curls around popcorn tub; fingers partly hidden. Left hand rests over rail with overlapping fingers. Both wrists join forearms; legs outside planned waist-up crop.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver segmented ponytail, red crest and tan adult face; profile and broad smile as planned.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft gradient across cheek and nose; detailed reflective woven material."
+      },
+      "notes": "Sleeveless halter retains an open buttoned collar; sleeve-rolling situation cannot be literal. Kept without regeneration.",
+      "regenerated": false
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "One hand holds ice-pop stick, thumb and fingers partly overlapped by grip; other shoulder and upper arm continue naturally beyond crop. No detached hands. Lower body outside close crop.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver segmented ponytail, red crest, warm tan skin and face; wink alters expression only.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended cheek, nose and collarbone shading with fine colored outlines."
+      },
+      "regenerated": false
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "Cotton-candy stick held by thumb and curled index/middle fingers with other fingers overlapping. Opposite shoulder and upper arm continue beyond close crop. Legs outside crop.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver segmented ponytail, red crest and tan adult face.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Fine face contours and blended nose/cheek shading, layered fabric texture."
+      },
+      "notes": "Dark wing costume accessories and tight crop retained. Similar eating gesture to casual5, but different outfit, setting and prop.",
+      "regenerated": false
+    },
+    "casual10": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Near hand rests on bedding with fingers overlapping naturally; far bent arm supports temple, fingers partly hidden by glove/hair. Both arms connect. Two folded legs with shoes overlap; toe at lower-left frame edge.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver segmented ponytail and red crest; face remains adult with matching jaw and eye structure.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended dimensional face shading and detailed layered fabrics."
+      },
+      "notes": "Kiriko-inspired swimwear retains red/white character palette as required cosplay exception.",
+      "regenerated": false
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "hands": "Two towel-holding hands with fingers curled around cloth; thumbs partly occluded, both arms continue naturally behind towel. Lower body outside crop.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver segmented ponytail, red crest and adult tan face.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft blended face/shoulder shading, precise textile and bead detail."
+      },
+      "notes": "Close crop retained; small soft-focus background extras are allowed.",
+      "regenerated": false
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Cup hand wraps handle, fingers partly hidden by cup. Opposite hand rests on knee with five digits. Two bent legs and two slippers visible.",
+        "overlay_checked": false
+      },
+      "identity": "Same silver segmented ponytail, red crest and adult tan face.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Blended cheeks and nose, dimensional knitted materials."
+      },
+      "regenerated": false
+    }
+  },
+  "diversity": "Full standing, seated full figure, three-quarter ferry view, waist-up livehouse, close crops, reclining cosplay and seated workshop scene. Casual3/4 share knitting but differ in setting, outfit and framing; casual5/8 share eating gesture but differ in setting, outfit and prop."
+}
