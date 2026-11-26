@@ -1,0 +1,206 @@
+[
+ {
+  "slot": "light",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "17226683e4c94231fd918c3e8d6587a03737e009cbba4a5cb33168483ec5ded1",
+  "webp_sha256": "18799b7ba7b0f692cb9fbb562fc9f3a8da04172cb1aba0e874d5c0dafec0a340",
+  "submitted_sha256": "a7d520ba0ca64b37a9a174eda5faa5da1ab2519804806d15f3d87785fe5ea70d",
+  "submitted_same": true,
+  "reference": null,
+  "basis": "user selected candidate 2"
+ },
+ {
+  "slot": "casual1",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "e7621badc388017e222ebade48e6fd1d4c17680e3a7fe87a0654d7516dd983ac",
+  "webp_sha256": "cc9cc0e55c2131523a91dabc91c7bcb11246c8a29ced6690f0835b8a6c18c6be",
+  "submitted_sha256": "009bd8d0b8376ab6a84cd328d3a16249c72f06310fbccbb6cd1bc172c31a2404",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual2",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "52ea67824f5f00dc5797e36ade5cda537e4f8899f9fc9c08b379ab1c26d49a86",
+  "webp_sha256": "bf7d23b97b793ace8ccc298f81fef6ce492990c35a76f1061151bef3534a830d",
+  "submitted_sha256": "9a960069363c270d88532f8b9fce3a10fc174e504028187d87f0c2e752e4b5c8",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual3",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "cbf10d5c135e4176bc8a4754e6a2ba1f6a898b191bbe37e44d74d255daa8ce82",
+  "webp_sha256": "f6d363f5741faa22c7c14081a61bbb75f42bb69918ea94a9889dbb8995550bc4",
+  "submitted_sha256": "07f3c9fcc1ab18e40bf061bf807c0b4f5abb5cf9719a5f7405ccae13c317e12e",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual4",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "original_sha256": "93249dc3f684e198b9fa66b06032bedd2dc3820c2c80aef1c3bd76ea135bd93f",
+  "webp_sha256": "d25547fa4c80a478849ae92bd7c71e5b0f084bc78890cccbc106a8a4a4907c37",
+  "submitted_sha256": "caee664556652d4934ebcea06c774d9bafbfad4e315749679cdc5d36fe6c5730",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual5",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "2e8060904d0bfdd9c72ede4e3a8908702026408fa7371ba97cfb6826e5f8302c",
+  "webp_sha256": "4343ab48b2ead3f9dcb830379ccb087da834791dda3740b3e33d95799bb52ba9",
+  "submitted_sha256": "182d9c3c6dd6be50a60b49ed8b7bf8a5f58ca2f96cef36e02231145678682310",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual6",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "original_sha256": "551213d0792738d616c50381068d95fca9643e1757ea2d56f2bb1ea094aead9a",
+  "webp_sha256": "4deb05a6aad73447fdfd9e4d4e8b042eabb7fa748f8ab303f81b9f841b6f2bed",
+  "submitted_sha256": "96fd07d60b96e2b475c52cb54bc453dbd1566098aa1d5a4de6985c66d5d39c45",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual7",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "19360b2786754b004577011835530cd974bbed336834be2fe3c84918f0ab25d8",
+  "webp_sha256": "89f751fb57ba77225f2efb2f3b294d5b4ba92aa959a88a4f68f51082c2b6b395",
+  "submitted_sha256": "18831350229cb320e43a6826e2b340134fff2965dc75ab6e2cce707227678476",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual8",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "b6f35064ff160566d7db7709276d22094aaf9074eed7dee9b316727b6d37bf41",
+  "webp_sha256": "165f3db824ed3a38c0f7eee817b5842f144b187f361d85574ad61b801de14c69",
+  "submitted_sha256": "727d17e0d5ad6574ba9647f6998eac10da616e2f1f28be5d687e7b6fef7b0969",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual9",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "84e4e8ea7ae0a159ee61bc34ede808932502ff6edf30052ab0023a07b2da912a",
+  "webp_sha256": "7f7de08fc8c2f2d1303f1db192fa68466372e19b0c85bb00deb01b201e24df57",
+  "submitted_sha256": "968cef05a19cf8b3c2bba1615ce536f6eba1058015e2487948319cf39e195660",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual10",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "original_sha256": "837021ff38cee5645fd09c3cba4a67e0940bc0f6915861615cd8820bcac188d1",
+  "webp_sha256": "795fb70320de466d7fea71f11ce6986c8e40f0253706ed6abbd4ad69de090fa3",
+  "submitted_sha256": "b700b480b90ebd6038c060cce45953290fac66dd5b26339b1166b57d5f30babf",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ },
+ {
+  "slot": "casual90",
+  "card": "썬더볼트",
+  "style": "anime_25d_gloss",
+  "filename": "썬더볼트_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "9f03b0bcce7819d3f69347dbf6f5d139ab57b16b6980ccaabf2aca79a57f5a75",
+  "webp_sha256": "9edbf65a5605eb2bded8806c366b3f82bb84d22ed7d78f2ef1e43766440ded8a",
+  "submitted_sha256": "aa7331141d4f43ec808aa19170ec8defdaeb56dcfff8053165d03e280708dd7f",
+  "submitted_same": true,
+  "reference": "light",
+  "basis": "planner with selected light reference"
+ }
+]

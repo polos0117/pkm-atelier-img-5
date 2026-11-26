@@ -1,0 +1,175 @@
+{
+ "cuts": {
+  "light": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two connected arms, closed right fist and open left glove; each glove five digits or fist occlusion; both boots complete.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "",
+   "regenerated": false
+  },
+  "casual1": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Five-digit rail grip and partly occluded pennant grip; raised knee connected. Lower standing leg outside chosen crop.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Image framed to knees; opposite hand assignment from requested rail/pennant; retained.",
+   "regenerated": false
+  },
+  "casual2": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near arm connects visibly to hat-brim grip; visible fingers count five with overlaps. Far arm and legs outside chest crop.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Far arm outside crop; retained as chest-up framing.",
+   "regenerated": false
+  },
+  "casual3": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two hands: relaxed hand with overlapping fingers and camera grip with thumb occluded. Both legs and heeled feet complete.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "One-shoulder cut interpreted as thin-strap slip; retained.",
+   "regenerated": false
+  },
+  "casual4": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both hands gripping watermelon; fingers partly occluded by fruit, no duplicate digit. Both boots complete.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "",
+   "regenerated": false
+  },
+  "casual5": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two connected arms: cheek-rest hand partly occluded, resting hand five fingers; lower legs outside frame.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Costume reads as Sylvanas cosplay with hood, pointed costume ears and metallic shoulders; retains reference woman and hair.",
+   "regenerated": false
+  },
+  "casual6": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both hands on console, five digits each with grip occlusion; wrists connect to matching arms. Legs outside crop.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "",
+   "regenerated": false
+  },
+  "casual7": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near arm connects to hair-touch hand, five digits with hair occlusion; far arm and legs outside close crop.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Close crop includes upper torso rather than face only; retained.",
+   "regenerated": false
+  },
+  "casual8": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near hand shows five fingers on work surface; far hand fingers overlap on table. Both upper arms connect. Lower body outside waist crop.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Body and face turn more toward camera than planner; retained.",
+   "regenerated": false
+  },
+  "casual9": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Right hand around bowling ball, fingers occluded by curvature; left hand five digits with overlap on ball return. Two legs and shoes complete.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Tunic has extended draped side panel; retained.",
+   "regenerated": false
+  },
+  "casual10": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both connected relaxed hands; five digits with edge/robe occlusion. Lower legs outside square crop.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Figure faces more toward camera than planned; retained.",
+   "regenerated": false
+  },
+  "casual90": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Voltage tester hand five glove digits with grip occlusion; ground hand five clearly spread glove digits. Kneeling legs and boots connected.",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual check of full-resolution result and enlarged hand/foot crops; limbs outside frame treated as occluded."
+   },
+   "identity": "reference face, amber eyes and blue/yellow wolf-cut hair retained",
+   "deviations": "Ground hand glove has small invented emblem; no readable branding.",
+   "regenerated": false
+  }
+ },
+ "skipped": [],
+ "qa_method": "manual full-resolution and enlarged detail inspection",
+ "diversity": "carousel, waterfall, dressing room, snowy cablecar, studio, balcony, balloon, museum, bowling alley, cafe and lineworker yard; different outfit constructions and crops"
+}
