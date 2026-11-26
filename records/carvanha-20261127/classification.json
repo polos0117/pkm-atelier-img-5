@@ -1,0 +1,205 @@
+[
+  {
+    "slot": "light",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "user selected candidate 1; project design",
+    "reference": null,
+    "original_sha256": "4c779d88b4627a4e474ba6b8596487a44ff45e53a6fdb73c55d6dd1c1e24f849",
+    "output": "샤프니아_light_anime_25d_gloss_f.webp",
+    "sha256": "41d8767c1f935849f527cab3a42a2029a069d8af5cd238a8f8f8365f1067d824",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP"
+  },
+  {
+    "slot": "casual1",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner; gpt_free scene",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "2882f9e777fa4ff21ddaca231e6c1b4fc8bec60884a4e3809255af9c9646e61d",
+    "output": "샤프니아_anime_25d_gloss_f_casual1.webp",
+    "sha256": "2a5feea6593d0b9fe407f857f14552ada9c54af90cf2f094155467b9c09a9924",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "1963c9dad88fde5aa9da368ab3727dabeafc219cd68dae3e4b8e5b26e810346a"
+  },
+  {
+    "slot": "casual2",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "3a4e6822b5b5e42428ecbb44c958ca43eca9d7bfe44067326472a2f32b15bdaa",
+    "output": "샤프니아_anime_25d_gloss_f_casual2.webp",
+    "sha256": "325a2111aa4c47cd14c435ae8a14e740652e3683adb8881134c316b4e8bf8945",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "submitted_sha256": "7e87262eec954961d629a1d550b67bb3f6b497d203b9924b4360d4d7f955b9e1"
+  },
+  {
+    "slot": "casual3",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner; gpt_free scene",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "57a4c04e8cfc7c24a077e326ea8e7963e946d7b03a10f8f261c81673a1abd327",
+    "output": "샤프니아_anime_25d_gloss_f_casual3.webp",
+    "sha256": "fcef6eec49aa3db6893a1b3a1f1b507bf7c4e75c6c9a13bc6b0e5a8d6f127abd",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "85a0fde13016843b6fcaef40d68e0a9b1480b0e91583f7aadb01c298ff389692"
+  },
+  {
+    "slot": "casual4",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "470930ff53b38c26f17bceb7c3b463c7a17b4fe425d2ee351d1c5df518a7c470",
+    "output": "샤프니아_anime_25d_gloss_f_casual4.webp",
+    "sha256": "ee3d1cb3a6c7957eb6bba468a85b6291a32bb52dfd881aa77fd14f94e4522c74",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "submitted_sha256": "3103bf5c9188e9e1791eeca03514adf625decf54ead5c9a3cbea8e3c6caaf32f"
+  },
+  {
+    "slot": "casual5",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "157d697112b39bf660f8d3b667ed49a21a43d674620b894ad6fbe3396b4797e7",
+    "output": "샤프니아_anime_25d_gloss_f_casual5.webp",
+    "sha256": "53d730efab7f277ea3023098a68dcae652bcb41ac18a66fd139934e586bc5d8b",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "d87c64b3b3b05193deb9ccd81e14a2d9fe81009a5801aadd09e52bafe9e7603b"
+  },
+  {
+    "slot": "casual6",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "770ab07bdbfd675478815c3ec10b7f7a2f7267ccd76401593c763c24b226dd72",
+    "output": "샤프니아_anime_25d_gloss_f_casual6.webp",
+    "sha256": "1f8abe90971dd71662c2f22de60a30d573b35602e5ba62c6ff76006ab5e6e48d",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "8cad8640b26c9e2168e61ef0726713408f09ccd841d79d1e7b33e1722ac52080"
+  },
+  {
+    "slot": "casual7",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "2a3e741a0597864c7291a0b0ebb9c02b9d00d354b51cebc4fce510905569ef4e",
+    "output": "샤프니아_anime_25d_gloss_f_casual7.webp",
+    "sha256": "15854c15d1956d0fc37f7d6884958aa4ce3ce60512426a401868c1d093a82180",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "4b83fef1eb0d476e7c82ddfcb1c6ad925c89c0c33189c3848a8aa8f26e1674ec"
+  },
+  {
+    "slot": "casual8",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "ee029be14f55877b94b1f49653b3acba573624f91b27cbc39c6933b1d52738ff",
+    "output": "샤프니아_anime_25d_gloss_f_casual8.webp",
+    "sha256": "4967ab773517d480454521cd1034e273aade23aa39b4b0a6d89b25968c9dfd9d",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "submitted_sha256": "e5187376be593c6f81c683486e14834a2331481f9c915f85cc6f3b33de2ca413"
+  },
+  {
+    "slot": "casual9",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "d88ae70a26fc26bb1da8786771ba3f48d7a9de4aed3b31937141839ac45cf1df",
+    "output": "샤프니아_anime_25d_gloss_f_casual9.webp",
+    "sha256": "c9528d5f9386e149ad66a3d09c177692acb3658b3257f86bf24e430e19a1b4d4",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "3722657be6157bb8c8c523b1b5862e723a1be857e8a053e100c4d29d4b4eb07d"
+  },
+  {
+    "slot": "casual10",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "3c2d42a79ce25c2563ff9b8db707145f27704764ab4888817e74b5b5663d90ae",
+    "output": "샤프니아_anime_25d_gloss_f_casual10.webp",
+    "sha256": "49a0f6694e961c5bda3a9d8d6cbed548686842041dc42ce2334631f59f7e8b66",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "submitted_sha256": "c411d1ca51b63eb8cb71eb58ec8732705022aecf5015a15895f2a81671672178"
+  },
+  {
+    "slot": "casual90",
+    "card": "샤프니아",
+    "style": "anime_25d_gloss",
+    "gender": "f",
+    "basis": "planner",
+    "reference": "샤프니아_light_anime_25d_gloss_f.webp",
+    "original_sha256": "5dd6c0fcc50d653fc48820922ff6c8058afe951466b1d46f458ba3f85de8288e",
+    "output": "샤프니아_anime_25d_gloss_f_casual90.webp",
+    "sha256": "b59fc0d5aabdd3981431b087de4ba6f1b783753d9f3409155f9affb96feda964",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "submitted_sha256": "2fde350612f9b59520fc9cf9a175b34976920118f06d465bc14ce504fde07a2c"
+  }
+]

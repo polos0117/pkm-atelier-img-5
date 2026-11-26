@@ -1,0 +1,65 @@
+Design brief — fill-in design for Carvanha (샤프니아), water / dark type. Below is our own design prompt for this card. Write two designs of her (Design 1 and Design 2) by copying it and changing ONLY the marked parts; every other line stays exactly as written, character for character — the style, colours, hair colour, armor form, creature features, exposure, composition, pose and constraints are ours.
+
+Must differ — hairstyle: write a new hairstyle in [HAIRSTYLE: …] (ours is medium wavy, long side bangs); the hair colour stays ours.
+
+Hairstyle direction — Design 1 builds its hairstyle from tied-back hair — a high ponytail, a side ponytail, a low ribbon tail or a long tail bound at intervals; Design 2 from short hair — a pixie cut, a short crop, a wolf cut or a chin-length bob. Unless its direction is very long hair, neither is plain loose hair falling over the shoulders with side-swept bangs or a hair ornament on top — that is the default look to avoid.
+
+May keep or change — body type: in [BODY TYPE: …] paste one body type from our set, word for word; ours is hourglass-figured — full bust and hips, distinctly narrow-waisted, which may be kept: 1) an hourglass figure with a subtly full bust, a slim waist and very wide, curvy rounded hips that flow smoothly into softly full thighs, the line tapering gradually toward the knees with no sudden narrowing below the hips, and slender lower legs — never thick or heavy; 2) lean and toned — a slim, firm waist with softly defined vertical abs and lightly sculpted arms and shoulders, a full bust; 3) petite and short in stature yet voluptuous — a very full, heavy bust, a narrow waist and generously rounded hips on a small, compact frame, with realistic thighs and legs; 4) hourglass-figured — full bust and hips, distinctly narrow-waisted; 5) voluptuous, generously curved at bust, hips and thighs; 6) slender-limbed yet full-busted with rounded hips and a narrow waist; 7) toned athletic-curvy, full-busted with rounded hips; 8) curvy; 9) tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist; 10) strong and broad-shouldered with firm muscle, yet full-busted with wide rounded hips and a defined waist; 11) petite and compact yet curvaceous — full bust and rounded hips on a small frame; 12) pear-shaped and curvaceous — slimmer shoulders over a narrow waist, full rounded hips and thick thighs, a full bust; 13) willowy and long-limbed with soft curves — a full bust, rounded hips and a slender waist.
+
+Must differ — armor silhouette: in [ARMOR SILHOUETTE: …] paste exactly one of these shapes from our set for her type, word for word (ours is not on this list): 1) several rigid jointed armor plates flaring from the waist like a skirt — plates, not cloth — with the legs showing between them; 2) one long segmented mechanical tail reaching from the back of her waist, tipped with an ornament; 3) ring-shaped armor bands floating free around her waist and ankles, with light body armor — the floating rings make the shape; 4) a long coat made of rigid plates from the shoulders to below the knees, open at the front to show the body armor, with an angular collar; 5) a sleek, close-fitting suit of plate armor — thin, long plates on the shoulders, arms, torso and legs that follow her curves closely.
+
+Must differ — her face: in the Face line fill every marked part with exactly one entry from our lists below, word for word; ours is not on these lists. Design 1 and Design 2 must also differ from each other in every face part. FACE SHAPE — 1) angular face; 2) heart-shaped face; 3) elongated face; 4) compact face; 5) softly rounded face; 6) sharp face; 7) v-line face; 8) inverted triangle face | JAW — 1) balanced jawline; 2) angular defined jaw; 3) square broad jaw; 4) narrow tapered chin; 5) wide heavy chin; 6) long chin with defined jaw; 7) receding soft chin | EYE SHAPE — 1) narrow eyes; 2) large eyes; 3) sharp eyes; 4) drooping eyes; 5) upturned eyes; 6) phoenix eyes; 7) hooded eyes; 8) cat eyes; 9) peach-blossom eyes | EYE COLOUR — 1) crimson eyes; 2) amber eyes; 3) gold eyes; 4) orange eyes; 5) green eyes; 6) teal eyes; 7) pale blue eyes; 8) blue eyes; 9) navy eyes; 10) purple eyes; 11) lavender eyes; 12) pink eyes; 13) gray eyes; 14) silver eyes; 15) brown eyes; 16) black eyes | BROWS — 1) fine soft arches; 2) long arched brows; 3) straight medium brows; 4) thin straight brows; 5) thick low brows; 6) short rounded brows; 7) feathered full brows | NOSE — 1) small delicate nose; 2) balanced nose; 3) prominent defined nose; 4) straight slender bridge nose; 5) aquiline nose with convex bridge; 6) broad low bridge nose; 7) short nose with upturned tip; 8) long nose with low tip | LIPS — 1) thin lips; 2) medium lips; 3) fuller lower lip; 4) bow-shaped upper lip; 5) straight even lips; 6) wide mouth; 7) small mouth.
+
+Required — design idea: on the Design idea line, the single most recognisable shape feature of the creature built into the structure of the armor — its cross-section, its layering, a cut-out or the arrangement of plates; never a print or a loose accessory. Inspiration only: the two yellow dorsal fins become fin-shaped edges on her plates; the two red spines become pointed edges on her plates; its markings (yellow, four-pointed star) become painted lines and patterns on her plates and undersuit.
+
+Choose from ours — type effects: in [TYPE EFFECTS: …] paste exactly three sentences from our set, word for word, in this order — one hand effect, one body effect and one surrounding effect; ours may be reused. Hand — 1) One open hand conjuring a cyan-blue water glow amid floating water droplets, bubbles and thin water rings. 2) One open hand conjuring a dim crimson-black glow amid drifting jagged shards of shadow. Body — 1) A cyan-blue water glow pulses along her armor seams and joints. 2) A dim crimson-black glow pulses along her armor seams and joints. 3) Her whole silhouette is outlined by a cyan-blue water glow, clearly visible as a bright rim of light along her body and armor. 4) Her whole silhouette is outlined by a dim crimson-black glow, clearly visible as a bright rim of light along her body and armor. 5) The tips of her hair glow brightly and visibly dissolve into floating water droplets, bubbles and thin water rings. 6) The tips of her hair glow brightly and visibly dissolve into drifting jagged shards of shadow. Surrounding — 1) Floating water droplets, bubbles and thin water rings circle slowly around her. 2) Drifting jagged shards of shadow circle slowly around her. 3) Rippling water and spray spread over the floor beneath her boots. 4) A pool of shadow spreads over the floor beneath her boots. 5) A light trail of floating water droplets, bubbles and thin water rings streams back from her heels and back armor. 6) A light trail of drifting jagged shards of shadow streams back from her heels and back armor.
+
+May keep or change — the Impression line (skin tone, makeup, expression); the Setting detail line may be filled or deleted.
+
+Design 1 and Design 2 must differ from each other in hairstyle, armor silhouette and every face part.
+
+Registered designs to keep apart from (hairstyle and armor): 1) Scraggy — face — oval face, soft rounded jaw; eyes and brows — almond eyes, angled brows; hair — top knot; 2) Raichu — face — oval face, soft rounded jaw; eyes and brows — almond eyes, long arched brows; hair — wavy; 3) Lapras — face — oval face, soft rounded jaw; eyes and brows — almond eyes, fine soft arches; hair — wavy.
+
+For each design write, first, one line — SUMMARY: hairstyle …; armor silhouette …; design idea …; face …; expression … — then the whole prompt with the marked parts filled. Do not add, drop or reword any other line. Draw Design 1 and Design 2 each from its filled prompt exactly as written, without the SUMMARY line.
+
+---- our design prompt (copy it, fill only the marked parts) ----
+
+Input: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.
+Source: Carvanha (샤프니아), water / dark type.
+Subject: A female mecha personification character with Carvanha as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.
+Output: one dynamic action image that is also this form's card art.
+
+1. STYLE
+High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own Face line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing and armor, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.
+
+2. CHARACTER
+Face — her own structure, not the style's default face: [FACE SHAPE: …]; [JAW: …]; [EYE SHAPE: …]; [EYE COLOUR: …]; [BROWS: …]; [NOSE: …]; [LIPS: …].
+Hair: [HAIRSTYLE: …].
+Hair color: her main hair color is the creature's own main color; black for her dark type runs through it as the accent, in streaks and at the tips.
+Impression (reads even at card size): a cool, composed woman in her early twenties with fair skin; a level, unbothered gaze; a thin, sharp eyeliner.
+Identity (chosen details override the automatic look)
+body type: [BODY TYPE: …]
+body scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.
+Proportions: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. Her worn features are costume, never extra limbs.
+Body: a normal human body — elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.
+Hands: Keep both hands relaxed — a loose fist, an open palm or resting on something. Gloves are full-finger and close-fitting; plates, water, sparks and effects stay off the fingers.
+Anatomy: one head, two arms and two legs, each joined at its natural joint; natural hands with five fingers.
+
+3. ARMOR — LIGHT
+Costume: one layer of thin, close-fitting hard armor that covers most of her body: a chest plate joined to segmented abdominal plates down to her hips, shoulder pauldrons, upper-arm and forearm plates with gauntlets, hip and thigh plates, knee guards, shin guards and armored boots; the fitted undersuit shows only in narrow gaps at the joints, joints free. The plates stay thin and close to her body, so the outline is slim and readable without slimming her figure. No helmet; at most a slim headband or temple sensor.
+Armor: rigid hard-surface mecha armor — solid plates of enamelled metal and ceramic with visible thickness, bevelled edges, layered rims, panel lines, seams, small vents, sensor lights and mechanical joints, casting real shadows onto the undersuit. The plates sit on top of her body as separate machined parts, never printed or painted onto fabric, never a patterned bodysuit.
+Silhouette: [ARMOR SILHOUETTE: …]. Solid hard-surface plates that read as armor, not cloth.
+Design idea: …
+Colours: yellow, red.
+Wear: the two yellow dorsal fins become fin-shaped edges on her plates; the two red spines become pointed edges on her plates; its markings (yellow, four-pointed star) become painted lines and patterns on her plates and undersuit.
+Exposure: armor and undersuit open by design only at bare shoulders and upper arms, and a bare midriff; everywhere else fully covered. Plates stay on and symmetrical; nothing slipped off; intimate areas covered.
+
+4. SCENE
+Composition: Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion. Camera level with her face; her body and face turned gently three-quarters toward the camera (never a back view), her head level with her chin neither raised nor tucked, no upward perspective on her face.
+Pose: Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.
+Setting detail: …
+Type effects: [TYPE EFFECTS: …]
+
+5. CONSTRAINTS
+One figure only.
+Avoid: second character, creature beside her, text, lettering, logo, watermark, speech bubble, frame border, extra limbs.

@@ -1,0 +1,61 @@
+{
+  "selected": 1,
+  "candidates": [
+    {
+      "number": 1,
+      "design": "project",
+      "prompt": "candidate-1-prompt.txt",
+      "submitted_sha256": "cc2efc67f59d9d20d05405f17b70f45e722a6d0c013e9b95aca0d8d676bf2077",
+      "submitted_same": true,
+      "hair_family": null,
+      "original_sha256": "4c779d88b4627a4e474ba6b8596487a44ff45e53a6fdb73c55d6dd1c1e24f849",
+      "webp_sha256": "41d8767c1f935849f527cab3a42a2029a069d8af5cd238a8f8f8365f1067d824",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "prompt": "candidate-2-prompt.txt",
+      "submitted_sha256": "cc2efc67f59d9d20d05405f17b70f45e722a6d0c013e9b95aca0d8d676bf2077",
+      "submitted_same": true,
+      "hair_family": null,
+      "original_sha256": "e6daa3354d85499b7935ce1927fb2c65fe9c7ec64f357c8c4a2ea8c92c71f380",
+      "webp_sha256": "22f5c68facc42acea834db7688153b66ec791aca68430580ce816e44c85bec6f",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "prompt": "candidate-3-prompt.txt",
+      "submitted_sha256": "f6c465399c7e5318e135d1642606be6ee3f0dd9490da23337a839dcb4e5cbb5c",
+      "submitted_same": true,
+      "hair_family": "tied-back hair",
+      "original_sha256": "f5e7992ae44ec3bdc8c1c9e9b99e092c6c885435dc907bf6c5ebeb600ca3a230",
+      "webp_sha256": "748dfacc15d18d281f9919c613d5e5e4297c3c9e5ac1ce443a6cccfe73ba74df",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "prompt": "candidate-4-prompt.txt",
+      "submitted_sha256": "bea278c4128cf8ede504c31c1791438d37347286c160f3621982f44336c1e7f7",
+      "submitted_same": true,
+      "hair_family": "short hair",
+      "original_sha256": "6b8c101a4034f81ba2d2415f0f5b8024c9fc274a122f83bd82b0988795c71bb3",
+      "webp_sha256": "b007a44994fb5c1cd73abfc7d053e156223618a2a77398665a03a3e1c8bb64c4",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}

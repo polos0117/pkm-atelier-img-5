@@ -1,0 +1,227 @@
+{
+  "light": {
+    "visual": "노란·붉은 경장 판과 판 망토, 물 효과. 정면에 가까운 3/4 전신. 얼굴 코·입술·턱의 그라데이션 음영 확인.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영, 피부와 직물에 서로 다른 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "펼친 손은 다섯 손가락 확인, 반대 주먹은 일부 손가락이 접혀 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. light와 casual3의 손 확대 확인."
+    },
+    "observed_deviations": [
+      "설계 지정 두 곳 외 허벅지 피부가 드러남. 사용자 1번 선택으로 보존."
+    ],
+    "regenerated": false
+  },
+  "casual1": {
+    "visual": "밝은 물가 테라스 의자에서 양팔을 머리 위로 뻗어 기지개. 민트색 수영복, 전신.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영, 피부와 직물에 서로 다른 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "양팔이 어깨에서 이어짐. 두 손의 펼친 손가락을 확인; 맨발 둘은 의자 끝에서 함께 보임.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. light와 casual3의 손 확대 확인."
+    },
+    "observed_deviations": [
+      "메카 머리 장식이 남음."
+    ],
+    "regenerated": false
+  },
+  "casual2": {
+    "visual": "촛불 갈라에서 노란 조끼 의상과 가면 리본을 양손으로 든 허리 위 구도.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영, 피부와 직물에 서로 다른 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "양팔과 팔꿈치가 이어지고 양손이 리본을 잡음. 접힌 손가락 일부는 겹쳐 가려짐. 다리는 구도 밖.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. light와 casual3의 손 확대 확인."
+    },
+    "observed_deviations": [
+      "가면이 얼굴 대신 머리 옆에 놓임. 코끝에 작은 크림 같은 장식이 추가됨."
+    ],
+    "regenerated": false
+  },
+  "casual3": {
+    "visual": "이른 아침 여객선 창가 벤치에서 샌드위치를 두 손으로 잡고 식사. 창밖 낮은 해와 바다 반사광을 확인.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영, 피부와 직물에 서로 다른 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "양팔과 손목이 자연스럽게 연결됨. 샌드위치 앞·아래를 잡은 두 손의 일부 손가락은 식품 뒤로 가려짐. 윗부분 분홍색은 접힌 햄이며 손이 아님.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. light와 casual3의 손 확대 확인."
+    },
+    "observed_deviations": [
+      "초기 지시문 시간대 오류는 인물·옷·포즈·노출을 유지한 조명 편집으로 바로잡음. 초기 원본 해시와 지시문도 보존."
+    ],
+    "regenerated": false,
+    "time_corrected": true,
+    "exposure_censorship_regeneration": false
+  },
+  "casual4": {
+    "visual": "포켓몬 세계 물가 빨래터에서 피치색 블라우스와 드레이프 치마, 양손으로 천을 넒.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영, 피부와 직물에 서로 다른 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "가까운 팔의 어깨·팔꿈치·손목 연결 확인. 먼 팔 아래쪽은 천에 일부 가려지나 끝의 손과 연결 방향이 자연스러움. 집게와 천에 손가락 일부 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. light와 casual3의 손 확대 확인."
+    },
+    "observed_deviations": [
+      "메카 머리 장식이 남음."
+    ],
+    "regenerated": false
+  },
+  "casual7": {
+    "visual": "축제 길에서 젖은 파란 크로셰 상의와 부채, 웃는 얼굴의 상반신.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴의 코·볼·입술·턱에 부드러운 입체 음영, 피부와 직물에 서로 다른 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "두 팔이 어깨에서 이어지고 부채를 잡은 양손과 손목이 연결됨. 잡은 손의 손가락 일부가 부채에 가려짐. 다리는 구도 밖.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. light와 casual3의 손 확대 확인."
+    },
+    "observed_deviations": [
+      "의상의 노출·젖음은 원본대로 보존."
+    ],
+    "regenerated": false
+  },
+  "casual5": {
+    "visual": "보라색·흰색 게임 코스프레 수영복과 검은 손목 밴드, 거실에서 아이스바를 든 상반신.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 피부·직물의 구별되는 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "아이스바를 잡은 손의 손목·팔꿈치·어깨 연결 확인. 반대 위팔은 자연스럽게 프레임 아래로 이어짐. 잡은 손가락 일부는 겹침.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수; 프레임 밖 신체는 판정 대상에서 제외."
+    },
+    "observed_deviations": [],
+    "regenerated": false
+  },
+  "casual6": {
+    "visual": "눈 내리는 정비 창고 입구에서 쪼그려 앉아 매니큐어 병을 드는 장면. 아이보리 밴드 상의와 플럼 패널 큐롯, 부츠 둘.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 피부·직물의 구별되는 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "팔 둘·다리 둘의 연결 확인. 병을 잡은 손과 무릎 위에 놓인 손의 손목·팔꿈치 연결이 자연스러움. 손가락 일부는 병과 겹침.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수; 프레임 밖 신체는 판정 대상에서 제외."
+    },
+    "observed_deviations": [
+      "메카 머리 장식이 남음. 소품 손의 좌우가 계획과 반대로 읽힐 수 있음."
+    ],
+    "regenerated": false
+  },
+  "casual8": {
+    "visual": "젖은 네온 골목에서 샤프니아 후드 원피스 코스튬, 한 손은 볼·한 손은 허리.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 피부·직물의 구별되는 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "양팔이 어깨·팔꿈치·손목으로 이어짐. 볼을 짚은 손과 허리를 짚은 장갑 손의 손가락 일부가 겹침. 다리는 구도 밖.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수; 프레임 밖 신체는 판정 대상에서 제외."
+    },
+    "observed_deviations": [],
+    "regenerated": false
+  },
+  "casual9": {
+    "visual": "보드게임 라운지에서 금빛 드레이프 의상, 볼에 손을 댄 얼굴 중심 구도.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "코·볼·입술·턱의 부드러운 입체 음영과 피부·직물의 구별되는 반사 표현."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "볼을 짚은 손의 손목과 팔꿈치가 연결됨. 반대 위팔이 어깨에서 이어져 프레임 아래로 나감. 볼 옆 손가락 일부와 엄지는 머리·얼굴에 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수; 프레임 밖 신체는 판정 대상에서 제외."
+    },
+    "observed_deviations": [
+      "계획의 얼굴 클로즈업보다 조금 넓게 상반신이 보임."
+    ],
+    "regenerated": false
+  },
+  "casual90": {
+    "visual": "해질녘 해변 구조대 초소에서 빨간 수영복과 짧은 랩스커트, 노란 호루라기 끈. 구조 부표를 옆에 들고 모래를 걷는 전신.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·볼·입술의 그라데이션과 피부·직물의 구별되는 반사."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "부표를 잡은 손은 쥔 손가락 일부가 가려짐. 반대 손은 손가락 다섯과 손목 연결 확인. 두 발이 모래 위에서 자연스럽게 이어짐.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수."
+    },
+    "observed_deviations": [],
+    "regenerated": false
+  },
+  "casual10": {
+    "visual": "야간 물가 연구 기지의 난간에서 검은 크로스 스트랩 비키니, 비 내리는 수면과 정박선 배경.",
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "얼굴 코·볼·턱의 부드러운 입체 음영과 물방울·피부의 서로 다른 반사."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed; anatomy-check.py exited 3",
+      "issue": "ok",
+      "arms": 2,
+      "hands": "난간을 짚은 손의 손가락·손목·팔꿈치 연결 확인. 반대 팔은 몸 옆으로 내려오며 손가락 일부가 허벅지 뒤에 가려짐.",
+      "overlay_checked": false,
+      "note": "원본 시각 검수. 다리는 무릎 위 프레임으로 발이 보이지 않음."
+    },
+    "observed_deviations": [
+      "계획의 뒤 3/4보다 카메라 쪽을 더 향함. 메카 머리 장식이 남음."
+    ],
+    "regenerated": false
+  }
+}

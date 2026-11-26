@@ -1,0 +1,42 @@
+{
+  "card": "샤프니아",
+  "no": 318,
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "selection_design": "project",
+  "selected_original_sha256": "4c779d88b4627a4e474ba6b8596487a44ff45e53a6fdb73c55d6dd1c1e24f849",
+  "reservation_commit": "f2ea12ecf746bddf3d9a45bd9caa8ca56c209967",
+  "reservation_session": "carvanha-20261127-ef80",
+  "state": "generation_and_visual_review_complete",
+  "publication": "prepared for main; automated thumbnails and registration required",
+  "generation_tool": "built-in image_gen",
+  "source_png_policy": "sha256 only; no source PNG committed",
+  "constraints": [
+    "preserve existing work",
+    "no force push",
+    "no direct data/img.json edits",
+    "automatic thumbnails and registration",
+    "no regeneration for exposure censorship"
+  ],
+  "final_count": 12,
+  "slots": [
+    "light",
+    "casual1",
+    "casual2",
+    "casual3",
+    "casual4",
+    "casual5",
+    "casual6",
+    "casual7",
+    "casual8",
+    "casual9",
+    "casual10",
+    "casual90"
+  ],
+  "time_correction": {
+    "slot": "casual3",
+    "purpose": "restore planned early morning",
+    "kept": "face, hair, clothing, pose, anatomy, exposure",
+    "source_png_committed": false
+  }
+}

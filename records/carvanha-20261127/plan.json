@@ -1,0 +1,614 @@
+{
+ "session": "carvanha-20261127-ef80",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "샤프니아",
+   "species": "carvanha-20261127",
+   "cuts": [
+    {
+     "cut": 1,
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "partner_park",
+     "ofam": "homewear",
+     "item": "sleep_shirt",
+     "garments": [
+      "shirt"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "forenoon",
+     "moment": "",
+     "light": "side",
+     "spot": "",
+     "depth": "deep",
+     "view": "",
+     "posture": "squat",
+     "support": "none",
+     "frame": "full_body",
+     "body": "front",
+     "head": "tilt",
+     "camera": "high",
+     "right": "prop",
+     "left": "lap",
+     "use": "umbrella_shoulder",
+     "legs": "squat_heels",
+     "gaze": "at_prop",
+     "preset": "squat_prop",
+     "turn": "",
+     "ostyle": "",
+     "expr": "candid",
+     "aspect": "2:3",
+     "xfree": true,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "plunging neckline",
+      "strapless top"
+     ],
+     "lead": "action",
+     "shade": ""
+    },
+    {
+     "cut": 2,
+     "treeV": 2,
+     "era": "now",
+     "place": "evening_gala",
+     "ofam": "roleplay",
+     "item": "event_staff",
+     "garments": [
+      "vest"
+     ],
+     "ocolor": "yellow",
+     "weather": "",
+     "time": "lamplight",
+     "moment": "cream_nose",
+     "light": "",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "sit_lean",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "prop",
+     "use": "mask_tie",
+     "legs": "",
+     "gaze": "",
+     "preset": "desk_work",
+     "turn": "left",
+     "expr": "provocative",
+     "aspect": "1:1",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "sweetheart neckline",
+      "cropped hem"
+     ],
+     "lead": "detail",
+     "shade": "lemon"
+    },
+    {
+     "cut": 3,
+     "treeV": 2,
+     "era": "release",
+     "place": "paraglider_sky",
+     "ofam": "subculture",
+     "item": "skater",
+     "garments": [
+      "shorts",
+      "sweater"
+     ],
+     "ocolor": "",
+     "weather": "rain",
+     "time": "morning",
+     "moment": "",
+     "light": "back",
+     "spot": "",
+     "depth": "deep",
+     "view": "",
+     "posture": "sit_harness",
+     "support": "none",
+     "frame": "environmental",
+     "body": "side",
+     "head": "with_body",
+     "camera": "low",
+     "right": "lines_both",
+     "left": "lines_both",
+     "use": "",
+     "legs": "harness_dangle",
+     "gaze": "screen_left",
+     "preset": "harness_far",
+     "turn": "",
+     "ostyle": "",
+     "expr": "unimpressed",
+     "aspect": "2:3",
+     "ofree": true,
+     "sfree": true,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "balanced",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "deep V neckline",
+      "open back"
+     ],
+     "lead": "light",
+     "shade": ""
+    },
+    {
+     "cut": 4,
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_laundry",
+     "ofam": "lingerie",
+     "item": "sari_blouse_set",
+     "garments": [
+      "blouse",
+      "traditional"
+     ],
+     "ocolor": "orange",
+     "weather": "",
+     "time": "overcast",
+     "moment": "",
+     "light": "",
+     "spot": "right_third",
+     "depth": "",
+     "view": "",
+     "posture": "reach_up",
+     "support": "none",
+     "frame": "three_quarter",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "low",
+     "right": "prop",
+     "left": "prop",
+     "use": "sheet_hang",
+     "legs": "",
+     "gaze": "",
+     "preset": "hang_line",
+     "turn": "right",
+     "ostyle": {
+      "material": "embroidery",
+      "acc": "bangles"
+     },
+     "expr": "wink",
+     "aspect": "1:1",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "deep V neckline",
+      "high thigh slit"
+     ],
+     "lead": "place",
+     "shade": "peach"
+    },
+    {
+     "cut": 5,
+     "treeV": 2,
+     "era": "now",
+     "place": "home_living",
+     "ofam": "game_cosplay",
+     "item": "gc_one_piece",
+     "cosplay": {
+      "game": "the_king_of_fighters_2002",
+      "character": "Chris",
+      "cut": "one_piece",
+      "round": 1
+     },
+     "garments": [
+      "swimsuit"
+     ],
+     "ocolor": "",
+     "weather": "spring",
+     "time": "dawn",
+     "moment": "",
+     "light": "top",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "chest_up",
+     "body": "front_3q",
+     "head": "tilt",
+     "camera": "eye",
+     "right": "prop",
+     "left": "out",
+     "use": "pop_bite",
+     "legs": "",
+     "gaze": "",
+     "preset": "raise_chest",
+     "turn": "left",
+     "expr": "confident",
+     "aspect": "2:3",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "strong",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "plunging neckline",
+      "halter neck"
+     ],
+     "lead": "place",
+     "shade": ""
+    },
+    {
+     "cut": 6,
+     "treeV": 2,
+     "era": "now",
+     "place": "maintenance_shed",
+     "ofam": "adventure",
+     "item": "desert_nomad",
+     "garments": [
+      "trousers"
+     ],
+     "ocolor": "",
+     "weather": "snow",
+     "time": "dusk",
+     "moment": "",
+     "light": "",
+     "spot": "",
+     "depth": "",
+     "view": "foreground",
+     "posture": "squat",
+     "support": "none",
+     "frame": "full_body",
+     "body": "side",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "natural",
+     "use": "polish_dry",
+     "legs": "",
+     "gaze": "",
+     "preset": "squat_offer",
+     "turn": "right",
+     "expr": "nostalgic",
+     "aspect": "2:3",
+     "ofree": true,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "sweetheart neckline",
+      "cutout waist"
+     ],
+     "lead": "light",
+     "shade": ""
+    },
+    {
+     "cut": 7,
+     "treeV": 2,
+     "era": "release",
+     "place": "festival_booth",
+     "ofam": "dongtan",
+     "item": "festival_chain",
+     "garments": [
+      "crop_top",
+      "shorts"
+     ],
+     "ocolor": "blue",
+     "weather": "",
+     "time": "noon",
+     "moment": "",
+     "light": "dappled",
+     "spot": "",
+     "depth": "flat",
+     "view": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "chest_up",
+     "body": "front",
+     "head": "tilt",
+     "camera": "floor",
+     "right": "prop",
+     "left": "prop",
+     "use": "fan_open",
+     "legs": "",
+     "gaze": "camera",
+     "preset": "wrap_close",
+     "turn": "front",
+     "ostyle": {
+      "acc": "earrings"
+     },
+     "expr": "laughing_open",
+     "aspect": "2:3",
+     "situ": "wet",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "plunging neckline",
+      "side cutouts"
+     ],
+     "lead": "detail",
+     "shade": ""
+    },
+    {
+     "cut": 8,
+     "treeV": 2,
+     "era": "now",
+     "place": "street_alley",
+     "ofam": "pokemon_costume",
+     "item": "pc_hoodie",
+     "garments": [
+      "dress"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "neon",
+     "moment": "",
+     "light": "side",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "turn_side",
+     "camera": "eye",
+     "right": "cheek",
+     "left": "hip",
+     "use": "",
+     "legs": "",
+     "gaze": "screen_left",
+     "preset": "cheek_hip_waist",
+     "turn": "left",
+     "expr": "mischievous",
+     "aspect": "1:1",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "strong",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "sweetheart neckline",
+      "backless"
+     ],
+     "lead": "action",
+     "shade": ""
+    },
+    {
+     "cut": 9,
+     "treeV": 2,
+     "era": "now",
+     "place": "boardgame_lounge",
+     "ofam": "drape",
+     "item": "egyptian_linen",
+     "garments": [
+      "dress",
+      "slip"
+     ],
+     "ocolor": "yellow",
+     "weather": "",
+     "time": "day_indoor",
+     "moment": "",
+     "light": "",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "face_close",
+     "body": "front_3q",
+     "head": "tilt",
+     "camera": "floor",
+     "right": "cheek",
+     "left": "out",
+     "use": "",
+     "legs": "",
+     "gaze": "camera",
+     "preset": "cheek_close",
+     "turn": "right",
+     "expr": "gentle",
+     "aspect": "2:3",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "strong",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "deep V neckline",
+      "mini length"
+     ],
+     "lead": "light",
+     "shade": ""
+    },
+    {
+     "cut": 10,
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "work_shore",
+     "ofam": "swimwear",
+     "item": "sw_strappy_criss",
+     "garments": [
+      "bikini"
+     ],
+     "ocolor": "black",
+     "weather": "rain",
+     "time": "night",
+     "moment": "",
+     "light": "side",
+     "spot": "left_third",
+     "depth": "deep",
+     "view": "foreground",
+     "posture": "lean_rail",
+     "support": "none",
+     "frame": "three_quarter",
+     "body": "rear_3q",
+     "head": "tilt",
+     "camera": "high",
+     "right": "natural",
+     "left": "natural",
+     "use": "",
+     "legs": "stand_relaxed",
+     "gaze": "",
+     "preset": "",
+     "ostyle": {
+      "material": "glossy_swim"
+     },
+     "expr": "cold_smile",
+     "aspect": "1:1",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "plunging neckline",
+      "high-cut leg"
+     ],
+     "lead": "place",
+     "shade": "ink"
+    },
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_town",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a rescue buoy",
+     "preset": "stride_prop",
+     "use": "sig_low",
+     "posture": "walk",
+     "support": "none",
+     "frame": "full_body",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "down",
+     "legs": "walk_stride",
+     "gaze": "camera",
+     "time": "dusk",
+     "own": "all",
+     "placeText": "a beach lifeguard post — a high chair, red flags, a rescue board",
+     "scene": "she is a trainee lifeguard walking along the sand with a rescue buoy at her side",
+     "outfit": "a lifeguard look fitted to her body — a fitted red swimsuit with a short wrap skirt and a whistle, bare shoulders and legs, a yellow whistle cord",
+     "job_ko": "인명구조 견습",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3"
+    }
+   ],
+   "why": {
+    "tree": 2,
+    "count": 10,
+    "required": {
+     "slots": [
+      2,
+      4,
+      10
+     ],
+     "all": true
+    },
+    "costume": 8,
+    "cosplay": {
+     "cut": "one_piece",
+     "game": "the_king_of_fighters_2002",
+     "character": "Chris",
+     "round": 1,
+     "cutKey": "one_piece"
+    },
+    "low": [
+     "arcade",
+     "studio",
+     "spa",
+     "evening",
+     "pokeworld",
+     "work",
+     "partner",
+     "sky"
+    ],
+    "ofree": [
+     3,
+     6
+    ],
+    "xfree": 1,
+    "situ": {
+     "cut": 7,
+     "situ": "wet"
+    }
+   },
+   "claims": {
+    "garment": [
+     "shirt",
+     "vest",
+     "shorts",
+     "sweater",
+     "blouse",
+     "traditional",
+     "swimsuit",
+     "trousers",
+     "crop_top",
+     "dress",
+     "slip",
+     "bikini"
+    ],
+    "orient": [
+     "front+tilt",
+     "front_3q+with_body",
+     "side+with_body",
+     "front_3q+with_body",
+     "front_3q+tilt",
+     "side+with_body",
+     "front+tilt",
+     "front_3q+turn_side",
+     "front_3q+tilt",
+     "rear_3q+tilt"
+    ],
+    "frame": [
+     "waist_up",
+     "chest_up",
+     "chest_up",
+     "waist_up",
+     "face_close"
+    ]
+   }
+  }
+ ]
+}
