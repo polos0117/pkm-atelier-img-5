@@ -1,0 +1,216 @@
+{
+ "storage": {
+  "last": "요가램",
+  "cards": {
+   "요가램": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "wistful",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "1:1",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "balanced",
+       "separates_preference": "balanced"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "time": true,
+       "moment": true,
+       "spot": true,
+       "ofam": true,
+       "item": true,
+       "ocolor": true,
+       "shade": true,
+       "expose": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "gaze": true,
+       "expr": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "in_pokemon",
+      "place": "pw_bath",
+      "time": "forenoon",
+      "moment": "foam_shoulder",
+      "spot": "left_third",
+      "ofam": "lingerie",
+      "item": "open_shirt_lingerie",
+      "ocolor": "purple",
+      "shade": "plum",
+      "expose": [
+       "sweetheart neckline",
+       "bare midriff"
+      ],
+      "posture": "kneel",
+      "support": "none",
+      "frame": "waist_up",
+      "body": "side",
+      "head": "over_shoulder",
+      "camera": "floor",
+      "right": "natural",
+      "left": "natural",
+      "gaze": "camera",
+      "ostyle": {
+       "acc": "choker"
+      },
+      "use": ""
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Medicham (요가램) personified, fighting / psychic type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: toned athletic-curvy, full-busted with rounded hips — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a square 1:1 (1024×1024) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image. Both shoulders and upper arms show and run on past the edge — never an armless torso.\n\nWORLD: this scene happens inside the Pokémon world, as if she simply lives there — its towns, routes, buildings, props, light and weather show the world. Pokémon that live there may appear at their own natural scale, separate from her; no known trainers or characters, no logos, no text.\n\nSCENE (chosen):\nPlace: an outdoor hot spring of a Pokémon-world mountain town, steam over smooth rocks\nTime of day: late morning — clear fresh daylight, soft short shadows; light glittering off the water, dappling her skin.\nSmall moment: a few clumps of bath foam cling to her shoulder and collarbone.\nOutfit: a tailored oversized shirt worn open over a matching satin lingerie set; styled with a thin velvet choker\nOutfit colours: deep plum — her own colour choice for this outfit, not her species' colours.\nCut: sweetheart neckline and bare midriff built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: kneeling on the ground.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, facing the right of the frame, so her own right side is toward the camera; head turned back over her shoulder; camera low, near the ground — level with her face when she sits, kneels or lies on the floor or a bed, looking up at her when she stands; she is placed in the left third of the frame, open space of the place to her right.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her near arm, on the camera side.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her far arm, on the side away from the camera.\nGAZE: she looks into the camera.\nEXPRESSION: softened eyes, faint sad smile, inner brows raised. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\nseparates_preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nMIDRIFF: wherever her stomach is bare, it shows a soft, subtle six-pack — lightly defined abdominal segments in two neat columns of three on a flat, firm, toned midriff; feminine and gently shaded, an athletic woman's abs, never a hard, deeply carved bodybuilder six-pack. If her outfit covers her stomach, keep it covered.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+ "plan": {
+  "cut": 10,
+  "treeV": 2,
+  "era": "in_pokemon",
+  "place": "pw_bath",
+  "ofam": "lingerie",
+  "item": "open_shirt_lingerie",
+  "garments": [
+   "lingerie_set",
+   "shirt"
+  ],
+  "ocolor": "purple",
+  "weather": "",
+  "time": "forenoon",
+  "moment": "foam_shoulder",
+  "light": "",
+  "spot": "left_third",
+  "depth": "",
+  "view": "",
+  "posture": "kneel",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "side",
+  "head": "over_shoulder",
+  "camera": "floor",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "preset": "",
+  "ostyle": {
+   "acc": "choker"
+  },
+  "expr": "wistful",
+  "aspect": "1:1",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "balanced",
+   "source_influence": "balanced",
+   "separates_preference": "balanced"
+  },
+  "expose": [
+   "sweetheart neckline",
+   "bare midriff"
+  ],
+  "lead": "place",
+  "shade": "plum"
+ },
+ "manual_inputs": {},
+ "manual_why": {},
+ "generation": {
+  "slot": "casual10",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "original_sha256": "9dee110a55d50091b065fb01e56d631fb2498af423d4a9ac185b8907d1dc99b2",
+  "webp_sha256": "c08c051245456df4159a3f39119e216d37ce380482e888fe6155750f83353642",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1254,
+   1254
+  ],
+  "tool": "image_gen",
+  "attempts": 1,
+  "qa": {
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·입술·턱에 부드러운 입체 음영, 가는 유색 윤곽과 그라데이션."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "overlay_checked": false,
+    "note": "근접 정사각. 두 어깨에서 팔이 손까지 연속됨, 양손 다섯 손가락. 하체 화면 밖.",
+    "hands": "보이는 손 직접 점검; 쥔 손과 프레임 밖은 가려짐으로 기록"
+   },
+   "identity": "selected candidate 1; face, garnet eyes, segmented ponytail retained"
+  },
+  "submission": {
+   "prompt_sha256": "7f4374140dc0a5d4147de28254dedd64a798be1b6e910ac7a0e262c583a96840",
+   "submitted_sha256": "7f4374140dc0a5d4147de28254dedd64a798be1b6e910ac7a0e262c583a96840",
+   "same": true,
+   "authorized_design_fill": false,
+   "reason": "verbatim generator prompt"
+  }
+ }
+}

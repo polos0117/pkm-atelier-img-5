@@ -1,0 +1,79 @@
+{
+  "casual1": {
+    "prompt_sha256": "a282de71e3f8f46bb7aa6ad5761965e41ed636933c46e88214f7b125dd7f6a93",
+    "submitted_sha256": "8c862153a50d32bccd2e336de07e325e71441f2bf65f933e2e383382566e793d",
+    "same": false,
+    "authorized_design_fill": true,
+    "reason": "Required original outfit/scene completion under IMAGE_RULES"
+  },
+  "casual2": {
+    "prompt_sha256": "5f2037777ec8380fced2ca56e4430cfdeac1930acde19710a211820337e91046",
+    "submitted_sha256": "5f2037777ec8380fced2ca56e4430cfdeac1930acde19710a211820337e91046",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual3": {
+    "prompt_sha256": "987048ecfbfd7cf26be6fba08b32fa48ef3b83661f50d361bfad5ce58cf3331f",
+    "submitted_sha256": "f5bfa6c3aab3ed64906f3e08869313223397e4f558cb5f77e6a5c30e6c19b3bd",
+    "same": false,
+    "authorized_design_fill": true,
+    "reason": "Required original outfit/scene completion under IMAGE_RULES"
+  },
+  "casual4": {
+    "prompt_sha256": "c4240aeed1624315adf733b829061d32a89c9e674b92f089d1bae5533e2d67c8",
+    "submitted_sha256": "628f27c7be232cabc18ea6168c1fa2d3dc3e6866e160bf09b5b409fdc6ee11fa",
+    "same": false,
+    "authorized_design_fill": true,
+    "reason": "Required original outfit/scene completion under IMAGE_RULES"
+  },
+  "casual5": {
+    "prompt_sha256": "2925c3164120f861a4c51c8c18947ccff5d9c46e1868f655ba4788a5823ab938",
+    "submitted_sha256": "2925c3164120f861a4c51c8c18947ccff5d9c46e1868f655ba4788a5823ab938",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual6": {
+    "prompt_sha256": "6ab0900629b6511e20c20f5ec167afbea2a1d142397874bb38759e3b1ede05ec",
+    "submitted_sha256": "6ab0900629b6511e20c20f5ec167afbea2a1d142397874bb38759e3b1ede05ec",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual7": {
+    "prompt_sha256": "b5b4b85db59e7c8bb5da21e767b708c0049287a018166fb9ed14b7ccd513d91f",
+    "submitted_sha256": "b5b4b85db59e7c8bb5da21e767b708c0049287a018166fb9ed14b7ccd513d91f",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual8": {
+    "prompt_sha256": "e91220eb0d9624667018d4eacda035f123ae1a5d249c23bc02a218eae12b00b8",
+    "submitted_sha256": "e91220eb0d9624667018d4eacda035f123ae1a5d249c23bc02a218eae12b00b8",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual9": {
+    "prompt_sha256": "662941a2c767b9f0bf2d5185d0466226b92207e613eef1cf08ded14d51e7dace",
+    "submitted_sha256": "662941a2c767b9f0bf2d5185d0466226b92207e613eef1cf08ded14d51e7dace",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual10": {
+    "prompt_sha256": "7f4374140dc0a5d4147de28254dedd64a798be1b6e910ac7a0e262c583a96840",
+    "submitted_sha256": "7f4374140dc0a5d4147de28254dedd64a798be1b6e910ac7a0e262c583a96840",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  },
+  "casual90": {
+    "prompt_sha256": "6e388f53e00e759ce297a92b958e603c7175b601ef22b8ca3d839fd22305f91d",
+    "submitted_sha256": "6e388f53e00e759ce297a92b958e603c7175b601ef22b8ca3d839fd22305f91d",
+    "same": true,
+    "authorized_design_fill": false,
+    "reason": "verbatim generator prompt"
+  }
+}

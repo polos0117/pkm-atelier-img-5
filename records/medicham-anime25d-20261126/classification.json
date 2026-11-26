@@ -1,0 +1,242 @@
+[
+ {
+  "slot": "light",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "363db0c2028b56866cda8a6f1d41dd48d590635d4ae7ac9ca4678d0a3c4189cc",
+  "webp_sha256": "e95a831da6f9bf945f89f31c1116541b0d0dfd567b5533db0a08d336014a88f4",
+  "reference": null,
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual1",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "ed91191b594661af9d5963a2888c049ee5b66a75b663c79e76198db77b177f79",
+  "webp_sha256": "cd70869fce8307867d1c5130f96d0a10fe6bdae5eab2fe027acbde3d7dda0aa2",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual2",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "e6438a051012b0fac83228ed5d74b4582495852bb5fcc7a4111e73fed492e4f0",
+  "webp_sha256": "58206ae49b779c73efa5e019168592f6b6978b5648e81b912f315a871c940af0",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual3",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "e19273f2ce0e8b52ba80b440fd7183ad473a4b55167d02f1f3c34640e889cbbe",
+  "webp_sha256": "08ec2200c1f34a65b64dd45162c3efa933b909ebb4f155c5cf70d1a7247d9153",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual4",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "332a0455fc18c3024c86628b49d42247b2ad8b337aee402e1f24948c495f9755",
+  "webp_sha256": "4399777782a7e7a2ecc14465f06b7bd2320000b56028bf8d8ef13c30424255f7",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual5",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "830d76035df54035786d34314ebe9c4fbc5097bc0c66b0eca9a25f97fe7724b4",
+  "webp_sha256": "8d3d4da46228ae9f097ab726b3669845d970c6ae34d87be4408a7c6fed5b5421",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual6",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "4a7dc51675020cd808c361e094de10361abbe6fc307dd1cd5e671b882df3252a",
+  "webp_sha256": "215ea3a375c281975d5cb66a47083d9649228ef8329030d5fb298e57a9e58556",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual7",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "original_sha256": "59f6401cd880b23d732765065c3a4f14a24eae6eb0f61476ad786aaa74d27ab5",
+  "webp_sha256": "466fd482b106d6c1f324a853845fb0a0aa201e95bea6936d1309034303b3d7dc",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1254,
+   1254
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual8",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "original_sha256": "62dd61637c3db2cf9c85f348e60d4dac4a665c575fd1d541eda62ccdb105f3a7",
+  "webp_sha256": "061e2fbe0552f8102dd61337bd282de5a333195fccb2fbaaa139044e15a993d3",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1024,
+   1536
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual9",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "original_sha256": "e87227dedb4aede744457e3019a674f3a682f3a4175093cfa50f64ef43110d24",
+  "webp_sha256": "8c410f3ca8148ae00485c81c88937899103bc3bf0a3d935f1fa97bfd75d60e21",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1536,
+   1024
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual10",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "original_sha256": "9dee110a55d50091b065fb01e56d631fb2498af423d4a9ac185b8907d1dc99b2",
+  "webp_sha256": "c08c051245456df4159a3f39119e216d37ce380482e888fe6155750f83353642",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1254,
+   1254
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ },
+ {
+  "slot": "casual90",
+  "card": "요가램",
+  "style": "anime_25d_gloss",
+  "gender": "f",
+  "file": "요가램_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "original_sha256": "29aeeb5c93c0d8e87ce4b26c0eaa65aa5861801fd2aab57c413c54dd03631b2a",
+  "webp_sha256": "c4391b77a8692dc631d420d0a904da51e907144de4701c8a143a1cdfc0d625d6",
+  "reference": "요가램_light_anime_25d_gloss_f.webp",
+  "source_size": [
+   1254,
+   1254
+  ],
+  "tool": "image_gen",
+  "attempts": 1
+ }
+]
