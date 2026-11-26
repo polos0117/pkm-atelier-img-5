@@ -1,0 +1,186 @@
+{
+ "version": 4,
+ "card": "보스로라",
+ "no": 306,
+ "style": "anime_25d_gloss",
+ "plan": "/workspace/scratch/2294e82f736d/aggron-pack/plan.json",
+ "note": "고칠 수 있는 칸만 있다. 자리마다 고정인 것(출력·인물 기준·장갑 폼·폭주 기준·첨부)은 tools/prompt-pack.cjs 가 정한다. 다 쓰면 build.",
+ "slots": {
+  "light": {
+   "motifs": "",
+   "formOverride": "",
+   "headFeature": "",
+   "faceDesignOn": true,
+   "params": {
+    "body type": "hourglass-figured — full bust and hips, distinctly narrow-waisted"
+   },
+   "scene": {
+    "expr": "",
+    "pose": "",
+    "orient": "",
+    "frame": "",
+    "lens": "",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "",
+    "outfit": "",
+    "custom": "",
+    "action": {
+     "category": "",
+     "example": "",
+     "timing": "",
+     "equipment": "",
+     "power": "",
+     "effects": "",
+     "speed": "",
+     "environment": ""
+    }
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "mecha": {
+    "set": {
+     "silhouette": "full_armor"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "steel"
+     },
+     {
+      "key": "seams",
+      "type": "rock"
+     },
+     {
+      "key": "orbit",
+      "type": "steel"
+     }
+    ]
+   },
+   "mecha_auto": {
+    "set": {
+     "silhouette": "full_armor"
+    },
+    "fx": [
+     {
+      "key": "hand",
+      "type": "steel"
+     },
+     {
+      "key": "seams",
+      "type": "rock"
+     },
+     {
+      "key": "orbit",
+      "type": "steel"
+     }
+    ]
+   },
+   "mecha_recent": [],
+   "mecha_why": ""
+  },
+  "casual1": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual2": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual3": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual4": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual5": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual6": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual7": {
+   "scene": "",
+   "outfit": "a petrol blue sculpted scarf-fan top: two opaque pleated fabric fans cross securely over the bust and lock into a narrow curved collar, with bare shoulders and a diamond-shaped open waist, paired with fitted high-waisted petal-panel shorts; a tiny polished blunt-horn ticket clip is the only species accent",
+   "camera": "",
+   "custom": "",
+   "why": {
+    "outfit": "Required free-outfit slot: original opaque pleated fan construction absent from outfit catalog; neckline remains readable in chest-up crop."
+   },
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual8": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual9": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual10": {
+   "scene": "",
+   "outfit": "",
+   "camera": "",
+   "custom": "",
+   "why": {},
+   "exposure": "",
+   "exposure_why": "",
+   "situ": ""
+  },
+  "casual90": {}
+ }
+}

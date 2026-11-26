@@ -1,0 +1,10 @@
+{
+  "forms": "passed",
+  "register_images_check": "12 new valid candidate names; sparse checkout contains only target image bytes, existing image omissions were not pruned",
+  "source_img_json_modified": false,
+  "anatomy_tool": "unavailable: mediapipe is not installed",
+  "visual_qa": "Original image and zoomed hand/foot inspection",
+  "regenerations": 0,
+  "automatic_thumbnails": true,
+  "automatic_registration": true
+}

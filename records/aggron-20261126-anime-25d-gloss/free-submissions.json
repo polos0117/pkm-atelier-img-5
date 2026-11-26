@@ -1,0 +1,12 @@
+{
+  "casual5": {
+    "exception": "Authorized free scene design in IMAGE_RULES: only SCENE brief filled; fixed lines preserved",
+    "sha256": "9614e0a1f4763175f5d4e89514e82fc5164eed4a6eedf52f5ce7e4ac43c64774",
+    "generation.design": "gpt_free"
+  },
+  "casual9": {
+    "exception": "Authorized free scene design in IMAGE_RULES: only SCENE brief filled; fixed lines preserved",
+    "sha256": "7c5eb78ea4a5483e949cf24e227f3d4239212f0ba2758a0bb3265d7aab2eaa46",
+    "generation.design": "gpt_free"
+  }
+}

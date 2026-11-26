@@ -1,0 +1,204 @@
+{
+  "card": "보스로라",
+  "style": "anime_25d_gloss",
+  "selected": 3,
+  "status": "ready_to_publish",
+  "image_repo": "polos0117/pkm-atelier-img-5",
+  "original_png_uploaded": false,
+  "count": 12,
+  "rules": "Project main as checked on 2026-11-26",
+  "items": [
+    {
+      "slot": "light",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "5b740a0adec4ff8109a27b1c14cc68e27796c8ad7799dcc41945c15147399428",
+      "reference": null,
+      "file": "보스로라_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "04120187d96e17433ed2f6af65b25d333bc23b93cf773f3d45fe1cbb93b07ff7",
+      "bytes": 319874
+    },
+    {
+      "slot": "casual1",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "77ceec1eaeee28842c4718da65b06879f6979f6ffd824f4f02668687be1f7059",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WebP",
+      "sha256": "86cadae458c2da5521d3df85b3baac18dde1967ae73d0f5c68f0be33d487e682",
+      "bytes": 252240
+    },
+    {
+      "slot": "casual2",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "aa2a91b7a58b908826d8082bdfa4c8d147a02ccd240f853936b03d257abb44f2",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WebP",
+      "sha256": "d1b4f59bdcc37b7ebe3994aa1c84030fb7120ffaff8c5e298872b92ad232ffa6",
+      "bytes": 246574
+    },
+    {
+      "slot": "casual3",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "77d52269e26501ff3a1229e2dcab0ad09c4cd6fa965e2c95e49c9fd46be16007",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "sha256": "a43b2f67914329d296ec077fad035fafc1a773dedaecf71690f5f6571e87590e",
+      "bytes": 228142
+    },
+    {
+      "slot": "casual4",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "87a67ba36253875fb759aa62ff613ed2af823a2cabfdba65fada99f679c212be",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "380ceab838ed3a6185c8ef7c4ea0311df1aab1034fd01afaf95222c248abaa0d",
+      "bytes": 220826
+    },
+    {
+      "slot": "casual5",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "bf3e4eaa06f63f74e0779a4f5963fb6a36a588f38d9ec8e73076668c67674d08",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "610f83796a266f996a0ce7c6c19bb31f2b88b07161941c363d9553430fec2cdf",
+      "bytes": 247644
+    },
+    {
+      "slot": "casual6",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "0a190f9325ed6889b02d195c487b3ddda6d6190d9f616b3a4763a3a309f2beb4",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "sha256": "11fbdb599dd3cad14cb5305cb80d5d103d76d886c883c5863ba33797bb45f44d",
+      "bytes": 272070
+    },
+    {
+      "slot": "casual7",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "753dd1ab8311c211f54310fab41b1c2c31f6464cea4e309767e8879d69b9af09",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "4cd2feeecc9abff24996db12b02137e45a3d43238159199f75f6c07b0ee67a89",
+      "bytes": 190464
+    },
+    {
+      "slot": "casual8",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "283c1a6ebdd1ad94ac65708b84073731af027f652e05d9d00936e250c37be30e",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "102ce97740ceb6f4ba14762d9861ab6e6475a3c72516484fae553c0bb7b5f1b0",
+      "bytes": 174174
+    },
+    {
+      "slot": "casual9",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "ae92533e8d7845c2f1ce0d52890b405ad666e5f95de8e4b11b659ec2b003b9e7",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "d4240e055fd40df60de810c82fe71b45124c6c93039361459c473c6e0b8e5aba",
+      "bytes": 221122
+    },
+    {
+      "slot": "casual10",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "7d125640a07c68610c74b6114f63eb10361ab500db88a2f47d5130c15f40f454",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WebP",
+      "sha256": "e7008add21847a680903f75ceb1b7821322905fdb6a8051e5a5434ddf9933a78",
+      "bytes": 318982
+    },
+    {
+      "slot": "casual90",
+      "card": "보스로라",
+      "style": "anime_25d_gloss",
+      "gender": "f",
+      "source_original_sha256": "43801f7d3556cc3da0fbddf5d82ffe93f7df7c5535e85956531d44265ad0f973",
+      "reference": "light",
+      "file": "보스로라_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "b8e396d8fb3942a0b418417cb39906b6862ea8afc170e80bc7205944f3120eef",
+      "bytes": 282892
+    }
+  ]
+}

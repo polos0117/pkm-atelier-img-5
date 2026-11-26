@@ -1,0 +1,218 @@
+{
+  "light": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Armored left open palm and right fist, both feet inside frame."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual1": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Two moons, lantern held low, yellow uniform costume; rear three-quarter glance retained."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual2": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Crimson sari-blouse ensemble, seated lagoon deck; two hands place tools on cloth."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual3": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Caramel swimwear, frontal chin-cupping on forearms, marble bath."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual4": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Vincent Valentine crimson-black gown, profile seated with both hands on smartphone."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual5": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Terracotta cutout jumpsuit on cable ferry; right hand on rail, left holding bag strap."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual6": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Aggron-inspired fabric bodysuit in home kitchen; costume interpreted with stiff metallic trim."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual7": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Petrol blue pleated fan neckline, V sign at eye; both shoulders and arm roots visible."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual8": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Pale lilac halter neckline, wet fringe and V sign, sauna setting; close-up includes upper torso."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual9": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Cobalt science-hostess outfit, bubble hoop in one hand and raised index finger in the other."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual10": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Magenta short yukata and flight harness above snowy valley; camera rendered oblique rather than directly overhead, body more front-facing than planned. Pose deviations recorded; no regeneration."
+    },
+    "regenerated": false,
+    "attempts": 1
+  },
+  "casual90": {
+    "style_25d": {
+      "판정": "2.5D",
+      "근거": "Nose, lips and jaw have painted dimensional gradients with soft facial contours; layered hair highlights."
+    },
+    "identity": "Matches selected half-up silver-haired, teal-eyed reference.",
+    "anatomy": {
+      "issue": "ok",
+      "tool": "unavailable: mediapipe is not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands connect to corresponding forearms; five-digit hand structure, fingers partly hidden by grip or pose. Cropped legs and far arm noted where occluded.",
+      "overlay_checked": false,
+      "note": "Visual inspection of original and detail views; Seated master smith with both hands resting on knees; separate small Aron in background, permitted place creature."
+    },
+    "regenerated": false,
+    "attempts": 1
+  }
+}
