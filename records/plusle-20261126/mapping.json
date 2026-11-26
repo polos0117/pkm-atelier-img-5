@@ -1,0 +1,182 @@
+[
+ {
+  "slot": "light",
+  "file": "플러시_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "8f8b52d20a82458aa21de461f5f3fdc7a2ff1bab3efc1a795be7318f2286eff7",
+  "sha256": "7ddd4fb7ae46d28d1adadbc08ac4ec6d048d8226a6ea6192464d4280afef3edd",
+  "submitted_sha256": "4a140fe2826c1972ff7ab95732dc325a4661ae6e289dc2543b79a2bd0a620c1b",
+  "submitted_same": true,
+  "reference": null,
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual1",
+  "file": "플러시_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "original_sha256": "1d12ee558be7867a7200c873e28a741b823b48ed32bf5e01dc0d97283d06dc5c",
+  "sha256": "29350b1461bd77b818f02afa98a79117118efdb82fe276bf0aace62ba64418c8",
+  "submitted_sha256": "d760b7d5f232170a5cd9372a3ffaae59f72db4faaf7c3a67d108ee8b50049c69",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual2",
+  "file": "플러시_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "57ba386de8b3b8a2795c495cd487c59d32f01e379290aaac248dd13c734470fa",
+  "sha256": "6b5579fc70ca35b2e0ea6eaa5dcfbac0cee78241ded4a557992c79a212ba40be",
+  "submitted_sha256": "cec72f350eb7c7e0f5a2415c45fe524b506c04de759408ec5e36c9c1623b14d0",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual3",
+  "file": "플러시_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "b5fa846a48017e31683355370db92ac38e6f0a47d1daf60aad152c516a18f6ea",
+  "sha256": "106bfdd3afd9e78b910ac7530c35f3ae4c971863db779e12a6244fac34a7f6f6",
+  "submitted_sha256": "8a701be4af78d5d04f211e10be59a5a0db319b7f7e7a5e28d5b791f44db0fedb",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual4",
+  "file": "플러시_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "b5c74c9c9d89447140d0069ef83412ebff66fcad407963440d07a4c4a9918fd3",
+  "sha256": "1ef55f8215bb2d90eaebf45101c137de5652d445f60d16d5d2ed3b4dfb64d13f",
+  "submitted_sha256": "513e56406ee2f8b61e856ffe66b7f33587a009f884c63e663605c008d0f27491",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual5",
+  "file": "플러시_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "6b3bd067d3caae2063c41ac8fa6c605c04e9914aa7bc756f3241a6f7006b84f9",
+  "sha256": "d42df1eb094f1502f193afdac651c8f7813607cb41d8bb44431dc6c451cb2227",
+  "submitted_sha256": "db57b2727c4a0552f9edde095597cc50e468e922d9f17afb605eccd3dbac18b7",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual6",
+  "file": "플러시_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "6c3fab329bd67142996b4ffe359c718c35e4b2bad557b700287d58d6660a12d9",
+  "sha256": "ea65485d96fa298ca97eaba7665e31c98e8483fa9c188b5a998711d641fdd14c",
+  "submitted_sha256": "0da33a738fb94b047e39d809a35557f5fb1258bc81507708c622606e8cc15303",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual7",
+  "file": "플러시_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "original_sha256": "3b230dc68a8dd5c25695e141ea9f660630800eadbbb0b2a63d241ddc9b2e1327",
+  "sha256": "0ac62346a76c02f7a9b7476a2957faa2181e2ed96c63432e84e0c9242a38a198",
+  "submitted_sha256": "c061252b5d15baade2fad4ee69885acf393e87b64a6665e93fcf98d2201ace2d",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual8",
+  "file": "플러시_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "9508cc241ee0d62879829b49760a30444d863fba313f6cce808a40c32a0c51a5",
+  "sha256": "20f04da270a34d349dca107a667a5b6bbeff6ee3d08cf9f70ff435b68a4dc09a",
+  "submitted_sha256": "d2573855f8b40bb6312a88e2434d253eb14ad8b95d5ceb90d36337437946aa2f",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual9",
+  "file": "플러시_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1024,
+   1024
+  ],
+  "format": "WEBP",
+  "original_sha256": "407112a133def658e8720b160d6a3afaf688a35b5bee4618a2171c0a9b4acd44",
+  "sha256": "2f3adce6513a6a3c6484db8a5bb495956d8d917fa9d3e4a7d494dd0a410d4377",
+  "submitted_sha256": "74e6f951e325b4983a91df69688afde7c08bce129c2b2c44030662ed6ffb0c0d",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual10",
+  "file": "플러시_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "e6a0ed5ef12b0e2315db043b5d1c31a1e77c327d429aad489dd629390cf8e0fd",
+  "sha256": "6bfbc9506264e10da9253f4ee5356ae9ed5b7db59eee2af744be71f88d101d40",
+  "submitted_sha256": "3acb2a17cb0ecae2fae39fd660fa232ee0bc5bc10c0f4b63f2796ff1c1702e89",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ },
+ {
+  "slot": "casual90",
+  "file": "플러시_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "original_sha256": "2ede5a9090b7c49793ada0fb618a07062993b5bfc5d824f6f5ead05857ed2ed7",
+  "sha256": "83854e0688be66ee8ef47f5bceeda4220431130f7767f30be12b806b236e61d8",
+  "submitted_sha256": "c3d1a6a9fa029c6cfc837828b6d4b19e5c613a4049069469715a518078a18a8c",
+  "submitted_same": true,
+  "reference": "플러시_light_anime_25d_gloss_f.webp",
+  "style_basis": "generator anime_25d_gloss plus user selection 3"
+ }
+]

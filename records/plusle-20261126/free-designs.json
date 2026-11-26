@@ -1,0 +1,20 @@
+{
+  "casual2": {
+    "design": "gpt_free",
+    "free_prompt": "casual2-free-prompt.txt",
+    "outside_scene_identical": true,
+    "sha256": "cec72f350eb7c7e0f5a2415c45fe524b506c04de759408ec5e36c9c1623b14d0"
+  },
+  "casual3": {
+    "design": "gpt_free",
+    "free_prompt": "casual3-free-prompt.txt",
+    "outside_scene_identical": true,
+    "sha256": "8a701be4af78d5d04f211e10be59a5a0db319b7f7e7a5e28d5b791f44db0fedb"
+  },
+  "casual10": {
+    "design": "gpt_outfit",
+    "free_prompt": "casual10-free-prompt.txt",
+    "only_outfit_changed": true,
+    "sha256": "3acb2a17cb0ecae2fae39fd660fa232ee0bc5bc10c0f4b63f2796ff1c1702e89"
+  }
+}

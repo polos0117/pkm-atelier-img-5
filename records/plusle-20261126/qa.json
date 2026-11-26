@@ -1,0 +1,167 @@
+{
+ "card": "플러시",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 3,
+ "regenerated": false,
+ "images": {
+  "light": {
+   "file": "플러시_light_anime_25d_gloss_f.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Ear headpiece reaches top frame edge; arms/legs connected; open gloved hand five digits, other hand clenched.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Ear headpiece reaches top frame edge; arms/legs connected; open gloved hand five digits, other hand clenched."
+  },
+  "casual1": {
+   "file": "플러시_anime_25d_gloss_f_casual1.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both forearms and hands connected, fingers naturally relaxed; legs below sleeping bag/frame.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Both forearms and hands connected, fingers naturally relaxed; legs below sleeping bag/frame."
+  },
+  "casual2": {
+   "file": "플러시_anime_25d_gloss_f_casual2.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two bent arms connected to shoulders; palms cover ears, some fingers hidden; thighs visible, lower legs cropped.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Two bent arms connected to shoulders; palms cover ears, some fingers hidden; thighs visible, lower legs cropped."
+  },
+  "casual3": {
+   "file": "플러시_anime_25d_gloss_f_casual3.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two connected arms; right hand wraps plush, fingers partly hidden; left hand grips coin; full legs and feet present.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Two connected arms; right hand wraps plush, fingers partly hidden; left hand grips coin; full legs and feet present."
+  },
+  "casual4": {
+   "file": "플러시_anime_25d_gloss_f_casual4.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near arm and hand connected; far arm partly occluded by torso; lower legs outside crop.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Near arm and hand connected; far arm partly occluded by torso; lower legs outside crop."
+  },
+  "casual5": {
+   "file": "플러시_anime_25d_gloss_f_casual5.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near hand rests on ledge with five fingers; far hand occluded by body; two legs and feet visible. Reference ear ornament retained; minor wardrobe deviation recorded, not regenerated.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Near hand rests on ledge with five fingers; far hand occluded by body; two legs and feet visible. Reference ear ornament retained; minor wardrobe deviation recorded, not regenerated."
+  },
+  "casual6": {
+   "file": "플러시_anime_25d_gloss_f_casual6.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both arms extend naturally from shoulders; hands outside frame; lower body underwater.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Both arms extend naturally from shoulders; hands outside frame; lower body underwater."
+  },
+  "casual7": {
+   "file": "플러시_anime_25d_gloss_f_casual7.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near hand on cheek, other hand on fountain edge, five visible fingers on supporting hand; legs partially cropped. Ear ornament retained and gown interpreted shorter than plan; recorded without regeneration.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Near hand on cheek, other hand on fountain edge, five visible fingers on supporting hand; legs partially cropped. Ear ornament retained and gown interpreted shorter than plan; recorded without regeneration."
+  },
+  "casual8": {
+   "file": "플러시_anime_25d_gloss_f_casual8.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two connected arms; supporting hand on floor, other hand on knee; two bent legs and stocking feet visible.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Two connected arms; supporting hand on floor, other hand on knee; two bent legs and stocking feet visible."
+  },
+  "casual9": {
+   "file": "플러시_anime_25d_gloss_f_casual9.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two connected arms; one hand grips cone and other rests on railing, fingers partly hidden by glove/grip; legs cropped.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Two connected arms; one hand grips cone and other rests on railing, fingers partly hidden by glove/grip; legs cropped."
+  },
+  "casual10": {
+   "file": "플러시_anime_25d_gloss_f_casual10.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two arms and hands on seat; two legs and feet visible. Reference ear ornament retained, recorded without regeneration.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Two arms and hands on seat; two legs and feet visible. Reference ear ornament retained, recorded without regeneration."
+  },
+  "casual90": {
+   "file": "플러시_anime_25d_gloss_f_casual90.webp",
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Raised hand has five fingers; other arm exits crop past upper arm; shoulders connected, lower legs outside crop.",
+    "overlay_checked": false,
+    "note": "Visual inspection; hidden and cropped anatomy not asserted as visible."
+   },
+   "notes": "Raised hand has five fingers; other arm exits crop past upper arm; shoulders connected, lower legs outside crop."
+  }
+ },
+ "anatomy_unavailable": "mediapipe is not installed; visual inspection performed",
+ "publication": "pending",
+ "planning_note": "New requested anime_25d_gloss series. Planner planBatch used current ledger with target species legacy glossy_promo entry excluded from existing-completion detection; comparison history for all other characters retained. Official check/reserve/verify passed. Existing glossy_promo images preserved."
+}
