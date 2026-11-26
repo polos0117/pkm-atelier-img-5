@@ -1,0 +1,166 @@
+{
+  "card": "샤크니아",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 3,
+  "status": "ready-for-publication",
+  "images": [
+    {
+      "slot": "light",
+      "file": "샤크니아_light_anime_25d_gloss_f.webp",
+      "original_sha256": "aff61103c2422197e5cf70bfc6ef00c8370e722f37a11dfee62ab73e283bd73e",
+      "webp_sha256": "403f444b18d9a4a3b40e584c3c76a2a7b9235ad25b947f04d5bbaf63b43fb48c",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "light-prompt.txt",
+      "submitted_sha256": "acd34141217aec1f962830ce01e934ae378204498b76daa0a60181bfca2f26bf",
+      "reference": null
+    },
+    {
+      "slot": "casual1",
+      "file": "샤크니아_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "679f2926873202c05b3c9b000de78d7836ff0be4d88c2089cc1ced2f598cc2f0",
+      "webp_sha256": "ad577c237539c04e65a5d3a0aa1a3c6e6a599084110d2a9231166f1e61ec191a",
+      "size": [
+        1024,
+        1024
+      ],
+      "prompt": "casual1-submitted.txt",
+      "submitted_sha256": "0582d2010027e5f084630bcc01405294c5465aef282c392b03fc1ffb2ee70919",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "file": "샤크니아_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "88ce13a8a67a7771f82fd1e429893a9e870fe631c58b9fe9e0c61b8a67bfbde1",
+      "webp_sha256": "082a7585ee865a3e50bb2ecfc0005dbfdb78cd8cd0e1e4df5ceac855bb46701c",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "casual2-submitted.txt",
+      "submitted_sha256": "4b67f38793814eb2223c0733b96f4d1bd537b320baa27214647f249ae29463bd",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "file": "샤크니아_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "785c9b4f86c5eb0aade02a3d9a0fdf4d048df32ad021caa1fc0681a32564b0e5",
+      "webp_sha256": "c87dfb5942e757ac3ab459e4e7b48dbd1a952b2c0d5301ea0c7ad6e625e0987f",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "casual3-submitted.txt",
+      "submitted_sha256": "f50af03350aa01690045595b8f5e365be1d694d3c70d140b7691e51f24588e68",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual4",
+      "file": "샤크니아_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "fe5ea7a619e4668424429e51b95262bf2afa966f928fd01b81f0e9a995fe7164",
+      "webp_sha256": "16976fa2e8040d232ec74cca11c0fd4e67eda337b20d6e44ead01fc75ed4341f",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "casual4-submitted.txt",
+      "submitted_sha256": "20c26d329f4a50e2d544b40d3309a4b4b3618962dc1bbd0d53f42ec15a7768e9",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual5",
+      "file": "샤크니아_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "75983da513f876d716d00c8aeb08f2c0c5dfdc6fbd0d6e6ff72233b3b0634963",
+      "webp_sha256": "6280cc1a86cae728053a28dfbee69da10eb01f9e6748d4e046efd936a1cdab17",
+      "size": [
+        1536,
+        1024
+      ],
+      "prompt": "casual5-submitted.txt",
+      "submitted_sha256": "2eebda128c668219ef8df1bf2bde72b06e24c0aa3779a8d1d0a3c4b2d3b9fe63",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual6",
+      "file": "샤크니아_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "dd6915030cd0aa37857037e3429de1a20ea016771fdbee539a25f615ccb747a8",
+      "webp_sha256": "3e7dae3312ed926302b59c7e1353d40788c6e990c11c21a2901f3a5822ec73fe",
+      "size": [
+        1024,
+        1024
+      ],
+      "prompt": "casual6-submitted.txt",
+      "submitted_sha256": "de1b7ec3d941640e9d32099827de5cb729409e393239819100c31b8b392e13aa",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual7",
+      "file": "샤크니아_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "e341d8d1a792ff05102ba3c45fa30da4e0611f2c6266b10ed52841d520a20f5e",
+      "webp_sha256": "b660af83e95703d9a661034942c50f247296d3989a0938a5754cdefc6f6c3dc7",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "casual7-submitted.txt",
+      "submitted_sha256": "d0dfeb9a11e2e7b255d92b1b935494bb1fa9ea51fa00d7d74006239806375c65",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual8",
+      "file": "샤크니아_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "1f087d1a5d1120015a69d8ecfc04b12cae7ff5223e563465848b3142fb9a0144",
+      "webp_sha256": "bde52d212faa0857f060e843fc1f2d64b919b632dd92622d128d3419f1c1a35d",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "casual8-submitted.txt",
+      "submitted_sha256": "9cae5ce2c227c8fc105507a1d70dfad2b1b6ab93108fde708d2bcdf1078fe060",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual9",
+      "file": "샤크니아_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "34e429cab8e1c25e8926eea4b1d4abbfa6bdee5335dde77b0c4124195d5e4a1e",
+      "webp_sha256": "182ca25f47c93bcc95a6c22d6e4d7a5e0d0d45aabd6376bb96829a11873ebac2",
+      "size": [
+        1024,
+        1024
+      ],
+      "prompt": "casual9-submitted.txt",
+      "submitted_sha256": "ecc9b8b3ee8f198813651aa7d7acd74d85920dd0915976d5b843fbd158fe5da6",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual10",
+      "file": "샤크니아_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "be62e57399283bc2b5cf3d36fa5d7b0d8386e25e7d4d38bc1b9a89698feb65fb",
+      "webp_sha256": "d2bd7b03bcdaaa29cd856b04c26f724983aa97dc987953231678460e2cee5586",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "casual10-submitted.txt",
+      "submitted_sha256": "05ef0a0fb6b8a77ff11a0689d559e991394659bdb07ee3a67f1abb0b3af2ac04",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual90",
+      "file": "샤크니아_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "9a5d7f22b72a66fe395657056b23b847265cbb43f18f9863a87393dd69f113a2",
+      "webp_sha256": "8f2c8a2705836d48fe58cd6070054b8b9a374f0b813d9bcfc19b6c84c8247842",
+      "size": [
+        1024,
+        1024
+      ],
+      "prompt": "casual90-submitted.txt",
+      "submitted_sha256": "9594c05560889564d2108d9bf91fe146dc8153a0596e0510c31ae3447f530c4f",
+      "reference": "샤크니아_light_anime_25d_gloss_f.webp"
+    }
+  ],
+  "reservation_commit": "842d76da4616939397654ae9896e1b74f1a2a6b6",
+  "preserved_prior_style": "glossy_promo"
+}

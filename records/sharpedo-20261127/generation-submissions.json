@@ -1,0 +1,79 @@
+{
+  "casual1": {
+    "file": "casual1-prompt.txt",
+    "sha256": "0582d2010027e5f084630bcc01405294c5465aef282c392b03fc1ffb2ee70919",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual2": {
+    "file": "casual2-free-prompt.txt",
+    "sha256": "4b67f38793814eb2223c0733b96f4d1bd537b320baa27214647f249ae29463bd",
+    "design": "gpt_free",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual3": {
+    "file": "casual3-prompt.txt",
+    "sha256": "f50af03350aa01690045595b8f5e365be1d694d3c70d140b7691e51f24588e68",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual4": {
+    "file": "casual4-prompt.txt",
+    "sha256": "20c26d329f4a50e2d544b40d3309a4b4b3618962dc1bbd0d53f42ec15a7768e9",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual5": {
+    "file": "casual5-prompt.txt",
+    "sha256": "2eebda128c668219ef8df1bf2bde72b06e24c0aa3779a8d1d0a3c4b2d3b9fe63",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual6": {
+    "file": "casual6-prompt.txt",
+    "sha256": "de1b7ec3d941640e9d32099827de5cb729409e393239819100c31b8b392e13aa",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual7": {
+    "file": "casual7-free-prompt.txt",
+    "sha256": "d0dfeb9a11e2e7b255d92b1b935494bb1fa9ea51fa00d7d74006239806375c65",
+    "design": "gpt_free",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual8": {
+    "file": "casual8-prompt.txt",
+    "sha256": "9cae5ce2c227c8fc105507a1d70dfad2b1b6ab93108fde708d2bcdf1078fe060",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual9": {
+    "file": "casual9-prompt.txt",
+    "sha256": "ecc9b8b3ee8f198813651aa7d7acd74d85920dd0915976d5b843fbd158fe5da6",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual10": {
+    "file": "casual10-prompt.txt",
+    "sha256": "05ef0a0fb6b8a77ff11a0689d559e991394659bdb07ee3a67f1abb0b3af2ac04",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  },
+  "casual90": {
+    "file": "casual90-prompt.txt",
+    "sha256": "9594c05560889564d2108d9bf91fe146dc8153a0596e0510c31ae3447f530c4f",
+    "design": "project",
+    "status": "ready",
+    "reference_candidate": 3
+  }
+}

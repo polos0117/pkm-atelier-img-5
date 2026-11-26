@@ -1,0 +1,80 @@
+{
+  "card": "샤크니아",
+  "style": "anime_25d_gloss",
+  "status": "selected-casual-planning",
+  "selection": 3,
+  "worktree": "/workspace/scratch/d18b9138bca4/sharpedo",
+  "shared_git": "/workspace/shared-git/pkm-atelier.git",
+  "prior_style_preserved": "glossy_promo",
+  "images": [
+    {
+      "candidate": 1,
+      "design": "project",
+      "prompt": "light-prompt.txt",
+      "submitted_sha256": "337d2c61a770d9ed1f67abead21bff84ffc68013e673ac59fe7b801c2808ed3d",
+      "submitted_same": true,
+      "generation_mode": "built-in image_gen",
+      "status": "generated-preserved",
+      "original_path": "/workspace/scratch/d18b9138bca4/generated_images/exec-78d09f09-93a8-4ce1-b1f3-84d83543cf98.png",
+      "original_sha256": "faf051be405b1ed5f5aecdfd1157dca7577700d3fa0b9c3ec5db897c00ae2537",
+      "webp_path": "/workspace/scratch/d18b9138bca4/sharpedo-pack/candidate-1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "visual_qa": "One adult woman, two connected arms and legs, one open gloved hand and one loose gloved fist; full body visible. Exposure differences retained without regeneration."
+    },
+    {
+      "candidate": 2,
+      "design": "project",
+      "prompt": "light-prompt.txt",
+      "submitted_sha256": "337d2c61a770d9ed1f67abead21bff84ffc68013e673ac59fe7b801c2808ed3d",
+      "submitted_same": true,
+      "generation_mode": "built-in image_gen",
+      "status": "generated-preserved",
+      "original_path": "/workspace/scratch/d18b9138bca4/generated_images/exec-cacacdd1-d1c8-414a-afb0-e9c187090b93.png",
+      "original_sha256": "5c9395cff324f093183760a8a651003ece97bd5bc19cc47fb35aa5a4d6daf339",
+      "webp_path": "/workspace/scratch/d18b9138bca4/sharpedo-pack/candidate-2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "visual_qa": "One adult woman, two connected arms and legs, one open gloved hand and one loose gloved fist; full body visible. Exposure differences retained without regeneration."
+    },
+    {
+      "candidate": 3,
+      "design": "gpt",
+      "prompt": "light-free-1-prompt.txt",
+      "submitted_sha256": "b3f352864c189f461b48dd57fefd104f24bea6f667e27785fdc3c2a228d26318",
+      "submitted_same": true,
+      "generation_mode": "built-in image_gen",
+      "status": "generated-preserved",
+      "original_path": "/workspace/scratch/d18b9138bca4/generated_images/exec-93447912-0356-40ee-8e75-78c61d59576e.png",
+      "original_sha256": "aff61103c2422197e5cf70bfc6ef00c8370e722f37a11dfee62ab73e283bd73e",
+      "webp_path": "/workspace/scratch/d18b9138bca4/sharpedo-pack/candidate-3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "visual_qa": "One adult woman, two connected arms and legs, one open gloved hand and one loose gloved fist; full body visible. Exposure differences retained without regeneration."
+    },
+    {
+      "candidate": 4,
+      "design": "gpt",
+      "prompt": "light-free-2-prompt.txt",
+      "submitted_sha256": "f1166ad17e0c49fbd49abacece0a7bf867ad6b7cbfbd394c6a9676e36a95eabb",
+      "submitted_same": true,
+      "generation_mode": "built-in image_gen",
+      "status": "generated-preserved",
+      "original_path": "/workspace/scratch/d18b9138bca4/generated_images/exec-3ce0d6ed-189e-4867-913c-6f32b686b7a8.png",
+      "original_sha256": "0e7f17ca5c30a396fc6e5eb286c9c5be97e9bc9086409ff8bd6df01eb335ce81",
+      "webp_path": "/workspace/scratch/d18b9138bca4/sharpedo-pack/candidate-4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "visual_qa": "One adult woman, two connected arms and legs, one open gloved hand and one loose gloved fist; full body visible. Exposure differences retained without regeneration."
+    }
+  ],
+  "sheet": "/workspace/scratch/d18b9138bca4/sharpedo-selection-sheet.jpg"
+}

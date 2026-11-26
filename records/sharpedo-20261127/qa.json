@@ -1,0 +1,213 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both gloves: open hand with five visible digits and loose fist with digits occluded by grip; two armored legs and boots visible.",
+      "overlay_checked": false,
+      "note": "Both gloves: open hand with five visible digits and loose fist with digits occluded by grip; two armored legs and boots visible."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Ball-holding fingers partly occluded; resting hand has five digits, connected wrist; legs outside waist-up frame.",
+      "overlay_checked": false,
+      "note": "Ball-holding fingers partly occluded; resting hand has five digits, connected wrist; legs outside waist-up frame."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 2,
+      "blocked": [
+        {
+          "request_id": "11009cf1-d9cd-4e3c-9037-e712bcaafc47",
+          "reason": "moderation_blocked at output; no image returned",
+          "retry": "identical prompt, reference and settings; succeeded"
+        }
+      ]
+    },
+    "regenerated_after_success": false
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Postcard grip partly occluded; armrest hand five digits; two crossed legs; trousers rendered as split draped skirt, retained.",
+      "overlay_checked": false,
+      "note": "Postcard grip partly occluded; armrest hand five digits; two crossed legs; trousers rendered as split draped skirt, retained."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Bubble-bottle grip partly occluded; second arm outside crop, shoulder and upper arm attached.",
+      "overlay_checked": false,
+      "note": "Bubble-bottle grip partly occluded; second arm outside crop, shoulder and upper arm attached."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "V-sign hand has five digits; other arm leaves close-up frame naturally at the shoulder/upper arm.",
+      "overlay_checked": false,
+      "note": "V-sign hand has five digits; other arm leaves close-up frame naturally at the shoulder/upper arm."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Watermelon hand grip partly occluded; other hand obscured behind head but arm continuously connected; two reclining legs.",
+      "overlay_checked": false,
+      "note": "Watermelon hand grip partly occluded; other hand obscured behind head but arm continuously connected; two reclining legs."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both flower-weaving hands connected, fingers partly occluded by stems and fingerless gloves; legs below crop.",
+      "overlay_checked": false,
+      "note": "Both flower-weaving hands connected, fingers partly occluded by stems and fingerless gloves; legs below crop."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Raised hoop hand grip partly occluded; rail hand five digits; two legs and sandals; left/right action mirrored, retained.",
+      "overlay_checked": false,
+      "note": "Raised hoop hand grip partly occluded; rail hand five digits; two legs and sandals; left/right action mirrored, retained."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Key hand fingers overlap naturally around grip; planted hand has five digits; two kneeling legs and shoes.",
+      "overlay_checked": false,
+      "note": "Key hand fingers overlap naturally around grip; planted hand has five digits; two kneeling legs and shoes."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Planted hand five visible digits; other hand partly cropped with forearm connected; lower legs outside crop.",
+      "overlay_checked": false,
+      "note": "Planted hand five visible digits; other hand partly cropped with forearm connected; lower legs outside crop."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "V sign five digits; other arm extends below frame, both shoulders and upper arms present.",
+      "overlay_checked": false,
+      "note": "V sign five digits; other arm extends below frame, both shoulders and upper arms present."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe module missing",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Hip hand five digits; temple hand partly obscured by hair; lower legs below square crop.",
+      "overlay_checked": false,
+      "note": "Hip hand five digits; temple hand partly obscured by hair; lower legs below square crop."
+    },
+    "generation": {
+      "mode": "built-in image_gen",
+      "selected_candidate": 3,
+      "tries": 1
+    },
+    "regenerated_after_success": false
+  }
+}

@@ -1,0 +1,173 @@
+{
+ "storage": {
+  "last": "샤크니아",
+  "cards": {
+   "샤크니아": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "proud",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "1:1",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "subtle",
+       "separates_preference": "prefer separates"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "weather": true,
+       "time": true,
+       "depth": true,
+       "view": true,
+       "ofam": true,
+       "item": true,
+       "expose": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "use": true,
+       "expr": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "now",
+      "place": "stage_wedding",
+      "weather": "snow",
+      "time": "morning",
+      "depth": "deep",
+      "view": "glass",
+      "ofam": "pokemon_costume",
+      "item": "pc_corset",
+      "expose": [
+       "deep V neckline",
+       "open back"
+      ],
+      "posture": "sit_edge",
+      "support": "hip_edge",
+      "frame": "three_quarter",
+      "body": "front",
+      "head": "with_body",
+      "camera": "eye",
+      "right": "prop",
+      "left": "prop",
+      "use": "flowers_crown",
+      "preset": "edge_both",
+      "turn": "front",
+      "ostyle": {
+       "acc": "bangles"
+      }
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Sharpedo (샤크니아) personified, water / dark type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: hourglass-figured — full bust and hips, distinctly narrow-waisted — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her wearing the costume chosen in SCENE — a daring adult costume version of her source creature, as worn to a costume party, convention or photo shoot. In this cut her species shows in the outfit itself: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a square 1:1 (1024×1024) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a bridal room, garden aisle or reception hall\nWeather / season: a snowy day — snow falls or lies outside, with frost on any window.\nTime of day: early morning — low clean light, long soft shadows; morning light slanting through the window across the floor.\nOutfit: a daring adult costume version of Sharpedo itself — blue colours; its tall dorsal fin, torpedo-shaped shark, large mouth rebuilt as costume pieces (ears or headband, hood, tail, gloves, fabric prints), never painted on her own skin, cut as a laced corset bustier with a short flared skirt; styled with a few thin stacked bangles on one wrist\nCut: deep V neckline and open back built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: perched on a ledge or edge.\nSUPPORT: she sits on the edge, her weight on her hips.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body facing the camera; head facing the camera straight on, both ears about equally visible; camera at her eye level; the space runs far back behind her, its lines receding into the distance; she is seen through window glass with faint reflections on it; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand is in PROP — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nPROP: with both hands she weaves a few loose flower stems into a small crown in her lap — her own right hand twists a stem into the ring, her own left hand holds the half-made crown.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: brows level, eyes bright and steady, closed-lip smile with a firm mouth. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nseparates_preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nWARDROBE: change her clothes completely into the costume SCENE describes. From the attached image take only her face and hair — not its armor, garment, jewelry, hair ornaments or background. The costume must read at first glance as that creature's look, rebuilt as a glamorous adult outfit; she is a real woman in a costume — never the creature itself, its face on her face, fur or scales on her skin, a logo or readable text.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+ "plan": {
+  "cut": 6,
+  "treeV": 2,
+  "era": "now",
+  "place": "stage_wedding",
+  "ofam": "pokemon_costume",
+  "item": "pc_corset",
+  "garments": [
+   "lingerie_set",
+   "skirt"
+  ],
+  "ocolor": "",
+  "weather": "snow",
+  "time": "morning",
+  "moment": "",
+  "light": "",
+  "spot": "",
+  "depth": "deep",
+  "view": "glass",
+  "posture": "sit_edge",
+  "support": "hip_edge",
+  "frame": "three_quarter",
+  "body": "front",
+  "head": "with_body",
+  "camera": "eye",
+  "right": "prop",
+  "left": "prop",
+  "use": "flowers_crown",
+  "legs": "",
+  "gaze": "",
+  "preset": "edge_both",
+  "turn": "front",
+  "ostyle": {
+   "acc": "bangles"
+  },
+  "expr": "proud",
+  "aspect": "1:1",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "balanced",
+   "source_influence": "subtle",
+   "separates_preference": "prefer separates"
+  },
+  "expose": [
+   "deep V neckline",
+   "open back"
+  ],
+  "lead": "light",
+  "shade": ""
+ },
+ "manual_inputs": {},
+ "manual_why": {}
+}
