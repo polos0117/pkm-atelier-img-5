@@ -1,0 +1,48 @@
+{
+  "status": "selected",
+  "character": "갱도라",
+  "style": "anime_25d_gloss",
+  "candidates": [
+    {
+      "candidate": 1,
+      "path": "/workspace/scratch/ebe60f8ddfae/generated_images/exec-20359f1a-dceb-4604-9454-7af9aaccccca.png",
+      "sha256": "5e37e03320e52302f13f1d27a5ff37685ff21559fbb4192eccecbd2782db2ced",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/ebe60f8ddfae/lairon-pack/candidate-1-submitted.txt"
+    },
+    {
+      "candidate": 2,
+      "path": "/workspace/scratch/ebe60f8ddfae/generated_images/exec-2d4e7729-a782-4b1c-8da9-1f01939488e8.png",
+      "sha256": "d26117bf182eaec995a01d13282a0f38967059a74caafb0ff1215b30cb8d988c",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/ebe60f8ddfae/lairon-pack/candidate-2-submitted.txt"
+    },
+    {
+      "candidate": 3,
+      "path": "/workspace/scratch/ebe60f8ddfae/generated_images/exec-81d715ea-6664-4433-bebc-7659b98dc534.png",
+      "sha256": "ce6ef7dbc49b0b65e17798a5b0509692264f3d0cf21a32d0d2f2b1e92481b2bb",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/ebe60f8ddfae/lairon-pack/candidate-3-submitted.txt"
+    },
+    {
+      "candidate": 4,
+      "path": "/workspace/scratch/ebe60f8ddfae/generated_images/exec-1a74eb01-4887-4355-96d9-7e55568980ba.png",
+      "sha256": "026fd97a32ea3bcf0810d029f40278753f564bf1149f007a6a852c4692c948d6",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/ebe60f8ddfae/lairon-pack/candidate-4-submitted.txt"
+    }
+  ],
+  "selected_candidate": 1
+}

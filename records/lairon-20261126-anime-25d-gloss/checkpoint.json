@@ -1,0 +1,338 @@
+{
+  "card": "갱도라",
+  "style": "anime_25d_gloss",
+  "stage": "ready_for_upload",
+  "selected_candidate": 1,
+  "selected_original_sha256": "5e37e03320e52302f13f1d27a5ff37685ff21559fbb4192eccecbd2782db2ced",
+  "files": [
+    {
+      "slot": "light",
+      "filename": "갱도라_light_anime_25d_gloss_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "5e37e03320e52302f13f1d27a5ff37685ff21559fbb4192eccecbd2782db2ced",
+      "webp_sha256": "e13ad83a26446a96757cc1b41508cb0ce9404c4d0678fea20639e3206ea97bac",
+      "submitted_sha256": "a91ec21b631fc94253f9496edacd4ff102980dc061c50ef1aa4fc6998a71e31c",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": null,
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Silver blunt bob, blue eyes, sculpted steel plates with rounded recessed holes, bulky shoulder units. Both arms and legs connect naturally; open hand and loose fist, fingers partially overlapped by pose.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Silver blunt bob, blue eyes, sculpted steel plates with rounded recessed holes, bulky shoulder units. Both arms and legs connect naturally; open hand and loose fist, fingers partially overlapped by pose."
+    },
+    {
+      "slot": "casual1",
+      "filename": "갱도라_anime_25d_gloss_f_casual1.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "e9e51898d5029f802d46958c86201a8274e970646dc127f17f01f0c6f7e46b3c",
+      "webp_sha256": "cd4dce6e5b56071eff614daf7570c12760a0290aaf2f3451590d645b0af57752",
+      "submitted_sha256": "cac3a6a42107ddd5cfdfdc7c2ef72082930ff42338e23a15a5bb64d6f83fe484",
+      "submitted_same": false,
+      "authorized_free_design": true,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Warm gong room, wine and ivory bell-ringer costume; one raised arm extends continuously to palm on gong, other arm relaxed down; bare side waist, two legs and feet grounded. Outstretched palm has five digits with perspective overlap.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Warm gong room, wine and ivory bell-ringer costume; one raised arm extends continuously to palm on gong, other arm relaxed down; bare side waist, two legs and feet grounded. Outstretched palm has five digits with perspective overlap."
+    },
+    {
+      "slot": "casual2",
+      "filename": "갱도라_anime_25d_gloss_f_casual2.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "d132f81bb138ab16fc59aaa872f0ebe6641e092c57b24a82cb544e0adc1b69b5",
+      "webp_sha256": "b5e3c1d45d0e7989871709110175524849cf79c6a3ab68c4756b55054adb88f1",
+      "submitted_sha256": "a5fe8aafc41f168fa525aba0e2bf840881fc2ff34a51bb64ecd000c9788a83f6",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Festival face portrait, glossy teal neckline; one hand brushes ear, fingers partly occluded by hair, thumb rests inward. Near shoulder and upper arm visible, far shoulder continues outside crop. Winking expression rendered instead of planned neutral portrait; retained.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Festival face portrait, glossy teal neckline; one hand brushes ear, fingers partly occluded by hair, thumb rests inward. Near shoulder and upper arm visible, far shoulder continues outside crop. Winking expression rendered instead of planned neutral portrait; retained."
+    },
+    {
+      "slot": "casual3",
+      "filename": "갱도라_anime_25d_gloss_f_casual3.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "7c4f9b7c0ddcc37b9258faa97928b4d9b08b0fba47fd19d9d808614b12b1c8f1",
+      "webp_sha256": "1d532d66ad3d74effa117f854d9eba18916dbe89c2476748a0dd965a4b80970e",
+      "submitted_sha256": "65a1ab28afa66580065246c3106a0be8d8a91b21ddfd1cd4edad1d2b1b2958af",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Stadium seated look-back, terracotta high collar and open-back top with blue culotte shorts; near arm rests on seat, far arm mostly occluded by torso; visible hand fingers relaxed over edge. Chin and neck turn naturally.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Stadium seated look-back, terracotta high collar and open-back top with blue culotte shorts; near arm rests on seat, far arm mostly occluded by torso; visible hand fingers relaxed over edge. Chin and neck turn naturally."
+    },
+    {
+      "slot": "casual4",
+      "filename": "갱도라_anime_25d_gloss_f_casual4.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "8c62e888abb880b93a340e054d2e2276f94f6b4981356bc69808613409381646",
+      "webp_sha256": "37ab66fddd7a439e6195ea87be1ac5399bd6e08dec013a60e60a8453f4d775a1",
+      "submitted_sha256": "64df44369f593d64003d72500931fbfd56626222262ed9346150cd906f84528a",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Flower-market costume with corset and layered skirt; kneeling with both arms attached, one hand on thigh and one on paving. Gloves expose fingers; five digits indicated on each with overlap. Mechanical-looking costume panels retained.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Flower-market costume with corset and layered skirt; kneeling with both arms attached, one hand on thigh and one on paving. Gloves expose fingers; five digits indicated on each with overlap. Mechanical-looking costume panels retained."
+    },
+    {
+      "slot": "casual5",
+      "filename": "갱도라_anime_25d_gloss_f_casual5.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "b5def607e08474d4f9fcb7807264085355010905f9ddbfbe3031d5c7d084279e",
+      "webp_sha256": "cba6031948d0c721d7851fec86cac77d4fd1becd415b8d1b0f452296cc20f0b1",
+      "submitted_sha256": "b27a3e1018621100d010247611f4300dd118ce4c47b9b1e271ecb7605d4ddcfc",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Floating-island ledge, pink shell-cup swimwear, legs dangling in open air; two attached arms, both palms support the seated posture on stone. One hand partly hidden by body, other five digits. Knees and ankles continuous; no underwater placement.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Floating-island ledge, pink shell-cup swimwear, legs dangling in open air; two attached arms, both palms support the seated posture on stone. One hand partly hidden by body, other five digits. Knees and ankles continuous; no underwater placement."
+    },
+    {
+      "slot": "casual6",
+      "filename": "갱도라_anime_25d_gloss_f_casual6.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "dfba62ee25ff521cad2f97aea6f9572c35fc739d0a1c228306362b531b2e44a9",
+      "webp_sha256": "223711912ba96cdc535e33353657eabff7263f570b9f05b47db09a3d9792cb28",
+      "submitted_sha256": "9e601e63b022a37fa10e6060b4ab5edb47c75a7c1b15cec534437ca467576dd1",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Study escape room, white and red Liana-inspired costume, pen touches lips in raised hand; thumb and finger grip partly conceal digits. Both shoulders continue to upper arms; far arm leaves crop naturally. Chest and shoulder crop retained.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Study escape room, white and red Liana-inspired costume, pen touches lips in raised hand; thumb and finger grip partly conceal digits. Both shoulders continue to upper arms; far arm leaves crop naturally. Chest and shoulder crop retained."
+    },
+    {
+      "slot": "casual7",
+      "filename": "갱도라_anime_25d_gloss_f_casual7.webp",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "8d5bb2f7854bf460bfd79f7ca7fc952c0f1f6e18a08100f68fb37ce2fd394def",
+      "webp_sha256": "b0f5078b18343411d523d37db299e1abf9c8086a16e6a91e33bacac5e21deb4c",
+      "submitted_sha256": "d437053b39408b5c3c7cf10e011320476f5817340cf73aaec603c980d230be4c",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Town market, cotton candy pulled by one hand while other holds stick. Both arms continuous with separate tasks, digits partly hidden by grip; both legs and sandal-clad feet visible. Outfit interpreted as flowing sheer trouser panels; opaque intimate coverage retained, no regeneration.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Town market, cotton candy pulled by one hand while other holds stick. Both arms continuous with separate tasks, digits partly hidden by grip; both legs and sandal-clad feet visible. Outfit interpreted as flowing sheer trouser panels; opaque intimate coverage retained, no regeneration."
+    },
+    {
+      "slot": "casual8",
+      "filename": "갱도라_anime_25d_gloss_f_casual8.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "d0de83b1d01648dcf126288b27949757335f04cb9cec836fc5da3b762eab906f",
+      "webp_sha256": "6810b541dec759b8eaaac4b928072482664e756b51720356083b2c32efe2c01f",
+      "submitted_sha256": "27ae472bd81a491f9286dd55f68fef1381e1f4015ba6473cd8a39b91cafcd41f",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Night raft with two-hand paddle grip, green embroidered kebaya over opaque camisole; two arms and hands clearly joined, gripping fingers overlap with opposing thumbs. Paddle continuous. Waist-up crop, legs outside frame.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Night raft with two-hand paddle grip, green embroidered kebaya over opaque camisole; two arms and hands clearly joined, gripping fingers overlap with opposing thumbs. Paddle continuous. Waist-up crop, legs outside frame."
+    },
+    {
+      "slot": "casual9",
+      "filename": "갱도라_anime_25d_gloss_f_casual9.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "be1aeb80fd39d63f94f5a1cb52541f42d919a19a603e9c89c82d70f58cbd5675",
+      "webp_sha256": "71f93a42141141986074a88c4b38c796967cd98002fd77cc0166006da4890b91",
+      "submitted_sha256": "a3e13e6c004109827f8717215bdab800bc9264b1d2a35d7b0f5b04b688aa2fef",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Riverside bicycle, ivory maid jumpsuit, one knee raised and one knee grounded. Near hand rests on raised knee; far hand beside hip with upper arm hidden behind torso. Five digits indicated, partially hidden at hip; normal knee and ankle bends. Costume rendered as abbreviated fitted romper; retained.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Riverside bicycle, ivory maid jumpsuit, one knee raised and one knee grounded. Near hand rests on raised knee; far hand beside hip with upper arm hidden behind torso. Five digits indicated, partially hidden at hip; normal knee and ankle bends. Costume rendered as abbreviated fitted romper; retained."
+    },
+    {
+      "slot": "casual10",
+      "filename": "갱도라_anime_25d_gloss_f_casual10.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "9cc24a475a52116d2e0027712efb592eb459b52fba4aa3850db6f3b349f48c77",
+      "webp_sha256": "7d49d29c027fcefff22cd616ac420c99fff4286a409c0735ea35f87db1d20e81",
+      "submitted_sha256": "ab46d66618f164783623f87f5708521ff99da1298660adc9821d0801bec95cc5",
+      "submitted_same": false,
+      "authorized_free_design": true,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Neon laundromat seated waiting, asymmetric orange one-long-leg coverall. Right hand grips basket rim, left hand rests on bench; both arms joined, natural five-digit hands with grip occlusion. Both feet flat and legs continuous; laughing expression.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Neon laundromat seated waiting, asymmetric orange one-long-leg coverall. Right hand grips basket rim, left hand rests on bench; both arms joined, natural five-digit hands with grip occlusion. Both feet flat and legs continuous; laughing expression."
+    },
+    {
+      "slot": "casual90",
+      "filename": "갱도라_anime_25d_gloss_f_casual90.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "5303235e2dcfe0716255f44451a423ed92924d00df479ed64fed790e48d45528",
+      "webp_sha256": "a8316027dee24265041d1d5a36b2c97468370363b006bd5baa7685932a6787e4",
+      "submitted_sha256": "67f0b4216ecea51820dcfb47f7660622e5576fe8044126b40f23aa8d25a9ca86",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Soft gradients on nose, cheek and jaw, delicate eyelids and coloured contours; dimensional skin, hair and cloth instead of flat two-tone cel shading."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing (exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Village forge, seated on stool, leather apron and heavy gloves; one hand holds file or screwdriver while other steadies hinge on bench. Both shoulder-arm-hand chains visible; digits concealed by fitted gloves and tool grips. Two legs continuous and partly cropped.",
+        "overlay_checked": false,
+        "note": "Visual review; obscured digits and limbs are not invented."
+      },
+      "observations": "Village forge, seated on stool, leather apron and heavy gloves; one hand holds file or screwdriver while other steadies hinge on bench. Both shoulder-arm-hand chains visible; digits concealed by fitted gloves and tool grips. Two legs continuous and partly cropped."
+    }
+  ],
+  "image_repo": "polos0117/pkm-atelier-img-5",
+  "count": 12,
+  "existing_art_preserved": true,
+  "old_style": "glossy_promo",
+  "reservation_commit": "16ff7410113436ae86d8ba7b97d66b168461e137"
+}
