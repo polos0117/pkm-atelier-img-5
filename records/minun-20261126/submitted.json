@@ -1,0 +1,62 @@
+{
+ "light": {
+  "submitted_sha256": "c5a45576067d6060bf0a013b5cc1b96c8dbbf5f305a0a94edae506ccc974e2de",
+  "submitted_same": true,
+  "basis": "Original light prompt unchanged"
+ },
+ "casual1": {
+  "submitted_sha256": "27a119e4d55be3df04e7a7601c261ca35d08ff396446708ddb8272c09c7fe590",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual2": {
+  "submitted_sha256": "26ccf5611305e462c686fbf2e49130b842eb711814bbfde2178850a46535293e",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual3": {
+  "submitted_sha256": "4bbb47528ede1e0338cc2dd95f83e132165995305be26e59e90e9a7487ee2ec8",
+  "submitted_same": true,
+  "basis": "Authorized free-scene/outfit field completed; outside fields preserved"
+ },
+ "casual4": {
+  "submitted_sha256": "76ce51ce1192a12fe54705c908c72f6b161e8ba02da98890b8c23b4be808dcaa",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual5": {
+  "submitted_sha256": "8a7db7042e66f5d25898f546019c07aa51718a99f2436b58a74ec090fdee1b6c",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual6": {
+  "submitted_sha256": "d70aaa2268ecc9b382db9a8ce35aa6f9cca542d4152522cbf535426b7ce2f36e",
+  "submitted_same": true,
+  "basis": "Authorized free-scene/outfit field completed; outside fields preserved"
+ },
+ "casual7": {
+  "submitted_sha256": "50c04835b09b240027534303579f8a43c99082286a97938511ab8dd2c679acb6",
+  "submitted_same": true,
+  "basis": "Authorized free-scene/outfit field completed; outside fields preserved"
+ },
+ "casual8": {
+  "submitted_sha256": "62a21474c4e735a220924974393ba689b183ee1085959b99cc87790377569bbc",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual9": {
+  "submitted_sha256": "f1762a5dbc8f2ee5c5f28ddd81d3c8e94b29cf0b3b70d7f9d29f8fec59fabe5d",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual10": {
+  "submitted_sha256": "03f41ef58c7b79c13883e078d06ad887ca1cd5e4d9c693a6b98119ffe6d07a3f",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ },
+ "casual90": {
+  "submitted_sha256": "d6947661cc1e62fd168288b71bad43051addd71240e76d307c881e4eed36ca5a",
+  "submitted_same": true,
+  "basis": "Generated prompt unchanged"
+ }
+}

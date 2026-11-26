@@ -1,0 +1,269 @@
+{
+ "card": "마이농",
+ "style": "anime_25d_gloss",
+ "selected_candidate": 2,
+ "regenerated": false,
+ "compared_characters": [
+  "썬더라이",
+  "썬더볼트",
+  "플러시"
+ ],
+ "comparison_evidence": "Existing result sheets viewed together; Minun uses short spiked hair, rope-hop full body, phone close-up, swan boat recline, yoga warrior pose, dumpling meal, carousel pole grip, and bookmark scene. Some common amusement backgrounds recur but action, outfit and crop combinations differ.",
+ "planning_note": "New user-requested anime_25d_gloss series. Official planBatch called with target legacy glossy_promo completion entry excluded; all other comparison entries retained. Official check/reserve/verify passed; legacy images untouched.",
+ "anatomy_tool": "unavailable: mediapipe not installed; manual visual inspection performed",
+ "images": {
+  "light": {
+   "file": "마이농_light_anime_25d_gloss_f.webp",
+   "image_sha256": "ba305a4e44715e34b402f60dd8c08766ad159d0968d89330e58ad7f55bb4e466",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "stronger",
+    "evidence": "Two arms and legs connected; open gloved hand has five digits, other hand loosely clenched. Ear ornament touches top edge; chest opening exceeds configured openings; preserved without exposure-driven regeneration."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two arms and legs connected; open gloved hand has five digits, other hand loosely clenched. Ear ornament touches top edge; chest opening exceeds configured openings; preserved without exposure-driven regeneration.",
+    "overlay_checked": false
+   },
+   "notes": "Two arms and legs connected; open gloved hand has five digits, other hand loosely clenched. Ear ornament touches top edge; chest opening exceeds configured openings; preserved without exposure-driven regeneration."
+  },
+  "casual1": {
+   "file": "마이농_anime_25d_gloss_f_casual1.webp",
+   "image_sha256": "20accf3321cdfd1b920d4b058efe9ab88cef012eb525b9777d7ff7cfe3903261",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Near arm extends from shoulder to hanging hand with five visible fingers; far arm is occluded by torso and counter; two connected legs and both shoes visible. Wet lace outfit stays covered; plus-shaped earring is a motif deviation."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Near arm extends from shoulder to hanging hand with five visible fingers; far arm is occluded by torso and counter; two connected legs and both shoes visible. Wet lace outfit stays covered; plus-shaped earring is a motif deviation.",
+    "overlay_checked": false
+   },
+   "notes": "Near arm extends from shoulder to hanging hand with five visible fingers; far arm is occluded by torso and counter; two connected legs and both shoes visible. Wet lace outfit stays covered; plus-shaped earring is a motif deviation."
+  },
+  "casual2": {
+   "file": "마이농_anime_25d_gloss_f_casual2.webp",
+   "image_sha256": "cca62a9bbd76fd09a4fd8430bd6df710cfbed98949f677a13ef1f1f2aa145118",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Phone hand joins wrist and bent forearm; fingers partly hidden by phone grip; other arm exits crop naturally. Head and shoulders close-up rendered wider than face-only plan; reference ornament retained."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Phone hand joins wrist and bent forearm; fingers partly hidden by phone grip; other arm exits crop naturally. Head and shoulders close-up rendered wider than face-only plan; reference ornament retained.",
+    "overlay_checked": false
+   },
+   "notes": "Phone hand joins wrist and bent forearm; fingers partly hidden by phone grip; other arm exits crop naturally. Head and shoulders close-up rendered wider than face-only plan; reference ornament retained."
+  },
+  "casual3": {
+   "file": "마이농_anime_25d_gloss_f_casual3.webp",
+   "image_sha256": "700418440a194965997c7913bee2a35888c3cd3eb23866ad90974d0733424bd9",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Two arms visibly join shoulders and grip separate rope handles; fingers partly hidden by grips. Both legs and feet visible, no duplicate limbs. Rope arc and hop present. Reference ear headpiece remains despite wardrobe instruction."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two arms visibly join shoulders and grip separate rope handles; fingers partly hidden by grips. Both legs and feet visible, no duplicate limbs. Rope arc and hop present. Reference ear headpiece remains despite wardrobe instruction.",
+    "overlay_checked": false
+   },
+   "notes": "Two arms visibly join shoulders and grip separate rope handles; fingers partly hidden by grips. Both legs and feet visible, no duplicate limbs. Rope arc and hop present. Reference ear headpiece remains despite wardrobe instruction."
+  },
+  "casual4": {
+   "file": "마이농_anime_25d_gloss_f_casual4.webp",
+   "image_sha256": "6289c908afcaeaf132f5c5d751068b29eea21937c00a6f25bb2f05c78f22270d",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "One hand extended toward camera, five digits visible; opposite arm is outside close crop. Both shoulder contours and upper arms remain connected. Costume interpreted in purple/white with hat; exact Valeriy resemblance uncertain."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "One hand extended toward camera, five digits visible; opposite arm is outside close crop. Both shoulder contours and upper arms remain connected. Costume interpreted in purple/white with hat; exact Valeriy resemblance uncertain.",
+    "overlay_checked": false
+   },
+   "notes": "One hand extended toward camera, five digits visible; opposite arm is outside close crop. Both shoulder contours and upper arms remain connected. Costume interpreted in purple/white with hat; exact Valeriy resemblance uncertain."
+  },
+  "casual5": {
+   "file": "마이농_anime_25d_gloss_f_casual5.webp",
+   "image_sha256": "e8c4de197dc680615f3004f7c2fd3d18a984ac6d1b93713ae6e12a1c9c6dddba",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Both arms connect at shoulders; near hand rests on boat rim with five fingers; far hand is partly occluded. Both legs continue naturally to feet on pedals. Body/hip volume rendered fuller than lean-toned instruction; preserved. Ear ornament retained."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both arms connect at shoulders; near hand rests on boat rim with five fingers; far hand is partly occluded. Both legs continue naturally to feet on pedals. Body/hip volume rendered fuller than lean-toned instruction; preserved. Ear ornament retained.",
+    "overlay_checked": false
+   },
+   "notes": "Both arms connect at shoulders; near hand rests on boat rim with five fingers; far hand is partly occluded. Both legs continue naturally to feet on pedals. Body/hip volume rendered fuller than lean-toned instruction; preserved. Ear ornament retained."
+  },
+  "casual6": {
+   "file": "마이농_anime_25d_gloss_f_casual6.webp",
+   "image_sha256": "17f4aef0d609cde1ceb5b7b601b823943ef11455f9415c6eb22e74b053f1c846",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Both arms connect naturally; chopstick hand partly hides fingers, bowl hand supports underside with visible thumb and fingers. Two thighs visible; lower legs outside crop. Distinct food-tasting expression and action."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both arms connect naturally; chopstick hand partly hides fingers, bowl hand supports underside with visible thumb and fingers. Two thighs visible; lower legs outside crop. Distinct food-tasting expression and action.",
+    "overlay_checked": false
+   },
+   "notes": "Both arms connect naturally; chopstick hand partly hides fingers, bowl hand supports underside with visible thumb and fingers. Two thighs visible; lower legs outside crop. Distinct food-tasting expression and action."
+  },
+  "casual7": {
+   "file": "마이농_anime_25d_gloss_f_casual7.webp",
+   "image_sha256": "3356fbd1de1cf111befcfe7be21cf84d40754d384acb0c1b6cb9c0122d3e0474",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Two outstretched arms and hands with five fingers visible in profile; two connected legs with natural bent front knee and straight rear leg, bare feet and toes visible. Two separate background Pokemon permitted by scene rules. Small reference ear sensor retained."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two outstretched arms and hands with five fingers visible in profile; two connected legs with natural bent front knee and straight rear leg, bare feet and toes visible. Two separate background Pokemon permitted by scene rules. Small reference ear sensor retained.",
+    "overlay_checked": false
+   },
+   "notes": "Two outstretched arms and hands with five fingers visible in profile; two connected legs with natural bent front knee and straight rear leg, bare feet and toes visible. Two separate background Pokemon permitted by scene rules. Small reference ear sensor retained."
+  },
+  "casual8": {
+   "file": "마이농_anime_25d_gloss_f_casual8.webp",
+   "image_sha256": "10c23d732d87aca2ab3870f5a2361e0d9ae257e8a6b3000beb8da496cab4cffb",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Both bent arms connect from shoulders to gloved hands gripping carousel pole at different heights; grip hides some fingers. Two thighs visible, lower legs cropped. Ear headpiece reaches top frame boundary; recorded only."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both bent arms connect from shoulders to gloved hands gripping carousel pole at different heights; grip hides some fingers. Two thighs visible, lower legs cropped. Ear headpiece reaches top frame boundary; recorded only.",
+    "overlay_checked": false
+   },
+   "notes": "Both bent arms connect from shoulders to gloved hands gripping carousel pole at different heights; grip hides some fingers. Two thighs visible, lower legs cropped. Ear headpiece reaches top frame boundary; recorded only."
+  },
+  "casual9": {
+   "file": "마이농_anime_25d_gloss_f_casual9.webp",
+   "image_sha256": "10441fb1837e20c769ad48f7798f0ae8a9710c2bc33e6f4630cf3f64705f4932",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Both forearms connect to shoulders; one hand inserts bookmark and other grips book, partial fingers hidden by pages. Lower body cropped. Pink blouse and drape, van door and lake read clearly."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Both forearms connect to shoulders; one hand inserts bookmark and other grips book, partial fingers hidden by pages. Lower body cropped. Pink blouse and drape, van door and lake read clearly.",
+    "overlay_checked": false
+   },
+   "notes": "Both forearms connect to shoulders; one hand inserts bookmark and other grips book, partial fingers hidden by pages. Lower body cropped. Pink blouse and drape, van door and lake read clearly."
+  },
+  "casual10": {
+   "file": "마이농_anime_25d_gloss_f_casual10.webp",
+   "image_sha256": "747b765934c7a02f7fd19fd0dad71d06d34466bd21fae3f8cb00163911cf0085",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Two crossed arms continuous from shoulders through elbows; one hand lies on opposite upper arm with five digits partly overlapping; other hand tucked beneath opposite elbow. Lower body cropped. Bowling alley and orange uniform read clearly."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Two crossed arms continuous from shoulders through elbows; one hand lies on opposite upper arm with five digits partly overlapping; other hand tucked beneath opposite elbow. Lower body cropped. Bowling alley and orange uniform read clearly.",
+    "overlay_checked": false
+   },
+   "notes": "Two crossed arms continuous from shoulders through elbows; one hand lies on opposite upper arm with five digits partly overlapping; other hand tucked beneath opposite elbow. Lower body cropped. Bowling alley and orange uniform read clearly."
+  },
+  "casual90": {
+   "file": "마이농_anime_25d_gloss_f_casual90.webp",
+   "image_sha256": "0e4e1f8c1275b6da96aaf157583311053c23817efe025a10d865b2ce2d23b1b8",
+   "style_25d": {
+    "판정": "match",
+    "evidence": "Soft nose and lip modelling, blended cheek and jaw gradients, fine colored contours and dimensional fabric/armor reflections, matching selected reference."
+   },
+   "exposure": {
+    "판정": "match",
+    "evidence": "Raised hand has visible thumb and four fingers around light stick, wrist joins bent forearm and shoulder; other upper arm continues out of crop. Lower body outside crop. Tiny minus hairclip and stage support job read clearly."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe not installed",
+    "issue": "ok",
+    "arms": 2,
+    "legs": 2,
+    "hands": "Raised hand has visible thumb and four fingers around light stick, wrist joins bent forearm and shoulder; other upper arm continues out of crop. Lower body outside crop. Tiny minus hairclip and stage support job read clearly.",
+    "overlay_checked": false
+   },
+   "notes": "Raised hand has visible thumb and four fingers around light stick, wrist joins bent forearm and shoulder; other upper arm continues out of crop. Lower body outside crop. Tiny minus hairclip and stage support job read clearly."
+  }
+ },
+ "face_reason": "User selected candidate 2. Amber gold medium almond eyes, soft rounded jaw, short spiked blond hair and playful adult expression distinguish the reference from Electrike green hair, Manectric blue hair and Plusle looped orange hair."
+}

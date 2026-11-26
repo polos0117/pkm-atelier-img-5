@@ -1,0 +1,53 @@
+{
+  "card": "312",
+  "name": "마이농",
+  "style": "anime_25d_gloss",
+  "status": "selected",
+  "candidates": [
+    {
+      "number": 1,
+      "image": "/workspace/scratch/8ebc41602939/generated_images/exec-5baa8cd4-3115-4724-8c22-19f2fc733b7c.png",
+      "sha256": "7a8ec2a2dba8bf27ac15cd74e2a615546b716c492f77a9be49bc2cf773f5bb3f",
+      "prompt": "/workspace/scratch/8ebc41602939/minun-pack/light-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/workspace/scratch/8ebc41602939/generated_images/exec-c7bf3b07-46d1-4c4b-9ff2-388379a99d5d.png",
+      "sha256": "c6750ad17209e5a601c3c7df85212af93f5b1b9020c0b1eb10be5e7634d18888",
+      "prompt": "/workspace/scratch/8ebc41602939/minun-pack/light-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/workspace/scratch/8ebc41602939/generated_images/exec-15b87119-9eb7-4b8e-a421-0eaa25838452.png",
+      "sha256": "9d615dbb1ed4dc5c2d9c0e064655e3abf44e35727829ebc1843a368b823adc65",
+      "prompt": "/workspace/scratch/8ebc41602939/minun-pack/design1-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/workspace/scratch/8ebc41602939/generated_images/exec-4cf6c6cd-f926-43db-b258-93881be5347d.png",
+      "sha256": "38d626bdb14745049f2b41360baf533658e70aafac0dbb8efbe30c153db9f8e5",
+      "prompt": "/workspace/scratch/8ebc41602939/minun-pack/design2-prompt.txt",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "notes": {
+    "3": "Blue cheek marks appeared despite human-skin instruction; preserved without regeneration.",
+    "all": "Chest opening appears in addition to configured shoulder/thigh openings; preserved, no exposure-driven regeneration."
+  },
+  "selected_candidate": 2
+}

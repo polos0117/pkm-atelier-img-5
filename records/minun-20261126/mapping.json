@@ -1,0 +1,158 @@
+[
+ {
+  "slot": "light",
+  "file": "마이농_light_anime_25d_gloss_f.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "ba305a4e44715e34b402f60dd8c08766ad159d0968d89330e58ad7f55bb4e466",
+  "original_sha256": "c6750ad17209e5a601c3c7df85212af93f5b1b9020c0b1eb10be5e7634d18888",
+  "submitted_sha256": "c5a45576067d6060bf0a013b5cc1b96c8dbbf5f305a0a94edae506ccc974e2de",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual1",
+  "file": "마이농_anime_25d_gloss_f_casual1.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "20accf3321cdfd1b920d4b058efe9ab88cef012eb525b9777d7ff7cfe3903261",
+  "original_sha256": "3347e0b27ec64e66003037b32c02b9adca912497256e289f3dd3a39a951adafd",
+  "submitted_sha256": "27a119e4d55be3df04e7a7601c261ca35d08ff396446708ddb8272c09c7fe590",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual2",
+  "file": "마이농_anime_25d_gloss_f_casual2.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "cca62a9bbd76fd09a4fd8430bd6df710cfbed98949f677a13ef1f1f2aa145118",
+  "original_sha256": "586e0292d7118d9fa124a21d75def2912fb71997823f139d348e82d02b47bdc7",
+  "submitted_sha256": "26ccf5611305e462c686fbf2e49130b842eb711814bbfde2178850a46535293e",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual3",
+  "file": "마이농_anime_25d_gloss_f_casual3.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "700418440a194965997c7913bee2a35888c3cd3eb23866ad90974d0733424bd9",
+  "original_sha256": "3f98499128c8f74ff56ccfb1f3d715c655ab8daf27fcfde5d5d758ef2f43d09c",
+  "submitted_sha256": "4bbb47528ede1e0338cc2dd95f83e132165995305be26e59e90e9a7487ee2ec8",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual4",
+  "file": "마이농_anime_25d_gloss_f_casual4.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "6289c908afcaeaf132f5c5d751068b29eea21937c00a6f25bb2f05c78f22270d",
+  "original_sha256": "5964a114f671193f05d5d469f620eb2c097c6065418488eb8a40eb0b506e197e",
+  "submitted_sha256": "76ce51ce1192a12fe54705c908c72f6b161e8ba02da98890b8c23b4be808dcaa",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual5",
+  "file": "마이농_anime_25d_gloss_f_casual5.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "e8c4de197dc680615f3004f7c2fd3d18a984ac6d1b93713ae6e12a1c9c6dddba",
+  "original_sha256": "0298087c03bd41b82546101352321ea5ae7527e1ee2d3fa423103627d4896483",
+  "submitted_sha256": "8a7db7042e66f5d25898f546019c07aa51718a99f2436b58a74ec090fdee1b6c",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual6",
+  "file": "마이농_anime_25d_gloss_f_casual6.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "17f4aef0d609cde1ceb5b7b601b823943ef11455f9415c6eb22e74b053f1c846",
+  "original_sha256": "cb839e5f4329329454655674d5522a24d05f3890d956efa86dba1ee2f0c92d21",
+  "submitted_sha256": "d70aaa2268ecc9b382db9a8ce35aa6f9cca542d4152522cbf535426b7ce2f36e",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual7",
+  "file": "마이농_anime_25d_gloss_f_casual7.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "3356fbd1de1cf111befcfe7be21cf84d40754d384acb0c1b6cb9c0122d3e0474",
+  "original_sha256": "98f367ea0ee8cb25a4f0a60dd3441c423f4f92eecf8903448a13520f3d7a8930",
+  "submitted_sha256": "50c04835b09b240027534303579f8a43c99082286a97938511ab8dd2c679acb6",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual8",
+  "file": "마이농_anime_25d_gloss_f_casual8.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "10c23d732d87aca2ab3870f5a2361e0d9ae257e8a6b3000beb8da496cab4cffb",
+  "original_sha256": "fbba56a6f3a0d488c652ae1e7e595dbd63b86c620955530b6fccf3b512e3c4b0",
+  "submitted_sha256": "62a21474c4e735a220924974393ba689b183ee1085959b99cc87790377569bbc",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual9",
+  "file": "마이농_anime_25d_gloss_f_casual9.webp",
+  "size": [
+   1536,
+   1024
+  ],
+  "format": "WEBP",
+  "sha256": "10441fb1837e20c769ad48f7798f0ae8a9710c2bc33e6f4630cf3f64705f4932",
+  "original_sha256": "3f1f35e66dde07e8060be3cebd807a21152623ec9b9c912bd9ff31acaa7952be",
+  "submitted_sha256": "f1762a5dbc8f2ee5c5f28ddd81d3c8e94b29cf0b3b70d7f9d29f8fec59fabe5d",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual10",
+  "file": "마이농_anime_25d_gloss_f_casual10.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "747b765934c7a02f7fd19fd0dad71d06d34466bd21fae3f8cb00163911cf0085",
+  "original_sha256": "6fe7c71f232b8548bc597caf933b5169cfee695c8b9bfc517b218a85fa8f010d",
+  "submitted_sha256": "03f41ef58c7b79c13883e078d06ad887ca1cd5e4d9c693a6b98119ffe6d07a3f",
+  "submitted_same": true
+ },
+ {
+  "slot": "casual90",
+  "file": "마이농_anime_25d_gloss_f_casual90.webp",
+  "size": [
+   1024,
+   1536
+  ],
+  "format": "WEBP",
+  "sha256": "0e4e1f8c1275b6da96aaf157583311053c23817efe025a10d865b2ce2d23b1b8",
+  "original_sha256": "53d64df68749b013047868dcf0ef420c416b69eb031ef27f64c08f8e0c584692",
+  "submitted_sha256": "d6947661cc1e62fd168288b71bad43051addd71240e76d307c881e4eed36ca5a",
+  "submitted_same": true
+ }
+]
