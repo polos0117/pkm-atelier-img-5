@@ -1,0 +1,298 @@
+[
+  {
+    "slot": "light",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-4145bcc1-a6b6-4832-ac7d-b6ff6a035d07.png",
+    "original_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "9142cb67507e49050ca3532babec6f7153f2093f2aa1197ce19eb694e5161bd3",
+    "reference_sha256": null,
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": 1
+  },
+  {
+    "slot": "casual1",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-054eb1e9-f154-457f-981d-4be544b5f921.png",
+    "original_sha256": "55663220e7456bb4f84bc2ce8b0a7bd379625de3bbbdd02eabf8b15780fbcd36",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "af14060e57e15fdc9b7c2bc011c799cbed99ae7bdfeac276689b77e71ac8c3c4",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "c5cce29e3c8c5148ae5aacaef30728095cf7cb26716ca5cc7875342960109b77",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual1-prompt.txt"
+  },
+  {
+    "slot": "casual2",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-09df9901-3802-4037-a5c4-e708eaedcfd7.png",
+    "original_sha256": "054006260ac95c368a947bb8d3d152f7b26ade8380a63d81aaa2ff17c76c542a",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "29c13f891b35f2105fa8f49db337afb8cbe232b2d10e3e84c99ba86ac06fc6a0",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "38812542ec6bf65fa503cc3d27402492cee5acd372af35e70d368fba2575fed2",
+    "submitted_same": false,
+    "authorized_exception": "free-scene design: only SCENE changed, FACE STYLE BODY and all remaining rules preserved",
+    "prompt_file": "casual2-free-submitted.txt"
+  },
+  {
+    "slot": "casual3",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-dc6524bf-b767-4a96-bf52-90e2355315a7.png",
+    "original_sha256": "2964f24f7330ffedb40985c3743171b7b9fbae5152a3d271c4d271068f7e2686",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "21c4f93c86a634ddcb6ba3ba0d909df85df48d597698b0820f5adf3ade9a17d6",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "0674f0df800304c3dfa4e409fa9ecfd30628b769114559733624705773e0d5ae",
+    "submitted_same": false,
+    "authorized_exception": "free-scene design: only SCENE changed, FACE STYLE BODY and all remaining rules preserved",
+    "prompt_file": "casual3-free-submitted.txt"
+  },
+  {
+    "slot": "casual4",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-75cd08cd-1310-43e6-8b0b-4666d01ee740.png",
+    "original_sha256": "64bb242d3de36fed39b4fc8466873e61eac888a8925cf4e880bcaecd99e46aeb",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "webp",
+    "sha256": "a935bdb4b87c765137526b80f1afa4a92af611d1ec8db1993674b996693e2b77",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "0d2740ec6dbf3822c9df5861fd5e1a98bbe92b1bd530117d639cacf560a2525f",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual4-prompt.txt"
+  },
+  {
+    "slot": "casual5",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-d1953d56-5b19-44d6-b3f1-b961abd6d9d1.png",
+    "original_sha256": "9211e85d500235228e08f377f539c00276774b1abcd9f0dd6f9ef642a4862676",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "31ac2787366cbb9ce513bca8e4d92ae36114a1ac563d58854ad236f1eb89d699",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "99a2e67fbaf6980be78e53f357b9953df47629c075398c5f8a1656b29ead1291",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual5-prompt.txt"
+  },
+  {
+    "slot": "casual6",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-70956298-0bcd-4382-8777-83e303533eeb.png",
+    "original_sha256": "a9c7e2685b56f954a96670a39f7884c051629800a7be3d01beadc540d879a1cc",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "webp",
+    "sha256": "0750de710af526ee28598ec83a1a085e9e6edf8cf210be6da04c784f65805abf",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "39a9e5a6307886b56f52772b34974632c9a888629edccf8d19683d74ea458390",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual6-prompt.txt"
+  },
+  {
+    "slot": "casual7",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-7522f86b-c4b6-431a-9d6a-562d83496701.png",
+    "original_sha256": "3d3aed11cbde9a579b4928428b87ceb65763e4defe9fc4a46a3dd3afa7db78fc",
+    "original_size": [
+      1536,
+      1024
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "webp",
+    "sha256": "eee355cb8b9505a7df58a9ba6bae93700c11f018cabf50fbea73bc90dec0cbcf",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "11bb7a22e1c2b2c7e1bac3e97362e94e0412089e3a36ec06222782af4ea30047",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual7-prompt.txt"
+  },
+  {
+    "slot": "casual8",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-da00e37d-5b54-4812-b359-4a315104fe07.png",
+    "original_sha256": "b6ff85b4d41c4c322e39eceadee47d7d7f4b4c5a3259a959383931cf4ab915af",
+    "original_size": [
+      1536,
+      1024
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "webp",
+    "sha256": "b5013e4348edbadebb6aac1974adb241da131e9df16d320fccb4734b65ce7032",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "6e4d0a37aa4d95edeb1514ad4daa50315506ea401180953e75469e512e69efb3",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual8-prompt.txt"
+  },
+  {
+    "slot": "casual9",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-3d082002-dae1-4e00-bb5e-561837b84846.png",
+    "original_sha256": "fea81ddc9d254104f843326b8e2851259f5555e28544cf1bb3a1fac49d66ae74",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "730cc72497e4cced02d709b45ce87efcd188ba56e60fc0a51cb9adf31e63c2fd",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "7bfa83b0c02ec9069cd625cd63236512487bac1933ff85dcd698defa5bf881cd",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual9-prompt.txt"
+  },
+  {
+    "slot": "casual10",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-85a0bca4-3877-4483-8429-a37bcfcf6eca.png",
+    "original_sha256": "1e2275e123a400ebf83c3045ff59701f3b929a69231171d750c543025b189967",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "de23f00f617d82c00429157dd9181765ee118e86996534f9636295914df0c038",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "d1e2f999acfd2f39ded66c3079bfbb325794be2734798ea2485ff0000e2062d9",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual10-prompt.txt"
+  },
+  {
+    "slot": "casual90",
+    "card": "꿀꺽몬",
+    "style": "anime_25d_gloss",
+    "original_path": "/workspace/scratch/2a99b222a5be/generated_images/exec-d98c03c9-1007-4145-b534-bf43290d945c.png",
+    "original_sha256": "d98d0682b3e49d72ffa9969dcac450228ba23f2a01b826030c493501682a00b0",
+    "original_size": [
+      1024,
+      1536
+    ],
+    "filename": "꿀꺽몬_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "webp",
+    "sha256": "8c8c536880994aba3bf7ab027d92c49be80c82a075148dc1eba7eaddc7d4a7da",
+    "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+    "generation_tool": "image_gen.imagegen",
+    "selected_candidate": null,
+    "submitted_sha256": "8befdc08a7a5b429a2b94cc3c7d9e219340c7459314bf5af175e66ee5aa75550",
+    "submitted_same": true,
+    "authorized_exception": null,
+    "prompt_file": "casual90-prompt.txt"
+  }
+]

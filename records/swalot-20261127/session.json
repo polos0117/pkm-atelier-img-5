@@ -1,0 +1,12 @@
+{
+  "selected": 1,
+  "reference_original": "exec-4145bcc1-a6b6-4832-ac7d-b6ff6a035d07.png",
+  "reference_sha256": "1401785486f96bf6a61a7456462b407cf213f66b9d792bc40b38f64d7751428e",
+  "new_style": "anime_25d_gloss",
+  "legacy_style_preserved": "glossy_promo",
+  "plan_method": "Unmodified planner.planBatch API; only old-style entries for the requested card excluded to start its explicitly requested new-style set. Full unmodified casual-ledger.py check --fresh and reserve validated against all source metadata. No data/img.json edits.",
+  "reservation_commit": "270295ebac50d35589f60be228947aaaaac0d1d5",
+  "anatomy_tool": "unavailable: mediapipe not installed; visual inspection required per image",
+  "generator": "image_gen.imagegen",
+  "regeneration": false
+}

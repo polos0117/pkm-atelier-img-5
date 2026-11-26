@@ -1,0 +1,213 @@
+{
+  "card": "꿀꺽몬",
+  "selected_candidate": 1,
+  "requested": 12,
+  "generated": 12,
+  "regenerated": 0,
+  "reference_lock": "Every casual used candidate 1 original PNG directly.",
+  "comparisons": [
+    "꼴깍몬_anime_25d_gloss_f_casual2.webp",
+    "로젤리아_anime_25d_gloss_f_casual5.webp",
+    "네오비트_anime_25d_gloss_f_casual3.webp"
+  ],
+  "diversity": "Compared actual images. New set uses ferry breakfast, neon tasting, rafting, hammam recline, scooter kneeling, seated lounge, inverted zero gravity, moonlit close portrait, bookstall reach and recycling knot. Compared prior trail-back view, garden seating and champagne boudoir are visually distinct. Lounge seating shares a broad category with prior boudoir but differs in setting, rigid bustier silhouette, popcorn action, full-body landscape framing and gaze.",
+  "anatomy_tool": "unavailable: mediapipe is not installed; visually inspected original results and detail crops.",
+  "registration_precheck": "12 correctly named registration candidates; no unknown files or art-size failures. Sparse checkout intentionally omits historical image files; no prune and no data/img.json write.",
+  "cuts": {
+    "light": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Standing full body; two human arms and two mechanical equipment arms. Both hands attached, gloved digits visible with overlap; both armored feet visible. Purple armor dominates despite the yellow/black generated colour line; selected by user as-is.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Standing full body; two human arms and two mechanical equipment arms. Both hands attached, gloved digits visible with overlap; both armored feet visible. Purple armor dominates despite the yellow/black generated colour line; selected by user as-is."
+    },
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside crop / hidden by water",
+        "hands": "Sephiroth cosplay silver pauldrons and black deep-cut one-piece, popcorn booth. Right elbow on table with fist supporting chin; left hand grips tub. Fingers folded or partly hidden. Crop extends lower than the requested waist.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Sephiroth cosplay silver pauldrons and black deep-cut one-piece, popcorn booth. Right elbow on table with fist supporting chin; left hand grips tub. Fingers folded or partly hidden. Crop extends lower than the requested waist."
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Dawn ferry and bamboo bun box; right hand holds bitten bun, left hand supports box, each arm continuous. Five-digit grips with partial occlusion. Spiral travel outfit rendered as sage draping.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Dawn ferry and bamboo bun box; right hand holds bitten bun, left hand supports box, each arm continuous. Five-digit grips with partial occlusion. Spiral travel outfit rendered as sage draping."
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Neon soda tasting: right hand raises a tiny cup, left hand lies on thigh. Both arms continuous. Five-digit silhouettes, cup partly hides gripping fingers. Feet together on stool ring; skirt forms a circular pleated fan.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Neon soda tasting: right hand raises a tiny cup, left hand lies on thigh. Both arms continuous. Five-digit silhouettes, cup partly hides gripping fingers. Feet together on stool ring; skirt forms a circular pleated fan."
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside crop / hidden by water",
+        "hands": "Square water-level rafting portrait: right hand at hair, left hand rests at raft/water edge, fingers naturally bent and partly submerged. Arms continuous; legs excluded by water/crop.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Square water-level rafting portrait: right hand at hair, left hand rests at raft/water edge, fingers naturally bent and partly submerged. Arms continuous; legs excluded by water/crop."
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Reclining hammam: one forearm visible beside head, its hand occluded behind hair; other hand rests on slab with five visible digits. Both upper legs continuous. Outfit rendered as one connected red sculpted piece rather than separate panels/shorts.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Reclining hammam: one forearm visible beside head, its hand occluded behind hair; other hand rests on slab with five visible digits. Both upper legs continuous. Outfit rendered as one connected red sculpted piece rather than separate panels/shorts."
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Square kneeling roleplay by scooter: one hand twists bottle cap, other grips bottle, visible arms connect through elbows and wrists. Fingers overlap through grips. Two boots and two naturally folded legs.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Square kneeling roleplay by scooter: one hand twists bottle cap, other grips bottle, visible arms connect through elbows and wrists. Fingers overlap through grips. Two boots and two naturally folded legs."
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Landscape lounge: one arm hugs popcorn, other hand on thigh. Five fingers on thigh hand; grip partly occluded. Both legs cross naturally; two sandal-clad feet visible.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Landscape lounge: one arm hugs popcorn, other hand on thigh. Five fingers on thigh hand; grip partly occluded. Both legs cross naturally; two sandal-clad feet visible."
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Landscape zero-gravity observatory: inverted body, two arms spread and connected, five digits on each hand checked in enlarged crops. Two bent legs and two feet. Face retains its reference identity from a changed angle.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Landscape zero-gravity observatory: inverted body, two arms spread and connected, five digits on each hand checked in enlarged crops. Two bent legs and two feet. Face retains its reference identity from a changed angle."
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside crop / hidden by water",
+        "hands": "Close portrait in moonlit glade: index finger at lips, remaining digits folded, one continuous forearm and shoulder. Other upper arm visible and continues beyond frame; no floating hand. Legs outside crop.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Close portrait in moonlit glade: index finger at lips, remaining digits folded, one continuous forearm and shoulder. Other upper arm visible and continues beyond frame; no floating hand. Legs outside crop."
+    },
+    "casual10": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Full body costume reaching at outdoor bookstall: raised gloved hand touches shelf; opposite hand lowered, five-digit glove shapes with partial overlap. Both feet visible. Body is more rear-facing than the selected mecha, as casual composition permits.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Full body costume reaching at outdoor bookstall: raised gloved hand touches shelf; opposite hand lowered, five-digit glove shapes with partial overlap. Both feet visible. Body is more rear-facing than the selected mecha, as casual composition permits."
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Recycling team lead seated sideways tying sack: both gloved hands joined through visible forearms; fingers partly hidden by sack knot. Two legs and boots present. Profile facial view, no extra limbs.",
+        "overlay_checked": false,
+        "note": "Visible joints and silhouette checked; occluded fingers not claimed as individually counted."
+      },
+      "style_25d": {
+        "result": "pass",
+        "evidence": "Blended cheeks, nose and lips, colored fine contours, dimensional cloth or armor, layered hair. No flat two-band cel shading."
+      },
+      "observation": "Recycling team lead seated sideways tying sack: both gloved hands joined through visible forearms; fingers partly hidden by sack knot. Two legs and boots present. Profile facial view, no extra limbs."
+    }
+  },
+  "final_images": 12,
+  "selection_candidates": 4,
+  "total_generated_images": 15
+}
