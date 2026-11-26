@@ -1,0 +1,39 @@
+{
+  "selected": 2,
+  "generated_candidates": [
+    {
+      "candidate": 1,
+      "design": "base",
+      "original": "/workspace/scratch/fbe1cdbcd9df/generated_images/exec-dac4c1a4-bf2a-430b-a07b-18ec5bd29ed5.png",
+      "original_sha256": "9b5c89a1fe20800c03e0fa6e181a6c798a36a206d6a25d0a50a977e669004d3b",
+      "webp": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/candidate-1.webp",
+      "prompt": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/light-prompt.txt"
+    },
+    {
+      "candidate": 2,
+      "design": "base",
+      "original": "/workspace/scratch/fbe1cdbcd9df/generated_images/exec-33688924-76ea-41f2-9f7c-565957305c43.png",
+      "original_sha256": "0d54978c5363d96a934d01fee1c4903f924cc66ce253c797fda0005068c07dea",
+      "webp": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/candidate-2.webp",
+      "prompt": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/light-prompt.txt"
+    },
+    {
+      "candidate": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/fbe1cdbcd9df/generated_images/exec-fa9415c7-aa78-477f-8db9-da13eaa1a5df.png",
+      "original_sha256": "eaa59c9c8001ebd44df34cf44c6d891955322f8877c8d413f56afa7fe99d2a4b",
+      "webp": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/candidate-3.webp",
+      "prompt": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/candidate-3-submitted.txt"
+    },
+    {
+      "candidate": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/fbe1cdbcd9df/generated_images/exec-e6fc73db-b0f1-4238-af7e-94514a86fa14.png",
+      "original_sha256": "0b11150c3554289d79d366f2532df541b7d66c08fee28f0ab2c63d0c77935956",
+      "webp": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/candidate-4.webp",
+      "prompt": "/workspace/scratch/fbe1cdbcd9df/roselia-pack/candidate-4-submitted.txt"
+    }
+  ],
+  "user_selection": "2",
+  "rejected_candidates_uploaded": false
+}

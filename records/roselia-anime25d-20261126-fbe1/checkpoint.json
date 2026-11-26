@@ -1,0 +1,346 @@
+{
+  "card": "로젤리아",
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "count": 12,
+  "status": "prepared_for_upload",
+  "reservation_commit": "59f034404550f88101dd1a470f831ffae5cdb58c",
+  "regenerations": 0,
+  "comparison": [
+    "illumise-20261126-e8cd",
+    "volbeat-20261126-anime25d-66b0",
+    "minun-20261126"
+  ],
+  "qa": [
+    {
+      "slot": "light",
+      "selected_candidate": 2,
+      "filename": "로젤리아_light_anime_25d_gloss_f.webp",
+      "original_sha256": "0d54978c5363d96a934d01fee1c4903f924cc66ce253c797fda0005068c07dea",
+      "sha256": "75843eda558b435886cc941bdaa707f284b7b60f26a8e15dda2908973d2bef41",
+      "submitted_sha256": "a401762ba8f62751fca39cd71017378c6a630985b77d89382b2b2de8aa26bd0b",
+      "submitted_same": true,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "One relaxed fist partly occludes fingers; open gloved palm shows five digits. Both wrists join forearms.",
+        "overlay_checked": false,
+        "note": "Visual review; thighs more exposed than planned, kept per user instruction."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft nose, cheek and lip gradients with restrained facial outlines; dimensional armor and cloth."
+      }
+    },
+    {
+      "slot": "casual1",
+      "filename": "로젤리아_anime_25d_gloss_f_casual1.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "original_sha256": "fba7b7e62d40963c7265807d70a88eeff268d8e6fec3dc999f3afe321922a81c",
+      "sha256": "5cf954a3a1d951555dd184ddd0c1203de764add1a1c0b8e99bd18676e2294722",
+      "submitted_sha256": "89bba61e00debffb3bb015d6642c370e3420e7065df57a154ad73eca527b59d7",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms run from shoulders to elbows on the floor; fingers partly occluded under chin. Both legs joined, ankles crossed; source figure is a tabletop ornament.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Both arms run from shoulders to elbows on the floor; fingers partly occluded under chin. Both legs joined, ankles crossed; source figure is a tabletop ornament."
+    },
+    {
+      "slot": "casual2",
+      "filename": "로젤리아_anime_25d_gloss_f_casual2.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "a69d71a5aa1cb299aa5887c03775c14429f42fa0f78e7cd2e6f60b33766629d2",
+      "sha256": "290e898af1d9ce228b74a6a53389a0b84d6e11faa7c104d23c65d879cb920ccc",
+      "submitted_sha256": "46c0b398aeab8f76d92d1a4d84e876775a0872d158ebc5debf4f9c8fe80e5476",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Portrait crop: both shoulder/upper-arm origins are consistent; lower limbs outside frame. Hanbok interpreted as sleeveless fusion outfit; retained as generated.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Portrait crop: both shoulder/upper-arm origins are consistent; lower limbs outside frame. Hanbok interpreted as sleeveless fusion outfit; retained as generated."
+    },
+    {
+      "slot": "casual3",
+      "filename": "로젤리아_anime_25d_gloss_f_casual3.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "850a4fbd2ce334c2115c2b016387206d2e42c516cc49cd0d7b5a4f185d24199c",
+      "sha256": "e5799b056deeaf656159cc98502e9aecd4c8f3a77ec3fca570e2fd89499c6f0e",
+      "submitted_sha256": "4eee19a791c32fb0d772b4cc37b4619ee1aa350e981526ff4ed0d98b82bc4332",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "One gripping hand visible, thumb partly occluded by cotton-candy stick. Other arm and lower body outside crop. Costume crop is bust-up; retained.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "One gripping hand visible, thumb partly occluded by cotton-candy stick. Other arm and lower body outside crop. Costume crop is bust-up; retained."
+    },
+    {
+      "slot": "casual4",
+      "filename": "로젤리아_anime_25d_gloss_f_casual4.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "3ddf54f5b0cb57284ba3de5df8fbd324d6fcb9fdf4367af5f47fbced2b8ce8dc",
+      "sha256": "213fe94042e760c638a44362bf09bf4203b7fdf07fe6b8f1ada91308fc52c561",
+      "submitted_sha256": "fb1cc9e000f2947c97794ab807d1210d31273369a21179c9e5274b09dcf00bf8",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms connected; hand on rail and hand at ear each show plausible finger arrangement. Lower body outside crop.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Both arms connected; hand on rail and hand at ear each show plausible finger arrangement. Lower body outside crop."
+    },
+    {
+      "slot": "casual5",
+      "filename": "로젤리아_anime_25d_gloss_f_casual5.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "2b20a020085c6654767fa03ded4ce7b452ece6b3f283257914635678488b3802",
+      "sha256": "8664ace12e2950bda363a08998079fa420b997c216ec441d49f61fa40f38c78e",
+      "submitted_sha256": "e7cb6fee93f83c88a6d499740d9a5761217ac34e1f1846407be9b8e57fc70326",
+      "submitted_same": false,
+      "authorized_free_fill": true,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms brace on ledge; five fingers with some overlap in foreshortening. Legs cropped above knees. Hair flower retained from source.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Both arms brace on ledge; five fingers with some overlap in foreshortening. Legs cropped above knees. Hair flower retained from source."
+    },
+    {
+      "slot": "casual6",
+      "filename": "로젤리아_anime_25d_gloss_f_casual6.webp",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "original_sha256": "abf816a65dc96c4eeaccc2ab90663941a29f7fb1c83ba8d412f1e4411ad48d79",
+      "sha256": "ff9c929a9f1084f773304710318f2a336d5fd53be2888d678e7ed30cbbe32e31",
+      "submitted_sha256": "c30e2dde62fa6a129faa034cb7cc16fe6dac8e3619356a5735bae3f6e0b26e4a",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised arm connected to shoulder; fingertips partly meet upper edge. Hanging hand shows five fingers. Most lower legs outside crop. Swimsuit neckline/coverage varies from plan; preserved.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Raised arm connected to shoulder; fingertips partly meet upper edge. Hanging hand shows five fingers. Most lower legs outside crop. Swimsuit neckline/coverage varies from plan; preserved."
+    },
+    {
+      "slot": "casual7",
+      "filename": "로젤리아_anime_25d_gloss_f_casual7.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "c6e253d8264601dffcefbaa2ed63f3ab9d54b382e231c2cfdd76413ebb5388a7",
+      "sha256": "5fb77cf2a54492703aaad5b48e273c1887b3dc13745d7c45d95f0c101ca783d8",
+      "submitted_sha256": "513d253b15b1698cb336f595db7261ba9888c2ec8350f67a04c436fbd26b2787",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Crossed arms connected, upper hand has four visible fingers with thumb occluded. Lower hand occluded under opposite arm; lower body outside crop.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Crossed arms connected, upper hand has four visible fingers with thumb occluded. Lower hand occluded under opposite arm; lower body outside crop."
+    },
+    {
+      "slot": "casual8",
+      "filename": "로젤리아_anime_25d_gloss_f_casual8.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "33de1c80bac4ab95fcd3f95e8042d37747b43e9997c1a49a7bd530842f5e81be",
+      "sha256": "918c6d8675e0ba4cf44441d7b36dea9bec10cc9deed15db0cb8be5f79f8c410b",
+      "submitted_sha256": "872f83b31a8bd1efcadada50fd91052b6a35fb4634398b77c53bb2a147cf3d69",
+      "submitted_same": false,
+      "authorized_free_fill": true,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands grip hoop; curled digits partly occluded by hoop; no separate floating hands. Both legs continue to waterline, underwater portions occluded.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Both hands grip hoop; curled digits partly occluded by hoop; no separate floating hands. Both legs continue to waterline, underwater portions occluded."
+    },
+    {
+      "slot": "casual9",
+      "filename": "로젤리아_anime_25d_gloss_f_casual9.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "928053deac9f4273c0dea8111150fd9675a16d70281115675044bab555411319",
+      "sha256": "814d83ff583b3a52ecdf88a3724b63c615e40f101a4ad629c3f6c9f96ea24534",
+      "submitted_sha256": "0371615bb2864bd7e4e9be0d82cd04e51a16e50daa8c0c2fd0ae66d5fd89939c",
+      "submitted_same": false,
+      "authorized_free_fill": true,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two arms and two legs connected. Open hand beside thigh and hand at waist have plausible five-digit structure. Shoes and head fully within frame.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Two arms and two legs connected. Open hand beside thigh and hand at waist have plausible five-digit structure. Shoes and head fully within frame."
+    },
+    {
+      "slot": "casual10",
+      "filename": "로젤리아_anime_25d_gloss_f_casual10.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "original_sha256": "4a4c1316cfc98dcb456e6fd224f741fccd4829443cb5d908ae6a59efde950b1f",
+      "sha256": "2dc626267bcf5f80714cfeef0adca839b53e618e7978266123a9770b4212bd9b",
+      "submitted_sha256": "b524cf5ab46127e23a025e81510be0c22eb49cb4c8343045e211864f5fa3f2f2",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Reclining body has two legs and attached arms; farther hand partly hidden. Costume retained armor-like source details; preserved without regeneration.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Reclining body has two legs and attached arms; farther hand partly hidden. Costume retained armor-like source details; preserved without regeneration."
+    },
+    {
+      "slot": "casual90",
+      "filename": "로젤리아_anime_25d_gloss_f_casual90.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "original_sha256": "12f177def8211274e1e9668b2a6914c2d83437f9c44e4823920d4776a6b7c97d",
+      "sha256": "10c8e90abd7c6f1462671d4b9b640691241bc115b68709361cee0e86ae94eab0",
+      "submitted_sha256": "a71de9224c121909a08aab2e8375c9087ea2d3b5b02ab55768a599990445cb31",
+      "submitted_same": true,
+      "authorized_free_fill": false,
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Right arm holds bottle with partially overlapping fingers; left arm joins hand resting on knee. Two bent legs, feet connected; crouch in high heels stylized but continuous.",
+        "overlay_checked": false,
+        "note": "Visual assessment, occluded or cropped parts recorded rather than inferred visible."
+      },
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Blended nose, cheek, lip and jaw shading; detailed hair strands; subtle facial outline."
+      },
+      "note": "Right arm holds bottle with partially overlapping fingers; left arm joins hand resting on knee. Two bent legs, feet connected; crouch in high heels stylized but continuous."
+    }
+  ]
+}

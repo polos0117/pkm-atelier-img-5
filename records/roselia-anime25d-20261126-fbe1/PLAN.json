@@ -1,0 +1,617 @@
+{
+ "session": "roselia-anime25d-20261126-fbe1",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "로젤리아",
+   "species": "roselia-20261126",
+   "cuts": [
+    {
+     "cut": 1,
+     "treeV": 2,
+     "era": "release",
+     "place": "photo_studio",
+     "ofam": "everyday",
+     "item": "long_coat_scarf",
+     "garments": [
+      "coat"
+     ],
+     "ocolor": "teal",
+     "weather": "",
+     "time": "lamplight",
+     "moment": "",
+     "light": "low_warm",
+     "spot": "left_third",
+     "depth": "",
+     "view": "",
+     "posture": "lie_front",
+     "support": "front_floor",
+     "frame": "full_body",
+     "body": "front",
+     "head": "with_body",
+     "camera": "top",
+     "right": "chin_both",
+     "left": "chin_both",
+     "use": "",
+     "legs": "feet_up",
+     "gaze": "camera",
+     "preset": "lie_front_top",
+     "turn": "front",
+     "ostyle": {
+      "fit": "tailored"
+     },
+     "expr": "determined",
+     "aspect": "3:2",
+     "situ": "waist_tied",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "balanced",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "deep V neckline",
+      "open back"
+     ],
+     "lead": "place",
+     "shade": "aqua"
+    },
+    {
+     "cut": 2,
+     "treeV": 2,
+     "era": "release",
+     "place": "ski_lift",
+     "ofam": "traditional",
+     "item": "hanbok_formal",
+     "garments": [
+      "traditional"
+     ],
+     "ocolor": "ivory",
+     "weather": "",
+     "time": "noon",
+     "moment": "",
+     "light": "back",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "sit_chair",
+     "support": "none",
+     "frame": "face_close",
+     "body": "front",
+     "head": "over_shoulder",
+     "camera": "high",
+     "right": "natural",
+     "left": "natural",
+     "use": "",
+     "legs": "",
+     "gaze": "",
+     "preset": "",
+     "ostyle": {
+      "material": "embroidery",
+      "acc": "earrings"
+     },
+     "expr": "calm",
+     "aspect": "2:3",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "balanced",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "deep V neckline",
+      "side cutouts"
+     ],
+     "lead": "light",
+     "shade": ""
+    },
+    {
+     "cut": 3,
+     "treeV": 2,
+     "era": "now",
+     "place": "stage_convention",
+     "ofam": "roleplay",
+     "item": "rp_uniform_inspired_leotard",
+     "garments": [
+      "bodysuit",
+      "leggings",
+      "uniform"
+     ],
+     "ocolor": "grey",
+     "weather": "",
+     "time": "fluorescent",
+     "moment": "cream_nose",
+     "light": "",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "stand",
+     "support": "none",
+     "frame": "chest_up",
+     "body": "side",
+     "head": "over_shoulder",
+     "camera": "low",
+     "right": "prop",
+     "left": "out",
+     "use": "candy_bite",
+     "legs": "",
+     "gaze": "camera",
+     "preset": "lookback_raise",
+     "expr": "pensive",
+     "aspect": "2:3",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "plunging neckline",
+      "mini length"
+     ],
+     "lead": "action",
+     "shade": "slate"
+    },
+    {
+     "cut": 4,
+     "treeV": 2,
+     "era": "now",
+     "place": "amuse_parade",
+     "ofam": "game_cosplay",
+     "item": "gc_corset",
+     "cosplay": {
+      "game": "world_of_warcraft",
+      "character": "Vanessa VanCleef",
+      "cut": "corset",
+      "round": 1
+     },
+     "garments": [
+      "lingerie_set",
+      "skirt"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "dusk",
+     "moment": "",
+     "light": "",
+     "spot": "",
+     "depth": "flat",
+     "view": "",
+     "posture": "lean_rail",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front",
+     "head": "tilt",
+     "camera": "low",
+     "right": "rail",
+     "left": "hair_tuck",
+     "use": "",
+     "legs": "",
+     "gaze": "up",
+     "preset": "rail_sky_low",
+     "turn": "right",
+     "expr": "half_smile",
+     "aspect": "2:3",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "sweetheart neckline",
+      "high-cut leg"
+     ],
+     "lead": "detail",
+     "shade": ""
+    },
+    {
+     "cut": 5,
+     "treeV": 2,
+     "era": "fantasy",
+     "place": "fx_forest",
+     "ofam": "editorial",
+     "item": "heritage_couture",
+     "garments": [
+      "dress"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "golden",
+     "moment": "",
+     "light": "dappled",
+     "spot": "",
+     "depth": "",
+     "view": "foreground",
+     "posture": "sit_edge",
+     "support": "hip_edge",
+     "frame": "three_quarter",
+     "body": "front",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "edge_brace_both",
+     "left": "edge_brace_both",
+     "use": "",
+     "legs": "knees_together",
+     "gaze": "camera",
+     "preset": "edge_brace",
+     "turn": "front",
+     "expr": "bored",
+     "aspect": "2:3",
+     "ofree": true,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "balanced",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "plunging neckline",
+      "off-shoulder neckline"
+     ],
+     "lead": "light",
+     "shade": ""
+    },
+    {
+     "cut": 6,
+     "treeV": 2,
+     "era": "now",
+     "place": "home_veranda",
+     "ofam": "swimwear",
+     "item": "sw_dive_longsleeve",
+     "garments": [
+      "swimsuit"
+     ],
+     "ocolor": "purple",
+     "weather": "spring",
+     "time": "dawn",
+     "moment": "bedhead",
+     "light": "",
+     "spot": "",
+     "depth": "deep",
+     "view": "",
+     "posture": "reach_up",
+     "support": "none",
+     "frame": "three_quarter",
+     "body": "side",
+     "head": "over_shoulder",
+     "camera": "high",
+     "right": "reach_high",
+     "left": "natural",
+     "use": "",
+     "legs": "",
+     "gaze": "camera",
+     "preset": "shelf_high_look",
+     "ostyle": {
+      "layer": "sheer_shirt"
+     },
+     "expr": "surprised",
+     "aspect": "1:1",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "balanced",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "sweetheart neckline",
+      "bare midriff"
+     ],
+     "lead": "place",
+     "shade": "lavender"
+    },
+    {
+     "cut": 7,
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "berry_kitchen",
+     "ofam": "lingerie",
+     "item": "kebaya_lace",
+     "garments": [
+      "tank"
+     ],
+     "ocolor": "black",
+     "weather": "",
+     "time": "day_indoor",
+     "moment": "",
+     "light": "top",
+     "spot": "",
+     "depth": "flat",
+     "view": "",
+     "posture": "lean_wall",
+     "support": "back_wall",
+     "frame": "chest_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "floor",
+     "right": "arms_crossed",
+     "left": "arms_crossed",
+     "use": "",
+     "legs": "",
+     "gaze": "camera",
+     "preset": "crossed_wall",
+     "turn": "left",
+     "ostyle": {
+      "acc": "hair_ribbon"
+     },
+     "expr": "serious",
+     "aspect": "2:3",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "balanced",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "deep V neckline",
+      "cropped hem"
+     ],
+     "lead": "action",
+     "shade": "jet"
+    },
+    {
+     "cut": 8,
+     "treeV": 2,
+     "era": "fantasy",
+     "place": "orbit_lounge",
+     "ofam": "adventure",
+     "item": "desert_nomad",
+     "garments": [
+      "trousers"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "",
+     "moment": "",
+     "light": "two_tone",
+     "spot": "low_small",
+     "depth": "",
+     "view": "",
+     "posture": "lean_counter",
+     "support": "none",
+     "frame": "environmental",
+     "body": "rear_3q",
+     "head": "turn_side",
+     "camera": "floor",
+     "right": "natural",
+     "left": "natural",
+     "use": "",
+     "legs": "ankles_crossed",
+     "gaze": "down",
+     "preset": "",
+     "turn": "",
+     "ostyle": "",
+     "expr": "curious",
+     "aspect": "2:3",
+     "xfree": true,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "plunging neckline",
+      "halter neck"
+     ],
+     "lead": "detail",
+     "shade": ""
+    },
+    {
+     "cut": 9,
+     "treeV": 2,
+     "era": "now",
+     "place": "sports_studio",
+     "ofam": "retro",
+     "item": "pinup_bikini",
+     "garments": [
+      "bikini"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "day_indoor",
+     "moment": "",
+     "light": "side",
+     "spot": "",
+     "depth": "deep",
+     "view": "",
+     "posture": "lean_in",
+     "support": "none",
+     "frame": "full_body",
+     "body": "front_3q",
+     "head": "over_shoulder",
+     "camera": "low",
+     "right": "natural",
+     "left": "natural",
+     "use": "",
+     "legs": "stand_relaxed",
+     "gaze": "",
+     "preset": "",
+     "turn": "",
+     "ostyle": "",
+     "expr": "laughing",
+     "aspect": "2:3",
+     "ofree": true,
+     "sfree": true,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "balanced",
+      "separates_preference": "balanced"
+     },
+     "expose": [
+      "sweetheart neckline",
+      "cutout waist"
+     ],
+     "lead": "detail",
+     "shade": ""
+    },
+    {
+     "cut": 10,
+     "treeV": 2,
+     "era": "now",
+     "place": "travel_ranch",
+     "ofam": "pokemon_costume",
+     "item": "pc_crop_set",
+     "garments": [
+      "crop_top",
+      "skirt"
+     ],
+     "ocolor": "",
+     "weather": "",
+     "time": "overcast",
+     "moment": "",
+     "light": "back",
+     "spot": "",
+     "depth": "",
+     "view": "",
+     "posture": "recline",
+     "support": "back_lounger",
+     "frame": "environmental",
+     "body": "rear_3q",
+     "head": "tilt",
+     "camera": "low",
+     "right": "natural",
+     "left": "natural",
+     "use": "",
+     "legs": "legs_extended",
+     "gaze": "screen_left",
+     "preset": "",
+     "expr": "focused",
+     "aspect": "3:2",
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "mostly posed",
+      "source_influence": "balanced",
+      "separates_preference": "prefer separates"
+     },
+     "expose": [
+      "deep V neckline",
+      "strapless top"
+     ],
+     "lead": "action",
+     "shade": ""
+    },
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_workshop",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a small perfume bottle",
+     "preset": "squat_prop",
+     "use": "sig_hold",
+     "posture": "squat",
+     "support": "none",
+     "frame": "full_body",
+     "body": "front",
+     "head": "tilt",
+     "camera": "high",
+     "right": "prop",
+     "left": "lap",
+     "legs": "squat_heels",
+     "gaze": "at_prop",
+     "time": "golden",
+     "light": "two_tone",
+     "spot": "left_third",
+     "view": "door_frame",
+     "own": "all",
+     "placeText": "a perfumery atelier — rows of glass vials, bundles of dried flowers, a mixing table",
+     "scene": "she is a perfumer crouching beside the low shelf, peering at a small bottle of her finished fragrance",
+     "outfit": "a perfumer look fitted to her body — a short silk robe-style dress tied at the waist over a camisole, bare shoulders and legs, a rose-shaped pin",
+     "job_ko": "조향사",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "2:3"
+    }
+   ],
+   "why": {
+    "tree": 2,
+    "count": 10,
+    "required": {
+     "slots": [
+      3,
+      6,
+      7
+     ],
+     "all": true
+    },
+    "costume": 10,
+    "cosplay": {
+     "cut": "corset",
+     "game": "world_of_warcraft",
+     "character": "Vanessa VanCleef",
+     "round": 1,
+     "cutKey": "corset"
+    },
+    "low": [
+     "street",
+     "arcade",
+     "studio",
+     "water",
+     "spa",
+     "sports",
+     "evening",
+     "travel",
+     "pokeworld",
+     "work",
+     "partner",
+     "berry",
+     "fx",
+     "winter",
+     "shop",
+     "sky",
+     "orbit"
+    ],
+    "ofree": [
+     5,
+     9
+    ],
+    "xfree": 8,
+    "situ": {
+     "cut": 1,
+     "situ": "waist_tied"
+    }
+   },
+   "claims": {
+    "garment": [
+     "coat",
+     "traditional",
+     "bodysuit",
+     "leggings",
+     "uniform",
+     "lingerie_set",
+     "skirt",
+     "dress",
+     "swimsuit",
+     "tank",
+     "trousers",
+     "bikini",
+     "crop_top"
+    ],
+    "orient": [
+     "front+with_body",
+     "side+over_shoulder",
+     "front+with_body",
+     "side+over_shoulder",
+     "rear_3q+turn_side",
+     "rear_3q+tilt"
+    ],
+    "frame": []
+   }
+  }
+ ]
+}
