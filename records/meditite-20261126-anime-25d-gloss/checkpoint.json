@@ -1,0 +1,290 @@
+{
+  "card": "요가랑",
+  "style": "anime_25d_gloss",
+  "stage": "ready_for_upload",
+  "selected_candidate": 1,
+  "selected_original_sha256": "c6ea3084e23470281091b99f1c5fddf01d0245272396b01cacf6f18d21f61f08",
+  "files": [
+    {
+      "slot": "light",
+      "filename": "요가랑_light_anime_25d_gloss_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "c6ea3084e23470281091b99f1c5fddf01d0245272396b01cacf6f18d21f61f08",
+      "webp_sha256": "e8af0ed793566d9b081d1aea542022f5ca379d38dbdee6353d7d82b5415a0ca8",
+      "submitted_sha256": "e27b39c1d48a4bc77e0731f64ea9ec3ebe6a260ef7ca8dd232eee032e3d1eef2",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": null,
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Selected candidate 1. Silver-white ringlet waves with pink tips, navy eyes; white/pink/blue thin mechanical plates. Both arm and leg chains continuous. Open gloved hand has overlapping fingers; other hand is a loose fist. Upper chest opening exceeds requested coverage; accepted without regeneration."
+      },
+      "observations": "Selected candidate 1. Silver-white ringlet waves with pink tips, navy eyes; white/pink/blue thin mechanical plates. Both arm and leg chains continuous. Open gloved hand has overlapping fingers; other hand is a loose fist. Upper chest opening exceeds requested coverage; accepted without regeneration."
+    },
+    {
+      "slot": "casual1",
+      "filename": "요가랑_anime_25d_gloss_f_casual1.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "545ffb73e37f58ead050c31cb5b207dddd324afbb87372c7ab68eb7a74a19272",
+      "webp_sha256": "16ba69723d1296dd48296d78b02d7bd3169228075d3dc16cc0d1d3491443d0f3",
+      "submitted_sha256": "19becd9f414ba73b60cfd355a3bc217ea8699861f967b93cbf1d1a63e6e00c0f",
+      "submitted_same": false,
+      "authorized_free_design": true,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Planetarium kaleidoscope. Right hand grips viewer rim, left hand rests on thigh; both arms continuous and separate. Five digits indicated with grip overlap. Two legs and boots continuous. Model rendered nearly full body rather than head-to-knees; retained."
+      },
+      "observations": "Planetarium kaleidoscope. Right hand grips viewer rim, left hand rests on thigh; both arms continuous and separate. Five digits indicated with grip overlap. Two legs and boots continuous. Model rendered nearly full body rather than head-to-knees; retained."
+    },
+    {
+      "slot": "casual2",
+      "filename": "요가랑_anime_25d_gloss_f_casual2.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "5e919dc4a198b7fa9d8be106efd84ebb031eed320a13f84a07de56b81c43a8c7",
+      "webp_sha256": "43b85013d213e5cc3b6ffc5bf67687be605548cde0a546df6fb74e479e04abdb",
+      "submitted_sha256": "aa41d5681d5f7e8f179e8825fe84b87cb363aba27360556b63d85f6c6c68626c",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Snow-sled steps. Right hand on hip, left arm hangs beside body; hands naturally connected, digits partially overlap at hip. One foot on step, other below, knees bend naturally. Laughing expression, red cropped cardigan and glossy leggings."
+      },
+      "observations": "Snow-sled steps. Right hand on hip, left arm hangs beside body; hands naturally connected, digits partially overlap at hip. One foot on step, other below, knees bend naturally. Laughing expression, red cropped cardigan and glossy leggings."
+    },
+    {
+      "slot": "casual3",
+      "filename": "요가랑_anime_25d_gloss_f_casual3.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "f47c5ffc53e68d6bd7a3d109d74838041d60294e3e37a4012947eb19f5238d46",
+      "webp_sha256": "d97b204cbc2b7df32c7c22df3593077fb0719c0e2aa315c98cc51ce4d63fde44",
+      "submitted_sha256": "e6419dff295e0ee5939a46ae4f96e951b0d4c570fb3495f160ee8ad922844a71",
+      "submitted_same": false,
+      "authorized_free_design": true,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Harbor listening to shell. Right arm bends up with fingers around shell; thumb partly hidden. Left arm extends to supporting palm on dry stone. Two seated legs partly cropped. Stern face retained. Collar, shell and stone sitting distinguish the scene."
+      },
+      "observations": "Harbor listening to shell. Right arm bends up with fingers around shell; thumb partly hidden. Left arm extends to supporting palm on dry stone. Two seated legs partly cropped. Stern face retained. Collar, shell and stone sitting distinguish the scene."
+    },
+    {
+      "slot": "casual4",
+      "filename": "요가랑_anime_25d_gloss_f_casual4.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "5f3c806308a9a3a1be8658e4cf01fd7b4fa92639d758febc2846753dffe0ea4b",
+      "webp_sha256": "106caa0092ae607a7d60c5d7c1457d76d147d142d705a54c0d1479731321acb7",
+      "submitted_sha256": "a22fe6a462eccfabb5aded11b9a8fc187021690af481b4262644940b30b44fc6",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Yacht portrait in yellow embroidered harness bodysuit. Both arms connect visibly from shoulders to hands resting on wheel; thumbs partly hidden by wheel grip. Five-digit structure visible. Crop includes upper thighs rather than chest-up; retained."
+      },
+      "observations": "Yacht portrait in yellow embroidered harness bodysuit. Both arms connect visibly from shoulders to hands resting on wheel; thumbs partly hidden by wheel grip. Five-digit structure visible. Crop includes upper thighs rather than chest-up; retained."
+    },
+    {
+      "slot": "casual5",
+      "filename": "요가랑_anime_25d_gloss_f_casual5.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "83acc851029531950ee56c73e26669e158948e6cef2b6df886225641c146bbaf",
+      "webp_sha256": "3992481e22999b8161db52dd0b30384b0adc98f74dfdb67641c3c5fd372dbfac",
+      "submitted_sha256": "53df4067b825cd30264a017c00d641ed9f1fe096d91cc3e1e30c78212bec3dac",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Arcade photo booth face portrait. Brown velvet top and cropped jacket. Shoulders visible, arms and legs naturally outside portrait crop, no unattached hands. Bored gaze and face shading retained."
+      },
+      "observations": "Arcade photo booth face portrait. Brown velvet top and cropped jacket. Shoulders visible, arms and legs naturally outside portrait crop, no unattached hands. Bored gaze and face shading retained."
+    },
+    {
+      "slot": "casual6",
+      "filename": "요가랑_anime_25d_gloss_f_casual6.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "b3903288476dadf990e98b533ab0ceef1b5ac7d04ef29b27ce08f5f6cedb25d2",
+      "webp_sha256": "0e14dc284edf3ae84c11b92cd709983535c05e5c22d89dd4d91fa5772f96c10a",
+      "submitted_sha256": "f2caa6724b49ea51dbb9a5873e62f334cf635d54b19bdd3fcfb6d83e20b0e352",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Tram bench bunny event costume. Right forearm raised into peace sign, other arm rests on seat edge. Five-digit hand construction visible with folded fingers; both arms attached. Bunny ears partly clipped at top edge; retained."
+      },
+      "observations": "Tram bench bunny event costume. Right forearm raised into peace sign, other arm rests on seat edge. Five-digit hand construction visible with folded fingers; both arms attached. Bunny ears partly clipped at top edge; retained."
+    },
+    {
+      "slot": "casual7",
+      "filename": "요가랑_anime_25d_gloss_f_casual7.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "b1cddb73c7a9e48ab6534a44f6ddf0646a9d87eefdbf91394a6e06f3e2cf82be",
+      "webp_sha256": "621f24b70ff84306e948bd07cfabd7b87184ca22b68b8e8eec6de44862ef7782",
+      "submitted_sha256": "a17a8f7b8c5f6a37299592dfa34a3712f68562cbd7ff79d31fca4ffe03879e08",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Potion laboratory. Raised arm reaches bottle on high shelf, other arm hangs relaxed with palm near thigh. Five digits indicated with perspective overlap. Two legs and heeled feet joined. Camera and turned head render a rear/side three-quarter pose. Black swimwear with loose yukata; no regeneration."
+      },
+      "observations": "Potion laboratory. Raised arm reaches bottle on high shelf, other arm hangs relaxed with palm near thigh. Five digits indicated with perspective overlap. Two legs and heeled feet joined. Camera and turned head render a rear/side three-quarter pose. Black swimwear with loose yukata; no regeneration."
+    },
+    {
+      "slot": "casual8",
+      "filename": "요가랑_anime_25d_gloss_f_casual8.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "6440e6bc9213761e2e1a7dd6ca5322be173e82a5b1bc729a4f57925198d6b2c7",
+      "webp_sha256": "68e7c5f8efeb14374dfa11347308e83b3a957053ef606255a1d5322386a52bc8",
+      "submitted_sha256": "6475a1446e553c4915f413cfad3cb7555daa8ecf4fdb156d4dd5459459b74978",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Nail salon Meditite costume. Right arm bends up to tuck hair, left hand on hip; gloved fingers overlap naturally. Shoulder-arm chains connected. Planned square waist crop; no legs required within frame."
+      },
+      "observations": "Nail salon Meditite costume. Right arm bends up to tuck hair, left hand on hip; gloved fingers overlap naturally. Shoulder-arm chains connected. Planned square waist crop; no legs required within frame."
+    },
+    {
+      "slot": "casual9",
+      "filename": "요가랑_anime_25d_gloss_f_casual9.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "a971af0f58829de1abead902333eed0a261d1e5f1e1cc41514ad3f5dadfbe660",
+      "webp_sha256": "e7a14823ee506ecac0d93ec7980f9b2d981c574ce23a109b4f7b83bbe36eae18",
+      "submitted_sha256": "c22a3eb7ef4d4dec477d2fd0039e194fee44dccdae64f493f70f1edb1437b8fb",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Theme cafe Lara Croft cosplay. Two arms reach separately to railing with fingers resting over it, thumbs partly hidden by gloves/rail. Upper thighs visible, legs continue beyond crop. Costume top is a longer cropped top rather than minimal bikini; colour, backpack and holster motifs remain readable; retained."
+      },
+      "observations": "Theme cafe Lara Croft cosplay. Two arms reach separately to railing with fingers resting over it, thumbs partly hidden by gloves/rail. Upper thighs visible, legs continue beyond crop. Costume top is a longer cropped top rather than minimal bikini; colour, backpack and holster motifs remain readable; retained."
+    },
+    {
+      "slot": "casual10",
+      "filename": "요가랑_anime_25d_gloss_f_casual10.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "39761e10265c5033c3ea199527a7a67367920323d868d335005d55dbbd4916bc",
+      "webp_sha256": "617088d73174a10822eb8ce8719e7afdbb48647fe0cbb00660eeb7679f18fc56",
+      "submitted_sha256": "bbd7471b64e52d46c42ccbe9c4baba98c16834b7324e05bd1071fb6c0a51c5fb",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Morning subway seat. One hand rests on crossed knee, other palm supports on seat; five digits indicated. Crossed knees and sandal feet continuous. Model turns torso more toward camera than planned profile; retained."
+      },
+      "observations": "Morning subway seat. One hand rests on crossed knee, other palm supports on seat; five digits indicated. Crossed knees and sandal feet continuous. Model turns torso more toward camera than planned profile; retained."
+    },
+    {
+      "slot": "casual90",
+      "filename": "요가랑_anime_25d_gloss_f_casual90.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "18f7bc12c82b0ea8825c35235277dbeb16304f503f8fb3c07c5c25bc4f379bd1",
+      "webp_sha256": "24531664a5fe2b6c2c0e72e86691f9346cabe80d0b84e54a4fd40c9517411585",
+      "submitted_sha256": "6be73100341d107708a238e6ba0a2f9354a38a8f249b2b5da182665beb1b9387",
+      "submitted_same": true,
+      "authorized_free_design": false,
+      "reference": "selected candidate 1",
+      "style_25d": {
+        "result": "pass",
+        "reason": "Blended cheek, nose, lip and jaw shading; fine eyelids and coloured edges; dimensional hair, skin and clothing."
+      },
+      "anatomy": {
+        "result": "visual review passed",
+        "tool": "unavailable: mediapipe missing, exit 3",
+        "evidence": "Yoga studio student. Kneeling on mat, both arms clearly descend to overlapping hands on lap; five fingers partly occluded by the other hand. Knees, shins and feet folded naturally. Planned closed eyes; hands on lap rather than prayer; retained."
+      },
+      "observations": "Yoga studio student. Kneeling on mat, both arms clearly descend to overlapping hands on lap; five fingers partly occluded by the other hand. Knees, shins and feet folded naturally. Planned closed eyes; hands on lap rather than prayer; retained."
+    }
+  ],
+  "count": 12,
+  "image_repo": "polos0117/pkm-atelier-img-5",
+  "reservation_commit": "bbeddb2b367f2e2b7ae0ddd08b0fda9a2c6fba7f",
+  "old_style": "glossy_promo",
+  "existing_art_preserved": true
+}
