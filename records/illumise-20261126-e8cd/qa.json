@@ -1,0 +1,189 @@
+[
+  {
+    "slot": 1,
+    "filename": "네오비트_anime_25d_gloss_f_casual1.webp",
+    "source_sha256": "c936b1525983c36b3cd94596eaef6b720fb038f9159653cfe458cbc3315f1e53",
+    "webp_sha256": "ffe2e9b550ff48fb35feae5377853819f0b1195361ef0c332550d71e204cc11c",
+    "submitted_sha256": "81e38dec25c058968bf98e19fc9d1a16da00c25c4f2b719ba263aa4e9df8b01b",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 2,
+    "filename": "네오비트_anime_25d_gloss_f_casual2.webp",
+    "source_sha256": "92e7cf12190b7f101bce7e67d953070c6847dffacd1c809d5449b10ded13b90a",
+    "webp_sha256": "0846a34783fd833eb11ea1c95f4bd372c5aaf3d2fb3fedfbaab3750c32c40959",
+    "submitted_sha256": "ea4f5654cbfbb25cd537abf7e0211fedd815e304cbaf877fae20480e5fab340f",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 3,
+    "filename": "네오비트_anime_25d_gloss_f_casual3.webp",
+    "source_sha256": "c1b7512eae2d3d9c91498e75232d998175e8c097593d0a1526e6e1567498aa53",
+    "webp_sha256": "4303500c03557013f5a23d5664e1f2cc381b0bef8fe447b2e776f442880266ec",
+    "submitted_sha256": "eca8314db907cb6914539c7a047324535db4a0964c41041fb214f3444fc8bfd7",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 4,
+    "filename": "네오비트_anime_25d_gloss_f_casual4.webp",
+    "source_sha256": "a2ece6081669c41caf98b323b52804337ac53ce6621182fa510c2ee653f748d7",
+    "webp_sha256": "45960ab78da0e64d105dd6fce11709a30b309e795f6a4a44d2c9e56334ec68fa",
+    "submitted_sha256": "cf0c710c61be97f83b5bdd709d08d46336185ff48ef09a984fa83c7685be3b5a",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 5,
+    "filename": "네오비트_anime_25d_gloss_f_casual5.webp",
+    "source_sha256": "43d1f06e931435d31f5a2f8039bd04de68a6a363d2bf7dcf0a88c1c5786958ec",
+    "webp_sha256": "c59685cb856e653962e987fba2a1bef0b28905049e98744190f0886284bf9b1f",
+    "submitted_sha256": "cb4e5d255161e4c717dc4422a9b22ed8c2e25f0898fc847dfa09d45e90335482",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 6,
+    "filename": "네오비트_anime_25d_gloss_f_casual6.webp",
+    "source_sha256": "21d8c1eceb3f1d81e3155ec053d0351f399720b771d660564c34767a1412d3a5",
+    "webp_sha256": "a3157de6bc30c1e4d8b043c38936399945d0af5d11437c871102e2b8cece08c8",
+    "submitted_sha256": "c6b63a9f20863be9b4a578e0dab9fd9a2be3b31e1ed31bf4b24d1cca134ac738",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 7,
+    "filename": "네오비트_anime_25d_gloss_f_casual7.webp",
+    "source_sha256": "9c5440d09ece57404a98dfe667bbbe7b0503a7e44aed3a802c69ae958b3a82b9",
+    "webp_sha256": "c5cbcb8b7b9f1a20c89a2edeb97321c39fa935e9e2e19232d9d2f3d919fdf848",
+    "submitted_sha256": "31f785673f0b330f881d435d0693a5412fa95caff5581a43cc227f5c65233398",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 8,
+    "filename": "네오비트_anime_25d_gloss_f_casual8.webp",
+    "source_sha256": "f7dfc15e63f722cc92371827a8ed27d19a70fd461ed02643bb0b5fa27ed34717",
+    "webp_sha256": "b85bd72e6fd5452fc6cc12b7f5ef1dd0c4d7029fc75f6f23d2d5df18259e86e2",
+    "submitted_sha256": "8afa3f2614320e02f8ce4820a29840a3b195d88a78f3e4eb97484abbea0661fb",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 9,
+    "filename": "네오비트_anime_25d_gloss_f_casual9.webp",
+    "source_sha256": "120de899e74a8cdcc4366bd0c46ba8c3ef901b8db2ac87acb10d075a55d5f105",
+    "webp_sha256": "a7b7295a496c6d97134aaab663e7c51fe661d29d9ebcd5a8034a1b708bbfc488",
+    "submitted_sha256": "f032ffcd1eef665446b2ef9c43afe686ff37674432fcf7c19737200e1e8aca0d",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 10,
+    "filename": "네오비트_anime_25d_gloss_f_casual10.webp",
+    "source_sha256": "d084f413e1f581cbc5c2835f90f3e61faf6da9ff9a39569b5ff1c43f31461e7c",
+    "webp_sha256": "10c84bbf997cce77439bc58d22b9f93dc36ae4740f0027ddc0028fc885b3d3d8",
+    "submitted_sha256": "8e1b353f05a081c3fa1e19b7353b862bb01874ef25dd3f28c71f0d89f943ff46",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  },
+  {
+    "slot": 90,
+    "filename": "네오비트_anime_25d_gloss_f_casual90.webp",
+    "source_sha256": "32afea975f8d4568e22af998a357d52c9972ec0e2201d61067c0fdad5598d433",
+    "webp_sha256": "b86bf015604c4477fd2e263e756b2197646afab49d536a96571dbb259eca3f5a",
+    "submitted_sha256": "add23728e880dbb2d5cc295b1bfc7732960251d2dc5659586cf42ed0f480bd12",
+    "submitted_same": true,
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Blended cheek, nose and lip shading with thin facial outlines."
+    },
+    "anatomy": {
+      "method": "visual",
+      "result": "no obvious extra limbs; visible hands connected"
+    },
+    "notes": "Retained generated composition, outfit and source ornaments without regeneration."
+  }
+]
