@@ -1,0 +1,155 @@
+{
+  "card": "볼비트",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 4,
+  "images": {
+    "light": {
+      "observation": "Selected candidate 4. Braided updo, paired shoulder plates, yellow-blue armor and complete head/boots.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Selected candidate 4. Braided updo, paired shoulder plates, yellow-blue armor and complete head/boots."
+      }
+    },
+    "casual1": {
+      "observation": "Garona cosplay seated on stone ledge beside roller coaster. Two arms lead to hands on ledge; fingers partially overlapped.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Garona cosplay seated on stone ledge beside roller coaster. Two arms lead to hands on ledge; fingers partially overlapped."
+      }
+    },
+    "casual2": {
+      "observation": "Arcade closeup holding one coin. Visible hand has thumb and four fingers; other arm exits frame. Original antenna ornaments retained; recorded only.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Arcade closeup holding one coin. Visible hand has thumb and four fingers; other arm exits frame. Original antenna ornaments retained; recorded only."
+      }
+    },
+    "casual3": {
+      "observation": "Costume on carousel horse; two arms holding pole at separate heights; legs partly overlap, boot ends visible. Wide environment composition.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Costume on carousel horse; two arms holding pole at separate heights; legs partly overlap, boot ends visible. Wide environment composition."
+      }
+    },
+    "casual4": {
+      "observation": "Yellow Arabian-inspired outfit in esports arena. Reaching palm has thumb plus four fingers; other shoulder and arm continue out of crop.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Yellow Arabian-inspired outfit in esports arena. Reaching palm has thumb plus four fingers; other shoulder and arm continue out of crop."
+      }
+    },
+    "casual5": {
+      "observation": "Caramel fringed swimsuit on swan pedal boat. Both arms connect to phone grip; fingers hidden at phone edges. Square composition.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Caramel fringed swimsuit on swan pedal boat. Both arms connect to phone grip; fingers hidden at phone edges. Square composition."
+      }
+    },
+    "casual6": {
+      "observation": "Raspberry folded bandeau and bubble swim shorts on suspended daybed at dusk. One palm on post, other on cushion; both legs connected. Crop wider than design; recorded.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Raspberry folded bandeau and bubble swim shorts on suspended daybed at dusk. One palm on post, other on cushion; both legs connected. Crop wider than design; recorded."
+      }
+    },
+    "casual7": {
+      "observation": "Ivory structured bustier and oxblood balloon shorts at club door. Right hand at hip, left hand relaxed by side; two feet on stairs.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Ivory structured bustier and oxblood balloon shorts at club door. Right hand at hip, left hand relaxed by side; two feet on stairs."
+      }
+    },
+    "casual8": {
+      "observation": "Pistachio folded silk top and envelope skort eating berry dessert in train dining car. Right hand holds spoon, left on tabletop; all arm joints readable.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Pistachio folded silk top and envelope skort eating berry dessert in train dining car. Right hand holds spoon, left on tabletop; all arm joints readable."
+      }
+    },
+    "casual9": {
+      "observation": "Coral corset reclining in camper doorway. Right hand partly hidden behind head, continuous upper and forearm visible; left hand at phone neckline. Antenna decoration retained; recorded only.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Coral corset reclining in camper doorway. Right hand partly hidden behind head, continuous upper and forearm visible; left hand at phone neckline. Antenna decoration retained; recorded only."
+      }
+    },
+    "casual10": {
+      "observation": "Fuchsia asymmetrical uniform-inspired bowling alley portrait. Both upper arms continue naturally out of lower crop; hands outside frame.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Fuchsia asymmetrical uniform-inspired bowling alley portrait. Both upper arms continue naturally out of lower crop; hands outside frame."
+      }
+    },
+    "casual90": {
+      "observation": "Airfield marshaller with ear defenders and glowing wand. Right hand grip partially hidden by wand, five-digit glove structure, left arm exits crop. Snow at airfield.",
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Airfield marshaller with ear defenders and glowing wand. Right hand grip partially hidden by wand, five-digit glove structure, left arm exits crop. Snow at airfield."
+      }
+    }
+  },
+  "regenerations": 0,
+  "source_identity": "Selected candidate 4 used for every casual. Braided updo, eye shape, jaw and skin rendering preserved.",
+  "comparison": "Roller coaster cosplay, arcade closeup, carousel costume, arena portrait, swan boat, spa swing, club, train, camper, bowling and airfield differ in place, activity, outfit and framing.",
+  "limitations": "Automated anatomy unavailable; visual review performed. Small retained ornaments and crop deviations recorded, no regeneration."
+}

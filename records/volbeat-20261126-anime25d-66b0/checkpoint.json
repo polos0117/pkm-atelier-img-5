@@ -1,0 +1,297 @@
+{
+  "card": "볼비트",
+  "style": "anime_25d_gloss",
+  "status": "ready_to_publish",
+  "selected_candidate": 4,
+  "images": [
+    {
+      "slot": "light",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-f0867e9a-4e01-45ca-898e-33ef4f3b5c58.png",
+      "file": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7d5fd49ab40679df57c8c9cd1498faff62e86ad300f30ea731e0155ebd032ab3",
+      "original_sha256": "40df892eb023b139cf5da0bb2807019d81e97cd95de4e5fa3f2aba52c2be170b",
+      "reference": null,
+      "submitted_sha256": "404728badfaa8a0d4e4ad385fbe5edbc0aa425e47a3570ed41503a49f634a741",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Selected candidate 4. Braided updo, paired shoulder plates, yellow-blue armor and complete head/boots."
+      }
+    },
+    {
+      "slot": "casual1",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-44276648-9247-474b-8bd6-ef4ed972e756.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "aedcdfd9f56814e50e390d7b00fca624cc9a3fa0b574c00d6db71ff933ee6c28",
+      "original_sha256": "ef0aa8fff380219b84855883c15203dfd6c0796df7c3691f555d90201c705695",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "d867dcf9b5aac0553817ac9cd3640614e3edc0b900514b1d5564671fe45aa7de",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Garona cosplay seated on stone ledge beside roller coaster. Two arms lead to hands on ledge; fingers partially overlapped."
+      }
+    },
+    {
+      "slot": "casual2",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-73b3a0da-dbb4-4dff-b5ae-870f1f5f48ab.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0d8d15fd8fae9a63df722e4741d599260f936acfa6e6c12db5bfa30702b6ff31",
+      "original_sha256": "7c6b35191ddc0ae12ea8aad93b1e7cfb413cbafc5d9eed8eb41765521a88a061",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "483aeb30c9806b1dad7002d706a709ff736d9df17c7037d1c28a60333fcefc82",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Arcade closeup holding one coin. Visible hand has thumb and four fingers; other arm exits frame. Original antenna ornaments retained; recorded only."
+      }
+    },
+    {
+      "slot": "casual3",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-a4f1ee58-89ac-4b8b-b48d-a5cdc93774b8.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "702cd7d8dc59087bdfda846de07fd9b2a982b841ac5c119d81e2d33baae3801e",
+      "original_sha256": "003337137025bb4d677f353ce31e8163e49c84cda0591bb50b23bfc328c6bcee",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "56a5b23f4289fb7492cb4a53eea40228ad8825f11375b4e3deea85350cbe7d2f",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Costume on carousel horse; two arms holding pole at separate heights; legs partly overlap, boot ends visible. Wide environment composition."
+      }
+    },
+    {
+      "slot": "casual4",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-afd5bf71-9595-4768-b717-ecf282e7d1cc.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "be209ee94fafb32ec732fb68cb1e0d5dfe69a4d4f0c91915821e586e5ec391ef",
+      "original_sha256": "d5238f54055f5ddbcea2f093f073dea4ef3a0c3e546cb6c049124db275907210",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "eb6947f78297342dcbd99016e64d30f268fbfaca542573a25d2aa6d80f924250",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Yellow Arabian-inspired outfit in esports arena. Reaching palm has thumb plus four fingers; other shoulder and arm continue out of crop."
+      }
+    },
+    {
+      "slot": "casual5",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-f3b76744-6f41-4032-bdee-839ac346a317.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "4ceaa9918accdc112e49d81c0b66faa3707c656d469faa8a36449d852016ed1c",
+      "original_sha256": "909b18d5150d16117b9bb645e9ba5392a6a9f9d7e9dde8c993a7771e0f2ae24b",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "8937aa6c6c09133cb0f2052281ef966f55cb75962947e9334fe7209310682174",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Caramel fringed swimsuit on swan pedal boat. Both arms connect to phone grip; fingers hidden at phone edges. Square composition."
+      }
+    },
+    {
+      "slot": "casual6",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-dfef1274-e22a-43ef-a916-e89dad440d9d.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ffba9a54f8ffd43f04586aadafbd6c7a5dab424018dba255e56bc5e86b3ffc77",
+      "original_sha256": "291a015ef736b56fb54f46a5b09c30da70d3b52c49aabe0faf8c5d540b8b8e62",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "aa9bee610e31d7dce55985d8e9f7fc4dd99691185e314de99c912ad667bbfd7b",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Raspberry folded bandeau and bubble swim shorts on suspended daybed at dusk. One palm on post, other on cushion; both legs connected. Crop wider than design; recorded."
+      }
+    },
+    {
+      "slot": "casual7",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-e37daf5a-c631-44f2-b495-aafb3c6cf9f2.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f934d576498f022226dde6ba569d41246dabfd8372c8320940ab858eeea11512",
+      "original_sha256": "b69f9821bc7f271c43f55b6074a009693277effc561c3a7e5ba1eb66dacc3b26",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "0ef822a3d4c3ff2d2a847e2adaa3593acb650ddbfd7bb83c26f6a2e100989958",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Ivory structured bustier and oxblood balloon shorts at club door. Right hand at hip, left hand relaxed by side; two feet on stairs."
+      }
+    },
+    {
+      "slot": "casual8",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-e472b8ab-f336-472f-9ed0-1470c1168762.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e4f10dbf9473a406b1c5ba1d97989dc452fd7b3e57862d544ab513981fde01c2",
+      "original_sha256": "40c8698bbe19ac594052dad6c01037ce85bb625bcf4fb57d7edd73d019099c2a",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "9a44ae09ef82183b918d7994459a2e33b7c9207ced3020e902b8386d0bd8f120",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Pistachio folded silk top and envelope skort eating berry dessert in train dining car. Right hand holds spoon, left on tabletop; all arm joints readable."
+      }
+    },
+    {
+      "slot": "casual9",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-74f087e7-6d00-401e-9d87-2ea80b99f707.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "a8dc10476fafed640ddb65eaa629fd3350f552a6c9c25ce82510943bd3200a6d",
+      "original_sha256": "a01f0285d65f4b11499123aa6a763cbf59042af46fb5816f4af1d5a76e2a9934",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "a6fa321383bda238523d803ce80565a1e6b51b9bde552e54ced7c6ab7d414b1b",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Coral corset reclining in camper doorway. Right hand partly hidden behind head, continuous upper and forearm visible; left hand at phone neckline. Antenna decoration retained; recorded only."
+      }
+    },
+    {
+      "slot": "casual10",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-3db9a70c-a54e-46db-9b31-07856f7bf49b.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "62a12032c16fc5d1eda1873d2b37e47128d6dd83b26935257aa213dbfe96094b",
+      "original_sha256": "a56b361a3ab42a6060b8242a4da781782738fc6d89729377cc6ec9daea7fa711",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "6118895546fa25a5715333d0e033877e85318d2ccd5b93b31de400ec3dd6e423",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Fuchsia asymmetrical uniform-inspired bowling alley portrait. Both upper arms continue naturally out of lower crop; hands outside frame."
+      }
+    },
+    {
+      "slot": "casual90",
+      "path": "/workspace/scratch/66b06f97f516/generated_images/exec-656874fb-a898-4ecc-9df8-b149acddfc6a.png",
+      "file": "img/볼비트_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc946a53c960d41c8ac2b924804acca4d316820af1160761bc361c19c91933d3",
+      "original_sha256": "2276523f45732f23c670797ad944310b64baed031cee0916010a0ebfaae6749d",
+      "reference": "img/볼비트_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "79fd46e9690ee83e6af74a31899f4f5645fc186d742f2452f7d1f8ae251373aa",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands counted; grip/overlap/crop noted in observation. Hidden fingers not assumed visible.",
+        "overlay_checked": false,
+        "issue": "ok",
+        "note": "Airfield marshaller with ear defenders and glowing wand. Right hand grip partially hidden by wand, five-digit glove structure, left arm exits crop. Snow at airfield."
+      }
+    }
+  ],
+  "reservation_commit": "9c8c077c860289c1e102aaa601239a961b489498"
+}
