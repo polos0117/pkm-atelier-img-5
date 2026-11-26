@@ -1,0 +1,338 @@
+[
+  {
+    "slot": "light",
+    "file": "꼴깍몬_light_anime_25d_gloss_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1b8ba02a949bb661b267c56f54e0996c046311d319b59c71fa0597d18671c947",
+    "original_sha256": "69756ebe9726276df2c6ec59909ed6feef97e60c5cb1ef01c7fcae6870912107",
+    "submitted_sha256": "d092a2dc8bc9cec338fecb8d59804ce42076a65e47ad85a883bae2551078509b",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Both arms and legs continuous, full head and boots included. Open gloved fingers partially overlap in perspective. Thigh skin exceeds planned openings; preserved per user instruction."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Both arms and legs continuous, full head and boots included. Open gloved fingers partially overlap in perspective. Thigh skin exceeds planned openings; preserved per user instruction."
+  },
+  {
+    "slot": "casual1",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual1.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "e72a3ef64e07799d485b1eb46c79f9cb5afe304496ec819557af94bbbc1937b4",
+    "original_sha256": "e9aec83a75b71d783adb29661423c8ea4ce10a64f0eccb61091c895ee7ebce29",
+    "submitted_sha256": "5ee9f895ec50eafdf1dc8820ef711458dc616c832ec829b4afbd60b1b24b586c",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "One near arm joins the hand on the ledge; far arm hidden behind torso. Four long fingers and thumb partly in profile. Legs mostly occluded by the ledge; seated rear three-quarter. Scarlet marabou robe and lingerie, wash basins and blue-hour lamps visible."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "One near arm joins the hand on the ledge; far arm hidden behind torso. Four long fingers and thumb partly in profile. Legs mostly occluded by the ledge; seated rear three-quarter. Scarlet marabou robe and lingerie, wash basins and blue-hour lamps visible."
+  },
+  {
+    "slot": "casual2",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual2.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "a1170c7ddefcdcc30dd2af1612d7cc3f2b3e754e90145299da94461b5d489462",
+    "original_sha256": "fb3254217bb8e3fef1f5ce1b0546693b34e25c49570bc42c8cdb6905d9aa4333",
+    "submitted_sha256": "e129a1f98cb6e1edce33c0fb541987b21d571ebb19f05402c3ba22c2cd34be10",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Both arms extend from shoulders past crop; hands and legs outside square crop. Mint monokini and forest trail visible; naturally connected shoulder and elbow contours."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Both arms extend from shoulders past crop; hands and legs outside square crop. Mint monokini and forest trail visible; naturally connected shoulder and elbow contours."
+  },
+  {
+    "slot": "casual3",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual3.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8d2694088ecb57e87b3cbc1395130a8c50262e4a3b3f7e61761b023231652927",
+    "original_sha256": "b662279d380755cec99a13f9dcc92708b59e07bceb784387d18cfa0404a8676b",
+    "submitted_sha256": "16011eccf850158db4d8aa9f2ed0d8883426cfb4a9ea731c1cc875a9787a343f",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Near arm joins resting five-digit hand; far arm hidden. Seated thighs continue to crop. Pinstripe cropped suit and tie identify Elena cosplay; front view differs from planned rear view and is preserved."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Near arm joins resting five-digit hand; far arm hidden. Seated thighs continue to crop. Pinstripe cropped suit and tie identify Elena cosplay; front view differs from planned rear view and is preserved."
+  },
+  {
+    "slot": "casual4",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual4.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "0b919adf0c841555646b02bc3a509051b2287aa02b3b1c0e19f0726c7509964c",
+    "original_sha256": "b9c8f1bea458e0b18d1a3b58694e1f37e0927e00c1aaaa96f9dfc2611b936c49",
+    "submitted_sha256": "7d878383fe714500b9a15327e7990499371f5e225b6848584eb27124702a7b40",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Near arm reaches the hair; fingers partly hidden among strands, wrist continuous. Far arm and legs outside crop. Ivory satin and lace at opera staircase; facial close-up as planned."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Near arm reaches the hair; fingers partly hidden among strands, wrist continuous. Far arm and legs outside crop. Ivory satin and lace at opera staircase; facial close-up as planned."
+  },
+  {
+    "slot": "casual5",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual5.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "fa173c07b35f75ef59c0e8e9c20cc452cc6b8313beafc2320380a81c336e9a40",
+    "original_sha256": "a599a8b2dcb314feadb48ecacbc2fb6356afe00aba91f84f878e6ed7cafb3a1d",
+    "submitted_sha256": "b1ef500b9c707a785950a7864d83154deb2e68b1bdab433038301b2feba80132",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Two arms and two legs naturally joined. Raised gloved hand holds compact; fingers partially wrapped around it. Lower gloved hand has overlapping relaxed digits. Green fitted creature costume, full shoes and bathroom mirror."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Two arms and two legs naturally joined. Raised gloved hand holds compact; fingers partially wrapped around it. Lower gloved hand has overlapping relaxed digits. Green fitted creature costume, full shoes and bathroom mirror."
+  },
+  {
+    "slot": "casual6",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual6.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "44b02ae9b8c65009ee4798d81ee5a3680feb9200328960872b91699cf8d4db62",
+    "original_sha256": "ffb534e667bb8152c7054ce2ade4f3e76fe85eeaeec395bc7d4f8c4d9bda3a35",
+    "submitted_sha256": "a53e13add17b96afe293c38fce9dc6c982ee241c7c521968987a19ec48b06d16",
+    "submitted_same": false,
+    "authorized_free_fill": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Right arm bends to spoon, fingers wrap handle; left arm rests on bench, five fingers plausible. Two seated legs join knees and sandals. Gold linked playsuit and tall pudding tower on ferry at golden hour."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Right arm bends to spoon, fingers wrap handle; left arm rests on bench, five fingers plausible. Two seated legs join knees and sandals. Gold linked playsuit and tall pudding tower on ferry at golden hour."
+  },
+  {
+    "slot": "casual7",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual7.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8eb17f2fe0bbf3d22b8f3e4ddfc6de5f8364e39ce43bc93deb407b702669f788",
+    "original_sha256": "f7a53cc8ef9b5e3ecd0d1d166ec9944f834438835e8fb7c50333aa9566360d2c",
+    "submitted_sha256": "6303e8f3d94b361c1507d7cc692fcd4a08d080af542aca8ebd3084e5970e1e0b",
+    "submitted_same": false,
+    "authorized_free_fill": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Right hand pushes foam aside, five digits with partial foam occlusion; left hanging hand joined to forearm, digits overlap. Lower legs cropped. Peach linked swim shorts and foam curtain at pool hall."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Right hand pushes foam aside, five digits with partial foam occlusion; left hanging hand joined to forearm, digits overlap. Lower legs cropped. Peach linked swim shorts and foam curtain at pool hall."
+  },
+  {
+    "slot": "casual8",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual8.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "23b8981f5c19e4e4d6c40d80cf7ca868a980ce17d97acf9e7646c2f89cf0cc93",
+    "original_sha256": "dd8ee6352320dcc2ff21435b93d914e495e865bcfc641222f0d4f9446cf8fa40",
+    "submitted_sha256": "5f78b58e8261861a3de1c61d9d88a1b9190c50e61e0f8aecd45a4397ab40fe7b",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Two forearms support two hands beneath chin, fingers partly curled and overlapped. Both bent legs lead to two feet. White maid costume interpreted as short fitted outfit rather than jumpsuit; preserved."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Two forearms support two hands beneath chin, fingers partly curled and overlapped. Both bent legs lead to two feet. White maid costume interpreted as short fitted outfit rather than jumpsuit; preserved."
+  },
+  {
+    "slot": "casual9",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ac6ee3babd7f0d54bad5ee406b4df08d295db5825ba9080fb00acf1c29f7c3aa",
+    "original_sha256": "7e6d049c69f1e85a01cf63118e8c71b55c4dd3a81bc4347e0c30bda597dd6968",
+    "submitted_sha256": "f5eb567d7939f8b95aa8f149a7e796c4bfe20cbe01fa4c0457cc6efab080e4db",
+    "submitted_same": false,
+    "authorized_free_fill": true,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Two arms naturally attached; resting hand on raised thigh and hanging near hand show five-digit structure. Two legs continue to sandals and steps. Cobalt folded fan tail playsuit and floating islands at night."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Two arms naturally attached; resting hand on raised thigh and hanging near hand show five-digit structure. Two legs continue to sandals and steps. Cobalt folded fan tail playsuit and floating islands at night."
+  },
+  {
+    "slot": "casual10",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a5155c437a8b76c1d79c4ff93419576d33d6ad2a49c455760d3e94db50c364a9",
+    "original_sha256": "e4d52fbb258c1bcaa4f047850d587cc1003c4290538cd2389119daa43f9b1f05",
+    "submitted_sha256": "774bca47f50180926ecb97c6f02887e38c952a19540bc033dcb7aa8e3f61d26f",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Both arms lean on surface, hands join wrists and show overlapping fingers. Lower limbs outside crop. Dave diving cosplay, orange tank and carousel match actual submitted prompt; Trubbish is a small separate companion. Earlier garden expectation was mistaken because planner file changed before this slot was rebuilt."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Both arms lean on surface, hands join wrists and show overlapping fingers. Lower limbs outside crop. Dave diving cosplay, orange tank and carousel match actual submitted prompt; Trubbish is a small separate companion. Earlier garden expectation was mistaken because planner file changed before this slot was rebuilt."
+  },
+  {
+    "slot": "casual90",
+    "file": "꼴깍몬_anime_25d_gloss_f_casual90.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "155ea59137d3091e3f5aa0465b539d1788539e3456836518b53af4f94e291661",
+    "original_sha256": "9d07e9086dbaecabcb7fa47cd1642cac0666a7694b99b1675f21479ea6492656",
+    "submitted_sha256": "8790ac2b13e361d68b5c67b49b31935440298071bcb025ad59f179cf97ef2b87",
+    "submitted_same": true,
+    "authorized_free_fill": false,
+    "anatomy": {
+      "tool": "unavailable: mediapipe missing; visual review",
+      "issue": "ok",
+      "visible_review": "Both gloved hands hold opposite sides of recycling sack; curled fingers partly occluded by bag. Two upper legs continue below crop. Work vest and shorts, recycling bins and cardboard, snowy depot lamps."
+    },
+    "style_25d": {
+      "verdict": "pass",
+      "evidence": "Softly blended nose, cheek, lip and jaw shading; coloured fine contours and dimensional hair and fabrics."
+    },
+    "exposure": {
+      "verdict": "preserved_as_generated",
+      "evidence": "Opaque chest and pelvis coverage; neckline, waist or leg exposure follows generated design. No exposure-based regeneration."
+    },
+    "note": "Both gloved hands hold opposite sides of recycling sack; curled fingers partly occluded by bag. Two upper legs continue below crop. Work vest and shorts, recycling bins and cardboard, snowy depot lamps."
+  }
+]
