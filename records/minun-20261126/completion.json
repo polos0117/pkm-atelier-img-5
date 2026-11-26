@@ -1,0 +1,18 @@
+{
+ "registered": 12,
+ "where": 4,
+ "legacy_preserved": true,
+ "code_commit": "fa584440e73c210b1b86adb5aaa90d1fd4424583",
+ "images_commit": "78e4ac3610ca0bfcf4985bb2f44e09e9328957a6",
+ "thumbs_verified": 12,
+ "thumb_workflow_run": 45830558915,
+ "register_workflow_run": 45831198786,
+ "status": "complete",
+ "thumbnail_workflow": "success",
+ "registration_workflow": "success",
+ "data_img_json_edited_by_agent": false,
+ "force_push": false,
+ "existing_work_deleted": false,
+ "image_tool": "image_gen",
+ "warnings_reviewed": "Existing assets have dimension warnings; Actions Node.js version deprecation warning. This batch's 12 dimensions were verified against its plan. No image generation retried."
+}
