@@ -1,0 +1,161 @@
+{
+ "cuts": {
+  "light": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual1": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual2": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual3": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual4": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual5": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual6": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual7": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "each visible wrist attaches to its matching arm; five fingers or grip/fold occlusion",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual8": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "near hand grips hairdryer, thumb and folded fingers partly occluded; far arm and hand obscured by torso",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual9": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "near hand grips towel, fingers folded around it; far arm bends naturally behind head and its hand is occluded",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual10": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "near hand rests on snow with five digits; far hand supports cheek, folded fingers partly hidden",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  },
+  "casual90": {
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": "2; partly outside frame where cropped",
+    "hands": "gloved five-digit grip around voltage tester; other glove rests on hip",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "Visual inspection of returned full-resolution image: no extra or detached limb; crop documented by prompt."
+   },
+   "reference_identity": "matched to selected light face and spiky hair",
+   "regenerated": false
+  }
+ },
+ "skipped": []
+}

@@ -1,0 +1,46 @@
+{
+ "session": "electrike-anime25d-20261126",
+ "planner": "tools/casual-plan.cjs",
+ "characters": [
+  {
+   "card": "썬더라이",
+   "species": "electrike-20261019",
+   "own_only": true,
+   "cuts": [
+    {
+     "treeV": 2,
+     "era": "in_pokemon",
+     "place": "pw_town",
+     "ofam": "everyday",
+     "prop": "0",
+     "ownProp": "a voltage tester",
+     "preset": "stand_inspect",
+     "use": "sig_hold",
+     "posture": "stand",
+     "support": "none",
+     "frame": "waist_up",
+     "body": "front_3q",
+     "head": "with_body",
+     "camera": "eye",
+     "right": "prop",
+     "left": "natural",
+     "legs": "",
+     "gaze": "at_prop",
+     "time": "morning",
+     "weather": "fog",
+     "own": "all",
+     "placeText": "a village utility pole yard — a tall ladder, a pole with cables, a tool bag",
+     "scene": "she is an apprentice lineworker, one hand on her hip, eyeing a voltage tester",
+     "outfit": "an electric lineworker look fitted to her body — a fitted sleeveless work top and short work shorts, bare midriff and legs, a tool belt, hard hat, a yellow hard hat with a spark sticker",
+     "job_ko": "전기 견습",
+     "cut": 90,
+     "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+     },
+     "aspect": "1:1"
+    }
+   ]
+  }
+ ]
+}

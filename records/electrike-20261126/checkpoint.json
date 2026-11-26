@@ -1,0 +1,274 @@
+{
+ "status": "generated",
+ "card": "썬더라이",
+ "style": "anime_25d_gloss",
+ "candidates": [
+  {
+   "number": 1,
+   "design": "standard",
+   "original": "/workspace/scratch/450854a934ca/generated_images/exec-2a7d47cc-3a0c-4953-ad74-84f28b5a3df8.png",
+   "original_sha256": "b9b0a04bbbfab7c6c39f1329f9812dc53852aa6d046d44c51130a363d2e87368",
+   "webp": "/workspace/scratch/450854a934ca/pack/candidate-1.webp",
+   "prompt": "/workspace/scratch/450854a934ca/pack/light-prompt.txt",
+   "submitted_sha256": "e417a5bd8df4da3737f628ac8720bad47e2131bda5d30130b2092b44d2cef0e9",
+   "submitted_same": true,
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "open hand: five fingers; closed hand: overlapping flexed digits partly obscured",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "visual inspection: attached arms and legs, no extra limbs; full body inside frame"
+   }
+  },
+  {
+   "number": 2,
+   "design": "standard",
+   "original": "/workspace/scratch/450854a934ca/generated_images/exec-a180fad5-dec4-4b92-9dbb-e91c9b83ca69.png",
+   "original_sha256": "17ce4a9c56f97627b9415d90cac0a70eabb45ad2371461f3c2a246ba83119774",
+   "webp": "/workspace/scratch/450854a934ca/pack/candidate-2.webp",
+   "prompt": "/workspace/scratch/450854a934ca/pack/light-prompt.txt",
+   "submitted_sha256": "e417a5bd8df4da3737f628ac8720bad47e2131bda5d30130b2092b44d2cef0e9",
+   "submitted_same": true,
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "open hand: five fingers; closed hand: overlapping flexed digits partly obscured",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "visual inspection: attached arms and legs, no extra limbs; full body inside frame"
+   }
+  },
+  {
+   "number": 3,
+   "design": "gpt_free",
+   "original": "/workspace/scratch/450854a934ca/generated_images/exec-9086ac8f-59af-4a24-afd8-afb8838ae217.png",
+   "original_sha256": "45640cbac560912c51b368cb7765170c8eba1c68bc4656d0f64d9a2976d72e22",
+   "webp": "/workspace/scratch/450854a934ca/pack/candidate-3.webp",
+   "prompt": "/workspace/scratch/450854a934ca/pack/free1-prompt.txt",
+   "submitted_sha256": "af9b33cf7cf3d3eed2afc3307c1c614c93a0db8e20c9e017f060daaea04b9616",
+   "submitted_same": true,
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "open hand: five fingers; closed hand: overlapping flexed digits partly obscured",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "visual inspection: attached arms and legs, no extra limbs; full body inside frame"
+   }
+  },
+  {
+   "number": 4,
+   "design": "gpt_free",
+   "original": "/workspace/scratch/450854a934ca/generated_images/exec-03c459b5-5fad-4c0d-a55c-47d2e48e75ec.png",
+   "original_sha256": "3e5ad9a74a0e6acd1adcc382c42ae3a3295fceb234dd96b35852356a6816c48f",
+   "webp": "/workspace/scratch/450854a934ca/pack/candidate-4.webp",
+   "prompt": "/workspace/scratch/450854a934ca/pack/free2-prompt.txt",
+   "submitted_sha256": "e9de4ddde5a96380ac5ae4139041786595acc9f02698bc13d4695c1fdfd48c92",
+   "submitted_same": true,
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed",
+    "arms": 2,
+    "legs": 2,
+    "hands": "open hand: five fingers; closed hand: overlapping flexed digits partly obscured",
+    "issue": "ok",
+    "overlay_checked": false,
+    "note": "visual inspection: attached arms and legs, no extra limbs; full body inside frame"
+   }
+  }
+ ],
+ "code_worktree": "/workspace/scratch/450854a934ca/electrike",
+ "image_worktree": "/workspace/scratch/450854a934ca/images",
+ "published": false,
+ "selected": 1,
+ "selection_message": "1",
+ "casual_plan": "PLAN.json",
+ "own_plan": "PLAN90.json",
+ "source_fix_commit": "3cbd5a7be0a871c79c7917c8f95559ec52cdc1cd",
+ "reservation_commit": "f9c49c095446823add81499704ba20109060c102",
+ "outputs": [
+  {
+   "slot": "light",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_light_anime_25d_gloss_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b9b0a04bbbfab7c6c39f1329f9812dc53852aa6d046d44c51130a363d2e87368",
+   "webp_sha256": "35a1b0f79cd02b0d7d046c87975375b40faadc341cbe01bc10005751893482c5",
+   "reference": null,
+   "basis": "user selected candidate 1"
+  },
+  {
+   "slot": "casual1",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual1.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "f2cc936d22c8d3533b2a12ab54c09bd61295dabd28a41c47f98553697e32b558",
+   "webp_sha256": "2177f922bd92ffc75640f58e0dd58d305b3f01ac428338dc7cbaa68eadce72e0",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual2",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "0f97377d0786e753ed907cdaeecb9db9d13fb9f1f659f964517017a785dd6278",
+   "webp_sha256": "b1e9c4a9ebf2253ebda04252cb938572b44251da5dd99ace0cc0e60b942f9057",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual3",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "6a201c39b6249e44a0daf1b684eaf8fe0e86f3bac653a5c956a24c85ef48cdc9",
+   "webp_sha256": "a0851fc185acdcc68da7ded7d06ed133c5b54f67fc521357301712bfa8b5a293",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual4",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "ae5b70c44fe96261ada948017a92423d2117aa3bc33855f70c9f739355a8b887",
+   "webp_sha256": "5f98e4eb5a497baab1c4243a32c012b08e6a12ec3edd04bbc4b2ca0761789280",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual5",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual5.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b889b9fc17dd522dbd606edb3dd1b849cd8a5ec1ecf128cc96d1c3aaebb20bdd",
+   "webp_sha256": "332a4b50e8cc7f3ca28af95f0f1f90025e87101ac6ea1773585532b9a3294791",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual6",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual6.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "d8a6d809bd22c5ee8c2fef322821bffb990035272d782c19000187650533125a",
+   "webp_sha256": "2d0fb2993734e730a115ff2b2b9fc98c3ce912a19eb39b31f23d199cf3c8b588",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual7",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual7.webp",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "WEBP",
+   "original_sha256": "6b3e0425c998891dd8da6a0b2a6bc06f579ae37c517c1ecf759523f8a0a16a4f",
+   "webp_sha256": "3d4cc40a9e16c236e2138deb7b3f40d3c897e937c32adddb58abf250cb39093d",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual8",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual8.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "original_sha256": "b9e0f52a52ce72a80093b23d7a58fbdc8278b6be8a15ddb498607b3bb6a01dc9",
+   "webp_sha256": "5699ecf8efd66d59caecb16747b593d38ad126e11bdc2a247a540c965750050a",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual9",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual9.webp",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "original_sha256": "466e3ab67a87bfc7c321f91ee8f83b29c589ced25d395086178d2a886384a5f3",
+   "webp_sha256": "441f91265b55cb632176234c32b22f0e756cff99ffaf8a6546776e9af619e53c",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual10",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual10.webp",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "original_sha256": "30d5f42c87f49e45ed3b9f09d7c3ff81a29caa3c0357a93000fd1fa87a998979",
+   "webp_sha256": "1fd9e092506ed5ee466af86ccc29c6bbcc4be4f8833fac2adf922b7cabfff36b",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  },
+  {
+   "slot": "casual90",
+   "card": "썬더라이",
+   "style": "anime_25d_gloss",
+   "filename": "썬더라이_anime_25d_gloss_f_casual90.webp",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "WEBP",
+   "original_sha256": "e2ed6831d91863b85fb9e4b3c210edeb44c1da754e078a0ec3ef5a9fa61b8a0c",
+   "webp_sha256": "ab074662e6a4a289b68898c078830eb464eb9a4bf3d10a8095f0f5e5add95582",
+   "reference": "light",
+   "basis": "planner settings and attached selected light image"
+  }
+ ]
+}
