@@ -1,0 +1,185 @@
+{
+ "storage": {
+  "last": "피그점프",
+  "cards": {
+   "피그점프": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "sensual",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "balanced",
+       "separates_preference": "prefer separates"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "time": true,
+       "light": true,
+       "depth": true,
+       "ofam": true,
+       "item": true,
+       "expose": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "gaze": true,
+       "expr": true,
+       "cosplay": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "now",
+      "place": "festival_booth",
+      "time": "morning",
+      "light": "back",
+      "depth": "flat",
+      "ofam": "game_cosplay",
+      "item": "gc_lingerie",
+      "expose": [
+       "deep V neckline",
+       "open back"
+      ],
+      "posture": "lean_rail",
+      "support": "none",
+      "frame": "waist_up",
+      "body": "front",
+      "head": "tilt",
+      "camera": "low",
+      "right": "rail",
+      "left": "hair_tuck",
+      "gaze": "up",
+      "preset": "rail_sky_low",
+      "cosplay": {
+       "game": "genshin_impact",
+       "character": "Xinyan",
+       "cut": "lingerie",
+       "round": 1
+      },
+      "turn": "front",
+      "use": ""
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Spoink (피그점프) personified, psychic type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: hourglass-figured — full bust and hips, distinctly narrow-waisted — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A bright, adorable adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the named video-game character, as worn to a cosplay convention, a photo shoot or a night in. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. She is a woman wearing that character's cosplay — she is not that character. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image. Both shoulders and upper arms show and run on past the edge — never an armless torso.\n\nSCENE (chosen):\nPlace: a university festival lane of booths under bunting and paper lanterns, a stall counter with hand-drawn signs without readable text and a small stage beyond\nTime of day: early morning — low clean light, long soft shadows; fresh low sunlight, long cool shadows.\nLight direction: backlit — the main light comes from behind her, a bright rim along her hair and shoulders.\nOutfit: a daring adult cosplay of Xinyan from Genshin Impact — the costume's recognisable colours and parts, cut as a lace bralette and high-waisted briefs with garter straps\nCut: deep V neckline and open back built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: standing at a waist-high railing or sill.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body facing the camera; head facing the camera straight on, both ears about equally visible; camera slightly below, looking up at her; a wall or backdrop of the place close behind her; her head and body angles are set by this line, not taken from the attached image.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on the railing — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nLEFT HAND: her own left hand tucks hair behind her ear — one unbroken arm from shoulder to hand, its forearm never hidden by a sleeve, bow or ornament.\nGAZE: she looks up at the sky.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nseparates_preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face and hair — not its armor, garment, jewelry, hair ornaments or background. The cosplay must read at first glance as that game character's look, rebuilt as a glamorous adult outfit; her face and hair colour stay exactly as in the attached image and her body follows the BODY TYPE line — never the character's face, hair colour or body, no wig, no logo or readable text.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+ "plan": {
+  "cut": 3,
+  "treeV": 2,
+  "era": "now",
+  "place": "festival_booth",
+  "ofam": "game_cosplay",
+  "item": "gc_lingerie",
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Xinyan",
+   "cut": "lingerie",
+   "round": 1
+  },
+  "garments": [
+   "crop_top"
+  ],
+  "ocolor": "",
+  "weather": "",
+  "time": "morning",
+  "moment": "",
+  "light": "back",
+  "spot": "",
+  "depth": "flat",
+  "view": "",
+  "posture": "lean_rail",
+  "support": "none",
+  "frame": "waist_up",
+  "body": "front",
+  "head": "tilt",
+  "camera": "low",
+  "right": "rail",
+  "left": "hair_tuck",
+  "use": "",
+  "legs": "",
+  "gaze": "up",
+  "preset": "rail_sky_low",
+  "turn": "front",
+  "expr": "sensual",
+  "aspect": "2:3",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "balanced",
+   "source_influence": "balanced",
+   "separates_preference": "prefer separates"
+  },
+  "expose": [
+   "deep V neckline",
+   "open back"
+  ],
+  "lead": "action",
+  "shade": ""
+ },
+ "manual_inputs": {},
+ "manual_why": {},
+ "generation": {
+  "cosplay": {
+   "game": "genshin_impact",
+   "character": "Xinyan",
+   "cut": "lingerie"
+  }
+ }
+}

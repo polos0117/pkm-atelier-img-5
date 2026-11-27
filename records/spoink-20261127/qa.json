@@ -1,0 +1,219 @@
+{
+  "character": "피그점프",
+  "style": "anime_25d_gloss",
+  "selected": 3,
+  "image_count": 12,
+  "regenerations": 0,
+  "automated_anatomy": "unavailable: mediapipe missing; anatomy-check.py returned 3",
+  "recent_visual_comparison": [
+    "코터스",
+    "폭타",
+    "둔타"
+  ],
+  "cuts": {
+    "light": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Raised glove has five extended digits; lower fist has overlapping curled digits. Two connected arms, two booted legs.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Pearl chest dome, spiral greaves and halo match GPT design 1.",
+      "regenerated": false
+    },
+    "casual1": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Right hand grips compact mirror with partially occluded fingers; left hand on lap has five visible digits. Both arms connected.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Sitting at dressing-room mirror in sky-blue corset and blazer trousers; scene and outfit distinct from recent three sets.",
+      "regenerated": false
+    },
+    "casual2": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Near hand on ledge has five fingers; far hand mostly hidden. Two knees and lower legs continuous, feet visible under water.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Side-profile seated lifeguard costume at misty lake; camera direction follows plan.",
+      "regenerated": false
+    },
+    "casual3": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "One hand on railing has five digits; hair-touching hand has thumb partly occluded. Both shoulders and elbows connect.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Red-black star and spike trim identifies Xinyan cosplay; original face and bob retained.",
+      "regenerated": false
+    },
+    "casual4": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two connected outstretched arms; five digits per open hand. Both legs bent in one hop, feet separate.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Small hopping action across wave foam, orange fan-fold swim romper and spiral lane markers present.",
+      "regenerated": false
+    },
+    "casual5": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "V-sign has two extended fingers and three folded digits; lower arm continues out of frame.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Angry brows, close portrait, tropical shirt and blue bikini top, abstract gallery present.",
+      "regenerated": false
+    },
+    "casual6": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Hand on companion and hand on mat connect to separate shoulders; digits partly occluded by contact. Two legs folded under body.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Companion Spoink remains a separate creature. Glasses, wet garment and kneeling pose present; lace and neckline differ from the camisole specification, recorded without regeneration.",
+      "regenerated": false
+    },
+    "casual7": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Hip hand has five digits; far hand largely occluded behind torso, no floating hand. Two legs and heel boots continuous.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Back three-quarter turn in foley room; copper folded top and ink-blue pleated shorts visible.",
+      "regenerated": false
+    },
+    "casual8": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Ear-side hand has fingers curved together, thumb partly hidden; dish-rim hand has five digits. Both forearms connected.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Whispering dish and sculpted white origami playsuit present; bright science hall distinct from all other scenes.",
+      "regenerated": false
+    },
+    "casual9": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "One gloved hand on bent knee and one on ground; fingers partly overlapped by pose. Two folded legs connected.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Side sitting in wardrobe room, grey Spoink costume with spring tail and pearl ornament present.",
+      "regenerated": false
+    },
+    "casual10": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two hands each attached to its forearm grip separate flute key groups; fingers and thumbs partly occluded by flute.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Seated outdoor practice-field flute playing, turquoise swimwear and open yukata present; selected lip-bite expression superseded by playing flute, recorded.",
+      "regenerated": false
+    },
+    "casual90": {
+      "style_25d": {
+        "verdict": "pass",
+        "evidence": "Soft gradients model nose, cheeks, lips and jaw; fine coloured contours, strand highlights and dimensional fabric or armor details."
+      },
+      "anatomy": {
+        "issue": "ok",
+        "tool": "unavailable: mediapipe missing",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Thumbs-up has thumb plus four curled fingers; hip hand has five visible digits, both arms connected.",
+        "overlay_checked": false,
+        "note": "Manual full-image and enlarged hand review; occluded digits not claimed visible."
+      },
+      "observation": "Trampoline instructor scene and spring hair tie present. Hair is tied into a higher ponytail than the selected bob; recorded as a hairstyle deviation, face and colours retained.",
+      "regenerated": false
+    }
+  }
+}

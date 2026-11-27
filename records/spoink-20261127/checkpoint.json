@@ -1,0 +1,171 @@
+{
+  "card": "피그점프",
+  "style": "anime_25d_gloss",
+  "selected": 3,
+  "status": "ready_to_publish",
+  "reservation_commit": "3c6927a98f6cfbb54f40d4e9f1811f80ce4558f5",
+  "reference_file": "피그점프_light_anime_25d_gloss_f.webp",
+  "images": [
+    {
+      "slot": "light",
+      "file": "피그점프_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee",
+      "original_sha256": "4b98acf4a138b3891d7ae8246b6d0ca5a53f11c247487ced2e575312679b531d",
+      "selection": 3,
+      "design": "gpt_free"
+    },
+    {
+      "slot": "casual1",
+      "file": "피그점프_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "bbc8ffd6f74eaae6fe20c2e3ebc6f3cf06961f1564bb2299eb515162d59395e5",
+      "original_sha256": "cf6f4377c1dee079134d755f9cd9e490c524c2d92d6e02966bd16982452da4b4",
+      "prompt_sha256": "008b0f600d73d08ae86fbf915f740516ec8e769da0e298e754c146f5caf6c445",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual2",
+      "file": "피그점프_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "6d2514d73c723e7d9e9ff74c92165379b6e88eabb5a38a3b9c1ac86f2ebfdad6",
+      "original_sha256": "8a7a0ae3800db199b484e3903a9fc6aa435c39671b3ac12729dc58014879b7e9",
+      "prompt_sha256": "b84dc1da1b0b15f5044276c8123a1543ba3b76a6af552d46076c8e0cd33ebe45",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual3",
+      "file": "피그점프_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "680ab23127523a08d839fc04325f3eda837fbbd98775105ba0b8b129f632f472",
+      "original_sha256": "d1a55d21bfadf35409a75311731bedc51747ef97e6f1036c330e5a7ee53f6370",
+      "prompt_sha256": "d1fe3efad976e98c36af58792872f10771a0e5b309e092d1bf77238fe3230dbd",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual4",
+      "file": "피그점프_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "a79c152fab9897310c34d3e1185ad07894c0bea3ab688efb429c04b51651838d",
+      "original_sha256": "c5a43cff9b7c036e840b7b31f3a220dd0cfbd945411eaacc4eaca6a55bd13741",
+      "prompt_sha256": "9642c9524231ea74cbafddd173a7a9e1f5e66bb6659a8eb1ad317dbac90dffc5",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual5",
+      "file": "피그점프_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "58ad5716476c313d5e2279d0bcf02c7b8517cab0245568bc2e59f7fc16be25fc",
+      "original_sha256": "3bb6b1af99da3a09dbbe500ae3c64a1efd8c81ff8edc6d8f9a7cb1b09ca8ff37",
+      "prompt_sha256": "a41f61b313234f3571aad15e1f05c1ffef23ceb0a8750fe9d337973ac8f1c3df",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual6",
+      "file": "피그점프_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "c694a0e7378bff5821365309a23dcc0853136a09f31191639e91a4a569479bf7",
+      "original_sha256": "1a94f90c90cd706b15159536f26e81200314b717a37c2ff54e9e3e2c3ebf455d",
+      "prompt_sha256": "b9112a4b5c9f9399fe92d4e02fb0b9a8f22babe14f70b45f0803f13a41aa10a1",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual7",
+      "file": "피그점프_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "36e5f4aed027dedd716ae8801b31765368ef81f1fe5fdacbb94133a97eeb292b",
+      "original_sha256": "edc854e608e024064d95541627ffdd5170b61d71472712d800e980f81aa13024",
+      "prompt_sha256": "3655d7664bd643b99a894418cfb1feb450a4f01c37ef98f017a0265b4f60a35c",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual8",
+      "file": "피그점프_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1e71727225e7d91d8d1ed605b38a540f65c96b0378964523bf2d35f3ecdc9366",
+      "original_sha256": "bf578c37a3930201f82c685cad59e876e3bffe1d0820d383a6d6427eee2534ba",
+      "prompt_sha256": "96b3caf61ddf56745f3834853d636b1ab4492db73184a9e4ad11dd01523e5dae",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual9",
+      "file": "피그점프_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "31ece5a10e6cb1f5cdce8c08f6aca4c2d474165c8a2a45117c1b534c2d91ad0a",
+      "original_sha256": "6024eddeeb109e98a9f9293598da4784921493bc6b157b8f657a19315bf4640a",
+      "prompt_sha256": "55a90235b58ce2402d77bb47bbcfe628dc02d8567476890b9faf0a2266643ca8",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual10",
+      "file": "피그점프_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "cdb7b9ba826919fa904fdbc7b4c418830dfc32533c57ac4afc316cdc871880fa",
+      "original_sha256": "dc02bc98c2634600d7208084806796099f3cdbff5185742df2b2b8134f314791",
+      "prompt_sha256": "d6f9c3b448865b2ccee622be94180beefbe0844782f8742d72782be681273c33",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    },
+    {
+      "slot": "casual90",
+      "file": "피그점프_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "2746bdd0b95c6ed0763509272d3aa19c80e28957572ba76de2de58300b1ecfe9",
+      "original_sha256": "bcef0b0c574bbf9af0151db68401faa89ab2a67042ed5239b0dd513692944817",
+      "prompt_sha256": "9d3a1d8fb085a0d86a1b21949b6402675541ff7d9c36d6ddf117dc285d34783f",
+      "reference": "피그점프_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee"
+    }
+  ],
+  "recent_comparison": [
+    "torkoal-20261127",
+    "camerupt-20261127",
+    "numel-20261127-anime25d-0190"
+  ],
+  "comparison_note": "Compared existing result sheets: backstage mirror, misty lake, science whisper dish, wave-pool hop and trampoline instructor vary place, activity, outfit and framing from recent sets."
+}

@@ -1,0 +1,72 @@
+{
+  "character": "피그점프",
+  "style": "anime_25d_gloss",
+  "status": "selected",
+  "selected": 3,
+  "images": [
+    {
+      "number": 1,
+      "design": "project",
+      "prompt_file": "light-prompt.txt",
+      "submitted_sha256": "aba835f7ad97a7a2e13fcc25b8051f3cef9db8c8193d94b258636f518c4418a2",
+      "submitted_same": true,
+      "status": "generated",
+      "original_path": "/workspace/scratch/53e8d1b0e015/generated_images/exec-1114da1a-3d76-4c4e-8313-3c7cdfa00459.png",
+      "original_sha256": "eb0dde8da73ffa63abedf26ca5f75873a8c1bdcedf8d0c1dc88f0dc55cdbf11f",
+      "webp_file": "spoink-mecha-1.webp",
+      "webp_sha256": "487681ef43aee13eba3d79fac2e85de75ea0ad7a3b2136d4fa2a5024db716e24",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 2,
+      "design": "project",
+      "prompt_file": "light-prompt.txt",
+      "submitted_sha256": "aba835f7ad97a7a2e13fcc25b8051f3cef9db8c8193d94b258636f518c4418a2",
+      "submitted_same": true,
+      "status": "generated",
+      "original_path": "/workspace/scratch/53e8d1b0e015/generated_images/exec-ed2fbaf3-47b4-474f-ae6e-c1913b56eee8.png",
+      "original_sha256": "b03002963ccced767dd6edd846e9f72355c3f2a113b0ffc6282f5072dfa2061c",
+      "webp_file": "spoink-mecha-2.webp",
+      "webp_sha256": "c90b5978344610ee77863bbc197ccdfdb61a0a8511ad2eaa3aba40450e488e9a",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "prompt_file": "gpt-1-submitted.txt",
+      "submitted_sha256": "0534d6714f4de07779da6a19b5b8be74167a7104b3be68e81601e5a35d9670c9",
+      "submitted_same": true,
+      "status": "generated",
+      "original_path": "/workspace/scratch/53e8d1b0e015/generated_images/exec-dfa96df4-655a-4143-b661-a488f034c1da.png",
+      "original_sha256": "4b98acf4a138b3891d7ae8246b6d0ca5a53f11c247487ced2e575312679b531d",
+      "webp_file": "spoink-mecha-3.webp",
+      "webp_sha256": "412d56166dd9bef04f8bbe6494964eb1d4daf54d5bbb7e25c01e4ce9384b4aee",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "prompt_file": "gpt-2-submitted.txt",
+      "submitted_sha256": "4b8cf90f04847fc7d5aa435eff99be58f81f4223e3ea6f36934b2538a51baeec",
+      "submitted_same": true,
+      "status": "generated",
+      "original_path": "/workspace/scratch/53e8d1b0e015/generated_images/exec-ebd84c40-d91b-41ea-8c24-bad26d7bcb92.png",
+      "original_sha256": "e901f3a7716419794aafc14865d41a2833549b3daebdc88195ef54efd66be27b",
+      "webp_file": "spoink-mecha-4.webp",
+      "webp_sha256": "14e4b73ccac3336293146c2e6d80521897abd5a2940218b3b2104f1be69df8db",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}
