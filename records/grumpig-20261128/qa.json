@@ -1,0 +1,218 @@
+{
+  "light": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Both arms and legs joined; open left glove shows five digits, lowered right glove has fingers partly overlapping. Chosen candidate 4. Nose, lips and cheek shaded in blended 2.5D; no flat cel face."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Both arms and legs joined; open left glove shows five digits, lowered right glove has fingers partly overlapping. Chosen candidate 4. Nose, lips and cheek shaded in blended 2.5D; no flat cel face.",
+    "regenerated": false
+  },
+  "casual1": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "One visible arm follows shoulder to saxophone grip; far arm mostly occluded. Looking back, windblown grey slip and parade; robe resolves as flowing open fabric. Glove-era ear ornament retained; recorded without regeneration."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "One visible arm follows shoulder to saxophone grip; far arm mostly occluded. Looking back, windblown grey slip and parade; robe resolves as flowing open fabric. Glove-era ear ornament retained; recorded without regeneration.",
+    "regenerated": false
+  },
+  "casual2": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Phone hand joins visible forearm and shoulder; opposite upper arm continues below crop. Close-up crops legs and some arms naturally. Vampire collar and canal backdrop visible; mechanical ear ornament retained."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Phone hand joins visible forearm and shoulder; opposite upper arm continues below crop. Close-up crops legs and some arms naturally. Vampire collar and canal backdrop visible; mechanical ear ornament retained.",
+    "regenerated": false
+  },
+  "casual3": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Two forearms connect to visible shoulders and raised hands; finger overlap at hat brim. Mask, wide hat and pale swim outfit visible; swimwear cut and outer shirt differ in detail from plan."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Two forearms connect to visible shoulders and raised hands; finger overlap at hat brim. Mask, wide hat and pale swim outfit visible; swimwear cut and outer shirt differ in detail from plan.",
+    "regenerated": false
+  },
+  "casual4": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Two arms connected, near fist under chin and opposite hand gripping polish bottle; fingers partly occluded by grip. Pink-black corset costume and tailor-room sewing tools visible."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Two arms connected, near fist under chin and opposite hand gripping polish bottle; fingers partly occluded by grip. Pink-black corset costume and tailor-room sewing tools visible.",
+    "regenerated": false
+  },
+  "casual5": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Two arms connect at shoulders, one hand lightly holds a ring, opposite hand lowered. Full legs and sandal feet present. Berry kitchen and pink draped sari-blouse set; garment appears outfit-like rather than lingerie."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Two arms connect at shoulders, one hand lightly holds a ring, opposite hand lowered. Full legs and sandal feet present. Berry kitchen and pink draped sari-blouse set; garment appears outfit-like rather than lingerie.",
+    "regenerated": false
+  },
+  "casual6": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Two continuous arms; one hand on thigh and one on cushion, visible fingers natural with slight overlap. Seated folded legs, music room and ivory crossover playsuit. Ear ornament retained. Planned rhythm tapping is subtle."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Two continuous arms; one hand on thigh and one on cushion, visible fingers natural with slight overlap. Seated folded legs, music room and ivory crossover playsuit. Ear ornament retained. Planned rhythm tapping is subtle.",
+    "regenerated": false
+  },
+  "casual7": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Two continuous arms, hand resting on counter and other at thigh; both roller-skate feet and knee pads visible. Head turns toward camera more than planned; emerald romper and rink retained."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Two continuous arms, hand resting on counter and other at thigh; both roller-skate feet and knee pads visible. Head turns toward camera more than planned; emerald romper and rink retained.",
+    "regenerated": false
+  },
+  "casual8": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Two continuous arms; one hand on raised knee, other on cushion. Bent seated legs and lower-body frame crop natural. Orange fan-fold costume and breakfast terrace; expression more alert than sleepy brief, stretch resolves as resting pose."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Two continuous arms; one hand on raised knee, other on cushion. Bent seated legs and lower-body frame crop natural. Orange fan-fold costume and breakfast terrace; expression more alert than sleepy brief, stretch resolves as resting pose.",
+    "regenerated": false
+  },
+  "casual9": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Near arm visible to lowered hand; far arm occluded by torso. Both legs and feet visible in original landscape. Pink tailored uniform at pool gear room; figure small within environmental composition."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Near arm visible to lowered hand; far arm occluded by torso. Both legs and feet visible in original landscape. Pink tailored uniform at pool gear room; figure small within environmental composition.",
+    "regenerated": false
+  },
+  "casual10": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Both arms attach, hand touching cheek has five digits with lower fingers curled; second hand on lap, body below crop. Red knit hooded Valeera-inspired cosplay, original purple hair and teal eyes retained."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Both arms attach, hand touching cheek has five digits with lower fingers curled; second hand on lap, body below crop. Red knit hooded Valeera-inspired cosplay, original purple hair and teal eyes retained.",
+    "regenerated": false
+  },
+  "casual90": {
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed (exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands have natural fingers; grip/overlap/crop noted per image; no extra or detached hands observed.",
+      "overlay_checked": false,
+      "note": "Stopwatch hand joins bent arm, other arm reaches knee; fingers partly hidden by grip. Both bent legs connect naturally, feet may leave square crop. Trampoline setting and sporty two-piece visible; sports top resolves as bralette."
+    },
+    "style_25d": {
+      "verdict": "2.5D",
+      "evidence": "Blended nose, cheek, lip and jaw shading, delicate colored contours; skin and fabric have dimensional gradients."
+    },
+    "identity": "purple mermaid-wave hair and teal eyes retained; face proportion visually consistent with candidate 4",
+    "note": "Stopwatch hand joins bent arm, other arm reaches knee; fingers partly hidden by grip. Both bent legs connect naturally, feet may leave square crop. Trampoline setting and sporty two-piece visible; sports top resolves as bralette.",
+    "regenerated": false
+  }
+}

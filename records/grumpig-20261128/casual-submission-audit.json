@@ -1,0 +1,79 @@
+{
+  "casual1": {
+    "prompt_sha256": "4531e4f44f87ee9c5e215c7ea2bc5515fa5b1a84a19b22202a3bb8abf4eaa676",
+    "submitted_sha256": "4531e4f44f87ee9c5e215c7ea2bc5515fa5b1a84a19b22202a3bb8abf4eaa676",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual2": {
+    "prompt_sha256": "f20fe2fe563652b52e6d0e4881101aedfee158fd7a3e9b4f8654e2f6b9ce435b",
+    "submitted_sha256": "f20fe2fe563652b52e6d0e4881101aedfee158fd7a3e9b4f8654e2f6b9ce435b",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual3": {
+    "prompt_sha256": "daaebfb9f3c9f019ca8ab4657e1fa7bd677067acd811152f8a8d3ca8e4e0733b",
+    "submitted_sha256": "daaebfb9f3c9f019ca8ab4657e1fa7bd677067acd811152f8a8d3ca8e4e0733b",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual4": {
+    "prompt_sha256": "a9746a48ba1ae249df2c377885eba54cb50f8d808c440d1dd4301f0e9b728009",
+    "submitted_sha256": "a9746a48ba1ae249df2c377885eba54cb50f8d808c440d1dd4301f0e9b728009",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual5": {
+    "prompt_sha256": "604344dc45201b44ca452f63cfe279da6a7f2fa404a96a6b95b185bc70279fa4",
+    "submitted_sha256": "604344dc45201b44ca452f63cfe279da6a7f2fa404a96a6b95b185bc70279fa4",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual6": {
+    "prompt_sha256": "1c3e332266753733b3972959d623c80d45712056b39d33e1fcd01553dcf82acc",
+    "submitted_sha256": "4341997995e1afadbbf3832fcccb9fad4f5128ce67836cc995bb0c41b67a73a1",
+    "same": false,
+    "authorized_exception": "FREE_SCENE and free outfit fill",
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual7": {
+    "prompt_sha256": "57df6b59c8fac88a78d14909ff607411928c96b11cfdfca8c25ebae50e12f1b8",
+    "submitted_sha256": "f4c8f8321110018e5eeb0de6dcf34bccf1fd9d28e6be9a2bb27fb65170f81a2b",
+    "same": false,
+    "authorized_exception": "OUTFIT_FREE fill only",
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual8": {
+    "prompt_sha256": "124d0ce27ea9154ffb2f4fbe3c31957b33406dba4e1477255a75690295a07ef3",
+    "submitted_sha256": "c35e0f8a80d9305550da73afebf48af5e471214b44c5b69850a7f7b4701c5933",
+    "same": false,
+    "authorized_exception": "FREE_SCENE and free outfit fill",
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual9": {
+    "prompt_sha256": "2bdf85d8b1e3a8dbaedf0641ed90f4204aa671a182697e2f5e496c457d7eacb3",
+    "submitted_sha256": "2bdf85d8b1e3a8dbaedf0641ed90f4204aa671a182697e2f5e496c457d7eacb3",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual10": {
+    "prompt_sha256": "5cdf5784bbef42787d0dfaa9f53614b2dbbabad74037c7a73d13a7c35e6b579a",
+    "submitted_sha256": "5cdf5784bbef42787d0dfaa9f53614b2dbbabad74037c7a73d13a7c35e6b579a",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  },
+  "casual90": {
+    "prompt_sha256": "5aed8a2075be18be87f059b23fbd4dcfa951806c7c3a15b18e80cb5b83507667",
+    "submitted_sha256": "5aed8a2075be18be87f059b23fbd4dcfa951806c7c3a15b18e80cb5b83507667",
+    "same": true,
+    "authorized_exception": null,
+    "outside_authorized_fields_unchanged": true
+  }
+}

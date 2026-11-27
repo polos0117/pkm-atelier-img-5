@@ -1,0 +1,253 @@
+{
+  "card": "피그킹",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "stage": "ready_to_publish",
+  "generated_mecha_candidates": 4,
+  "published_mecha": 1,
+  "casuals": 11,
+  "original_png_uploaded": false,
+  "reservation_commit": "df2490ca1bde3fade6558998e2627fed675ba3af",
+  "files": [
+    {
+      "slot": "light",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "afa48fa919a5d24d995f6e7fe344f5a8d8681a63bbc28735c40ed89df6a35486",
+      "submitted_sha256": "8acc8c1f55b8ec54492dad26aa7cb98b3bc5bff44bd55735298d4139450b2e8e",
+      "output": "피그킹_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "70ddbf9bd1526db360ebd6984ed3997f682ed4e979b4e821fe50c851ee7459b9",
+      "reference": null,
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual1",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "d6e15edb2ea76e54ab953ee09e013d2d08db1eb2c6ef85c35185a7d23429ba35",
+      "submitted_sha256": "4531e4f44f87ee9c5e215c7ea2bc5515fa5b1a84a19b22202a3bb8abf4eaa676",
+      "output": "피그킹_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "9c51965c88414d34bbcf0e5885a4612121622932b64030bd04e4453e487fe1bb",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "slot": "casual2",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "fce96c69a46540dfbf6686aebb8b642802a9949a47a754a3c14a9d37f6772948",
+      "submitted_sha256": "f20fe2fe563652b52e6d0e4881101aedfee158fd7a3e9b4f8654e2f6b9ce435b",
+      "output": "피그킹_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "31bf3aa975a871c30fc38046cea7abe8d4acc24741ba13271ee4a1477ba329ed",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual3",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "15aeb15bea6e03ff29b689d22a2d6c951f1c68a3cdd3bd5d472b70af9a6da374",
+      "submitted_sha256": "daaebfb9f3c9f019ca8ab4657e1fa7bd677067acd811152f8a8d3ca8e4e0733b",
+      "output": "피그킹_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b596ef86ba56f8d196f552140aef368e83e55bd8793d08291e846140070f03e8",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual4",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "1d8ec0e7239dac312d23c4cec18bacff2eeb28a3991baa2ca3368993532d711e",
+      "submitted_sha256": "a9746a48ba1ae249df2c377885eba54cb50f8d808c440d1dd4301f0e9b728009",
+      "output": "피그킹_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "2221e84a83a3c459c6c884188457b35d26af871f6746f412863574fe83ef0830",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "slot": "casual5",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "a3235ed83a9c69ead62407dc434d5afd324494a1df6bbd1171978d12c64383a1",
+      "submitted_sha256": "604344dc45201b44ca452f63cfe279da6a7f2fa404a96a6b95b185bc70279fa4",
+      "output": "피그킹_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c1ec686e9d164207e5813906e90b37d5bfaf75ea75dbbb517f0f2cdbf339e36d",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual6",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "255a02f5827fc70c85454d9dd0565ff6a34eb3809ed134caeec6b0622c95bd38",
+      "submitted_sha256": "4341997995e1afadbbf3832fcccb9fad4f5128ce67836cc995bb0c41b67a73a1",
+      "output": "피그킹_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ec4f0e91e0c64eb7e5fa09e6205113a0bc42bf074e446b86a34e0ce7858cb31f",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual7",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "1e923166a52c1c14ace693105392bddc326c901c7dcb3e433d7210eb81af4256",
+      "submitted_sha256": "f4c8f8321110018e5eeb0de6dcf34bccf1fd9d28e6be9a2bb27fb65170f81a2b",
+      "output": "피그킹_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6a9656c91e7094d28e3e57b613fd531a71d77f3eeaab2c455a51b229d6ff823a",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual8",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "8038e5e260ef3ff6f10aab54d853feefc6958a8178bc5130c16587a2dad7c670",
+      "submitted_sha256": "c35e0f8a80d9305550da73afebf48af5e471214b44c5b69850a7f7b4701c5933",
+      "output": "피그킹_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cc2c365d57f34c9b8126856b768431ccb7ca2f6a6326343d7f3eea8f42724358",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual9",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "a5d338abc508327e44a993c48780865357e0151677eb51801e095fad7d4e080a",
+      "submitted_sha256": "2bdf85d8b1e3a8dbaedf0641ed90f4204aa671a182697e2f5e496c457d7eacb3",
+      "output": "피그킹_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "6315b33cec1a49859b2fb1cf41f151ce6c8a58f2526e3156beced55053a239a2",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "slot": "casual10",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "f67e030509a90f3a0293e5b1b72e934ed836bdfce5dc3162c795a2dfd2262032",
+      "submitted_sha256": "5cdf5784bbef42787d0dfaa9f53614b2dbbabad74037c7a73d13a7c35e6b579a",
+      "output": "피그킹_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c5d552b90d2adc36aa10078c08d67d316b6dbe5f6b50f6e4a84804439fa42f1a",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "casual90",
+      "card": "피그킹",
+      "style": "anime_25d_gloss",
+      "source_sha256": "1cf53167c08e9d5ed2098026d235f6d2b81429fbbeb6005a5b329eecea40c147",
+      "submitted_sha256": "5aed8a2075be18be87f059b23fbd4dcfa951806c7c3a15b18e80cb5b83507667",
+      "output": "피그킹_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "6f1f62262c42223a18945c32918b65abdace82f1be1b49eb735fbaddbf38c8f2",
+      "reference": "피그킹_light_anime_25d_gloss_f.webp",
+      "basis": "user selected candidate 4; project generated filenames and plan",
+      "original_size": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}
