@@ -1,0 +1,314 @@
+{
+  "card": "폭타",
+  "selected_candidate": 1,
+  "images": [
+    {
+      "slot": "light",
+      "file": "폭타_light_anime_25d_gloss_f.webp",
+      "source": "generated_images/exec-d4680fc3-876f-4f5b-a73a-3bba91a72593.png",
+      "original_sha256": "de4ca18602724d6c2c72bf0d9299c426930b9a104c2d7080571a41a780172b61",
+      "webp_sha256": "65fb64c4d81422ecad80d681e5fc69741023403e412768d115f4e7696cb00079",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": null,
+      "submitted_sha256": "aaae2ea843ac316c9df67ab584ea0f8fbd20017516cd3e08888780b0331bc5b1",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": [
+        "Upper thigh exposure exceeds requested exposure zones; original preserved."
+      ]
+    },
+    {
+      "slot": "casual1",
+      "file": "폭타_anime_25d_gloss_f_casual1.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-8993a01b-7b81-41f7-b7a5-7b0a4e7dc151.png",
+      "original_sha256": "8270350819483d83466f4e6f03614a59f4b5aac982235d927ccca21c5396b06b",
+      "webp_sha256": "8e2423688523039252149064bf7bc9a4fb14c7424a781004a43ebde1b5670bb7",
+      "size": [
+        1024,
+        1024
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "34fd17838484c5f69779c5959d5b10750c8629173a78fed0638ae711684f6bf5",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": "outside crop or occluded",
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": [
+        "Far arm and submerged body partially occluded."
+      ]
+    },
+    {
+      "slot": "casual2",
+      "file": "폭타_anime_25d_gloss_f_casual2.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-afee8fae-4c6e-4a93-8d7b-2d7ccf2e65f4.png",
+      "original_sha256": "498bc2757a05f8eddf1fa9e3d53c666689fc1a3c851caa281f20e01a6aa5645d",
+      "webp_sha256": "f2441727fd4db3e863e64dc46df46a849229942620648bb32f9631e2b347a386",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "f9aaa8106e90a57a028c98c05bb4dda1834916a08e2cc540f07b5805dad49f26",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual3",
+      "file": "폭타_anime_25d_gloss_f_casual3.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-dce2d341-fc15-4196-80fe-de25f54afb31.png",
+      "original_sha256": "a0f3a7aebdf3d91c58578fcdce3b1dd46bb33d4dbfec306259718fc6875f2a6f",
+      "webp_sha256": "879582bb7f1a09acab8a0be6d277c39733c9bc5a72f2d31b6b932aa69c2035a2",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "d4ddcc9d34226fbcfe2f98918b632d23c72d875b17643ac5a6c47f83dddd8ef5",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual4",
+      "file": "폭타_anime_25d_gloss_f_casual4.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-07e1f9c6-21bd-450e-9eb8-531453b9acb8.png",
+      "original_sha256": "ed68f81dbfed664d3f022f967c9bb73ff888823148a34d13f750210766445b0e",
+      "webp_sha256": "af58fe2020e176770d169af7bb0478963e95d0808a66cef003733ef4758912a0",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "e1a848134332f0100a7dcc9f835164df9a34c107dc44b3d9887a4143fd1f2d56",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual5",
+      "file": "폭타_anime_25d_gloss_f_casual5.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-a7ea14da-75a4-49f6-8cc0-4220e34ce85b.png",
+      "original_sha256": "0d2824bc789c84cd750a493a8f28d6eddf1d2370af994a67fc09eaa2229e76ff",
+      "webp_sha256": "123a65dbdedc437c74c29ce5c589be34cbb7f1ce29bba71c971902cfaf3cd3ca",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "bb4810464d44a37eec056837e6312bec4d3322fe1ef4735dc1b8a63cff944879",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": "outside crop or occluded",
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual6",
+      "file": "폭타_anime_25d_gloss_f_casual6.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-5c94d00f-767c-4a57-a517-06b58e1829c5.png",
+      "original_sha256": "279a5f2319923758c845cda04efbd3b183fd4ac0da5ab93596cc7a131d002a00",
+      "webp_sha256": "fecf60db1678b84cbabd510b76604216847211c1acdbc784e0a7d2071bd3ba09",
+      "size": [
+        1536,
+        1024
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "b0543b2ee1c1111b1053a7df75758f93442e6c28af4692ca578427b8136c41bb",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual7",
+      "file": "폭타_anime_25d_gloss_f_casual7.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-4d74b069-4cbe-456b-b2b3-9d1d414444c3.png",
+      "original_sha256": "c5332c3aa4fa6e22f7d75c1accfaeabf197d18ddc7537a0da8636d02a72cf246",
+      "webp_sha256": "383a66984fd551e2d8e216e22f038c1fb2d306afcc21ec2d4b3c01005fb381ef",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "27f566b9ac7279d537ce00fe76601f93731cdccf2f73b2547d516b172ee3d28b",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual8",
+      "file": "폭타_anime_25d_gloss_f_casual8.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-ae7a85ce-ff96-4503-8461-f05ef3c195cc.png",
+      "original_sha256": "41f639ca508dce70ec2663ed61c672697a710b7f144c722fc2dfe56abf3d0848",
+      "webp_sha256": "3c5ce5264f54bcf298cbb228c667ae7929db262e4c4c7d7ace8d0a21e6bf7966",
+      "size": [
+        1024,
+        1024
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "7ab46e0c5bfd6620dab40689bf557af9a408da381d42c5fabbca813d700e209d",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": "outside crop or occluded",
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual9",
+      "file": "폭타_anime_25d_gloss_f_casual9.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-48eaf2e9-6de0-46b5-ab59-a5a0d1a4cab0.png",
+      "original_sha256": "d75b6320aa11fddb7042febdf7e2927d8c0e34e05fe28e16fb085c5cd5fa204a",
+      "webp_sha256": "7cc8835a17a598f13a751df757ca951e67d24852379deef5f99ac3343a2d9614",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "069382d0a42c44cd5c948e40655f32e87564ff74bfb1e95472c9cfda50bb7360",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": []
+    },
+    {
+      "slot": "casual10",
+      "file": "폭타_anime_25d_gloss_f_casual10.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-ef33e44e-8678-49c6-ac5b-30973678b54a.png",
+      "original_sha256": "394924717f9aaa365f4447bfd598b75392ee7a7af6327d1fdd7c36368fe06c51",
+      "webp_sha256": "805c6da2b46ac37843edf77ea84393349630b863de3fd121f41071351438e223",
+      "size": [
+        1024,
+        1536
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "8e7fe646ecb1171b90e6db9f06cac569e01d98ad75a9b6b6fccf4138b22263f4",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": "outside crop or occluded",
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": [
+        "Reference ear-shaped head ornaments carried into casual despite wardrobe request."
+      ]
+    },
+    {
+      "slot": "casual90",
+      "file": "폭타_anime_25d_gloss_f_casual90.webp",
+      "source": "/workspace/scratch/88977a1f1681/generated_images/exec-afa97d67-e1ef-46c9-b0e9-fa39bd925049.png",
+      "original_sha256": "6921c5d9176cab815fc3ba9c8cda098aa7f8aa9af5a19282a57b5c467ae85634",
+      "webp_sha256": "cc17080ff2d091cebeb49798e2a096965fd4509c90edbfc15524d4629b3bc9df",
+      "size": [
+        1024,
+        1024
+      ],
+      "style": "anime_25d_gloss",
+      "reference": "selected candidate 1",
+      "submitted_sha256": "821b62b696150b4916298e6fe597288718180404f73d0ebbc06ff75c39390ae9",
+      "submitted_same": true,
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed (checker exit 3)",
+        "arms": 2,
+        "legs": "outside crop or occluded",
+        "hands": "Visible fingers and thumbs visually reviewed; gripped, overlapping and submerged digits marked occluded, not independently counted.",
+        "issue": "ok",
+        "overlay_checked": false,
+        "note": "No detached or additional limbs observed. Visible shoulders continue into matching arms."
+      },
+      "notes": [
+        "Clasped fingers overlap; individual digits partly occluded."
+      ]
+    }
+  ]
+}

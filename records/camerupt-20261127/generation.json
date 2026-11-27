@@ -1,0 +1,19 @@
+{
+  "card": "폭타",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 1,
+  "final_images": 12,
+  "generated_candidates": 4,
+  "generated_casuals": 11,
+  "generation_calls": 15,
+  "regenerations": 0,
+  "code_commit": "ce3a576b3688526a1d663d1dbebcac6c3694115d",
+  "reservation_commit": "48df4e59b626d78255e8c51526da12311739e3a5",
+  "source_files": [
+    "AGENTS.md",
+    "IMAGE_RULES.md",
+    "docs/PROMPT_REWRITE.md",
+    "tools/prompt-pack.cjs"
+  ],
+  "publication": "Only selected candidate and eleven casual images; no originals, thumbnails, or dex data written."
+}

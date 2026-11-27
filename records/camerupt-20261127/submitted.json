@@ -1,0 +1,74 @@
+{
+  "light": {
+    "sha256": "aaae2ea843ac316c9df67ab584ea0f8fbd20017516cd3e08888780b0331bc5b1",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual1": {
+    "sha256": "34fd17838484c5f69779c5959d5b10750c8629173a78fed0638ae711684f6bf5",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual2": {
+    "sha256": "f9aaa8106e90a57a028c98c05bb4dda1834916a08e2cc540f07b5805dad49f26",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual3": {
+    "sha256": "d4ddcc9d34226fbcfe2f98918b632d23c72d875b17643ac5a6c47f83dddd8ef5",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual4": {
+    "sha256": "e1a848134332f0100a7dcc9f835164df9a34c107dc44b3d9887a4143fd1f2d56",
+    "same": true,
+    "basis": "authorized free scene prompt",
+    "generation_calls": 1
+  },
+  "casual5": {
+    "sha256": "bb4810464d44a37eec056837e6312bec4d3322fe1ef4735dc1b8a63cff944879",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual6": {
+    "sha256": "b0543b2ee1c1111b1053a7df75758f93442e6c28af4692ca578427b8136c41bb",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual7": {
+    "sha256": "27f566b9ac7279d537ce00fe76601f93731cdccf2f73b2547d516b172ee3d28b",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual8": {
+    "sha256": "7ab46e0c5bfd6620dab40689bf557af9a408da381d42c5fabbca813d700e209d",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual9": {
+    "sha256": "069382d0a42c44cd5c948e40655f32e87564ff74bfb1e95472c9cfda50bb7360",
+    "same": true,
+    "basis": "authorized free scene prompt",
+    "generation_calls": 1
+  },
+  "casual10": {
+    "sha256": "8e7fe646ecb1171b90e6db9f06cac569e01d98ad75a9b6b6fccf4138b22263f4",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  },
+  "casual90": {
+    "sha256": "821b62b696150b4916298e6fe597288718180404f73d0ebbc06ff75c39390ae9",
+    "same": true,
+    "basis": "generated prompt",
+    "generation_calls": 1
+  }
+}
