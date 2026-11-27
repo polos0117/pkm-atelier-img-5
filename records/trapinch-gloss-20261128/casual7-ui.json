@@ -1,0 +1,172 @@
+{
+ "storage": {
+  "last": "톱치",
+  "cards": {
+   "톱치": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "bored",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "mostly posed",
+       "source_influence": "balanced",
+       "separates_preference": "prefer separates"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "ofam": true,
+       "item": true,
+       "expose": true,
+       "xfree": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "gaze": true,
+       "expr": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "fantasy",
+      "place": "orbit_berth",
+      "ofam": "subculture",
+      "item": "rock_leather",
+      "expose": [
+       "plunging neckline",
+       "one-shoulder cut"
+      ],
+      "xfree": true,
+      "posture": "float_flip",
+      "support": "zero_g",
+      "frame": "full_body",
+      "body": "front",
+      "head": "with_body",
+      "camera": "top",
+      "right": "natural",
+      "left": "natural",
+      "gaze": "camera",
+      "preset": "zg_flip",
+      "use": ""
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Trapinch (톱치) personified, ground type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: toned athletic-curvy, full-busted with rounded hips — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A bright, adorable adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a quiet open-air sand-sculpture festival amphitheatre after the crowd has gone, pale stepped seating and a distant hourglass sculpture.\nActivity: pausing over an oversized steamed dumpling lunch between event shifts; a closed food box and a small sand-filled hourglass sit beside her.\nOutfit: an adult hourglass-keeper event costume in deep plum opaque cotton sateen: a folded fan-shaped halter bib with a supportive underbust band, rigid oval side-waist hoops joining it to fitted balloon shorts, and a short pleated rear bustle; bare shoulders, side waist and upper thighs, chest and pelvis securely covered. This is a theatrical event costume rather than armor or a real uniform.\nMomentary situation: she brings one knee onto the broad bench to sit cross-legged before eating; the new angle clearly opens the deliberately designed empty space at her side waist between the fixed bib and shorts, without moving or undoing any clothing.\nPose and composition: a knee-up three-quarter portrait from face height. Her own right upper arm runs visibly down from her right shoulder, her right elbow bent forward and her right hand holding one large dumpling near her mouth. Her own left upper arm drops at her left side, her left forearm resting across her raised knee and her left palm relaxed on that knee. Her torso leans slightly back, head turned gently toward the viewer. Late afternoon warm light with soft cheek shading.\nEXPRESSION: lidded half-open eyes, slack mouth, brows flat and unengaged. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n",
+ "plan": {
+  "cut": 7,
+  "treeV": 2,
+  "era": "fantasy",
+  "place": "orbit_berth",
+  "ofam": "subculture",
+  "item": "rock_leather",
+  "garments": [
+   "skirt",
+   "vest"
+  ],
+  "ocolor": "",
+  "weather": "",
+  "time": "",
+  "moment": "",
+  "light": "",
+  "spot": "",
+  "depth": "",
+  "view": "",
+  "posture": "float_flip",
+  "support": "zero_g",
+  "frame": "full_body",
+  "body": "front",
+  "head": "with_body",
+  "camera": "top",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "",
+  "gaze": "camera",
+  "preset": "zg_flip",
+  "turn": "",
+  "ostyle": "",
+  "expr": "bored",
+  "aspect": "2:3",
+  "xfree": true,
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "mostly posed",
+   "source_influence": "balanced",
+   "separates_preference": "prefer separates"
+  },
+  "expose": [
+   "plunging neckline",
+   "one-shoulder cut"
+  ],
+  "lead": "place",
+  "shade": ""
+ },
+ "manual_inputs": {},
+ "manual_why": {},
+ "generation": {
+  "design": "gpt_free",
+  "free_prompt": "CHARACTER: the same woman as the attached image — Trapinch (톱치) personified, ground type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: toned athletic-curvy, full-busted with rounded hips — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A bright, adorable adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a quiet open-air sand-sculpture festival amphitheatre after the crowd has gone, pale stepped seating and a distant hourglass sculpture.\nActivity: pausing over an oversized steamed dumpling lunch between event shifts; a closed food box and a small sand-filled hourglass sit beside her.\nOutfit: an adult hourglass-keeper event costume in deep plum opaque cotton sateen: a folded fan-shaped halter bib with a supportive underbust band, rigid oval side-waist hoops joining it to fitted balloon shorts, and a short pleated rear bustle; bare shoulders, side waist and upper thighs, chest and pelvis securely covered. This is a theatrical event costume rather than armor or a real uniform.\nMomentary situation: she brings one knee onto the broad bench to sit cross-legged before eating; the new angle clearly opens the deliberately designed empty space at her side waist between the fixed bib and shorts, without moving or undoing any clothing.\nPose and composition: a knee-up three-quarter portrait from face height. Her own right upper arm runs visibly down from her right shoulder, her right elbow bent forward and her right hand holding one large dumpling near her mouth. Her own left upper arm drops at her left side, her left forearm resting across her raised knee and her left palm relaxed on that knee. Her torso leans slightly back, head turned gently toward the viewer. Late afternoon warm light with soft cheek shading.\nEXPRESSION: lidded half-open eyes, slack mouth, brows flat and unengaged. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\nsource_influence: balanced — her species shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.\n",
+  "manual_why": "IMAGE_RULES의 자유 의상/자유 장면 주문에 따라 허용된 Outfit 또는 SCENE만 채움. 그 밖의 얼굴, 화풍, 체형, 표정, 강도, 제약 원문 유지.",
+  "tool": "built-in image_gen",
+  "reference": "톱치_light_anime_25d_gloss_f.webp",
+  "original_sha256": "7aa0c41be4a47f45ea2caa57d826ed832d671e905597b44c20bef1fd6e2c9813",
+  "attempt": 2
+ }
+}

@@ -1,0 +1,288 @@
+{
+ "stage": "ready_to_publish",
+ "image_repo": "polos0117/pkm-atelier-img-5",
+ "records": "records/trapinch-gloss-20261128",
+ "selected": 4,
+ "final_images": 12,
+ "casual_images": 11,
+ "reservation_commit": "53d4e1f487ff6a1af7567602492fca1cc9852e76",
+ "registration": "automatic workflow; data/img.json never edited manually",
+ "slots": [
+  {
+   "slot": "light",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_light_anime_25d_gloss_f.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "54006d9c807f4015585a004a851f312c56f1f37913b318ee4c275d87863e469e",
+   "original": "exec-0f7ead0a-1edb-48fb-9416-a0deef0e5941.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "25dcc086ce8a7c490e73277064cf325106a3af58e3f8cfc1aeb3a9a451a74ff8",
+   "reference": null,
+   "submitted_same": true,
+   "submitted_sha256": "d90633d89baa8a114040febd6df72ebd01a5eb49bf4dca06432a11c4917e375c",
+   "basis": "user selection 4"
+  },
+  {
+   "slot": "casual1",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual1.webp",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "sha256": "02155c04ab8e56d1c7633a1727313866ccf80e62e41ddb1a9d98710c20995f5b",
+   "original": "exec-cfd09507-49c2-4c6b-9964-490904e579b9.png",
+   "original_size": [
+    1536,
+    1024
+   ],
+   "original_sha256": "0e758f93e4c7af1e5a2a053f522f4d7b4f1f45c6af4ec094a0bffd2795292747",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "4924d654c65ca12ae540e0573286259fa609212b19a5f4760e7d743221f92bf6",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual2",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual2.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "4a10269931d422b17892f849808069b012987edc9fe531503f61ecb357a8972e",
+   "original": "exec-978130f6-3a89-4cde-9528-f050fc770584.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "d746381be27ae570b3fd0f2636e15d33cbe3ee219553411262c973cbb5602494",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "fa76a3168a512fdda8a2136be1ebee04097230babacb0599827a888b1bdec331",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual3",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual3.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "0f2e23d23baeb8e43b9c3e19ca8b35adf1e0d84c3713fb6230fe7da7fc76566d",
+   "original": "exec-c105a3ac-8ce3-44ac-9a6a-62bbfb18a0b8.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "9ffe73a277afb049f5dbd8db9e6fff1be53e486a1978c528fc7bb22aa6c505a7",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "ccebc8851cf52459648f269d55c81d62611d89d206514e626aae31d430a55481",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual4",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual4.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "2b667c9a50668fce1988eac6b9396706889555f6fd67509d367a39e6d413be93",
+   "original": "exec-1d78b77e-6942-4694-bf47-3aae2682c2a9.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "8df3f927d9c2dc5798afc7606c5353108921bcb97c8a691796bcf7ae9346a69b",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "bc0ebb2f7018640c0f3d9325396a69b0e6af6a420771c0965749e782a1163de7",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual5",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual5.webp",
+   "size": [
+    1024,
+    1024
+   ],
+   "format": "WEBP",
+   "sha256": "90b60303c4619fe78dda4ce581bc4a34baf8e385fdc3c86214858a68dc88edc3",
+   "original": "exec-2d0b993c-70eb-496b-b154-fc029a7eed6d.png",
+   "original_size": [
+    1254,
+    1254
+   ],
+   "original_sha256": "95af9ce86f8a2bbd5bbc5b57e38a4b54f4ba24493c7adf89e5c37d8d23f4a341",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "dbb6ef66340357157c9371b4884904269d4d2abe23c7855a66b6c087cddf834b",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual6",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual6.webp",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "sha256": "96cefb9350a91cee1afae27fe95f2509519ed3e637ee99c16670799a2a6d3429",
+   "original": "exec-d96f1ca8-6c6c-4c30-b594-330020cc50a5.png",
+   "original_size": [
+    1536,
+    1024
+   ],
+   "original_sha256": "80353b1a7dd71dbd18bef77e4f764834990ff28428e78657eae225dc48a225de",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "0fff92188455634c22d9ab5de457f1b8502d0290d835f147c646cf60ff584150",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual7",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual7.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "1060c9f96a6271ec6e399920111aa952656a98a9e714e8913c65e41b3a095987",
+   "original": "exec-01c25959-fa05-4af3-aff5-3e5fec0448c7.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "7aa0c41be4a47f45ea2caa57d826ed832d671e905597b44c20bef1fd6e2c9813",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "14f4249a86940d0ca27b5820bdd45de4d48e2c7395469cd377b6a54587935a2f",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual8",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual8.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "2184dd00ac6eac08a2c8811aabf3a99b5490bfe278e1883cb2f24c0ef3cc03ea",
+   "original": "exec-5e25e57a-1029-4be6-bfc9-ede01a3edd08.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "4c93a1db8be4de4040a1afa037d5d9d2cd360097f2120b56046ce2b26ad7069f",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "91b1e29091fbe842177235ed6191fc714ada3a0c1dbdad5a6f2252c136d8c124",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual9",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual9.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "a4287358779fbbefd7d829e412e239f64d80e1abc23c8e3a89bbf619678be180",
+   "original": "exec-30e11d2b-9e58-4570-8431-7ca77c3d6da7.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "fa9970b5cf5a8e0cd98fa8cf1f899eea0bd49d9fed3487c8eed3017bdd16d763",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "c14d0c20d1a1843d5f49f0929fad717cb2c582cb8bfac9ec1a72ea9e30b100c7",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual10",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual10.webp",
+   "size": [
+    1536,
+    1024
+   ],
+   "format": "WEBP",
+   "sha256": "07d335030871d557d724fdb9e776500cda9ff665878541c7ef252c33dd6942b0",
+   "original": "exec-6d9dc47d-eb2c-4b7d-b108-adbc285c6e14.png",
+   "original_size": [
+    1536,
+    1024
+   ],
+   "original_sha256": "632e5785139f9176dfe00b1ce9ee9c77281e8c6efe6eb74c447c514253b54435",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "917419c26a700c4a5ff19e088966c59133ac8a0ba072ae09048926230394615a",
+   "basis": "generated plan and selected light reference"
+  },
+  {
+   "slot": "casual90",
+   "card": "톱치",
+   "style": "anime_25d_gloss",
+   "gender": "f",
+   "file": "img/톱치_anime_25d_gloss_f_casual90.webp",
+   "size": [
+    1024,
+    1536
+   ],
+   "format": "WEBP",
+   "sha256": "7106891f300fed58fec188db3ff36977701398bed02125510fbc1f8edae9b40d",
+   "original": "exec-d263c47f-fffc-47f8-bdf7-6a2972e93987.png",
+   "original_size": [
+    1024,
+    1536
+   ],
+   "original_sha256": "de9bae7f24ef839346a27fcecfcd7388194195a8236656d46d165c3788f2eb06",
+   "reference": "img/톱치_light_anime_25d_gloss_f.webp",
+   "submitted_same": true,
+   "submitted_sha256": "e545c333698f9f44ab5100cf5601010c1f50f083521f74d7ae6540c26faa471e",
+   "basis": "generated plan and selected light reference"
+  }
+ ]
+}

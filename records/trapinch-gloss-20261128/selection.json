@@ -1,0 +1,54 @@
+{
+ "selected": 4,
+ "candidates": [
+  {
+   "number": 1,
+   "design": "generator",
+   "original": "/workspace/scratch/e63d8ccdabbf/generated_images/exec-c4b91dae-5130-41d9-9266-c4e176a6291a.png",
+   "original_sha256": "214c37bd9346951e16ecd54aca3ccf5ea3624201b3c547b9fa6e909f59833b85",
+   "webp": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-1.webp",
+   "prompt": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-1-prompt.txt",
+   "submitted_sha256": "b16513f057cca29db70ae6429e52e62a7d6f0e951228df6fe29dcbeae794ab69",
+   "submitted_same": true,
+   "summary": null,
+   "hair_family": null
+  },
+  {
+   "number": 2,
+   "design": "generator",
+   "original": "/workspace/scratch/e63d8ccdabbf/generated_images/exec-b610d146-cc4e-4290-a40c-7962a8360400.png",
+   "original_sha256": "deb73a69cb0aa50f40c49afd73c6512b52ea48ddd7fa049a2f27811b01a3b34b",
+   "webp": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-2.webp",
+   "prompt": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-2-prompt.txt",
+   "submitted_sha256": "b16513f057cca29db70ae6429e52e62a7d6f0e951228df6fe29dcbeae794ab69",
+   "submitted_same": true,
+   "summary": null,
+   "hair_family": null
+  },
+  {
+   "number": 3,
+   "design": "gpt_free",
+   "original": "/workspace/scratch/e63d8ccdabbf/generated_images/exec-73548cba-623c-44db-b91c-1e10f73aa0ba.png",
+   "original_sha256": "a59c970f02dac16bd637cc531f3d5e7e61874407a266460c88b84f5057f6c11b",
+   "webp": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-3.webp",
+   "prompt": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-3-prompt.txt",
+   "submitted_sha256": "e13eba87e7d4be517204d642bfe5e024248ace39322262e523b359d740a9b52b",
+   "submitted_same": true,
+   "summary": "SUMMARY: hairstyle high segmented ponytail; armor silhouette oversized gauntlets and boots; design idea opposing jaw gauntlets; face compact with soft jaw and almond amber eyes; expression lively smile",
+   "hair_family": "tied-back hair"
+  },
+  {
+   "number": 4,
+   "design": "gpt_free",
+   "original": "/workspace/scratch/e63d8ccdabbf/generated_images/exec-0f7ead0a-1edb-48fb-9416-a0deef0e5941.png",
+   "original_sha256": "25dcc086ce8a7c490e73277064cf325106a3af58e3f8cfc1aeb3a9a451a74ff8",
+   "webp": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-4.webp",
+   "prompt": "/workspace/scratch/e63d8ccdabbf/trapinch-selection/candidate-4-prompt.txt",
+   "submitted_sha256": "d90633d89baa8a114040febd6df72ebd01a5eb49bf4dca06432a11c4917e375c",
+   "submitted_same": true,
+   "summary": "SUMMARY: hairstyle short rounded wolf cut; armor silhouette broad shoulder and leg armor with thrusters; design idea rounded jaw-shell shoulder plates; face heart-shaped with balanced jaw and teal peach-blossom eyes; expression playful smile",
+   "hair_family": "short hair"
+  }
+ ],
+ "unselected_images_published": false
+}

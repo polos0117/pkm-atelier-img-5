@@ -1,0 +1,174 @@
+{
+ "selected": 4,
+ "slots": {
+  "light": {
+   "identity": "selected candidate 4",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "사용자 선택 4번. 전신 여백과 양팔·양다리 연결을 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual1": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "양손이 하나의 패들을 잡고 두 다리가 보드 위에 있음. 시선과 드레스·패들보드 장면 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual2": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "한 손은 낮은 선반의 상자에, 다른 손은 허벅지 위에 있음. 쪼그린 두 다리와 드레스룸 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual3": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "양팔이 앞쪽 돌 가장자리까지 이어지고 손 둘이 보임. 온천, 접힌 부채형 탑, 청록색 의상 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual4": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "상반신 근접 크롭. 립스틱을 든 장갑 손과 팔 연결 확인. 다른 팔과 다리는 크롭 밖. 이스핀 의상·PC방 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual5": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "양손이 안전바를 잡고 양팔이 각각 어깨로 연결됨. 좌석에 앉은 두 다리와 웃는 표정 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual6": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "양손이 각각 패러글라이더 줄을 잡음. 하네스에 앉은 두 다리 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual7": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass_with_pose_notes",
+    "evidence": "첫 결과는 팔 셋으로 제외. 같은 프롬프트 두 번째 결과에는 만두를 든 팔 하나, 벤치에 내려짚은 팔 하나만 있음. 계획의 무릎 위 왼손 대신 벤치를 짚음: 자세 세부 차이로 기록."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual8": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass_with_pose_notes",
+    "evidence": "옆모습 근접 크롭. 귀 옆 머리를 만지는 손이 팔로 연결됨. 반대 팔과 다리는 화면 밖. 전통 의상·금색 머리싸개 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual9": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass_with_pose_notes",
+    "evidence": "만두를 든 팔과 쿠션을 짚는 팔 둘. 무릎 위 두 다리 확인. 영화 화면은 카메라 방향에 있어 화면 안에 안 보임."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual10": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "한 손은 바닥, 다른 손은 세운 무릎 위. 두 다리가 자연스럽게 접힌 모습과 코스튬·킥보드 확인."
+   },
+   "regenerated_for_censorship": false
+  },
+  "casual90": {
+   "identity": "selected candidate 4 directly referenced",
+   "style_25d": {
+    "result": "pass",
+    "evidence": "코·볼·턱에 부드러운 입체 음영, 가는 윤곽선과 피부의 연속적인 명암이 보임."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed; visual inspection used",
+    "result": "pass",
+    "evidence": "허리에 둔 팔과 세운 허벅지에 둔 팔 둘. 부츠 신은 두 발과 사막 야영지 확인."
+   },
+   "regenerated_for_censorship": false
+  }
+ },
+ "attempts": [
+  {
+   "slot": "casual7",
+   "attempt": 1,
+   "result": "excluded: three arms",
+   "original_sha256": "16915e46bf49fef436da532ccebea2e208c9b1fa7575d1936e04b96de69c16b9",
+   "retry_reason": "clear anatomy error; same submitted prompt",
+   "prompt_changed": false
+  }
+ ],
+ "censorship_retries": 0,
+ "final_images": 12,
+ "casual_images": 11
+}
