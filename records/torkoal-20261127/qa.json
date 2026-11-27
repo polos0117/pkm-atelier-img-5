@@ -1,0 +1,242 @@
+{
+  "light": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Selected candidate 4; gold eyes, twin loops, dome shoulder mantle and articulated shell plates.",
+      "overlay_checked": false,
+      "note": "Selected candidate 4; gold eyes, twin loops, dome shoulder mantle and articulated shell plates."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Selected candidate 4; gold eyes, twin loops, dome shoulder mantle and articulated shell plates."
+  },
+  "casual1": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Cup held in right hand; left hand on knee; crouched with heels grounded.",
+      "overlay_checked": false,
+      "note": "Cup held in right hand; left hand on knee; crouched with heels grounded."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Cup held in right hand; left hand on knee; crouched with heels grounded."
+  },
+  "casual2": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Right arm bends behind head, hand occluded; left hand holds towel; both legs continuous.",
+      "overlay_checked": false,
+      "note": "Right arm bends behind head, hand occluded; left hand holds towel; both legs continuous."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Right arm bends behind head, hand occluded; left hand holds towel; both legs continuous."
+  },
+  "casual3": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Right arm lifts camera strap; fingers partly occluded by grip; left arm runs down beyond crop. Crop extends lower than planned chest-up.",
+      "overlay_checked": false,
+      "note": "Right arm lifts camera strap; fingers partly occluded by grip; left arm runs down beyond crop. Crop extends lower than planned chest-up."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Right arm lifts camera strap; fingers partly occluded by grip; left arm runs down beyond crop. Crop extends lower than planned chest-up."
+  },
+  "casual4": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Both forearms and hands overlap beneath chin; wrists connect naturally; fingers partly overlap.",
+      "overlay_checked": false,
+      "note": "Both forearms and hands overlap beneath chin; wrists connect naturally; fingers partly overlap."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Both forearms and hands overlap beneath chin; wrists connect naturally; fingers partly overlap."
+  },
+  "casual5": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Ticket held in right hand; left palm on railing; five fingers partly overlapped. Abstract marks on ticket not readable branding.",
+      "overlay_checked": false,
+      "note": "Ticket held in right hand; left palm on railing; five fingers partly overlapped. Abstract marks on ticket not readable branding."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Ticket held in right hand; left palm on railing; five fingers partly overlapped. Abstract marks on ticket not readable branding."
+  },
+  "casual6": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Right hand holds chestnut by lips, left hand holds cone; crossed legs continuous.",
+      "overlay_checked": false,
+      "note": "Right hand holds chestnut by lips, left hand holds cone; crossed legs continuous."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Right hand holds chestnut by lips, left hand holds cone; crossed legs continuous."
+  },
+  "casual7": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Right hand on goggles, left arm beyond crop; correct shoulder connection. Planned side view renders as front three-quarter.",
+      "overlay_checked": false,
+      "note": "Right hand on goggles, left arm beyond crop; correct shoulder connection. Planned side view renders as front three-quarter."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Right hand on goggles, left arm beyond crop; correct shoulder connection. Planned side view renders as front three-quarter."
+  },
+  "casual8": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Right arm over crown, left hand on bench, continuous elbows and wrists; slight side stretch.",
+      "overlay_checked": false,
+      "note": "Right arm over crown, left hand on bench, continuous elbows and wrists; slight side stretch."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Right arm over crown, left hand on bench, continuous elbows and wrists; slight side stretch."
+  },
+  "casual9": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Opaque fabric shell costume; two hands resting, fingers covered by close gloves. Shell costume reads rigid.",
+      "overlay_checked": false,
+      "note": "Opaque fabric shell costume; two hands resting, fingers covered by close gloves. Shell costume reads rigid."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Opaque fabric shell costume; two hands resting, fingers covered by close gloves. Shell costume reads rigid."
+  },
+  "casual10": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Three-quarter rear crouch and looking back, left palm on grass; far hand occluded; companion Torkoal separate.",
+      "overlay_checked": false,
+      "note": "Three-quarter rear crouch and looking back, left palm on grass; far hand occluded; companion Torkoal separate."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Three-quarter rear crouch and looking back, left palm on grass; far hand occluded; companion Torkoal separate."
+  },
+  "casual90": {
+    "style_25d": {
+      "判定": "2.5D",
+      "근거": "Softly blended shading on cheeks, nose and jaw; colored delicate contours, dimensional cloth and material highlights."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed",
+      "issue": "ok",
+      "arms": 2,
+      "legs": "outside crop or partially visible",
+      "hands": "Visible hands inspected; five fingers where separable; other digits occluded by grip or overlap. Both hands grip pan handles; thumbs and fingers partly occluded, wrists and arms continuous.",
+      "overlay_checked": false,
+      "note": "Both hands grip pan handles; thumbs and fingers partly occluded, wrists and arms continuous."
+    },
+    "exposure": {
+      "judgement": "match",
+      "note": "Original generated image preserved; no regeneration or exposure correction."
+    },
+    "note": "Both hands grip pan handles; thumbs and fingers partly occluded, wrists and arms continuous."
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "card": "코터스",
+  "style": "anime_25d_gloss",
+  "selected": 4,
+  "status": "prepared for publication",
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-557c4c7e-757d-4cc7-ab30-089a3ed7d42b.png",
+      "source_sha256": "d21a60bad54013676ee0a196898035b2a4c16e1708c4efb416d584aca5eefd63",
+      "file": "코터스_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2e7efe109dfda0cdb5204d4dc8a6a42a0c3b5a22caa4aa403ec1262d28f4a144",
+      "reference": null,
+      "submitted_sha256": "0278c35c3c0b0c0c46505ed141884ba40bd64e8892d0363dfdeb7ed827f7251f",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-6604ca8e-16ee-4376-84bb-0c0d5a1a7e31.png",
+      "source_sha256": "cdb1a1eaf18b32c23487bb3daa69ff33903e49ea624345b299ee88a62e1904eb",
+      "file": "코터스_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "33fb60daa592a0d443eadab283f2038095b6864d0ac925f9f884d356d0b3b57b",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "d7b72038c8f7e71a9278baf826a2fb43907c14c2bafde9fef90db86735a9e4c1",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-d92f59fa-ac2a-45a2-a0c8-4858372882c1.png",
+      "source_sha256": "5e36e482c4e2346ef41bb569f3ccc769541e119e34e0f5afb473237c3d7d88c6",
+      "file": "코터스_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "aa18e77d1752475f0465f418b78a9c31911be1f924e195161c1eb4d01180d35c",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "3946ca85d96d470249f3113b392b47d712df76fd925a72717ffe7de7a3544e0d",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-f7e23dc3-d2ff-4454-b8aa-d99edc6d655f.png",
+      "source_sha256": "b4fd46a3fbc9da3c3879a1d4daed8b4c725e7c5cc24bc65d598c868e84975f3a",
+      "file": "코터스_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "05eb7190d0f5a87a00313d236a61a75ab0b7f6a2c29cbbb390ba8bd318925c11",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "6b1051bdd0e5ecc9cde7d4bc075634b6db03a4ebc1b7a08461592cc2d62c1b50",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual4",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-7551cbf9-af91-495c-99c9-01c5ccf0568b.png",
+      "source_sha256": "fce93f62085fe9dc4553a1c17c43c2c95193718f598e3c7d71f7a91b5ce60541",
+      "file": "코터스_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "a3a5b8e89ca501c40a3d52dd293757e292780921f6ab546f8a2427f86b0fa4d6",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "70bd58132c258aa2fc630b0d5a7d2f8da4e7574144c390d41ece8681d2702a66",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual5",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-61400a19-7aa0-4e65-a10d-eb4dfc18dcf7.png",
+      "source_sha256": "6b722d4d1f0377bd97e25dd684fc102b745f280dbe67bb5a7d68a7f7d6f1e0a0",
+      "file": "코터스_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "71875927e6bb3704d294092fc8bc0729b97c15fcd8e51682023aa3371ab0e017",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "cc307e080805570efff73f647d1780d1aeffdfc2c11202f5826824f32dc4a24a",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual6",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-53850f34-94ce-456e-9935-3984e93eaae2.png",
+      "source_sha256": "80f05cef58e67d054f4d82c604dabc1c8696993895ea8d56d8536a068e3c396c",
+      "file": "코터스_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f571ac6f090d4a6f4e96c9e9209fe1ee2b730b4460c2ef9f9a76c69abc5c36d7",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "3b354896ef26db3d45259534b6ddceda3defddc9325256bd504989822ba22a0e",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual7",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-250fccfe-6bf7-4117-b294-869c5f68b5b8.png",
+      "source_sha256": "805d3ae4f1676e872b11d639cc13ff729576acb341e1ace40c6653630c3aacad",
+      "file": "코터스_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c5b195e20420240bc538d56fa42b869b3a873daaef1a79adb4ff80c704f392b2",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "25a8ba0f7e3c51a838b45caeb2db4b5fc17df0339d3a5998c7dbc20282a91ac8",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual8",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-5e1549a8-d712-4638-9620-d63e57744689.png",
+      "source_sha256": "d3280a3d17dd4a9bdf87fc9ce5864076ad5378502b78ae61bd671378303f5754",
+      "file": "코터스_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cf49b9ef4e74afac91b45faeb68e1fc239b6d9c90a654794296d5677c64c449a",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "fff3b4ec70e4ec04c29fdb43c03fc861c8bd1089c5c4aa0be893e1c6130e363a",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual9",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-6798f303-c974-4d18-a4fe-95631f157d29.png",
+      "source_sha256": "2db966f149f63262965a9a7dbd34dd4bbe66ac4f5739d3b89f23e5dc598d0cc0",
+      "file": "코터스_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "5b328357b2ba5a81a3d7563e9993c844cb6ff6b0b030107deb05277b550d2b1b",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "2dfe848b87f37b182f284dc40c999904b41908e6fe60c1e32443e7a89365ac75",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual10",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-97f22f5f-b490-4184-9869-8af41524ee63.png",
+      "source_sha256": "ea6b50469a0bb81aec54f3dfbf98b701f17388210a8a68c2c1eed196864c1d1d",
+      "file": "코터스_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "496590d4eed61eb2136704264fd38ebfaf7c37bf202cb335d70d834f5d0d52d8",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "f8b76630eaac5d1a3d5b4b609b64794b045cf2a101bcaf49b7e83631dfedea33",
+      "submitted_same": true
+    },
+    {
+      "slot": "casual90",
+      "source": "/workspace/scratch/b4786e1c53ff/generated_images/exec-b89afc4f-36bb-42a0-8bdd-507919ae5c97.png",
+      "source_sha256": "53309590e0b920d76c4dce7e7ee2e2c16fb18ff2c69b8e838d7737062c2cf17b",
+      "file": "코터스_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "WEBP",
+      "sha256": "df9fd8667197cb43515d5926bc91adc4f6dc439a13ad31119d9d991a5ea58144",
+      "reference": "코터스_light_anime_25d_gloss_f.webp",
+      "submitted_sha256": "101337fbac649e0d69d666448127bba37779c85ba145892ba143bc17477ab329",
+      "submitted_same": true
+    }
+  ],
+  "regeneration_count": 0
+}
