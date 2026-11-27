@@ -1,0 +1,158 @@
+[
+  {
+    "slot": "light",
+    "file": "둔타_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "74739c7452cd53fbfe866fc4c9d8d042639b0909bb9787072f34c9725cbc5781",
+    "original_sha256": "e7771e9a09d57097d0dceb6924d86d0c118649966a66e37769096c226a59e8dd",
+    "submitted_sha256": "e12f8fce1f745f3e741a337824a6e046e02b87662536e0c48ac0a935b8e71a17",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual1",
+    "file": "둔타_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "ded62183158c0e1bace25e3e21d5e2840d500af4f488e1642ffc90786e0b5b30",
+    "original_sha256": "3c145a3ea9c6f0de4f0a6704429c88f3430c675b3601662a5baa352c3f59b53d",
+    "submitted_sha256": "212ee99de904d2e8d31069f7b74c256c4aa4c63dfa99d470ee092b50082fce0e",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual2",
+    "file": "둔타_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "589f949bc86882575d96d95aaa32dc6c22977306ccb2953821d2ac39a7adcf5a",
+    "original_sha256": "430d20ce2070b0c55a5ce1e507852688d09e2ef75899a4a8fc9cfc148de46c9c",
+    "submitted_sha256": "4d5d03d5491d52b31427f67c1d3449d4b18fe72976839e213ae2380197942646",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual3",
+    "file": "둔타_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f78b54bcbbbd1f291d12aadfd6d5334697a333b1e394dd072ee6b3cacfb6d38a",
+    "original_sha256": "f41ff739ca08c12445fd79cd766c9072e1eec759799baaf93e297d7ba5d911c3",
+    "submitted_sha256": "b8452ed27c3e9d9a3edeada5927fd136fe50e90405fe8e2e216e1d248fda43b4",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual4",
+    "file": "둔타_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8ed2acfdbc45952d08d739369e12ef518283b96f300233d4306fe7e0f090f81c",
+    "original_sha256": "87b7bc0be6e79b6bc528c78a29098afb69e7e79779c61f681e0e37b080443413",
+    "submitted_sha256": "db387e4d8e1110eb78d6f0d19e8a60bc2efe5d707e4d6da0b0205ab05776bc7c",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual5",
+    "file": "둔타_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "86c265de55a1ca48e525969337a06c2636dc75eac51c48b1e455f4f487e27f73",
+    "original_sha256": "0971fcf4524270c0c62080761bd043c83d25d1e3b69a24cd50df2624d0eaf35a",
+    "submitted_sha256": "a4a9a1df3429755b691d066b26650f4083f0fc1c1aab59deb61af920507c3c75",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual6",
+    "file": "둔타_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7a376cbc2cf30c5d81c33053a652a75dbefd98cf8fc26aa53687cceacac21874",
+    "original_sha256": "d458b07aa3a1d5b6dd41571fc10a3f3c2187b39873d8379dc7c74e74c059071c",
+    "submitted_sha256": "ecf5e6b8c4d7eebe3dc55c143380ea53603e77e02fe2f7575c179e4d9ed9c8cb",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual7",
+    "file": "둔타_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "sha256": "cc65bdb3d16a1ac81eb07ab471ea11aa87a4286c13137d784de8586a6da69b6f",
+    "original_sha256": "dfe782a372c98f70cc6d99a113868c56848df7171c3a6c92892e7e1c7943d7da",
+    "submitted_sha256": "4896b60d9ee6d8229d162aad728edb5309e783ddc2289a5ff9b7edb8f5fca30e",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual8",
+    "file": "둔타_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "132b62843e1e364477a4ddbe2f6d0f3200fb600e697cd4b724f24dac828dbc84",
+    "original_sha256": "2d9ab5f62472766cd51a2e6053977facf8810315bb838afc57988f29d0c27c3b",
+    "submitted_sha256": "f2721e2461a94b409148bf8e5f98b51cbcbb120d87dfaaa4fc43a0080aad43c7",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual9",
+    "file": "둔타_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "73c1066397c8b4b82fb0db79d95d03d3a8bd1a0056f45fc8f7c8adc14697c5a2",
+    "original_sha256": "28d5789f0b0b1e8bb45e28fdc8baef34fcf723c6ecb19bacc1577cdeccb4cdfc",
+    "submitted_sha256": "a9eec7a8e5670acec12fd8fe1da95573e644d03aaa705444ccabff3a3ff487af",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual10",
+    "file": "둔타_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f217ca148666c7696164d9ee2649d9eb4ecfa3e3bd1ad1106dc1009e63c388d1",
+    "original_sha256": "cb72fc2addb940eda03672dd0a510a7c17681f9969f726385be794eeb223c6fd",
+    "submitted_sha256": "90ad3ab005f1694a418b0f2a29da525db3f6338a1ffa6813cdf50d57cf8e765f",
+    "submitted_same": true
+  },
+  {
+    "slot": "casual90",
+    "file": "둔타_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f954ad4efe34765549df27ead53d8ddb97a72af9ad102701c81ef1e85cff1b9c",
+    "original_sha256": "4706c1249d68260d8a28b5368320ef499d8bb625b1cccc0a76e7ad47da85cfd2",
+    "submitted_sha256": "8e2815741cae8aba6cf1416a970379712319e202901decf706c343bc44b12941",
+    "submitted_same": true
+  }
+]

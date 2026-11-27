@@ -1,0 +1,242 @@
+{
+  "light": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Extra thigh openings in the generated armor and partially covered upper arms retained; user selected option 2."
+    },
+    "retained_deviations": "Extra thigh openings in the generated armor and partially covered upper arms retained; user selected option 2."
+  },
+  "casual1": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Side profile, fingers partly occluded by knitting needles; two connected arms."
+    },
+    "retained_deviations": "Side profile, fingers partly occluded by knitting needles; two connected arms."
+  },
+  "casual2": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Costume keeps boot-like structures and a species hump accessory; retained."
+    },
+    "retained_deviations": "Costume keeps boot-like structures and a species hump accessory; retained."
+  },
+  "casual3": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Head direction differs from planned looking back; retained."
+    },
+    "retained_deviations": "Head direction differs from planned looking back; retained."
+  },
+  "casual4": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Close-up: both upper arms continue from shoulders toward lower frame; hands and legs outside crop."
+    },
+    "retained_deviations": "Close-up: both upper arms continue from shoulders toward lower frame; hands and legs outside crop."
+  },
+  "casual5": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Both gloved hands connected through forearms; body leans on bed."
+    },
+    "retained_deviations": "Both gloved hands connected through forearms; body leans on bed."
+  },
+  "casual6": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Near supporting hand visible; far hand partly occluded by body and counter."
+    },
+    "retained_deviations": "Near supporting hand visible; far hand partly occluded by body and counter."
+  },
+  "casual7": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Sunglasses obscure eyes; two forearms and hands continue visibly."
+    },
+    "retained_deviations": "Sunglasses obscure eyes; two forearms and hands continue visibly."
+  },
+  "casual8": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Chest-up framing with both arms and supporting hands; space-view weather is fantastical."
+    },
+    "retained_deviations": "Chest-up framing with both arms and supporting hands; space-view weather is fantastical."
+  },
+  "casual9": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Two arms; cup grip partly hides thumb; tossing palm visible."
+    },
+    "retained_deviations": "Two arms; cup grip partly hides thumb; tossing palm visible."
+  },
+  "casual10": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Both hands grip the ends of a belt; five toes on each bare foot."
+    },
+    "retained_deviations": "Both hands grip the ends of a belt; five toes on each bare foot."
+  },
+  "casual90": {
+    "style_25d": {
+      "judgment": "pass",
+      "evidence": "Soft graduated nose, cheek, lip and jaw shading; fine colored contours; dimensional material rendering; face remains stylized adult anime."
+    },
+    "identity": {
+      "reference": "selected option 2",
+      "result": "same gold eyes, ochre-yellow/red flame hair and warm tan skin; expression and angle vary"
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe is not installed (anatomy-check.py exit 3)",
+      "issue": "ok",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Visible hands checked visually at original size / enlarged crops; five-finger structure where readable, grip or body occlusion otherwise. No floating or duplicated hand seen.",
+      "overlay_checked": false,
+      "note": "Hair gathered behind head; two supporting hands; feet visible through water."
+    },
+    "retained_deviations": "Hair gathered behind head; two supporting hands; feet visible through water."
+  }
+}

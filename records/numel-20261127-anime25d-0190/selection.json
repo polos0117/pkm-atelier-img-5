@@ -1,0 +1,34 @@
+{
+  "selected": 2,
+  "candidates": [
+    {
+      "option": 1,
+      "sha256": "2c57979d7e026058473fbc9e05b7589ce9f39b82f90cc6821c144e3ca02a3bfa",
+      "prompt": "option1-prompt.txt",
+      "design": "standard",
+      "hair_family": null
+    },
+    {
+      "option": 2,
+      "sha256": "e7771e9a09d57097d0dceb6924d86d0c118649966a66e37769096c226a59e8dd",
+      "prompt": "option2-prompt.txt",
+      "design": "standard",
+      "hair_family": null
+    },
+    {
+      "option": 3,
+      "sha256": "40623813e747a896fce539a646e7d73a0df0bf49dc0576938eb2195c8881dbc1",
+      "prompt": "option3-prompt.txt",
+      "design": "gpt_free",
+      "hair_family": "tied-back hair"
+    },
+    {
+      "option": 4,
+      "sha256": "0e3b8714a2c9f2a62ff26230d336d8810208f4425b063264c6e1f7e37559f38a",
+      "prompt": "option4-prompt.txt",
+      "design": "gpt_free",
+      "hair_family": "short hair"
+    }
+  ],
+  "unused_candidate_images_published": false
+}

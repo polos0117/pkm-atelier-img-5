@@ -1,0 +1,188 @@
+{
+ "storage": {
+  "last": "둔타",
+  "cards": {
+   "둔타": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "lip_bite",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "strong",
+       "separates_preference": "balanced"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "time": true,
+       "light": true,
+       "depth": true,
+       "view": true,
+       "ofam": true,
+       "item": true,
+       "ocolor": true,
+       "shade": true,
+       "expose": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "legs": true,
+       "gaze": true,
+       "expr": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "release",
+      "place": "evening_museum",
+      "time": "lamplight",
+      "light": "top",
+      "depth": "flat",
+      "view": "foreground",
+      "ofam": "roleplay",
+      "item": "rp_cheer_costume_jumpsuit",
+      "ocolor": "purple",
+      "shade": "plum",
+      "expose": [
+       "sweetheart neckline",
+       "side cutouts"
+      ],
+      "posture": "lean_counter",
+      "support": "none",
+      "frame": "full_body",
+      "body": "rear_3q",
+      "head": "tilt",
+      "camera": "low",
+      "right": "natural",
+      "left": "natural",
+      "legs": "ankles_crossed",
+      "gaze": "screen_right",
+      "ostyle": {
+       "layer": "stockings_garter",
+       "acc": "bangles"
+      },
+      "use": ""
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Numel (둔타) personified, fire / ground type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: voluptuous, generously curved at bust, hips and thighs — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A bright, adorable adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her species shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never armor, never a creature costume. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nERA: set this scene in the real world around 2002, when her Pokémon first appeared. Clothing, hair, devices and interiors of that time, keeping two or three recognisable parts of the chosen outfit; no smartphones or modern devices that did not exist then. Period everyday fashion only, not her armor.\n\nSCENE (chosen):\nPlace: a grand museum hall with marble statues at night\nTime of day: warm lamplight or candlelight indoors, the rest in shadow; warm pools of lamplight, soft shadow beyond.\nLight direction: a pool of light from above, the surroundings dimmer.\nOutfit: a varsity cheer costume cut as a fitted jumpsuit — bold school-style stripes and pom-pom props, no real school name; styled with sheer thigh-high stockings held by a lace garter belt and a few thin stacked bangles on one wrist\nOutfit colours: deep plum — her own colour choice for this outfit, not her species' colours.\nCut: sweetheart neckline and side cutouts built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: standing at a work surface, upper body leaning slightly forward over it, hips back and weight on both feet.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters away from the camera; head tilted slightly; camera slightly below, looking up at her; her shoulders, chest and hips turn away from the camera together, no twist at the waist; her chest stays turned away; a wall or backdrop of the place close behind her; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nLEGS: both legs held close together, one ankle crossed over the other at the feet.\nGAZE: she looks toward the right of the frame.\nEXPRESSION: lower lip caught lightly between her teeth, eyes half-lidded and steady. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nsource_influence: strong — her species is clearly recognizable through a few accessories and props in the scene, never through the outfit's colours, patterns or cut; no new armor or creature anatomy\nseparates_preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely. From the attached image take only her face and hair — not its armor, garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her source belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+ "plan": {
+  "cut": 6,
+  "treeV": 2,
+  "era": "release",
+  "place": "evening_museum",
+  "ofam": "roleplay",
+  "item": "rp_cheer_costume_jumpsuit",
+  "garments": [
+   "jumpsuit"
+  ],
+  "ocolor": "purple",
+  "weather": "",
+  "time": "lamplight",
+  "moment": "",
+  "light": "top",
+  "spot": "",
+  "depth": "flat",
+  "view": "foreground",
+  "posture": "lean_counter",
+  "support": "none",
+  "frame": "full_body",
+  "body": "rear_3q",
+  "head": "tilt",
+  "camera": "low",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "ankles_crossed",
+  "gaze": "screen_right",
+  "preset": "",
+  "ostyle": {
+   "layer": "stockings_garter",
+   "acc": "bangles"
+  },
+  "expr": "lip_bite",
+  "aspect": "2:3",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "balanced",
+   "source_influence": "strong",
+   "separates_preference": "balanced"
+  },
+  "expose": [
+   "sweetheart neckline",
+   "side cutouts"
+  ],
+  "lead": "light",
+  "shade": "plum"
+ },
+ "manual_inputs": {},
+ "manual_why": {},
+ "generation": {
+  "tool": "built-in image_gen",
+  "reference": "둔타_light_anime_25d_gloss_f.webp",
+  "original_sha256": "d458b07aa3a1d5b6dd41571fc10a3f3c2187b39873d8379dc7c74e74c059071c",
+  "webp_sha256": "7a376cbc2cf30c5d81c33053a652a75dbefd98cf8fc26aa53687cceacac21874",
+  "submitted_sha256": "ecf5e6b8c4d7eebe3dc55c143380ea53603e77e02fe2f7575c179e4d9ed9c8cb",
+  "submitted_same": true,
+  "design": "standard",
+  "attempts": 1
+ }
+}

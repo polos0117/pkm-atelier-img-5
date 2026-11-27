@@ -1,0 +1,30 @@
+{
+  "1": {
+    "prompt_sha256": "e12f8fce1f745f3e741a337824a6e046e02b87662536e0c48ac0a935b8e71a17",
+    "submitted_sha256": "e12f8fce1f745f3e741a337824a6e046e02b87662536e0c48ac0a935b8e71a17",
+    "same": true,
+    "design": "standard",
+    "validation": "prompt-pack submitted"
+  },
+  "2": {
+    "prompt_sha256": "e12f8fce1f745f3e741a337824a6e046e02b87662536e0c48ac0a935b8e71a17",
+    "submitted_sha256": "e12f8fce1f745f3e741a337824a6e046e02b87662536e0c48ac0a935b8e71a17",
+    "same": true,
+    "design": "standard",
+    "validation": "prompt-pack submitted"
+  },
+  "3": {
+    "prompt_sha256": "7bfd670600467b2121b73231e637866ed848892bce28945bfaba7f3238a60cdd",
+    "submitted_sha256": "7bfd670600467b2121b73231e637866ed848892bce28945bfaba7f3238a60cdd",
+    "same": true,
+    "design": "gpt_free",
+    "validation": "world-fill-check passed"
+  },
+  "4": {
+    "prompt_sha256": "c4e627958e409863f376b5107fd80785e0a1db41ab9a9e1e6bb2c9edb24e31e5",
+    "submitted_sha256": "c4e627958e409863f376b5107fd80785e0a1db41ab9a9e1e6bb2c9edb24e31e5",
+    "same": true,
+    "design": "gpt_free",
+    "validation": "world-fill-check passed"
+  }
+}
