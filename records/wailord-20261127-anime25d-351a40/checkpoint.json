@@ -1,0 +1,218 @@
+{
+  "card": "고래왕",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "stage": "ready_for_publication",
+  "count": 12,
+  "generated_candidates": 4,
+  "regenerated": 0,
+  "reservation_commit": "500ce9e6ae089c881653f1efcdf5e5a4855c1ac9",
+  "records": "/workspace/scratch/351a40b396c0/pkm-atelier-img-5/records/wailord-20261127-anime25d-351a40",
+  "planning_scope": "Recent 18 character records, current reservations and automation claims; historical image files were not downloaded. Old glossy_promo images remain unchanged.",
+  "files": [
+    {
+      "slot": "light",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "3dd8dda023c6c589dd3235ec657e732be8676e3ac140f3bb1bdb1c5c8967f373",
+      "webp_sha256": "3128a15976d4c3885b43380e6f5fa89ad76ad525a712f5cdff048a03e0b6ada8",
+      "submitted_sha256": "74e0081483ab72ac3fc3f943bdcf9e9868404efdc63fc0eabbde4b37c972223e",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": null
+    },
+    {
+      "slot": "casual1",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "21b7fa871416fb373cc93897afcaa1927c5d874f186b644308fe00b59d218ff8",
+      "webp_sha256": "8a6b4938083ff32fccc75680eec07042f02b1541baa552f541a07a59316d606e",
+      "submitted_sha256": "4226d2708aaa610d135e1c7ab2e5425b724a749ca9ee1c49119cc434b2038a78",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_sha256": "e9d9e4ebf37d3184fc7030b5658781894ca53bd8d1b488eb3c76e2779a1f8aaf",
+      "webp_sha256": "e5eb8ff52fc0f1cabf1eb2c8b6a0361f3eb9a452218c1eb7e3f672c897ed209a",
+      "submitted_sha256": "dfc96d24392211196294f26e1463e2c923733b2c37011e4604679c9fb78890e0",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "4c706dc8c469f24725420772ece80fd9061bf44b4c384d7820ac17b942a7f0b8",
+      "webp_sha256": "aaaf635c9c3a1b1b7edc842add2eb1d4365a8412cb26c188ceb6b99870079734",
+      "submitted_sha256": "e3e4d08bcc42e3c0c013fa95d1387ca687611194bb62a948e2cb4845e0c3bc87",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual4",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "b6061da1c28164cdc35b83b7dc31e1d36116e7ae61fc0b924c54d87838fbbd9e",
+      "webp_sha256": "ff29b1754e606c0b66d9236cd4c6944d9cbe625e6f53153346b164d94a5fdf9e",
+      "submitted_sha256": "c67ea1ac150f26b26e6f731a2fd4b16eed8466bfeb59b16e2e54b46132f882ba",
+      "submitted_same": false,
+      "design_exception": "Authorized free scene design; fixed character, style, frame, expression, exposure and anatomy preserved.",
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual5",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "12911e6397e183f97ccb4fe7e68719f32f1ae55e116631e99fb86e5b2f3878f7",
+      "webp_sha256": "0544da60106dbca911558403721fa6f170dab7cb80ae5c2da31ccfefa2318be9",
+      "submitted_sha256": "07e1bfdeaaee68e8cdf3cad26ee92540832f939aec71f99ea40b28f926b77ba3",
+      "submitted_same": false,
+      "design_exception": "Authorized free scene design; fixed character, style, frame, expression, exposure and anatomy preserved.",
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual6",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "c1bfe486dc7b85addc087691efe086fc34d7a4bb714e494f9b4e912b6def9bb8",
+      "webp_sha256": "0316faad0e3ae293e2e0adf709f01ab99b863e284d154769695450f8cb10f5a6",
+      "submitted_sha256": "97250ac1b814166181eb01cb72ba61f4ec36007eadffe4371614adcf6bd8e52e",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual7",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "1d498456c820dac8e7c9a3b633c879e89c4d2c966e2b5758876ea29b1f21a19a",
+      "webp_sha256": "e326f198b46f2bacac799c317f3d5a56a50bf73f868b0e3fe0bdd7591e3c0229",
+      "submitted_sha256": "7a35f4db4339cd4b97782c3a167400ce89a1bb484afe5eef9f6dbf2b9b5cc494",
+      "submitted_same": false,
+      "design_exception": "Authorized free outfit line only; all other lines preserved.",
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual8",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_sha256": "2456ee532cb09d507a59cdc5033feedeeb729a1d2f9833afc98cab1d9b768506",
+      "webp_sha256": "116d611041af29b8e96cb01db9924f7b94842babfe9c16115c46acd7edddb1fc",
+      "submitted_sha256": "fb9d8bba27cd76e99a096fa8230e633c813880b8f7679a2a003ed8af4f6d9f44",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual9",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "source_sha256": "a7ddfc25dcb2083fce46f2f65367d84a3078b2f1029c4bc9cc452603a155500b",
+      "webp_sha256": "07dd6b3f740cadbc74f87c3e3e1fdb8e3af2b7be770caf05c9735cd456482c8d",
+      "submitted_sha256": "05566cb8e07774630dc0045a1dff89f28c495a92bb78f8b0e8ec9fd291733117",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual10",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "source_sha256": "42fa65f87c06924a84e493a0b6f918921b59d5eba8d2cf716ada3798dc33f86e",
+      "webp_sha256": "ddae0bfe7414b7244f7ad0dd61b45720251ba42bc58af4342b99d43a169bcd23",
+      "submitted_sha256": "0ea5499b4e2f549e69d6ad2a1e5b47fa1d06b3f00ecf7947192812fbc947487f",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    },
+    {
+      "slot": "casual90",
+      "card": "고래왕",
+      "style": "anime_25d_gloss",
+      "sex": "f",
+      "file": "고래왕_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "71e80ed8dcf2152582bab61c5dc5194889722bcaf5385e13744566b34a45207b",
+      "webp_sha256": "6a1469260da911b2a344d04009da69ae1329d1c7a5c6ef56d769b9dc95953040",
+      "submitted_sha256": "5affa3a78ac0f17b263a4fe69708a4ab43b0b8a04e74dc03dd52926620a5ebaa",
+      "submitted_same": true,
+      "design_exception": null,
+      "reference": "고래왕_light_anime_25d_gloss_f.webp"
+    }
+  ]
+}

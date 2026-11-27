@@ -1,0 +1,261 @@
+{
+  "card": "고래왕",
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "regeneration_count": 0,
+  "skipped": [],
+  "cuts": {
+    "light": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "stronger",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Selected base candidate 2. Two arms and legs, raised hand five gloved digits, lowered hand curled with fingers partly occluded. Upper thigh openings exceed the prescribed covered zones; retained without regeneration.",
+        "overlay_checked": false,
+        "note": "Selected base candidate 2. Two arms and legs, raised hand five gloved digits, lowered hand curled with fingers partly occluded. Upper thigh openings exceed the prescribed covered zones; retained without regeneration."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual1": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Close-up extends below collarbones; neckline and face visible; rollercoaster seat and tracks in background. Hands outside crop.",
+        "overlay_checked": false,
+        "note": "Close-up extends below collarbones; neckline and face visible; rollercoaster seat and tracks in background. Hands outside crop."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual2": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Torso turned away, head returned toward camera; one hand visible on seat, five fingers; other arm leaves crop. Terracotta top differs from prescribed tee detail; retained.",
+        "overlay_checked": false,
+        "note": "Torso turned away, head returned toward camera; one hand visible on seat, five fingers; other arm leaves crop. Terracotta top differs from prescribed tee detail; retained."
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual3": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands warm over fire with five visible digits each; crossed seated legs end in two feet; swimsuit plus added sheer wrap retained.",
+        "overlay_checked": false,
+        "note": "Both hands warm over fire with five visible digits each; crossed seated legs end in two feet; swimsuit plus added sheer wrap retained."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual4": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms extend from shoulders; both open hands five digits; two legs and shoes. Fixed waist opening did not appear; retained.",
+        "overlay_checked": false,
+        "note": "Both arms extend from shoulders; both open hands five digits; two legs and shoes. Fixed waist opening did not appear; retained."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual5": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both arms extend overhead; hands reach top edge with minor fingertip edge contact; two legs and bare feet. No wardrobe failure.",
+        "overlay_checked": false,
+        "note": "Both arms extend overhead; hands reach top edge with minor fingertip edge contact; two legs and bare feet. No wardrobe failure."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual6": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Saluting hand attached through wrist/forearm to shoulder, fingers overlap with thumb partly hidden. Other arm runs out of crop; close-up hides lower outfit.",
+        "overlay_checked": false,
+        "note": "Saluting hand attached through wrist/forearm to shoulder, fingers overlap with thumb partly hidden. Other arm runs out of crop; close-up hides lower outfit."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual7": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Near hand relaxed at side, five digits; far hand partly occluded beside hip. Both legs and shoes visible; torso and face turned toward camera more than planned, retained.",
+        "overlay_checked": false,
+        "note": "Near hand relaxed at side, five digits; far hand partly occluded beside hip. Both legs and shoes visible; torso and face turned toward camera more than planned, retained."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual8": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Two bent forearms support chin; both hands curled naturally; two raised lower legs end in shoes. Full figure fits horizontal frame.",
+        "overlay_checked": false,
+        "note": "Two bent forearms support chin; both hands curled naturally; two raised lower legs end in shoes. Full figure fits horizontal frame."
+      },
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual9": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Near hand spread on floor, five gloved digits; far hand partly hidden at wall. Torso arms visibly joined. Legs leave crop naturally.",
+        "overlay_checked": false,
+        "note": "Near hand spread on floor, five gloved digits; far hand partly hidden at wall. Torso arms visibly joined. Legs leave crop naturally."
+      },
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual10": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both raised arms continuous with shoulders, relaxed hands near hair; some fingers overlap. Reclining torso in horizontal close-up.",
+        "overlay_checked": false,
+        "note": "Both raised arms continuous with shoulders, relaxed hands near hair; some fingers overlap. Reclining torso in horizontal close-up."
+      },
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    },
+    "casual90": {
+      "identity": "same blue eyes, adult face and long navy mermaid-wave hair maintained",
+      "exposure": {
+        "status": "match",
+        "note": "Returned image retained without censorship-related regeneration."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "One visible hand grips hose handle, several fingers overlap grip and thumb partly occluded. Wrist and forearm continue to visible shoulder; other arm outside crop. Intended hose and car wash present.",
+        "overlay_checked": false,
+        "note": "One visible hand grips hose handle, several fingers overlap grip and thumb partly occluded. Wrist and forearm continue to visible shoulder; other arm outside crop. Intended hose and car wash present."
+      },
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "Visual review only; automatic pose estimation unavailable."
+    }
+  }
+}

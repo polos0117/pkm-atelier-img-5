@@ -1,0 +1,190 @@
+{
+  "storage": {
+    "last": "고래왕",
+    "cards": {
+      "고래왕": {
+        "style": "anime_25d_gloss",
+        "identityMode": "reference",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "treeV": 2,
+            "expr": "curious",
+            "scene": "",
+            "outfit": "",
+            "custom": "",
+            "aspect": "1:1",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold",
+              "action_level": "balanced",
+              "source_influence": "strong",
+              "separates_preference": "prefer separates"
+            },
+            "action": {},
+            "randomLocks": {
+              "era": true,
+              "place": true,
+              "time": true,
+              "spot": true,
+              "depth": true,
+              "view": true,
+              "ofam": true,
+              "item": true,
+              "expose": true,
+              "posture": true,
+              "support": true,
+              "frame": true,
+              "body": true,
+              "head": true,
+              "camera": true,
+              "right": true,
+              "left": true,
+              "gaze": true,
+              "expr": true,
+              "aspect": true,
+              "axes.overall_intensity": true,
+              "axes.skin_exposure": true,
+              "axes.action_level": true,
+              "axes.source_influence": true,
+              "axes.separates_preference": true
+            },
+            "era": "now",
+            "place": "drying_terrace",
+            "time": "morning",
+            "spot": "right_third",
+            "depth": "deep",
+            "view": "foreground",
+            "ofam": "pokemon_costume",
+            "item": "pc_bodysuit",
+            "expose": [
+              "deep V neckline",
+              "side cutouts"
+            ],
+            "posture": "sit_floor",
+            "support": "back_wall",
+            "frame": "waist_up",
+            "body": "rear_3q",
+            "head": "turn_side",
+            "camera": "top",
+            "right": "natural",
+            "left": "natural",
+            "gaze": "screen_left",
+            "ostyle": {
+              "acc": "bangles"
+            },
+            "use": ""
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Wailord (고래왕) personified, water type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her wearing the costume chosen in SCENE — a daring adult costume version of her source creature, as worn to a costume party, convention or photo shoot. In this cut her species shows in the outfit itself: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a square 1:1 (1024×1024) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image. Both shoulders and upper arms show and run on past the edge — never an armless torso.\n\nSCENE (chosen):\nPlace: a rooftop drying terrace with laundry lines overhead, a low stool, a parapet and the city beyond\nTime of day: early morning — low clean light, long soft shadows; fresh low sunlight, long cool shadows.\nOutfit: a daring adult costume version of Wailord itself — blue, white colours; its blue fins, blue whale, horizontal tail, four white spots rebuilt as costume pieces (ears or headband, hood, tail, gloves, fabric prints), never painted on her own skin, cut as a high-cut bodysuit with sheer thigh-high tights; styled with a few thin stacked bangles on one wrist\nCut: deep V neckline and side cutouts built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: sitting on the ground.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters away from the camera; head turned to the side; camera directly above her, looking straight down; her shoulders, chest and hips turn away from the camera together, no twist at the waist; her chest stays turned away; she is placed in the right third of the frame, open space of the place to her left; the space runs far back behind her, its lines receding into the distance; a soft out-of-focus object of the place sits in the near foreground at one edge of the frame.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: one brow raised higher, eyes wide and attentive, lips slightly parted. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nseparates_preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nWARDROBE: change her clothes completely into the costume SCENE describes. From the attached image take only her face and hair — not its armor, garment, jewelry, hair ornaments or background. The costume must read at first glance as that creature's look, rebuilt as a glamorous adult outfit; she is a real woman in a costume — never the creature itself, its face on her face, fur or scales on her skin, a logo or readable text.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+  "plan": {
+    "cut": 9,
+    "treeV": 2,
+    "era": "now",
+    "place": "drying_terrace",
+    "ofam": "pokemon_costume",
+    "item": "pc_bodysuit",
+    "garments": [
+      "bodysuit",
+      "leggings"
+    ],
+    "ocolor": "",
+    "weather": "",
+    "time": "morning",
+    "moment": "",
+    "light": "",
+    "spot": "right_third",
+    "depth": "deep",
+    "view": "foreground",
+    "posture": "sit_floor",
+    "support": "back_wall",
+    "frame": "waist_up",
+    "body": "rear_3q",
+    "head": "turn_side",
+    "camera": "top",
+    "right": "natural",
+    "left": "natural",
+    "use": "",
+    "legs": "",
+    "gaze": "screen_left",
+    "preset": "",
+    "ostyle": {
+      "acc": "bangles"
+    },
+    "expr": "curious",
+    "aspect": "1:1",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "action_level": "balanced",
+      "source_influence": "strong",
+      "separates_preference": "prefer separates"
+    },
+    "expose": [
+      "deep V neckline",
+      "side cutouts"
+    ],
+    "lead": "action",
+    "shade": ""
+  },
+  "manual_inputs": {},
+  "manual_why": {},
+  "generation": {
+    "tool": "image_gen",
+    "reference_candidate": 2,
+    "reference": "고래왕_light_anime_25d_gloss_f.webp",
+    "reference_sha256": "3dd8dda023c6c589dd3235ec657e732be8676e3ac140f3bb1bdb1c5c8967f373",
+    "submitted_sha256": "05566cb8e07774630dc0045a1dff89f28c495a92bb78f8b0e8ec9fd291733117",
+    "submitted_original_match": true,
+    "original_sha256": "a7ddfc25dcb2083fce46f2f65367d84a3078b2f1029c4bc9cc452603a155500b",
+    "webp_sha256": "07dd6b3f740cadbc74f87c3e3e1fdb8e3af2b7be770caf05c9735cd456482c8d",
+    "output_file": "고래왕_anime_25d_gloss_f_casual9.webp",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      1024,
+      1024
+    ]
+  }
+}
