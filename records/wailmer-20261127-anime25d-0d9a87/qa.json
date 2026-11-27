@@ -1,0 +1,299 @@
+{
+ "reviewer": "gpt",
+ "selected_candidate": 2,
+ "imagegen_regenerations": 0,
+ "skipped": [],
+ "validation": {
+  "forms": "PASS",
+  "filenames": "12 candidates, --check passed; sparse checkout omits other images, no prune and no data/img.json write",
+  "casual_look": "PASS: zero duplicate_of and zero same_as_own flags for all 11 cuts",
+  "reservation": "stamp verified; published as a0cb07b946242f578d9a28838a5ef48f4c09a079"
+ },
+ "face_reason": "Round buoyant whale volume and broad baleen mouth interpreted through a short broad oval adult face, rounded chin, medium almond eyes, soft nose and wide human mouth. User selected candidate 2.",
+ "compared_characters": [
+  "샤크니아",
+  "샤프니아",
+  "꿀꺽몬",
+  "고래왕"
+ ],
+ "face_comparison": "Selected face has softer, wider cheeks and rounded chin than the narrower jaws of Sharpedo and Carvanha; smaller softer lips and lighter complexion than Swalot; shorter lower face than the Wailord family image. Compared actual images, not settings only.",
+ "diversity_comparison": "Compared recent casual1 thumbnails of Sharpedo (covered pavilion and handheld ball), Carvanha (raised-arm seaside mint swimwear), Swalot (festival table with snack). This series has ticket close-up, dawn bakery with loaf, back view at archery rail, raised-arm garden shelf, full-body yacht helm, workshop costume close-up, pool lifting platform, wide riverside crouch, jazz profile, wall-standing cafe cosplay and two-handed carwash work. Some portraits use similar chest-up scale, but scene, clothing construction, action and body angle differ.",
+ "slots": {
+  "light": {
+   "accepted": true,
+   "image_sha256": "6db47f452b55e3ac7cec2f7bfe8fa28614c38e2c80ab618a78c79ec46464c458",
+   "observations": "Full-body standing card; blue and ivory thin plates, segmented fin-tipped tail and water glow; face shaded through nose and cheeks, softly rounded chin and blue eyes.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Two joined arms and legs; both gloved hands connected; open hand has separated fingers, other fingers partly curled."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Deep chest window and bare midriff, thighs largely armored."
+   }
+  },
+  "casual1": {
+   "accepted": true,
+   "image_sha256": "59e8c556483dba794b15c1614dbf16d61c4f692c8e5a6dc8b5c74177f6ff4a58",
+   "observations": "Close view at bumper-car pavilion; burgundy beaded bridal bodice, ticket held beside face and gauzy shoulder wrap.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "One ticket-holding hand with thumb and curled fingers visible; forearm and shoulder connect; other arm continues below crop, legs outside crop."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Bare shoulders and neckline, opaque beaded bust coverage."
+   }
+  },
+  "casual2": {
+   "accepted": true,
+   "image_sha256": "b1c4a0e4593fcebeadba780610b6c9734333f75e5a03ba4abbdedd90db922352",
+   "observations": "Apricot wrap romper at a dawn bakery doorway; large round loaf in brown paper held in both arms; eyelids visibly sleepy.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Right forearm supports bread from below, left hand steadies wrapper; fingers partly hidden by loaf and paper; thighs continue below crop."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Deep V, bare shoulders, side-waist aperture and bare thighs."
+   }
+  },
+  "casual3": {
+   "accepted": true,
+   "image_sha256": "1beb84b4d96789c69b74b37f9fb996fb146b9294b2f90f67c7f5dfa947e879c2",
+   "observations": "Claret suede crossed back-yoke at archery railing, targets behind; face looks over near shoulder and blue hair curls retain cream ends.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Both shoulder-arm chains continue down; near hand rests on rail, far hand outside lower edge; no floating hand."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Upper back and shoulders bare; neckline visible obliquely. Crop includes more hip than specified; noted only."
+   }
+  },
+  "casual4": {
+   "accepted": true,
+   "image_sha256": "f4d8882478dd3209db4294e34c94481c73fd8cb710c266c90f2d379bcde1fe3f",
+   "observations": "Purple satin slip and embroidered translucent robe in a hanging garden; one hand reaches a whale-shaped teapot on shelf.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Raised arm joins naturally through elbow; low hand has relaxed curled fingers, no additional limbs; lower legs cropped."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "One shoulder and upper arm bare, deep neckline and high thigh slit; opaque intimate coverage."
+   }
+  },
+  "casual5": {
+   "accepted": true,
+   "image_sha256": "3a1a9ff1b931083329d2763576302387175feddf9cadf07da927dfb3217f3746",
+   "observations": "Full-body night yacht helm; shell-cup pink bikini, two hands on wheel, sandals on deck; moon and sail behind.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Two arms reach separate wheel positions; grip fingers partly occluded, two straight legs and sandal-clad feet visible."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Bikini leaves shoulders, midriff and thighs bare as specified."
+   }
+  },
+  "casual6": {
+   "accepted": true,
+   "image_sha256": "0c59483965d9e849186db09169b8a33227c92e24873d371e5f6a6d3ccc9d6940",
+   "observations": "Whale-hood costume at repair kiosk; blue and ivory structured bodysuit, fin forms and extended gloved hand; workshop tools behind.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Near palm has thumb and four fingers in perspective; forearm joins shoulder; far arm continues beyond crop, legs cropped."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Bare shoulders, neckline and upper thighs. Costume panels look firmer and glossier than fabric; retained as a costume detail."
+   }
+  },
+  "casual7": {
+   "accepted": true,
+   "image_sha256": "50b76c343fd9dc9ab452fd92c353b221a61b7bd302e96dc760b758c34df4b710",
+   "observations": "Burnt-sienna folded-shoulder swimsuit on a pool lifting platform in overcast light; right hand grips rail, left palm rests on step.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Both arms connect through visible elbows; rail grip fingers overlap naturally, resting hand fingers separate; two knees visible, feet underwater/out of frame."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Deep V, side-waist cutout and exposed thighs; suit remains opaque and secure."
+   }
+  },
+  "casual8": {
+   "accepted": true,
+   "image_sha256": "2532a2695dd5885245bb9d7c9fc611904b46ff50566bdf9411b15d7abfd528af",
+   "observations": "Wide autumn riverside view with bicycle; yellow epaulette event costume, bent-knee resting crouch and relaxed hands, warm sunset.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Two forearms reach relaxed hands by knees; fingers hang naturally, two folded legs end in separate boots; no detached limbs."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Deep neckline and bare shoulders and thighs; costume securely covers bust and pelvis."
+   }
+  },
+  "casual9": {
+   "accepted": true,
+   "image_sha256": "e74dbe1b3cdaa26aa71e40f3c278d49bbe84258d4c80f461b2d54907e7972ec9",
+   "observations": "Teal embroidered lingerie-style one-piece at jazz lounge, side profile leaning forward; pianist distant and blurred; blue hair with cream ends retained.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Both shoulders connect to upper arms and forearms running beyond lower edge; hands and legs out of crop; no floating hands."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Bare shoulders and deep neckline with fully opaque coverage. More bodysuit-like than generic lingerie separates, noted as styling."
+   }
+  },
+  "casual10": {
+   "accepted": true,
+   "image_sha256": "8486d51860cc9ff63cbfa9a973d5c5645d204fec843ea15047edc50f0306581c",
+   "observations": "Blue-white-gold Keith cosplay with red cape at a flower-themed cafe; standing against wall, gaze upward; sheer thigh-highs and boots.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Near hand rests by wall with relaxed fingers, far hand beside hip partly occluded; two legs and separate boots visible."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Open shoulders, deep neckline and exposed upper thighs with secure bodysuit coverage."
+   }
+  },
+  "casual90": {
+   "accepted": true,
+   "image_sha256": "7f96ad7dd5c1dabeeb941c3a9120bf81fdd02aa513605f7897d4bcf5084d0843",
+   "observations": "Car-wash trainee holding pressure-washer in both hands, short blue waterproof apron and shoulder towel; separate small Pokemon behind.",
+   "identity": {
+    "result": "match",
+    "evidence": "Same blue eyes, soft rounded chin, long blue waves and pale cream inner locks; original selected reference attached directly."
+   },
+   "style_25d": {
+    "result": "match",
+    "evidence": "Face has blended volume shading at nose, cheeks and lips, fine coloured contours and strand highlights; clothing has material-specific reflections."
+   },
+   "anatomy": {
+    "tool": "unavailable: mediapipe is not installed (exit 3 observed)",
+    "issue": "ok",
+    "overlay_checked": false,
+    "visual": "Two shoulders, elbows and hands connect; grip fingers overlap hose naturally; two thighs visible, lower legs cropped at boot tops."
+   },
+   "exposure": {
+    "result": "match",
+    "evidence": "Bare shoulders and legs, opaque apron and halter coverage; water droplets do not expose intimate areas."
+   }
+  }
+ }
+}

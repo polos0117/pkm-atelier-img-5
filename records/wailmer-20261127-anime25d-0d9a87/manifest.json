@@ -1,0 +1,104 @@
+{
+ "card": "고래왕자",
+ "style": "anime_25d_gloss",
+ "selected": 2,
+ "reference": "고래왕자_light_anime_25d_gloss_f.webp",
+ "outputs": [
+  {
+   "slot": "light",
+   "file": "고래왕자_light_anime_25d_gloss_f.webp",
+   "sha256": "6db47f452b55e3ac7cec2f7bfe8fa28614c38e2c80ab618a78c79ec46464c458",
+   "git_blob": "d80f54ddc6168c877b0e8470f7c0f769a12e6dce",
+   "bytes": 366026,
+   "source_sha256": "f29aadd22a0e2cd3d7a107e3a7c0913c46a11afcd2820f5bfe67a3633d60598a"
+  },
+  {
+   "slot": "casual1",
+   "file": "고래왕자_anime_25d_gloss_f_casual1.webp",
+   "sha256": "59e8c556483dba794b15c1614dbf16d61c4f692c8e5a6dc8b5c74177f6ff4a58",
+   "git_blob": "5f97c8b42c3c7a090daff6683a46dba00e555978",
+   "bytes": 239578,
+   "source_sha256": "46c5d80a7543c4b13b189b909c2df2e537789892c6c336525d2ecc30dbbe8424"
+  },
+  {
+   "slot": "casual2",
+   "file": "고래왕자_anime_25d_gloss_f_casual2.webp",
+   "sha256": "b1c4a0e4593fcebeadba780610b6c9734333f75e5a03ba4abbdedd90db922352",
+   "git_blob": "0fd415ebfa8d04a5eee2fdaa2ed0dda701640f64",
+   "bytes": 238584,
+   "source_sha256": "8909f6c83f7087a2cfc7f66482d130e382d69932bedda42133cd36a108bec8be"
+  },
+  {
+   "slot": "casual3",
+   "file": "고래왕자_anime_25d_gloss_f_casual3.webp",
+   "sha256": "1beb84b4d96789c69b74b37f9fb996fb146b9294b2f90f67c7f5dfa947e879c2",
+   "git_blob": "bcc703a5beae00cc9ef8e07c6bed724b4b2ebf8d",
+   "bytes": 181766,
+   "source_sha256": "71b29751c7ca87c36a5de5b37af79f24ca3ad444d8de37ea62fa113dc10fc159"
+  },
+  {
+   "slot": "casual4",
+   "file": "고래왕자_anime_25d_gloss_f_casual4.webp",
+   "sha256": "f4d8882478dd3209db4294e34c94481c73fd8cb710c266c90f2d379bcde1fe3f",
+   "git_blob": "6d8b030be8e35925e5b758162c7accb889fbf00b",
+   "bytes": 270212,
+   "source_sha256": "0e70ad28b4252416c3b23deba7c6891c22c3335978571b170cfbdbcab5fc0fbc"
+  },
+  {
+   "slot": "casual5",
+   "file": "고래왕자_anime_25d_gloss_f_casual5.webp",
+   "sha256": "3a1a9ff1b931083329d2763576302387175feddf9cadf07da927dfb3217f3746",
+   "git_blob": "339dbb7fe9b2379db81657b3981cecb46b472df7",
+   "bytes": 290456,
+   "source_sha256": "01932cfcdc6bc90952d5e0f6c07f41597e1f0642004f319d966369008b08719c"
+  },
+  {
+   "slot": "casual6",
+   "file": "고래왕자_anime_25d_gloss_f_casual6.webp",
+   "sha256": "0c59483965d9e849186db09169b8a33227c92e24873d371e5f6a6d3ccc9d6940",
+   "git_blob": "6aa986d88e40fde4e3d76b1f6c0d626610daaaa2",
+   "bytes": 278858,
+   "source_sha256": "03ae353aa58a40d7e8896ea711dc08330a676187a60bd121bee5ceaac21ca90c"
+  },
+  {
+   "slot": "casual7",
+   "file": "고래왕자_anime_25d_gloss_f_casual7.webp",
+   "sha256": "50b76c343fd9dc9ab452fd92c353b221a61b7bd302e96dc760b758c34df4b710",
+   "git_blob": "a3a793f85fabccfb2c069a763d0b0759e465497b",
+   "bytes": 194404,
+   "source_sha256": "0bb20a720f2651498ee020d7fce01ee640b9a2993adae05db1d17cdfcd40abaf"
+  },
+  {
+   "slot": "casual8",
+   "file": "고래왕자_anime_25d_gloss_f_casual8.webp",
+   "sha256": "2532a2695dd5885245bb9d7c9fc611904b46ff50566bdf9411b15d7abfd528af",
+   "git_blob": "7488cfba57f2c4b42402ee758e06be9956b23d99",
+   "bytes": 431426,
+   "source_sha256": "1c2645d8f23083bcc2cf9eaf334db9a5e76f03400b90d28ac3ce35e74915d008"
+  },
+  {
+   "slot": "casual9",
+   "file": "고래왕자_anime_25d_gloss_f_casual9.webp",
+   "sha256": "e74dbe1b3cdaa26aa71e40f3c278d49bbe84258d4c80f461b2d54907e7972ec9",
+   "git_blob": "f3bef695da139fd5ee6a6d16b582cfe2a9a80843",
+   "bytes": 175704,
+   "source_sha256": "70d5fceb9d9fecdab621a789a8026d4230d56a5fd445526c8406c64597af888c"
+  },
+  {
+   "slot": "casual10",
+   "file": "고래왕자_anime_25d_gloss_f_casual10.webp",
+   "sha256": "8486d51860cc9ff63cbfa9a973d5c5645d204fec843ea15047edc50f0306581c",
+   "git_blob": "5100b71b10eac4dab5c733797c3d320154b80ef8",
+   "bytes": 247974,
+   "source_sha256": "01a3813c5dce393af1edc2ea007ab917e7adc6b6a40b5f8ca2f9ad9418fea0fe"
+  },
+  {
+   "slot": "casual90",
+   "file": "고래왕자_anime_25d_gloss_f_casual90.webp",
+   "sha256": "7f96ad7dd5c1dabeeb941c3a9120bf81fdd02aa513605f7897d4bcf5084d0843",
+   "git_blob": "b395bd3e85e122c1e654e553c3da54a465019657",
+   "bytes": 240106,
+   "source_sha256": "a2b874dbbdc9fd8c48da815ab0b002179e97a77eb550e2d3271a7e7301a81bde"
+  }
+ ]
+}

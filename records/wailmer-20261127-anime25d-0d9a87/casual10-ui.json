@@ -1,0 +1,192 @@
+{
+ "storage": {
+  "last": "고래왕자",
+  "cards": {
+   "고래왕자": {
+    "style": "anime_25d_gloss",
+    "identityMode": "reference",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "action": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "equipment": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "soft_smile",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "balanced",
+       "separates_preference": "balanced"
+      },
+      "action": {},
+      "randomLocks": {
+       "era": true,
+       "place": true,
+       "time": true,
+       "light": true,
+       "ofam": true,
+       "item": true,
+       "expose": true,
+       "posture": true,
+       "support": true,
+       "frame": true,
+       "body": true,
+       "head": true,
+       "camera": true,
+       "right": true,
+       "left": true,
+       "legs": true,
+       "gaze": true,
+       "expr": true,
+       "cosplay": true,
+       "aspect": true,
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "axes.action_level": true,
+       "axes.source_influence": true,
+       "axes.separates_preference": true
+      },
+      "era": "now",
+      "place": "theme_cafe",
+      "time": "dusk",
+      "light": "low_warm",
+      "ofam": "game_cosplay",
+      "item": "gc_bodysuit",
+      "expose": [
+       "plunging neckline",
+       "cropped hem"
+      ],
+      "posture": "lean_wall",
+      "support": "back_wall",
+      "frame": "environmental",
+      "body": "rear_3q",
+      "head": "turn_side",
+      "camera": "high",
+      "right": "natural",
+      "left": "natural",
+      "legs": "stand_relaxed",
+      "gaze": "horizon",
+      "cosplay": {
+       "game": "langrisser_2",
+       "character": "Keith",
+       "cut": "bodysuit",
+       "round": 1
+      },
+      "use": ""
+     }
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: the same woman as the attached image — Wailmer (고래왕자) personified, water type. Keep her face, eye and hair colors, haircut and skin tone; her figure follows BODY TYPE; expression and hair motion may change.\n\nFACE: exactly the face of the attached image — the same face shape, jawline, eye shape and size, nose, lips and their proportions, and the same skin rendering. From any camera angle or pose — low or high camera, chin resting on a hand, profile, looking back — keep the reference image’s face shape, jaw length and face length-to-width ratio; perspective and pose must never lengthen her lower face or make her jaw look heavier than in the reference. Do not add skin texture, pores, harder nose or lip modelling, a face lengthened by the camera angle, a heavy jaw, or any facial definition the attached image does not have.\n\nBODY TYPE: tall and statuesque with long legs and a full, curvaceous figure — full bust and hips, narrow waist — it reads clearly through the outfit. The attached image's armor hides her figure, so take her body shape from this line, not from the armor's outline; her head stays in natural adult proportion to her body.\n\nSTYLE: High-detail Japanese anime-style 2.5D character illustration. A refined adult anime face drawn to her own FACE line below — her own eye size and shape, nose, mouth and jaw, not one shared default face; delicately drawn eyelids. Fine subtle linework, smooth skin shading and softly blended gradients. Layered flowing hair with carefully drawn strands and delicate highlights. Highly detailed clothing and accessories with convincing fabric weave, stitching, folds, seams, buckles and material-specific reflections. Combine stylized anime facial features with richly rendered dimensional clothing. Use luminous midtones and restrained highlights on clothing, keeping her own colours in soft, clean tints. Her skin has a glossy sheen — smooth, bright specular highlights on her shoulders, collarbones, chest, arms and thighs, a polished lustrous finish over her skin tone, never wet or oily. Apply this style only to the person, preserving the separately specified character design, pose and setting.\n\nOUTPUT: one standalone off-duty scene of her wearing the game cosplay chosen in SCENE — a daring adult cosplay of the named video-game character, as worn to a cosplay convention, a photo shoot or a night in. In this cut the outfit itself shows that game character: its recognisable colours, shapes and parts. She is a woman wearing that character's cosplay — she is not that character. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a themed concept café of pastel booths, a frilled counter with cake stands and a small photo corner of paper flowers\nTime of day: dusk — blue hour, lights coming on; the first lamps lit inside, blue dusk in the window.\nLight direction: a low warm light source near her — a lamp, a fire or a screen — glowing on her from below shoulder height.\nOutfit: a daring adult cosplay of Keith from Langrisser II — the costume's recognisable colours and parts, cut as a high-cut bodysuit with sheer thigh-high stockings\nCut: plunging neckline and cropped hem built into the outfit — a figure-hugging fit that follows her curves; chest and pelvis stay securely covered.\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: an environmental long shot, her complete figure and enough of the place around her; body turned three-quarters away from the camera; head turned to the side; camera slightly above, looking down at her; her shoulders, chest and hips turn away from the camera together, no twist at the waist; her chest stays turned away.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand rests naturally for the posture, relaxed and empty — her far arm, on the image's right side, mostly hidden behind her body — at most its hand shows beside her hip.\nLEFT HAND: her own left hand rests naturally for the posture, relaxed and empty — her near arm, on the image's left side toward the camera.\nLEGS: weight even on both legs.\nGAZE: she looks toward the far distance.\nEXPRESSION: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids. Show it mildly, only with her brows, eyelids and mouth corners; her face shape and features stay exactly as in the attached image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — the chosen outfit worn in its most revealing version — a deep neckline with natural cleavage, bare shoulders, a cropped or open-back cut, a short hem or high slit showing the thighs, as far as the outfit allows, skin clearly showing; nothing slipped off; chest and pelvis covered\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nseparates_preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely into the cosplay SCENE describes. From the attached image take only her face and hair — not its armor, garment, jewelry, hair ornaments or background. The cosplay must read at first glance as that game character's look, rebuilt as a glamorous adult outfit; her face and hair colour stay exactly as in the attached image and her body follows the BODY TYPE line — never the character's face, hair colour or body, no wig, no logo or readable text.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus; where the place is busy, a few background people may share the scene — same ground, light and style, sized for their distance, busy with their own activity, never facing the camera or posing beside her; quiet or private places stay empty. Pokémon, animals or other creatures that belong to the place may appear, each separate from her at its own natural scale, never merged with her body. No text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions — about 7.5 heads tall, her head in proportion to her shoulders and body. No extra limbs; her worn features are costume, never extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may leave the frame past the forearm, never floating without its arm; fingers may be partly hidden by a grip.",
+ "plan": {
+  "cut": 10,
+  "treeV": 2,
+  "era": "now",
+  "place": "theme_cafe",
+  "ofam": "game_cosplay",
+  "item": "gc_bodysuit",
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Keith",
+   "cut": "bodysuit",
+   "round": 1
+  },
+  "garments": [
+   "bodysuit"
+  ],
+  "ocolor": "",
+  "weather": "",
+  "time": "dusk",
+  "moment": "",
+  "light": "low_warm",
+  "spot": "",
+  "depth": "",
+  "view": "",
+  "posture": "lean_wall",
+  "support": "back_wall",
+  "frame": "environmental",
+  "body": "rear_3q",
+  "head": "turn_side",
+  "camera": "high",
+  "right": "natural",
+  "left": "natural",
+  "use": "",
+  "legs": "stand_relaxed",
+  "gaze": "horizon",
+  "preset": "",
+  "expr": "soft_smile",
+  "aspect": "2:3",
+  "axes": {
+   "overall_intensity": "strong",
+   "skin_exposure": "bold",
+   "action_level": "balanced",
+   "source_influence": "balanced",
+   "separates_preference": "balanced"
+  },
+  "expose": [
+   "plunging neckline",
+   "cropped hem"
+  ],
+  "lead": "detail",
+  "shade": ""
+ },
+ "manual_inputs": {},
+ "manual_why": {},
+ "generation": {
+  "tool": "image_gen",
+  "reference_candidate": 2,
+  "reference_sha256": "f29aadd22a0e2cd3d7a107e3a7c0913c46a11afcd2820f5bfe67a3633d60598a",
+  "submitted_sha256": "e38e1613ddb4bde2ed56e0ca37cd1f6eddcd6a565a57ec1a6397795dd906e87e",
+  "submitted_original_match": true,
+  "cosplay": {
+   "game": "langrisser_2",
+   "character": "Keith",
+   "cut": "bodysuit",
+   "round": 1
+  },
+  "original_sha256": "01a3813c5dce393af1edc2ea007ab917e7adc6b6a40b5f8ca2f9ad9418fea0fe",
+  "webp_sha256": "8486d51860cc9ff63cbfa9a973d5c5645d204fec843ea15047edc50f0306581c",
+  "output_file": "고래왕자_anime_25d_gloss_f_casual10.webp",
+  "reference": "고래왕자_light_anime_25d_gloss_f.webp"
+ }
+}
