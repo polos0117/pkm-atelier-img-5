@@ -1,0 +1,170 @@
+{
+  "card": "얼루기",
+  "style": "anime_25d_gloss",
+  "selected": 2,
+  "status": "ready_to_publish",
+  "reservation_commit": "b03640655c84d5bf41f9faf40c9ad0a5b0496215",
+  "images": [
+    {
+      "slot": "light",
+      "file": "얼루기_light_anime_25d_gloss_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb",
+      "original_sha256": "84eb2905ecd5fbcce875117eb627c637b7b5fbc86b9f8bded6cf0686451eb591",
+      "selection": 2,
+      "design": "generator"
+    },
+    {
+      "slot": "casual1",
+      "file": "얼루기_anime_25d_gloss_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d1bd673f36c10d4ef8b1cbc581bb18ff42014f32b4f2432193ab689aa9d269a3",
+      "original_sha256": "39179293e5fcd74b7a9014e0a0c880e862ecc96c69a96a4730d4934dff025807",
+      "prompt_sha256": "c99a5995006152ec7b12ab66d8d34c84872e0766d4c61d317b325b1aeb97dec9",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual2",
+      "file": "얼루기_anime_25d_gloss_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9c78f6b0edab02be4e34fb799843cb5b1d44049775561ad43fdec4bda4723d78",
+      "original_sha256": "e38d256c6ef88631847228391dd05fc2ec68fe4e516663dcc9c89ec53e50b472",
+      "prompt_sha256": "c64fba05c41c591ada4ee3832ea897819793279511a7e9874b583ab44ada28e6",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual3",
+      "file": "얼루기_anime_25d_gloss_f_casual3.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "6dd4eb4dca18ff7437e44c1254f5be698abb7a5975b3e14784a1769fbb4eccde",
+      "original_sha256": "f95369872e3e979b9bb1aec2d8ca67c59b31fcf8dc8504a421d379c5000f1ffb",
+      "prompt_sha256": "e532fa73aa03a3f2b311307996c1c87681a4cfd0873ed5ebd898d6cf674099dc",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual4",
+      "file": "얼루기_anime_25d_gloss_f_casual4.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9b375eddb30b80befe752e9a94bfe012617f72755b07cd61d472f8cdc94c47fd",
+      "original_sha256": "91964a0d9792c763715ae35d1cc31350350312d75a0bb153362a1e2dc4d09df3",
+      "prompt_sha256": "dc5da2c8d500cbda8be94f75f1aa8b1f5f2fa3dbe74a55072a911e1d34304e6b",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual5",
+      "file": "얼루기_anime_25d_gloss_f_casual5.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "38f314588efa361c16860d283e1d3f2d12fe07f15f1162ffb46d4881d947eded",
+      "original_sha256": "35b54cb328480e8f334f1b3060e92ab0c96591e65a4087887ab9afdaad47b1ed",
+      "prompt_sha256": "da51c89bd4a7a4f4ec9799b5df3a1da0c977aed79635b171a6288cfedfc75505",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual6",
+      "file": "얼루기_anime_25d_gloss_f_casual6.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "b9f3c6e918df2769baa2c86d2474c63ee719529dcf0bf08b106ad27c08e98ccf",
+      "original_sha256": "aa4c95040134eb4cfb56fe055a1c437da50a5eea27df809f01bc0abaae2db191",
+      "prompt_sha256": "160d876b4494ab875b2dec0490bae233082e0288523c599d2bea04ca9967c1db",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual7",
+      "file": "얼루기_anime_25d_gloss_f_casual7.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "7d05b478994bd1f1bfd456b88b8f50e9d7f04fe8ab97da9ee0b3e6c7d897d408",
+      "original_sha256": "de718dbe4b3936050d2860a1c8156062f0b07c26410915c164ddf942097f4d27",
+      "prompt_sha256": "34a459cb03f904a4ef7a38fe5c90c6ff657487755431d14267d9ad8c3985b3be",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual8",
+      "file": "얼루기_anime_25d_gloss_f_casual8.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "4c2197599a3cfb18070552d3855c166c910debe5e63dd5d4a9eb1061a0386b6e",
+      "original_sha256": "c171d12a79883e07f42c6ce0533386d9308603c0a05cdb09cd76ba98aed4af8e",
+      "prompt_sha256": "4a2ef34e9131430e2407f34eb3270905f8c219ee1b4d391288c487c056007174",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual9",
+      "file": "얼루기_anime_25d_gloss_f_casual9.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "080050b262ba41ea6b41132546290203a3ee4294a2701f5e26912be585b29e2d",
+      "original_sha256": "c78457f507025e931f43dcc83a332ab78d4740b27619373661ab3bd8e88a0850",
+      "prompt_sha256": "ef03f0fe8389ac4802692150aa0b859a88653d8587806f067c38d1a5a9eb1359",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual10",
+      "file": "얼루기_anime_25d_gloss_f_casual10.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "efe664fb71f9a5653f3564ba193c2d191816bab6157ce856674d93e72e93434e",
+      "original_sha256": "2dbdb46d5873fae17ef8c999b8f698b8047955c8274a6de7e05ecf92e83f730a",
+      "prompt_sha256": "a6bdf579374267d841d23705ceb3d18a1f54ff466ffc0ad783b3c41f39f50fd8",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    },
+    {
+      "slot": "casual90",
+      "file": "얼루기_anime_25d_gloss_f_casual90.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "2365edd9311bdaac91b27a712d055cd8b776f611c930c9911b9e0b4753b79cea",
+      "original_sha256": "cace60effc9ece240043305d2a7ed3b3c8b010469dcab6b1cd61956a585f027e",
+      "prompt_sha256": "f7430c86c12e50ad87f754a31fa8dc11520943fd0db8357f89d4713885332e22",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp",
+      "reference_sha256": "6858552f7d96061cf70fc0387310b1764fc512c3a11788c1496bcadf2ab96ffb"
+    }
+  ],
+  "recent_comparison": [
+    "spoink-20261127",
+    "torkoal-20261127",
+    "numel-20261127-anime25d-0190"
+  ],
+  "comparison_note": "Compared recent result sheets. Orbital floating, optical garden stepping, rooftop stargazing and bartender shaking differ in activity, outfit and framing. No exposure-based regeneration. Original PNG files are session-only; records retain hashes."
+}

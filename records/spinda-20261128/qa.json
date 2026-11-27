@@ -1,0 +1,164 @@
+{
+  "card": "얼루기",
+  "style": "anime_25d_gloss",
+  "selection": 2,
+  "regenerations": 0,
+  "images": {
+    "light": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "one closed glove and one open glove; fingers read naturally",
+        "note": "Full body, head and boots inside frame."
+      },
+      "prompt_sha256": null,
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual1": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands open and attached through visible wrists; five-digit silhouettes, some fingers foreshortened.",
+        "note": "Floating body and drifting twin tails, full body and two feet visible. Source hair ornaments retained; recorded only."
+      },
+      "prompt_sha256": "c99a5995006152ec7b12ab66d8d34c84872e0766d4c61d317b325b1aeb97dec9",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual2": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Right hand extended with five visible digits; left hand holds leaflet, thumb partly hidden by paper.",
+        "note": "Both arms attached through shoulders, two legs and feet; stepping along mosaic path. Hair ornaments retained."
+      },
+      "prompt_sha256": "c64fba05c41c591ada4ee3832ea897819793279511a7e9874b583ab44ada28e6",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual3": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both open hands visible, five digits each with mild perspective overlap.",
+        "note": "Full body surfing, both feet planted on board, knees bend naturally, face in profile as planned; pose differs from reference."
+      },
+      "prompt_sha256": "e532fa73aa03a3f2b311307996c1c87681a4cfd0873ed5ebd898d6cf674099dc",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual4": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside chest-up crop",
+        "hands": "One hand grips candy stick with curled fingers and partly hidden thumb; opposite arm extends naturally below crop.",
+        "note": "Single woman in purple game cosplay, shoulders and both arms connected; face and hair follow selected reference."
+      },
+      "prompt_sha256": "dc5da2c8d500cbda8be94f75f1aa8b1f5f2fa3dbe74a55072a911e1d34304e6b",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual5": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Hands clasped overhead; interlocked fingers overlap naturally and some fingertips are hidden.",
+        "note": "Both arms visible from shoulders to joined hands, two thighs visible. Hands touch top frame edge; recorded without regeneration."
+      },
+      "prompt_sha256": "da51c89bd4a7a4f4ec9799b5df3a1da0c977aed79635b171a6288cfedfc75505",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual6": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Book-holding hand partly occluded by book; resting hand shows four fingers and a thumb.",
+        "note": "Seated in magical library, two forearms visible, legs cross naturally; boot tips reach frame edge. No regeneration."
+      },
+      "prompt_sha256": "160d876b4494ab875b2dec0490bae233082e0288523c599d2bea04ca9967c1db",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual7": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside waist-up crop",
+        "hands": "Rail hand has five digits with overlapping grip; opposite hand outside lower frame beyond forearm.",
+        "note": "Both shoulders and arms connected in lookback pose, face visible; deep open back, retained hair ornaments."
+      },
+      "prompt_sha256": "34a459cb03f904a4ef7a38fe5c90c6ff657487755431d14267d9ad8c3985b3be",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual8": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Sandal hand grips strap with thumb partly occluded; cushion hand shows five digits, attached to visible forearm.",
+        "note": "Two legs connect naturally in raised-knee seat; telescope separate. Smiling expression differs slightly from relaxed plan, retained and recorded."
+      },
+      "prompt_sha256": "4a2ef34e9131430e2407f34eb3270905f8c219ee1b4d391288c487c056007174",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual9": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside chest-up crop",
+        "hands": "Upper glove rests on opposite upper arm; four fingers visible with thumb hidden by grip. Other hand hidden beneath crossed forearms.",
+        "note": "Crossed forearms connect to opposite shoulders, no detached hands. Soft Spinda costume, not rigid armor."
+      },
+      "prompt_sha256": "ef03f0fe8389ac4802692150aa0b859a88653d8587806f067c38d1a5a9eb1359",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual10": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": "outside close-up crop",
+        "hands": "One index at lips, thumb and three folded fingers visible with overlap; opposite hand outside frame.",
+        "note": "Both shoulders and upper arms lead down beyond crop; no floating hands. Face and hazel eyes retain reference identity."
+      },
+      "prompt_sha256": "a6bdf579374267d841d23705ceb3d18a1f54ff466ffc0ad783b3c41f39f50fd8",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    },
+    "casual90": {
+      "anatomy": {
+        "tool": "unavailable: mediapipe is not installed",
+        "overlay_checked": false,
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Both hands grip opposite ends of the shaker. Fingers wrap the object; some fingertips hidden.",
+        "note": "Both forearms connect naturally to shoulders; two thighs visible, feet outside planned knee-up crop."
+      },
+      "prompt_sha256": "f7430c86c12e50ad87f754a31fa8dc11520943fd0db8357f89d4713885332e22",
+      "reference": "얼루기_light_anime_25d_gloss_f.webp"
+    }
+  }
+}

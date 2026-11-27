@@ -1,0 +1,49 @@
+{
+  "card": "얼루기",
+  "style": "anime_25d_gloss",
+  "status": "selected",
+  "code_worktree": "/workspace/scratch/65d118bba8d6/pkm-spinda",
+  "branch": "work/spinda-20261128",
+  "designs": [
+    {
+      "number": 1,
+      "design": "generator",
+      "prompt": "/workspace/scratch/65d118bba8d6/spinda-pack/light-prompt.txt",
+      "submitted_sha256": "cab42899875761dd09eef8bfb52d35b583d42be82760507ccb40cb295ee7c327",
+      "submitted_same": true,
+      "original_path": "/workspace/scratch/65d118bba8d6/generated_images/exec-06d0c9b2-97ad-4b1e-948a-c2339fe1b5ef.png",
+      "original_sha256": "da924e2517fb8326325e9d0afd750aa7ddd9a12dd5ccbb649e3fd645f335ae53"
+    },
+    {
+      "number": 2,
+      "design": "generator",
+      "prompt": "/workspace/scratch/65d118bba8d6/spinda-pack/light-prompt.txt",
+      "submitted_sha256": "cab42899875761dd09eef8bfb52d35b583d42be82760507ccb40cb295ee7c327",
+      "submitted_same": true,
+      "original_path": "/workspace/scratch/65d118bba8d6/generated_images/exec-4ccfaaeb-08ca-475a-b61a-a7afe8923e5c.png",
+      "original_sha256": "84eb2905ecd5fbcce875117eb627c637b7b5fbc86b9f8bded6cf0686451eb591"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/65d118bba8d6/spinda-pack/free-1-prompt.txt",
+      "submitted_sha256": "f33531d5bba0ccb2915b026b28c3b7005749afff002c4c448dc5f62f48ec0a45",
+      "submitted_same": true,
+      "original_path": "/workspace/scratch/65d118bba8d6/generated_images/exec-a7a2d328-73e0-4d05-a658-c4037043bbca.png",
+      "original_sha256": "a66e1be40f3293d4c54c58d9dd575840f02a82c862f2e9501ecc94eb80dc24fa"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "prompt": "/workspace/scratch/65d118bba8d6/spinda-pack/free-2-prompt.txt",
+      "submitted_sha256": "5f897c26297fea6ce21e0bb5bb2af5face7b458f039d95d1c2cc6a8d462b6134",
+      "submitted_same": true,
+      "original_path": "/workspace/scratch/65d118bba8d6/generated_images/exec-2e1e8cbd-985e-4361-b6ce-50dceeefa715.png",
+      "original_sha256": "419b49a7c63b3423e63e27d8a81238c3adfd8ef581af98da988039190d6455b4"
+    }
+  ],
+  "next": "Wait for user selection before casual planning, generation, or publishing.",
+  "prohibition": "No exposure-based regeneration, no data/img.json edits, no deletion or force push.",
+  "selected": 2,
+  "reservation_commit": "b03640655c84d5bf41f9faf40c9ad0a5b0496215"
+}
