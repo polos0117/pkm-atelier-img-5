@@ -1,0 +1,182 @@
+[
+  {
+    "slot": "light",
+    "file": "비브라바_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "cbf1db518ae95aeda3cc691485d738ca77642f87d9e73e509a3abde411f1e6b5",
+    "original_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "reference_sha256": null,
+    "source": "/workspace/scratch/91485c871b05/vibrava-canonical.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual1",
+    "file": "비브라바_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "d5e6011115ad1a1fabb462a0551dbd9fc6512eafd3c5b68e411fc248469d990e",
+    "original_sha256": "c039c7f40635841ad18e491c25f77512202feaf362ffd9b0aaa98f750ef7fdb7",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-f946fb49-ad41-4453-aebe-cfd4c0f3d40e.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual2",
+    "file": "비브라바_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "3b5d3ceb12a6f27857279eee00985876606da29b8ad3688146660ed37bf18252",
+    "original_sha256": "b4d25d3a72700d6449411bb6d9d50958bb9696a0095cdd94a8da8ad53b6aa475",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-174cbac0-e959-43a8-be84-81ac0a9b85db.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual3",
+    "file": "비브라바_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "4fb9922ae3d443c926148c2072d359c11fcc9ea808b246d18970f7937b77c7ea",
+    "original_sha256": "65370f172e93f3c704646ccd2d5ccb948764cb24c3d21e9a03cd91dff2dc949f",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-920f57ab-749e-4cd6-b9b9-3beb4743c9df.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual4",
+    "file": "비브라바_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "070583791ab75851f0eb67375728bff4c36b56268ae0591f8603ee85d2f1a1a0",
+    "original_sha256": "31b9aaf43365694aa1dd464121be656832db72340a9f6fb8012a7efd9c3aa78a",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-af72acc1-112e-44fe-9aa6-4cbce4e99490.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual5",
+    "file": "비브라바_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "f6bf01af6bdd814a2c41e4dc9022d92d6fa0558becf15858856223ed82971c1b",
+    "original_sha256": "bfd8514920ab8b6699b157125897020075c9693f37a6f04028e2f8504dae5af4",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-37dc0169-96ab-4e82-809f-a9ebd433ee43.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual6",
+    "file": "비브라바_anime_25d_gloss_f_casual6.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "027960fbf49bb3dd7e2c19f673d3690e0f41464509aa37f515b065ccf28c9a69",
+    "original_sha256": "42627362c624b993bdf2310e4914bd7718fb9495c91700f924c206ac029d7ed8",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-62a17991-3292-401c-9ab5-1db3300d9004.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual7",
+    "file": "비브라바_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "bb83aef92c73c2a2e036e7e3c5906c383e67acef653a3fb3af00e1d478803171",
+    "original_sha256": "a9e5b214a8d5b2bfe77c7077239fcd7495b0ea5bab9673291cf590d705645bb5",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-e3b79369-fd3e-4d09-8520-5aa449947f7b.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual8",
+    "file": "비브라바_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "c97bcbedbac8f8e1017f505026be7ef65dd1d532f1dd87500688592cf6904f6b",
+    "original_sha256": "e5f8dbecef729535ef1c5542976d8d6b0c13c5396453cfc3e2e7da728a202d47",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-9c20b6e6-01e7-4b39-a3df-7c9eb76c8d29.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual9",
+    "file": "비브라바_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "dc759318032464fbadb77a7d094117bc518db5e2bdc176e82cd560111f140698",
+    "original_sha256": "347c4765ca8a2d3283b310d93260d5c344304c6b438d58510b784341a6ca3500",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-d53f00b4-5fbf-4703-8057-d2728ee58a55.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual10",
+    "file": "비브라바_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "a8d5746bfef0fd9fc9951696b4c09b35e09a4e10224f74591d22273005bc3e08",
+    "original_sha256": "7c20355d49c2d1c8ec8aeb9d5b3d9283626be342c40024710a03f2b0deb6ac44",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-479311ef-c1de-4ecc-8ed4-25f1ff4f218c.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  },
+  {
+    "slot": "casual90",
+    "file": "비브라바_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "707310ff22708f376a3939d29a1ffeb9f3fc8645077f711635579662c3e0a770",
+    "original_sha256": "c8e81da23c9f14cda14485e30e28dcba398c46c280807404dcf08312fd39176b",
+    "reference_sha256": "10bcba0e90160ce807580c58021d1c6b9bda37b45b31519c749261c633b8e947",
+    "source": "/workspace/scratch/91485c871b05/generated_images/exec-264c06e3-7d11-4091-9c03-4c4b26b924ba.png",
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "비브라바"
+  }
+]
