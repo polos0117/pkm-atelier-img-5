@@ -1,0 +1,260 @@
+{
+  "selected_mecha": 2,
+  "style": "anime_25d_gloss",
+  "regenerations": 0,
+  "slots": {
+    "light": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "7cfd713892e719d4214aa767aa620874ffd84acb0e07a8a1128ddaca7c444e2a",
+      "observations": "Selected candidate 2: short layered blue feathered haircut, blue eyes, white feather cape and segmented blue-white armor; both arms and both complete armored legs visible. Gloved hands connect to their forearms.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual1": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "3b33a1410d24ff184d63a87b3a74a745f8521a15543e044a17727ee943ee5b03",
+      "observations": "Green workwear, headset and cream on nose in arena; raised hand connects to right shoulder through visible forearm. The crop is wider than face-close, showing torso; recorded as a framing deviation.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual2": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "a5a0ca1d87eb6479b2e070cdb6ea069b801925ce6bd2d18e8506b32240b91741",
+      "observations": "Square night-lake swan-boat scene, brown swim fabric and floral yukata; cheek-resting arm and other relaxed hand visibly connected. Face remains blue-eyed with the short blue haircut.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual3": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "cd873443c36a0eb08d07235fe4f7425d9aeb02a28a9004fc07dac97fea644c62",
+      "observations": "Mulberry pleated aerialist costume in daylight studio; raised hand grips ribbon and lower hand holds dance shoes. Both arm chains are visible, fabric folds keep opaque coverage.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual4": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "811d16d5f732f03e7fc0579aa1ba3e01d1db929cb0e6f183fbc130adfcb6e804",
+      "observations": "Ochre travel romper in airport lounge, pastry in one hand and box on lap steadied by the other; legs and feet visible with coherent joints. Boxes and props remain separate from limbs.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual5": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "b39376b953445ff8917f85d01cf55d48c0416f611ad0020d26292ca8c222365c",
+      "observations": "Landscape opera lobby, burgundy retro top and shorts, leaning against marble; hands hang from separate forearms, both legs and heels visible. Face smaller because environmental framing.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual6": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "9294dcf5260cb4c99839df94268605886477003113551fac9f3d0cd88a0bbb08",
+      "observations": "Purple Dehaka-inspired cosplay in photo studio, looking back with head and upper back turned together; two separate relaxed arms, no extra appendages.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual7": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "4d483e07ebd82dbcc8d05c8a80e683b32d3d853fdcc2f01d849101d692109fd2",
+      "observations": "Terracotta folded-panel top by indoor pool at dawn; two folded arms connect naturally, hands have distinct visible fingers. New neckline and fabric are distinct from source armor.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual8": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "5a2b98dad8f795857edf340ed4595839f60a216a3c03319ef5342e9b7b146899",
+      "observations": "Sage lace lingerie fashion beside a camper at night; looking back with natural upper-back turn, shoes held at side, bare feet on dry ground. Lace is over covered intimate areas.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual9": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "eb0885ac7c87ca2bc7eafe1dd8d35d3ff613fcb977b96b450301a4f4be234b28",
+      "observations": "Blue-white fabric creature costume with feather sleeves in snowy-window shop; side-profile walking and closed umbrella at her side. Face angle is profile as planned; no regeneration requested.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual10": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "8fc175d3477d7ec2234fd0075636f9388170c017da39b55fb2f84e5f6254fd95",
+      "observations": "Fuchsia roleplay uniform with epaulettes inside Ferris-wheel cabin; two hands rest separately on seat back, shoulder-to-arm continuity visible.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    },
+    "casual90": {
+      "reviewer": "gpt",
+      "accepted": true,
+      "image_sha256": "3120fbba8d1c9f705a3434715294015b910c6c85fda435d6fb2fd7ea5a60dcbd",
+      "observations": "Pink apron and white camisole at cotton-candy stall; two hands hold the cotton-candy stick with distinct fingers and continuous forearms. Small cloud pin and cotton-candy machine identify apprentice-vendor scene.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Soft shaded nose, cheeks and lips with dimensional facial gradients; fine coloured contours and material-specific clothing rendering."
+      },
+      "exposure": {
+        "verdict": "match",
+        "evidence": "Designed openings remain visible with chest and pelvis covered; no exposure-based regeneration."
+      },
+      "anatomy": {
+        "method": "visual review at native resolution and contact sheet",
+        "extra_limbs": false,
+        "detached_hands": false,
+        "notes": "Visible hands traced through wrist/forearm toward their shoulder; hidden fingers are not counted as missing."
+      }
+    }
+  },
+  "diversity_comparison": {
+    "compared_characters": [
+      "선인왕",
+      "플라이곤",
+      "비브라바"
+    ],
+    "actual_images": [
+      "선인왕_anime_25d_gloss_f_casual1.webp",
+      "플라이곤_anime_25d_gloss_f_casual1.webp",
+      "비브라바_anime_25d_gloss_f_casual1.webp"
+    ],
+    "observations": "Compared recent stage bikini with hip-hand stance, outdoor track sitting look-back, and market handcraft scene. This set instead uses arena headset close-up, lake boat, aerial-silk hall, airport meal, opera lobby, photo studio, lap pool, camper, shop, Ferris-wheel cabin and cotton-candy stall. Hair/face retain selected blue bob rather than the references green long hair or yellow tied styles. Set differs in activity, clothing silhouette and framing."
+  }
+}

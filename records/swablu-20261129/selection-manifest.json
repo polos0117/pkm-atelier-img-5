@@ -1,0 +1,34 @@
+[
+  {
+    "number": 1,
+    "design": "project",
+    "original": "/workspace/scratch/35572071b7d0/generated_images/exec-85572b05-71d6-4a52-93c9-26263f0661a7.png",
+    "sha256": "3f2b75bfdf24f1b182cf05c21730e223f800b3d78ec6fc3f4134a05a37faa6ce",
+    "prompt": "candidate-1-prompt.txt",
+    "status": "awaiting_user_selection"
+  },
+  {
+    "number": 2,
+    "design": "project",
+    "original": "/workspace/scratch/35572071b7d0/generated_images/exec-8bfa4ddd-052c-411f-865e-0fc754cf8256.png",
+    "sha256": "7cfd713892e719d4214aa767aa620874ffd84acb0e07a8a1128ddaca7c444e2a",
+    "prompt": "candidate-2-prompt.txt",
+    "status": "awaiting_user_selection"
+  },
+  {
+    "number": 3,
+    "design": "gpt_free",
+    "original": "/workspace/scratch/35572071b7d0/generated_images/exec-d1c38ec4-db4e-4785-96a4-9d13e4cbe18f.png",
+    "sha256": "0ceee99d5cbce47dce2e04c1d83063e7c231b9107ac9a865e82b53b1813eca86",
+    "prompt": "candidate-3-prompt.txt",
+    "status": "awaiting_user_selection"
+  },
+  {
+    "number": 4,
+    "design": "gpt_free",
+    "original": "/workspace/scratch/35572071b7d0/generated_images/exec-a4832ea0-4e72-4c91-84a7-bddc8800d45f.png",
+    "sha256": "4893823fbdfcb01ce168cc058360b20dfa89425816c012f6d7b64a8ef09c22b9",
+    "prompt": "candidate-4-prompt.txt",
+    "status": "awaiting_user_selection"
+  }
+]

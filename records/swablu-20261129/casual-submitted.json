@@ -1,0 +1,79 @@
+[
+  {
+    "slot": "casual1",
+    "source": "casual1-prompt.txt",
+    "sha256": "c625a9e2849926addbd0cd21f3cc77338e13be89a244c1fbe0fa83feb810bdba",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual2",
+    "source": "casual2-prompt.txt",
+    "sha256": "2fa6184f074b06709d4fcc34265c7906d02a7b1673a64aaa435b39f3a7bfc397",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual3",
+    "source": "casual3-free-prompt.txt",
+    "sha256": "8bda382d1b32da4919877e63a78e10a94ff369bc0bb06911ae7e831cd6b97f0d",
+    "same": true,
+    "allowed_free_design": true
+  },
+  {
+    "slot": "casual4",
+    "source": "casual4-free-prompt.txt",
+    "sha256": "8f1d76a9a6d96c19605e7de079df63448358e65972840a6b34485a82c39f9bdf",
+    "same": true,
+    "allowed_free_design": true
+  },
+  {
+    "slot": "casual5",
+    "source": "casual5-prompt.txt",
+    "sha256": "bc32214771d1e7e465351030ccc7c1caac5e1ac244f0a86f7662d2510f8f77fc",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual6",
+    "source": "casual6-prompt.txt",
+    "sha256": "63eb448edc454dc1e09ee607185ce0629531f88acd712c2a812fe54834a9554c",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual7",
+    "source": "casual7-free-prompt.txt",
+    "sha256": "06c9a0bc47aa4e7f16b7352e22984d6ae14ac97e0d4f6968d3c7664f03690efa",
+    "same": true,
+    "allowed_free_design": true
+  },
+  {
+    "slot": "casual8",
+    "source": "casual8-prompt.txt",
+    "sha256": "656e1486c2e09a16e751ea256eba4387b00c371dbd4d0781eeae5306e9cb2796",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual9",
+    "source": "casual9-prompt.txt",
+    "sha256": "beb0e573657f6f0ee69e699c69deb90dea6606ef2e5e550f7bc2b58238e429fd",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual10",
+    "source": "casual10-prompt.txt",
+    "sha256": "fc71586735b86a0633120e3be7d8dc5e09210d355de6baa1cbe0e3df28a44eed",
+    "same": true,
+    "allowed_free_design": false
+  },
+  {
+    "slot": "casual90",
+    "source": "casual90-prompt.txt",
+    "sha256": "70c05f8d47b52d1ec37342962e22679c169c4ec898caed1acc9cb1e748ce0683",
+    "same": true,
+    "allowed_free_design": false
+  }
+]
