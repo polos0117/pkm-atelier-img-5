@@ -1,0 +1,54 @@
+{
+  "card": "파비코리",
+  "style": "anime_25d_gloss",
+  "status": "selected_2_casual_generation",
+  "candidates": [
+    {
+      "number": 1,
+      "design": "atelier",
+      "original": "/workspace/scratch/64a8789a1048/generated_images/exec-5f2adfe3-1193-4a83-b610-76d99f7bebd8.png",
+      "sha256": "e882a4b6aa26709a07fe6eee9dc2fb0cf7fc94e7013663e89fc22d55a6b6b431",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/64a8789a1048/altaria-pack/light-prompt.txt"
+    },
+    {
+      "number": 2,
+      "design": "atelier",
+      "original": "/workspace/scratch/64a8789a1048/generated_images/exec-acc4245c-ffc0-4c9f-84f2-175b969b6f74.png",
+      "sha256": "3a9b68a81a18c2f3fb6f2291122e029b6173c67b209d4debd79337651457789d",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/64a8789a1048/altaria-pack/light-prompt.txt"
+    },
+    {
+      "number": 3,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/64a8789a1048/generated_images/exec-3923f849-1ede-4cd0-8c66-fe089b45c91d.png",
+      "sha256": "7415bbcd58a0fba5cd0f2ed244f74a19f093487e831f643a05cea85fdd8e84c6",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/64a8789a1048/altaria-pack/gpt-1-prompt.txt"
+    },
+    {
+      "number": 4,
+      "design": "gpt_free",
+      "original": "/workspace/scratch/64a8789a1048/generated_images/exec-9e1b88f5-51d3-4430-b3ee-841a19470e35.png",
+      "sha256": "b7d51b51b20df9c0ba2ac8ba77e7e6b39fe19dcd4a9f13e3c923d99fee2b62aa",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt": "/workspace/scratch/64a8789a1048/altaria-pack/gpt-2-prompt.txt"
+    }
+  ],
+  "uploaded": false,
+  "regeneration": false,
+  "selected_candidate": 2
+}

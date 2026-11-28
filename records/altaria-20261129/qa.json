@@ -1,0 +1,224 @@
+{
+  "selected_mecha": 2,
+  "style": "anime_25d_gloss",
+  "regenerations": 0,
+  "slots": {
+    "light": {
+      "accepted": true,
+      "observations": "Selected candidate 2. Long flowing blue-white hair, blue eyes, white-blue rigid armor and cloud cape. Both gloved hands connect to forearms; both legs and feet complete. Thigh armor openings exceed requested coverage; retained without exposure-based regeneration.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Selected candidate 2. Long flowing blue-white hair, blue eyes, white-blue rigid armor and cloud cape. Both gloved hands connect to forearms; both legs and feet complete. Thigh armor openings exceed requested coverage; retained without exposure-based regeneration.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual1": {
+      "accepted": true,
+      "observations": "Wine fan-fold costume at a wooden listening horn in an overcast garden. One arm rises to the horn rim, other hangs holding booklet. Full body; both feet grounded. Intended humming is a paused moment rather than an active mouth shape.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Wine fan-fold costume at a wooden listening horn in an overcast garden. One arm rises to the horn rim, other hangs holding booklet. Full body; both feet grounded. Intended humming is a paused moment rather than an active mouth shape.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual2": {
+      "accepted": true,
+      "observations": "Garnet folded bodice at an esports arena, one raised hand holding phone; visible wrist and forearm join to shoulder. Crop is wider and body more frontal than planned; recorded as deviation.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Garnet folded bodice at an esports arena, one raised hand holding phone; visible wrist and forearm join to shoulder. Crop is wider and body more frontal than planned; recorded as deviation.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual3": {
+      "accepted": true,
+      "observations": "White-blue fabric Altaria costume in a bright museum workshop; full body landscape. Both hands hang at sides with connected wrists and five-finger glove structure; armor replaced by cloth costume.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. White-blue fabric Altaria costume in a bright museum workshop; full body landscape. Both hands hang at sides with connected wrists and five-finger glove structure; armor replaced by cloth costume.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual4": {
+      "accepted": true,
+      "observations": "Yellow bikini on yacht at sunset, right hand by hair and left relaxed at side; connected arms, lower legs outside crop. Source appears as separate cushion.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Yellow bikini on yacht at sunset, right hand by hair and left relaxed at side; connected arms, lower legs outside crop. Source appears as separate cushion.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual5": {
+      "accepted": true,
+      "observations": "Purple wrap romper close-up in spa lounge, hand near ear connected to visible raised forearm; other arm continues beyond crop. Feather ornament remains from source; wider than planned face close-up, retained.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Purple wrap romper close-up in spa lounge, hand near ear connected to visible raised forearm; other arm continues beyond crop. Feather ornament remains from source; wider than planned face close-up, retained.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual6": {
+      "accepted": true,
+      "observations": "Rainy rooftop bridal portrait in silver-grey dress. One hand rests on cheek, other on hip. Both arm chains distinct and continuous; lower body cropped. Source feather ornament remains.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Rainy rooftop bridal portrait in silver-grey dress. One hand rests on cheek, other on hip. Both arm chains distinct and continuous; lower body cropped. Source feather ornament remains.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual7": {
+      "accepted": true,
+      "observations": "Taupe short suit over lace bralette in entryway. One raised arm touches overhead shelf, other lowered beside hip. Both wrists connect; lower body outside crop. Clothing intentionally open, no regeneration.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Taupe short suit over lace bralette in entryway. One raised arm touches overhead shelf, other lowered beside hip. Both wrists connect; lower body outside crop. Clothing intentionally open, no regeneration.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual8": {
+      "accepted": true,
+      "observations": "Burnt-copper sculptural folded-bib skort in bowling hall; right hand holds ochre ball low, left arm forward with relaxed five-finger hand. Shoulder-to-wrist paths clear.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Burnt-copper sculptural folded-bib skort in bowling hall; right hand holds ochre ball low, left arm forward with relaxed five-finger hand. Shoulder-to-wrist paths clear.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual9": {
+      "accepted": true,
+      "observations": "Red lifeguard event costume close-up in nail salon at rainy window. Both upper arms join shoulders and extend below frame; hands hidden outside crop. Forehead/cheek cream-like mark is minor retained detail.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Red lifeguard event costume close-up in nail salon at rainy window. Both upper arms join shoulders and extend below frame; hands hidden outside crop. Forehead/cheek cream-like mark is minor retained detail.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual10": {
+      "accepted": true,
+      "observations": "Elite Knight-inspired corset cosplay lying prone in photography studio. Two gauntleted hands cradle face through separate bent forearms; two lower legs raised behind body. Not standing, as generated from chosen prone scene.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Elite Knight-inspired corset cosplay lying prone in photography studio. Two gauntleted hands cradle face through separate bent forearms; two lower legs raised behind body. Not standing, as generated from chosen prone scene.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    },
+    "casual90": {
+      "accepted": true,
+      "observations": "Pink festival apron over camisole and short skirt, crouching by cotton-candy machine in golden light. Right hand holds candy stick; left rests on knee. Both knees, feet and hands visible; five-finger structure in visible hands.",
+      "style_25d": {
+        "verdict": "2.5D",
+        "evidence": "Nose, cheeks, lips and chin use soft dimensional gradients; fine contours and material-specific reflections."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe module absent",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "Visible hands traced through wrist/forearm to shoulder; fingers partly hidden by grips or crop where applicable. Pink festival apron over camisole and short skirt, crouching by cotton-candy machine in golden light. Right hand holds candy stick; left rests on knee. Both knees, feet and hands visible; five-finger structure in visible hands.",
+        "overlay_checked": false,
+        "note": "Visual review; no tool pass claimed."
+      },
+      "exposure_regeneration": false
+    }
+  },
+  "diversity": "This set includes acoustic garden, arena selfie, museum costume, yacht, spa portrait, rooftop wedding, entryway reach, bowling, nail salon, prone cosplay studio, and festival cotton-candy vendor. Clothing silhouettes and activities differ across the set."
+}

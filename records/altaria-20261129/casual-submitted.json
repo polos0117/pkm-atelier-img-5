@@ -1,0 +1,46 @@
+{
+  "casual1": {
+    "sha256": "5c85f2578b79d45228df35cd426a1a4145f4c7ecec023c06b0ca74852676b56e",
+    "same_or_authorized_free_design": true
+  },
+  "casual2": {
+    "sha256": "f2485579a038d7b96c9acf891c5512d5c82e15f34c48f85afe4258abb92fba2f",
+    "same_or_authorized_free_design": true
+  },
+  "casual3": {
+    "sha256": "6192a1769db075d10a8a821a698051e468fe985f15e9fd15db605e6c90afb592",
+    "same_or_authorized_free_design": true
+  },
+  "casual4": {
+    "sha256": "0c18113d8788eeb22ebb595e51ad7c93dac2b1294587c292ecd7a4ec197609c5",
+    "same_or_authorized_free_design": true
+  },
+  "casual5": {
+    "sha256": "12201b3d306a7f7f19f514ad377262ea87c5512505ae3764dd87bba989f937a7",
+    "same_or_authorized_free_design": true
+  },
+  "casual6": {
+    "sha256": "c8b8d3af7dcb65bd0e9c31c7fc70c127a966bd2cfdc1fe43a27717e34608e98c",
+    "same_or_authorized_free_design": true
+  },
+  "casual7": {
+    "sha256": "81b368705e0db6f9fe52552c32dc6a1b24fe8006cb6bcb950252ad00adf7e534",
+    "same_or_authorized_free_design": true
+  },
+  "casual8": {
+    "sha256": "2e58c773f7c92960b6658099d2eeb033780948c49873fee579f16299fb9b4747",
+    "same_or_authorized_free_design": true
+  },
+  "casual9": {
+    "sha256": "b2b830581b0c822fea458fc5f449750fdedc652e6ab51f569938e6fc529ae37e",
+    "same_or_authorized_free_design": true
+  },
+  "casual10": {
+    "sha256": "59f6398ef5b20d4b263319babfbfe4c05cd5023c0f184ed727becae4fcfdf0b3",
+    "same_or_authorized_free_design": true
+  },
+  "casual90": {
+    "sha256": "8b625d1c1683b5572f28d9adddd24597dac486e6d4785af44426153a550cdf80",
+    "same_or_authorized_free_design": true
+  }
+}

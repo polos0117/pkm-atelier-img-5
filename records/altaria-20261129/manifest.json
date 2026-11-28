@@ -1,0 +1,141 @@
+{
+  "card": "파비코리",
+  "no": 334,
+  "style": "anime_25d_gloss",
+  "selected_candidate": 2,
+  "originals_uploaded": false,
+  "files": [
+    {
+      "slot": "light",
+      "file": "img/파비코리_light_anime_25d_gloss_f.webp",
+      "original_sha256": "3a9b68a81a18c2f3fb6f2291122e029b6173c67b209d4debd79337651457789d",
+      "webp_sha256": "8a84874c2bb51cb5902def3bb957da17b665a2ea267c986b1f6fbb75575cb0de",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 335108
+    },
+    {
+      "slot": "casual1",
+      "file": "img/파비코리_anime_25d_gloss_f_casual1.webp",
+      "original_sha256": "492ef3627f9cfe2479ab8c0aaad18533dcd3fcc40a9fc16f59c502cb63454a8a",
+      "webp_sha256": "dd49b4eea079f8e107f049f20088d7687838c680f2cd1e625be6e73036531661",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 259284
+    },
+    {
+      "slot": "casual2",
+      "file": "img/파비코리_anime_25d_gloss_f_casual2.webp",
+      "original_sha256": "8c1962a4d55b737d4c0f27b71650e3e0c3cdef7245e0bd02bd7821ce9ca427e0",
+      "webp_sha256": "b4546f2c0241774ce697a6a88b91c98c6793a2f258b519196d447644e5ab7aac",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 205838
+    },
+    {
+      "slot": "casual3",
+      "file": "img/파비코리_anime_25d_gloss_f_casual3.webp",
+      "original_sha256": "ab8d40327ae83841ef1d0afbba4e371059c6da98d7c0f124fa047be1fe33bcf7",
+      "webp_sha256": "ac572c7f13ff4d066191fc70860389ad670c07dc36f6b7d95b7a9971547b6b03",
+      "size": [
+        1536,
+        1024
+      ],
+      "bytes": 243300
+    },
+    {
+      "slot": "casual4",
+      "file": "img/파비코리_anime_25d_gloss_f_casual4.webp",
+      "original_sha256": "97bb0bd13ddfd4c9d3df999821ae16d12579bd28497e07a3b7714676f278ec3c",
+      "webp_sha256": "ec9d326c8d8efe3f573e7e9b7bb1a6332b9aed74597a89a8453fa6babdc5c83f",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 134004
+    },
+    {
+      "slot": "casual5",
+      "file": "img/파비코리_anime_25d_gloss_f_casual5.webp",
+      "original_sha256": "927a9a1093ad5ff02a292839a81a5d9f09ead33cd4cebd3d99238f9c4c9dc84e",
+      "webp_sha256": "f6b063c7d91034f303d1076ecacac9fe4da9ec146762d3b60d50f389051bd70b",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 193916
+    },
+    {
+      "slot": "casual6",
+      "file": "img/파비코리_anime_25d_gloss_f_casual6.webp",
+      "original_sha256": "0ac30f8baf6ab38d75f59a135bea59a688c286c1b2c64a8b19f207dbdd04d0ed",
+      "webp_sha256": "fc0291831ddff8ba3e1e6b123c8c4e63bd1361e03eddf70a0a95e85f295891ef",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 249538
+    },
+    {
+      "slot": "casual7",
+      "file": "img/파비코리_anime_25d_gloss_f_casual7.webp",
+      "original_sha256": "34befbf364322a8fad49477f7398be7a3ae1a1076011086e5333c0bc44894f97",
+      "webp_sha256": "08d37273c62ad7c067b22e00830afcafbc4b9412afbfbbc2b2bcde77bef4de74",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 178812
+    },
+    {
+      "slot": "casual8",
+      "file": "img/파비코리_anime_25d_gloss_f_casual8.webp",
+      "original_sha256": "836a5863be95708a82482b18c645bc92f22d4e795b5f0f706eb46c4ac19d3699",
+      "webp_sha256": "96ea1c215e1a4f92d6c9b2f2f446220a6ae5e55a563a09919e29f7c19d9cf951",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 228866
+    },
+    {
+      "slot": "casual9",
+      "file": "img/파비코리_anime_25d_gloss_f_casual9.webp",
+      "original_sha256": "882644ac733d230e31961d0db111621f382b91ff781a071e3b29a6fed31c2e7c",
+      "webp_sha256": "4113bc49604db77fdf645d1a6811be1d4b40ef42a5a8965a44391f850ab919f6",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 203736
+    },
+    {
+      "slot": "casual10",
+      "file": "img/파비코리_anime_25d_gloss_f_casual10.webp",
+      "original_sha256": "8af61323adc2d0a73bb0e0ae5f906b417ccba4ea4efc0202ae36202629f055d1",
+      "webp_sha256": "0372c18d26c929331a50a9476e1bf06f312f7dc97319d079237720c570acf161",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 220626
+    },
+    {
+      "slot": "casual90",
+      "file": "img/파비코리_anime_25d_gloss_f_casual90.webp",
+      "original_sha256": "ed1e9effc51e37d8301f07fd081b037415381475039312656a52c628279552bc",
+      "webp_sha256": "7ed2d74bff8afef83f65cea64c1016b002f78b3da39426c8d218590f1757d56d",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 288670
+    }
+  ]
+}
