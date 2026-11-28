@@ -1,0 +1,158 @@
+[
+  {
+    "slot": "light",
+    "file": "선인왕_light_anime_25d_gloss_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "4f91cb2e4d81baeba47521dd05a6965dae7efdaae3a07eddbc6fb2000728d933",
+    "webp_sha256": "0d28960148fb16ccd8ef4ca087c4cff5a9d59bc29ffbc94d37d592fbdc7bce58",
+    "submitted_sha256": "7483f1f1a212d316a0d41db14c205186780be56c1555236b0a4f99e888b8156b",
+    "submitted_same": true,
+    "reference": null
+  },
+  {
+    "slot": "casual1",
+    "file": "선인왕_anime_25d_gloss_f_casual1.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "7a4ff785acc98e2e4a8d4b372657f5ac0418a50bd2e35a2c2c4c4d067c22a179",
+    "webp_sha256": "719228282ca75e78482b2b05d6b5c22a4f643b36837c44e750ef9aac88b46e63",
+    "submitted_sha256": "aa6fffd19ade24cee7b035dadfc04234e152cfa5ed3b60bb18a0549253fc1bc7",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual2",
+    "file": "선인왕_anime_25d_gloss_f_casual2.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "d8ffd7e924b4408985e2a2e9ba2ab71262189b49c5e2880630bb0d7f6b98f6aa",
+    "webp_sha256": "d369beebcb1c06e9b871bb6cbab334902f905ce3220e9ff600b01c00a56df933",
+    "submitted_sha256": "e2ab4626809739766b783d3ef3e00ce6143ea5d752acce9e3374f2a8b0766bfc",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual3",
+    "file": "선인왕_anime_25d_gloss_f_casual3.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "source_sha256": "0c0c9c9893440773912e335423dfc6868152f917c4f1d45e7e03425aa1475358",
+    "webp_sha256": "2f319fefc1655d50182a4823a18b5e66870ecbca16a594151e98c1cf7e4b9f53",
+    "submitted_sha256": "374dd9ee7b2927a15f02d817e5d881b6d841f4e074170c7b0fb4a653f3071ca5",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual4",
+    "file": "선인왕_anime_25d_gloss_f_casual4.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "ba754f784598f051c98c116b35ffd7812e7f306f69fae3af2ac7e21f4b82ee90",
+    "webp_sha256": "fa1b9eff02af35cf4bb92458466370d1272dee764d632f83492cc0da7262eda5",
+    "submitted_sha256": "9fc61c03c14e6f71f6bf975d0f9e362ccf6e7555aa8f867e4da3c428ce3eca31",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual5",
+    "file": "선인왕_anime_25d_gloss_f_casual5.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "b6810eb16d5edf4f6b3646bd79b9d1b856d688e39f0b317665c43ec9425c5f97",
+    "webp_sha256": "f140c35070146bf621a6cc89d85d4816603764013139839610976f0d87936fe5",
+    "submitted_sha256": "b8237aaa0afc5867ad8bb53563c1dd89c7417472f6890ec160439c175a2a642e",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual6",
+    "file": "선인왕_anime_25d_gloss_f_casual6.webp",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "source_sha256": "b86d4f0fd66ef08582fc990aa54e1034028f53353d6956ac4965966520baf4c1",
+    "webp_sha256": "e61469bb0e48b71ea12f26b4a28bf07ee00cc98469b298a160311ccd6f3644b8",
+    "submitted_sha256": "22267d42a1f4f746b26bce0ed16bf69e3bbf8237ba72fb99984f8a3e708b77e6",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual7",
+    "file": "선인왕_anime_25d_gloss_f_casual7.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "2ece1c7211d242c44bf42a864aa48aa9a7f407372c793b02b30990e9a22601ba",
+    "webp_sha256": "b76f601c1210080df418cae0638735016bdc4916a168c50656c4d5fbae0649fe",
+    "submitted_sha256": "58baace0edd379fde9d816048b29adc6250387ee3b73e5e84b9bca1c15a1529d",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual8",
+    "file": "선인왕_anime_25d_gloss_f_casual8.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "dfc653de60132642f637176b091c15afe2cce762ce5e3890907c8b385a9d4eac",
+    "webp_sha256": "559af0633c69551dc34da5af31e96054d578720f236b1983925b0c9810537590",
+    "submitted_sha256": "e06ed075e98d676a4915725b1a76bff6e3ce920dc2ad3b4d49dc8da306753fe2",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual9",
+    "file": "선인왕_anime_25d_gloss_f_casual9.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "35ee017888f105d93995cb5c8dabc41f8c3a7ac577ced557a870fbdc9207a15a",
+    "webp_sha256": "2e69623d264b6541373dac323534de65fd5247dcd1928f23a1d8872e61622b5b",
+    "submitted_sha256": "e6d288d739a8a6d539bde073e8e5e9a364244f250739461f60dfca4acfd28c3e",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual10",
+    "file": "선인왕_anime_25d_gloss_f_casual10.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "e9f639a503a70ae564ba9cc91f61571ac7f2e4c81138037bc5bd829ed8a4b685",
+    "webp_sha256": "48e52e5b9582a02c1af8d3b6b10bf5bee32b517ee8bf7156184f0ff04a8e71e9",
+    "submitted_sha256": "11562b4b72a1c08094451bc1fd0a6811ba656da3e8f81f53276c6686d93c17d6",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  },
+  {
+    "slot": "casual90",
+    "file": "선인왕_anime_25d_gloss_f_casual90.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_sha256": "6d38711b79ce6398da78ecf69e0feeba97fad01c93c0fb5473f1b6def24ae8b4",
+    "webp_sha256": "a7e8015ccff3b171f135530c7f4df58283133afa57a1827317905fec1964d402",
+    "submitted_sha256": "3378f320ca41feaa0eee76dac97b9fdf29b70d7f77d5a9b10a6b77855c844ffb",
+    "submitted_same": true,
+    "reference": "selected option 4"
+  }
+]
