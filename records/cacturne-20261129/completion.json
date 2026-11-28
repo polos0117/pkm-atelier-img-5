@@ -1,0 +1,127 @@
+{
+  "image_commit": "ac79a627c64043594f55a85b64ce9eaef6fbdfc8",
+  "code_commit": "9c767f9341c44f8da8d2cba2478f05d0cb93109b",
+  "source_upload_commit": "09bfa32af259f369ccd94f70ba8f237f99817f84",
+  "card": "밤선인",
+  "style": "anime_25d_gloss",
+  "expected": 12,
+  "registered": 12,
+  "thumbnails": 12,
+  "all_where_correct": true,
+  "all_originals_present": true,
+  "existing_glossy_promo_preserved": true,
+  "files": [
+    {
+      "filename": "밤선인_light_anime_25d_gloss_f.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual1.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual2.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual3.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual4.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual5.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual6.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual7.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual8.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual9.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual10.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    },
+    {
+      "filename": "밤선인_anime_25d_gloss_f_casual90.webp",
+      "registered": true,
+      "where": 4,
+      "original": true,
+      "thumbnail": true
+    }
+  ],
+  "complete": true,
+  "selected_mecha": 2,
+  "final_composition": {
+    "mecha": 1,
+    "casual": 10,
+    "character_occupation": 1,
+    "total": 12
+  },
+  "verification": {
+    "remote_webp_hashes": "12/12 match validated local files",
+    "targeted_image_warnings": 0,
+    "thumbnail_workflow": {
+      "id": 46165834371,
+      "conclusion": "success"
+    },
+    "registration_workflow": {
+      "id": 46166154232,
+      "conclusion": "success"
+    },
+    "global_warning_note": "Existing image dimension warnings and the existing Node.js 20 action-runtime deprecation notice remain; none target this Cacturne anime_25d_gloss set."
+  },
+  "preserved": {
+    "existing_images": true,
+    "existing_glossy_promo": true,
+    "no_forced_ref_update": true,
+    "no_raw_png_in_image_repository": true,
+    "no_exposure_regeneration": true
+  }
+}
