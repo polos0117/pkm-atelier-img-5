@@ -1,0 +1,17 @@
+{
+  "status": "ready_to_publish",
+  "card": "밤선인",
+  "no": 332,
+  "style": "anime_25d_gloss",
+  "selected_mecha": 2,
+  "final_images": 12,
+  "casual_cuts": 11,
+  "existing_images_preserved": true,
+  "no_exposure_regeneration": true,
+  "technical_corrections": {
+    "casual2": 2,
+    "casual3": 1
+  },
+  "raw_png_uploaded": false,
+  "source_rule_revision": "d8a2573671d30542571f3c44df02a56c8e39ebd6"
+}

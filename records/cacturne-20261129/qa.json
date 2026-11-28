@@ -1,0 +1,364 @@
+{
+  "reviewer": "gpt",
+  "selected_mecha": 2,
+  "references": "selected light image attached to every casual call",
+  "anatomy_tool": "unavailable: mediapipe not installed; visual review performed",
+  "compared_characters": [
+    "선인왕",
+    "플라이곤",
+    "비브라바"
+  ],
+  "diversity_comparison": "최근 3종의 실제 메카·일상 썸네일 9장을 비교. 선인왕의 무대·피크닉, 플라이곤의 경기장·이발소, 비브라바의 미용실·케이블카와 비교해 이번 스파·야외 영화관·야간 해변·꽃시장·공원 게임·천문대·야구장 근접·티컵·전차 코스튬·롤러코스터·다육 가게 장면을 구별함. 앉은 컷이 여럿 있지만 도구·의상 실루엣·프레이밍이 다름.",
+  "slots": {
+    "light": {
+      "accepted": true,
+      "image_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+      "observations": "전신 판금 코트, 녹색 마름모와 가시 모서리, 녹색 눈과 검은 끝의 연녹색 가시 포니테일. 두 팔·장갑 손과 두 장갑 다리가 연결됨. 얼굴 코·입술·턱에 부드러운 입체 음영.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "전신 판금 코트, 녹색 마름모와 가시 모서리, 녹색 눈과 검은 끝의 연녹색 가시 포니테일. 두 팔·장갑 손과 두 장갑 다리가 연결됨. 얼굴 코·입술·턱에 부드러운 입체 음영."
+      },
+      "minor_deviations": ""
+    },
+    "casual1": {
+      "accepted": true,
+      "image_sha256": "1c521522146684f6591568e64ab68e0321d42ac67eb0bc22c2bf51a08fe65f46",
+      "observations": "미네랄 스파 출구에서 한 무릎을 듦. 오른손이 난간을 잡고 왼손은 수건을 들어 두 팔이 각각 어깨에 연결됨. 크림·회색 비대칭 수영복과 밝은 타일 배경, 피곤한 반쯤 열린 눈.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "미네랄 스파 출구에서 한 무릎을 듦. 오른손이 난간을 잡고 왼손은 수건을 들어 두 팔이 각각 어깨에 연결됨. 크림·회색 비대칭 수영복과 밝은 타일 배경, 피곤한 반쯤 열린 눈."
+      },
+      "minor_deviations": "자유 장면의 고정 피곤한 표정보다 눈빛이 또렷함."
+    },
+    "casual2": {
+      "accepted": true,
+      "image_sha256": "833bd085b28e9904790fc6763ab3ffa66721a3ed8e14633be23f1ed8fb99a286",
+      "observations": "노을의 야외 영화관 의자에 앉아 견과 한 알을 입가에 들고 다른 손은 허벅지 위에 둠. 종이 콘은 팔걸이 위에 독립해 있고 팔·손은 정확히 두 개. 구리색 홀터와 아이보리 반바지, 두 다리와 샌들이 자연스럽게 연결됨.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "노을의 야외 영화관 의자에 앉아 견과 한 알을 입가에 들고 다른 손은 허벅지 위에 둠. 종이 콘은 팔걸이 위에 독립해 있고 팔·손은 정확히 두 개. 구리색 홀터와 아이보리 반바지, 두 다리와 샌들이 자연스럽게 연결됨."
+      },
+      "minor_deviations": "최초 결과의 추가 팔과 첫 수정의 연결이 불분명한 손을 기술적 부분 수정. 최종 콘은 손에 들지 않고 팔걸이에 둠.",
+      "correction_history": [
+        {
+          "attempt": 1,
+          "image_sha256": "00fbecd7736758a0c8a128b0b6811dfa983885e5e70db4d686a90190a5306fee",
+          "reason": "anatomy extra or disconnected arm/hand",
+          "prompt": "Use image 1 only as the identity reference. Image 2 is the edit target. Correct ONLY the extra-arm anatomy in image 2. She currently has three arms/hands: one hanging down along the viewer-left chair edge, one raised to her lips holding a nut, and one holding the paper cone on the viewer-right armrest. Remove the entire extra arm hanging down along the viewer-left chair edge. Keep the two arms holding the nut and cone, and connect each through a natural elbow and forearm to its own shoulder; exactly two shoulders, two arms, two hands, five fingers each. Preserve her face, eyes, hair, seated pose, legs, clothing, neckline, exposure, lighting, sunset cinema setting, paper cone and the composition exactly. Do not change or cover her outfit. Vertical 2:3 full-body image, 1024x1536.",
+          "reference_image": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3"
+        },
+        {
+          "attempt": 2,
+          "image_sha256": "833bd085b28e9904790fc6763ab3ffa66721a3ed8e14633be23f1ed8fb99a286",
+          "reason": "anatomy extra or disconnected arm/hand",
+          "prompt": "Image 1 is the identity reference. Image 2 is the edit target. A small anatomy correction only: remove the entire floating hand that grips the paper cone of nuts on the viewer-right wooden armrest. Leave the paper cone upright by itself on that wooden armrest, with NO hand touching it. The arm crossing her lower abdomen from the viewer-left shoulder must end in its own visible relaxed hand lying on her lap just below her waist. Keep the other arm and hand raised to her lips holding one nut. Exactly TWO arms and TWO hands: one hand on her lap, one hand at her lips. No other hands near the cone. Preserve everything else exactly: face, green eyes, ponytail, copper halter top, shorts, neckline and exposure, legs and shoes, pose, sunset, cinema setting and vertical 2:3 composition.",
+          "reference_image": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3"
+        }
+      ]
+    },
+    "casual3": {
+      "accepted": true,
+      "image_sha256": "7c2be4fba45ad88df355d8d4639ae60e4971e4b8275546f809b9afc836bbec26",
+      "observations": "야간 서핑 해변에서 엎드려 양 팔꿈치를 바닥에 놓고 두 손으로 턱을 받침. 손가락 일부는 볼 아래에 가림. 보라회색 자수 의상과 네온 배경, 도전적인 반미소. 최종 캔버스 2:3.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "야간 서핑 해변에서 엎드려 양 팔꿈치를 바닥에 놓고 두 손으로 턱을 받침. 손가락 일부는 볼 아래에 가림. 보라회색 자수 의상과 네온 배경, 도전적인 반미소. 최종 캔버스 2:3."
+      },
+      "minor_deviations": "최초 원본은 가로 3:2로 반환되어 인물·의상 노출을 유지한 채 세로 2:3 캔버스로 부분 수정.",
+      "correction_history": [
+        {
+          "attempt": 1,
+          "image_sha256": "7c2be4fba45ad88df355d8d4639ae60e4971e4b8275546f809b9afc836bbec26",
+          "reason": "output aspect ratio",
+          "prompt": "Image 1 is the identity reference; image 2 is the edit target. Correct only the output canvas to a VERTICAL 2:3 portrait, 1024x1536. Preserve the same woman, her exact face, hair, expression, two hands cupping her chin, forearms, clothing, neckline, exposure and night surf-beach lighting. Recompose the chest-up portrait vertically, keeping both shoulders and each continuous forearm visible. Extend the night beach background above and below as needed. Do not add limbs, change the outfit, cover skin or change the scene. Exactly two arms and two hands.",
+          "reference_image": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3"
+        }
+      ]
+    },
+    "casual4": {
+      "accepted": true,
+      "image_sha256": "d01d3d86c22e0bbd104f503e8a795e99360ebeee53b887a279d84796e02905c6",
+      "observations": "분홍색 항공 승무원 행사복을 입고 꽃시장에서 튤립 한 줄기를 한 손으로 들고 다른 손으로 양동이를 받침. 두 어깨에서 팔이 연속으로 이어지며 꽃과 시선을 맞춤. 정사각형 상반신.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "분홍색 항공 승무원 행사복을 입고 꽃시장에서 튤립 한 줄기를 한 손으로 들고 다른 손으로 양동이를 받침. 두 어깨에서 팔이 연속으로 이어지며 꽃과 시선을 맞춤. 정사각형 상반신."
+      },
+      "minor_deviations": ""
+    },
+    "casual5": {
+      "accepted": true,
+      "image_sha256": "41e1dbd8382df6dacac1cf6b20eeaffbb6c8b031987838d7f53bb4c8479f01c2",
+      "observations": "공원 선베드에 누워 양손으로 휴대 게임기를 잡고 화면을 내려다봄. 양 엄지는 조작부 근처, 나머지 손가락은 기기를 감쌈. 테라코타 수영복과 챙 넓은 모자, 가로 구도.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "공원 선베드에 누워 양손으로 휴대 게임기를 잡고 화면을 내려다봄. 양 엄지는 조작부 근처, 나머지 손가락은 기기를 감쌈. 테라코타 수영복과 챙 넓은 모자, 가로 구도."
+      },
+      "minor_deviations": "계획의 셸 몰드 컵보다 주름이 있는 삼각 컵으로 표현됨. 팔·손은 정상이며 의상 갈래는 유지됨."
+    },
+    "casual6": {
+      "accepted": true,
+      "image_sha256": "8e23e7a178398e7aed1562b85c7071c185b90c8284e3e9c9bafae2dd4f4b9f47",
+      "observations": "천문대 붉은 의자에 앉아 다리를 교차하고 한 손은 무릎, 다른 손은 좌석에 둠. 호박색 의상과 줄무늬 스타킹, 가시형 포니테일 유지. 소매를 허리에 묶은 장면이 보임.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "천문대 붉은 의자에 앉아 다리를 교차하고 한 손은 무릎, 다른 손은 좌석에 둠. 호박색 의상과 줄무늬 스타킹, 가시형 포니테일 유지. 소매를 허리에 묶은 장면이 보임."
+      },
+      "minor_deviations": "폼의 fitted jumpsuit보다 짧은 의상으로 읽힘. 노출을 사유로 재생성하지 않음."
+    },
+    "casual7": {
+      "accepted": true,
+      "image_sha256": "c69dbb287550084af955c96541cbc2bf5509d8daa623d9eb9c43db7f74a44d88",
+      "observations": "야구장 관중석에서 한 손으로 얼굴 옆 V 표시. 두 어깨와 보이는 팔이 자연스럽게 이어지고 다른 팔은 프레임 밖. 녹색 눈·눈썹과 포니테일 식별, 데님 오버롤 근접 컷.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "야구장 관중석에서 한 손으로 얼굴 옆 V 표시. 두 어깨와 보이는 팔이 자연스럽게 이어지고 다른 팔은 프레임 밖. 녹색 눈·눈썹과 포니테일 식별, 데님 오버롤 근접 컷."
+      },
+      "minor_deviations": "face_close 계획보다 상반신이 넓게 포함됨. 표정은 약간 열린 미소."
+    },
+    "casual8": {
+      "accepted": true,
+      "image_sha256": "c58f126a95373b8f7b858ec2f64129583571d3f48eca9cfccf29bb883b0ac4e3",
+      "observations": "눈 내린 놀이공원 티컵 안에서 양손으로 가운데 휠을 잡음. 손목부터 팔꿈치·어깨 연결이 보이며 아이보리 조끼와 버건디 반바지·부츠가 구별됨.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "눈 내린 놀이공원 티컵 안에서 양손으로 가운데 휠을 잡음. 손목부터 팔꿈치·어깨 연결이 보이며 아이보리 조끼와 버건디 반바지·부츠가 구별됨."
+      },
+      "minor_deviations": "직상단 구도보다 높은 정면 3/4에 가까움. 프레이밍과 방향 차이를 기록하며 그림은 보존."
+    },
+    "casual9": {
+      "accepted": true,
+      "image_sha256": "f048eb83f96229cbfe87d5f834aecd3f2c98b8cd312eee22727d0eb945c2322e",
+      "observations": "빈티지 전차에서 밤선인 후드·코르셋 코스튬을 입고 얼굴 옆 V 표시. 장갑 손의 접힌 손가락은 일부 가림. 피부는 인간 피부이며 마름모와 가시는 의상 조각으로 표현됨.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "빈티지 전차에서 밤선인 후드·코르셋 코스튬을 입고 얼굴 옆 V 표시. 장갑 손의 접힌 손가락은 일부 가림. 피부는 인간 피부이며 마름모와 가시는 의상 조각으로 표현됨."
+      },
+      "minor_deviations": "계획의 gyaru reversed V보다 일반 V에 가까움."
+    },
+    "casual10": {
+      "accepted": true,
+      "image_sha256": "f1e3ea099c3eb087831c5f9b6b5dbaa3f52531c7e19098e0adabcd4f567ac21b",
+      "observations": "롤러코스터 아래 벤치에서 파랑·빨강·아이보리 T. Hawk 코스프레 롱드레스, 프린지 부츠. 한 손은 벤치에 짚고 다른 손은 무릎에 놓여 두 팔이 자연스럽게 연결됨. 계획보다 인물이 크게 표현됨.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "롤러코스터 아래 벤치에서 파랑·빨강·아이보리 T. Hawk 코스프레 롱드레스, 프린지 부츠. 한 손은 벤치에 짚고 다른 손은 무릎에 놓여 두 팔이 자연스럽게 연결됨. 계획보다 인물이 크게 표현됨."
+      },
+      "minor_deviations": "계획의 작은 환경 중심 인물보다 크게 표현되며 다리가 교차됨."
+    },
+    "casual90": {
+      "accepted": true,
+      "image_sha256": "ffac69e84081d2278cd69b0a45bc4f91d15dc9be1d526d61c2ec2b0c3a34b8b9",
+      "observations": "다육식물 가게 점장이 의자에 앉아 한 손을 무릎, 다른 손을 의자에 둠. 작은 정원 앞치마와 묶은 셔츠·짧은 바지, 가시 테두리 밀짚모자. 두 부츠와 다리가 자연스럽게 이어짐.",
+      "style_25d": {
+        "result": "match",
+        "evidence": "눈꺼풀의 가는 색선, 코·볼·입술·턱의 연속 명암과 부드러운 피부 그라데이션. 갑옷·천만 입체인 평면 셀 얼굴이 아님."
+      },
+      "identity": {
+        "result": "match",
+        "evidence": "녹색 아몬드형 눈, 비슷한 턱·입 비율, 연녹색과 검은 끝의 큰 가시 포니테일 유지."
+      },
+      "exposure": {
+        "result": "match",
+        "evidence": "의상의 설계된 목선·허리·다리 노출과 가슴·골반 가림을 확인. 노출을 사유로 재생성하지 않음."
+      },
+      "anatomy": {
+        "tool": "unavailable: mediapipe not installed",
+        "issue": "ok",
+        "arms": 2,
+        "legs": 2,
+        "hands": "두 손 또는 프레임 밖·물체 뒤의 가림을 확인. 보이는 손에서 추가 손·손가락 없음; 세부는 observations 참조.",
+        "overlay_checked": false,
+        "note": "다육식물 가게 점장이 의자에 앉아 한 손을 무릎, 다른 손을 의자에 둠. 작은 정원 앞치마와 묶은 셔츠·짧은 바지, 가시 테두리 밀짚모자. 두 부츠와 다리가 자연스럽게 이어짐."
+      },
+      "minor_deviations": ""
+    }
+  },
+  "skipped": []
+}

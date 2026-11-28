@@ -1,0 +1,253 @@
+[
+  {
+    "slot": "light",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-0d578e40-ae77-4b37-9cb2-57dbd466681e.png",
+    "filename": "밤선인_light_anime_25d_gloss_f.webp",
+    "source_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "webp_sha256": "a3b3922c1b048c2911f9f14f20fbade4da538b04bc9803c67065306dc70c1403",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": null,
+    "submitted_sha256": "df0911774fbf812138e614b13e9ef2e5537aba411250395a293fb0a637cebe81"
+  },
+  {
+    "slot": "casual1",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-60ea164a-4431-47e0-a025-31d407848272.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual1.webp",
+    "original_path": null,
+    "source_sha256": "1c521522146684f6591568e64ab68e0321d42ac67eb0bc22c2bf51a08fe65f46",
+    "webp_sha256": "d87c434188260e37a8eed2f3f2e8c7d286673f0cf0f92f05108feaa9f085b9fd",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "f920c92b0af7ea24d9b8721f733aa03762b1293de6abebbd9223682e853b632f"
+  },
+  {
+    "slot": "casual2",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-55d029a2-ce4b-4571-b775-307f76dba2ef.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual2.webp",
+    "original_path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-19b9d5d0-7315-4342-b0b1-0a38a334c403.png",
+    "source_sha256": "833bd085b28e9904790fc6763ab3ffa66721a3ed8e14633be23f1ed8fb99a286",
+    "webp_sha256": "40a11aeec1dc6315492439aa0adaa9eee13fd2d29d3bbb456d87aad5b8ced546",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "3c933d22b001e1e5f6d3d0e4f07653c89a5d43cd9d9c2e59a2344fabab5ab237"
+  },
+  {
+    "slot": "casual3",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-f1c4e366-b959-480a-b2a4-24bd7e16330e.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual3.webp",
+    "original_path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-db052edc-8e6b-4a65-b735-9c4cd8b646e7.png",
+    "source_sha256": "7c2be4fba45ad88df355d8d4639ae60e4971e4b8275546f809b9afc836bbec26",
+    "webp_sha256": "f0ef124226cd6ce3fdd000da74fa7b4fe30a80a270a1c0af103758d5468bb394",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "82274e57f934e36eca633ab5a422dcadbe129705cea284b7dcc6c0c6529a1936"
+  },
+  {
+    "slot": "casual4",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-1a5b75b9-4c74-42a5-bbca-c5dd33b31977.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual4.webp",
+    "original_path": null,
+    "source_sha256": "d01d3d86c22e0bbd104f503e8a795e99360ebeee53b887a279d84796e02905c6",
+    "webp_sha256": "18f290a6d17a03f8634087c1edd0b2b0876b8cf65349ff9555c87c35b3b05788",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      1024,
+      1024
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "89f497c65047795417fe95b5f05c35c048abb08574f8a533532ba3661cc46e0b"
+  },
+  {
+    "slot": "casual5",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-a00bfd29-f518-4a07-9f91-de95d819f79d.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual5.webp",
+    "original_path": null,
+    "source_sha256": "41e1dbd8382df6dacac1cf6b20eeaffbb6c8b031987838d7f53bb4c8479f01c2",
+    "webp_sha256": "0833de44ee6a99f9304933160542df2a49ee5678c15a872c0f23bb4bc9caea81",
+    "source_size": [
+      1536,
+      1024
+    ],
+    "output_size": [
+      1536,
+      1024
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "5eef6940f7b07b0fe68c651c00ee616bc7d8601f3c26c75a7ed62d7f01e85b06"
+  },
+  {
+    "slot": "casual6",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-a1d62080-973f-4b6a-afdf-d31a7b0a8f44.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual6.webp",
+    "original_path": null,
+    "source_sha256": "8e23e7a178398e7aed1562b85c7071c185b90c8284e3e9c9bafae2dd4f4b9f47",
+    "webp_sha256": "e491ea5f893b5f4fdb2bf000f4f3c0a9f2f78acc54d65cb25993fde74212c3f9",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "5e2c951053a2e1456659455dc2736787e66e223fa5e7e29a8f3bb5355ef9012e"
+  },
+  {
+    "slot": "casual7",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-33ecb831-2886-44c4-925d-c7b6192ed44c.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual7.webp",
+    "original_path": null,
+    "source_sha256": "c69dbb287550084af955c96541cbc2bf5509d8daa623d9eb9c43db7f74a44d88",
+    "webp_sha256": "6c0e9822490c756eb82ecb1cc4b2887cb4c8d9c2e6180f4d66cb9a30f652cc4f",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "060155e0d7bdd2e6185af6c7d2ec8cb9db5da68d35316653470ec66b3fbdae3e"
+  },
+  {
+    "slot": "casual8",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-fcb79c56-7abe-4867-9013-8a3e7c6ff370.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual8.webp",
+    "original_path": null,
+    "source_sha256": "c58f126a95373b8f7b858ec2f64129583571d3f48eca9cfccf29bb883b0ac4e3",
+    "webp_sha256": "3d4b9a83c4a34acf87939ce6b27ff92221fd91203d8faa73e9b6ebed2c5440a0",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "b7145c0b6f54818bd0909193e274a35c952dc87208129bf026f1fb3196b79830"
+  },
+  {
+    "slot": "casual9",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-934d7993-da43-4ca4-906e-4731234dd6a6.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual9.webp",
+    "original_path": null,
+    "source_sha256": "f048eb83f96229cbfe87d5f834aecd3f2c98b8cd312eee22727d0eb945c2322e",
+    "webp_sha256": "b613d81d2acc66e7f6a7b29a65fed260224c71da3bbaf0f87f967a4d2ea09b62",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "68235765c52841cbb5a0d4c0e9bebc5be0d712f199510befdf3360bfe12389cd"
+  },
+  {
+    "slot": "casual10",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-857e4243-23c5-46af-9134-980e2ad7560c.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual10.webp",
+    "original_path": null,
+    "source_sha256": "f1e3ea099c3eb087831c5f9b6b5dbaa3f52531c7e19098e0adabcd4f567ac21b",
+    "webp_sha256": "efb63f6bbffb6cc59eee3691678d2a36df8ed1c8af8f61655fa8b2b4d9f95590",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "fc293e96c6be86f6486f38ae03fc48baf1ec2f987ed386214c51fd865fdf56c1"
+  },
+  {
+    "slot": "casual90",
+    "path": "/workspace/scratch/3e39eb516fdd/generated_images/exec-4aefe0d6-0f27-409e-b42d-69f75c0eb6e7.png",
+    "filename": "밤선인_anime_25d_gloss_f_casual90.webp",
+    "original_path": null,
+    "source_sha256": "ffac69e84081d2278cd69b0a45bc4f91d15dc9be1d526d61c2ec2b0c3a34b8b9",
+    "webp_sha256": "88dc39d6172d5e72fa106d9a78674ed59b8dba19062dac28765badd3e18dec0c",
+    "source_size": [
+      1024,
+      1536
+    ],
+    "output_size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "anime_25d_gloss",
+    "card": "밤선인",
+    "reference_sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+    "submitted_sha256": "5bbec9658255e0831be071aa5d766bdd07ea3cad4717e57586ec5f7567dc9e41"
+  }
+]

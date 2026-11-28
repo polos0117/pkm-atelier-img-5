@@ -1,0 +1,40 @@
+{
+  "card": 332,
+  "name": "밤선인",
+  "style": "anime_25d_gloss",
+  "status": "awaiting_user_selection",
+  "images": [
+    {
+      "number": 1,
+      "image": "/workspace/scratch/3e39eb516fdd/generated_images/exec-ebe61c06-e10a-49fc-851c-1deda24fe216.png",
+      "sha256": "3a076a37d28d8a99e18f6b03475d05b2f8f534317bfa5ca1b7f805bfbfa8f688",
+      "prompt": "/workspace/scratch/3e39eb516fdd/cacturne-pack/light-prompt.txt",
+      "submitted_sha256": "df0911774fbf812138e614b13e9ef2e5537aba411250395a293fb0a637cebe81",
+      "regenerated": false
+    },
+    {
+      "number": 2,
+      "image": "/workspace/scratch/3e39eb516fdd/generated_images/exec-0d578e40-ae77-4b37-9cb2-57dbd466681e.png",
+      "sha256": "8aa1678590eb6861a4a32f5a2a9e777df59189fa648af149ff785ebb6549e0f3",
+      "prompt": "/workspace/scratch/3e39eb516fdd/cacturne-pack/light-prompt.txt",
+      "submitted_sha256": "df0911774fbf812138e614b13e9ef2e5537aba411250395a293fb0a637cebe81",
+      "regenerated": false
+    },
+    {
+      "number": 3,
+      "image": "/workspace/scratch/3e39eb516fdd/generated_images/exec-cecc90c8-1d45-4cb0-bc9d-8c58a851ce1c.png",
+      "sha256": "b8365d681c304f8c8968d678513cf2cec539f20766c07387474c3e025ab56241",
+      "prompt": "/workspace/scratch/3e39eb516fdd/cacturne-pack/light-gpt-1-prompt.txt",
+      "submitted_sha256": "6f7112f8845e572cf5bb7163550451d635d26a4a0be848863db7d61fdb23bbc6",
+      "regenerated": false
+    },
+    {
+      "number": 4,
+      "image": "/workspace/scratch/3e39eb516fdd/generated_images/exec-2d078c07-7221-421b-9d73-332907dfcf07.png",
+      "sha256": "c776726d6c4ee637b50dc33afa8aa05483e368dadade5c1cf9b79ab986827b74",
+      "prompt": "/workspace/scratch/3e39eb516fdd/cacturne-pack/light-gpt-2-prompt.txt",
+      "submitted_sha256": "84eba86f3f015678af6ebdcfcd94cfbae254b34a712b4d04129d30e4fb85e42d",
+      "regenerated": false
+    }
+  ]
+}
