@@ -13,70 +13,103 @@
       "added": []
     }
   ],
-  "casual1": {
-    "submitted_sha256": "3d9c042de40caea1320af207f9c4262449209bdd507b5b81152e01194e72ab12",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual2": {
-    "submitted_sha256": "3026d64cb085d47c1ae4a4559fcc2f58d343295b0d7fd1fa02db52e3e5a93e95",
-    "same": false,
-    "authorized_exception": "IMAGE_RULES free-scene design: only scene filled; identity, style, anatomy and fixed expression/intensity retained",
-    "style_kept": true
-  },
-  "casual3": {
-    "submitted_sha256": "f125611508aa78baf6192ed8ebed7adedb7cc3a3252f3bee6fa48d9d63421c8a",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual4": {
-    "submitted_sha256": "b17d6cda86ef24a12133564a40e750951187a97aa0db42857b1e738192aef86c",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual5": {
-    "submitted_sha256": "66ebe66d32f20b59d5b1921349b39d7ee0cbe47a4c4b4fc1665809a4b6cbc0b0",
-    "same": false,
-    "authorized_exception": "IMAGE_RULES free-scene design: only scene filled; identity, style, anatomy and fixed expression/intensity retained",
-    "style_kept": true
-  },
-  "casual6": {
-    "submitted_sha256": "72fd88c6721232f1406b39e18f14a4c3ffb26f1bdeea8246f04e301830bc4e89",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual7": {
-    "submitted_sha256": "def1915599c4e4ac885f98920bcb575035e4c57b4d43a63931a30930d3ea7185",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual8": {
-    "submitted_sha256": "541b3d94ce8e591bbfd2fb531d6b08dd74f64d6322d65d47821074ff8d67cbce",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual9": {
-    "submitted_sha256": "d57dfd555caba9e39d12284705aaae97576648035f8e261830830fbc120dc005",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual10": {
-    "submitted_sha256": "9646f9188b54a1c44c973d30f7934e1f8a6bd65a22232851d4e546710b266d76",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  },
-  "casual90": {
-    "submitted_sha256": "06dceeaa6798ef37c8481f4157a8ce7d3599fb6c1a4034e708f383410700d345",
-    "same": true,
-    "authorized_exception": null,
-    "style_kept": true
-  }
+  "casual1": [
+    {
+      "slot": "casual1",
+      "submitted_sha256": "3d9c042de40caea1320af207f9c4262449209bdd507b5b81152e01194e72ab12",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual2": [
+    {
+      "slot": "casual2",
+      "submitted_sha256": "3026d64cb085d47c1ae4a4559fcc2f58d343295b0d7fd1fa02db52e3e5a93e95",
+      "same": false,
+      "authorized_exception": "IMAGE_RULES free-scene design: only scene filled; identity, style, anatomy and fixed expression/intensity retained",
+      "style_kept": true
+    }
+  ],
+  "casual3": [
+    {
+      "slot": "casual3",
+      "submitted_sha256": "f125611508aa78baf6192ed8ebed7adedb7cc3a3252f3bee6fa48d9d63421c8a",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual4": [
+    {
+      "slot": "casual4",
+      "submitted_sha256": "b17d6cda86ef24a12133564a40e750951187a97aa0db42857b1e738192aef86c",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual5": [
+    {
+      "slot": "casual5",
+      "submitted_sha256": "66ebe66d32f20b59d5b1921349b39d7ee0cbe47a4c4b4fc1665809a4b6cbc0b0",
+      "same": false,
+      "authorized_exception": "IMAGE_RULES free-scene design: only scene filled; identity, style, anatomy and fixed expression/intensity retained",
+      "style_kept": true
+    }
+  ],
+  "casual6": [
+    {
+      "slot": "casual6",
+      "submitted_sha256": "72fd88c6721232f1406b39e18f14a4c3ffb26f1bdeea8246f04e301830bc4e89",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual7": [
+    {
+      "slot": "casual7",
+      "submitted_sha256": "def1915599c4e4ac885f98920bcb575035e4c57b4d43a63931a30930d3ea7185",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual8": [
+    {
+      "slot": "casual8",
+      "submitted_sha256": "541b3d94ce8e591bbfd2fb531d6b08dd74f64d6322d65d47821074ff8d67cbce",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual9": [
+    {
+      "slot": "casual9",
+      "submitted_sha256": "d57dfd555caba9e39d12284705aaae97576648035f8e261830830fbc120dc005",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual10": [
+    {
+      "slot": "casual10",
+      "submitted_sha256": "9646f9188b54a1c44c973d30f7934e1f8a6bd65a22232851d4e546710b266d76",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ],
+  "casual90": [
+    {
+      "slot": "casual90",
+      "submitted_sha256": "06dceeaa6798ef37c8481f4157a8ce7d3599fb6c1a4034e708f383410700d345",
+      "same": true,
+      "authorized_exception": null,
+      "style_kept": true
+    }
+  ]
 }
