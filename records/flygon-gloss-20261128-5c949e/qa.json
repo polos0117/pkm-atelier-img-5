@@ -1,0 +1,209 @@
+{
+  "light": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Full body, both boots present; raised hand five digits, lowered hand loosely closed with fingers partly occluded.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Full body, both boots present; raised hand five digits, lowered hand loosely closed with fingers partly occluded.",
+    "regenerated": false
+  },
+  "casual1": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Near hand five visible digits, far hand partly hidden beside hip; legs continue past crop as planned; gaze profile.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Near hand five visible digits, far hand partly hidden beside hip; legs continue past crop as planned; gaze profile.",
+    "regenerated": false
+  },
+  "casual2": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both hands visible and naturally attached; token grip partly occludes fingers. Cropped knees intentional.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Both hands visible and naturally attached; token grip partly occludes fingers. Cropped knees intentional.",
+    "regenerated": false
+  },
+  "casual3": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "V-sign hand has five digits (two extended, two folded, thumb); other arm leaves lower frame naturally.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "V-sign hand has five digits (two extended, two folded, thumb); other arm leaves lower frame naturally.",
+    "regenerated": false
+  },
+  "casual4": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both arms connect naturally; headphone grip occludes some fingers, other gloved hand rests on table; square waist crop.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Both arms connect naturally; headphone grip occludes some fingers, other gloved hand rests on table; square waist crop.",
+    "regenerated": false
+  },
+  "casual5": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Suitcase grip and pillow-supporting hand connected to respective arms; both legs and shoes visible.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Suitcase grip and pillow-supporting hand connected to respective arms; both legs and shoes visible.",
+    "regenerated": false
+  },
+  "casual7": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two arms and two legs, relaxed hands; full body and feet; chest direction is more toward camera than planned.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Two arms and two legs, relaxed hands; full body and feet; chest direction is more toward camera than planned.",
+    "regenerated": false
+  },
+  "casual8": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Both relaxed hands visible with partial thumb occlusion; square thigh crop; generated maid outfit has bodysuit-like short legs rather than full jumpsuit.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Both relaxed hands visible with partial thumb occlusion; square thigh crop; generated maid outfit has bodysuit-like short legs rather than full jumpsuit.",
+    "regenerated": false
+  },
+  "casual9": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Two legs and two naturally attached arms; far hand partly occluded beside hip; overhead side-recline is shallower than planned.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Two legs and two naturally attached arms; far hand partly occluded beside hip; overhead side-recline is shallower than planned.",
+    "regenerated": false
+  },
+  "casual10": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Near hand visible alongside thigh, far arm partly hidden; two feet visible. Low camera and head angle retained.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Near hand visible alongside thigh, far arm partly hidden; two feet visible. Low camera and head angle retained.",
+    "regenerated": false
+  },
+  "casual90": {
+    "status": "reviewed",
+    "reference_match": true,
+    "style_25d": {
+      "result": "2.5D",
+      "evidence": "Soft modeled nose, lips and jaw; layered hair highlights; dimensional fabric and material shading."
+    },
+    "anatomy": {
+      "tool": "unavailable: mediapipe not installed",
+      "arms": 2,
+      "legs": 2,
+      "hands": "Compass held in right hand, left hand on knee, each with natural wrist connection; both crouched legs and boots visible.",
+      "issue": "ok",
+      "overlay_checked": false
+    },
+    "observations": "Compass held in right hand, left hand on knee, each with natural wrist connection; both crouched legs and boots visible.",
+    "regenerated": false
+  },
+  "casual6": {
+    "status": "blocked",
+    "stage": "output",
+    "request_id": "6e3e753c-a21b-4b25-8ab0-e29c0a83d2cc",
+    "error": "moderation_blocked",
+    "tries": 1,
+    "regenerated": false,
+    "reason": "User explicitly prohibited regeneration for exposure censorship; slot remains empty."
+  }
+}

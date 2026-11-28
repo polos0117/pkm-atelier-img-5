@@ -1,0 +1,189 @@
+[
+  {
+    "slot": "light",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "user selected candidate 1",
+    "file": "플라이곤_light_anime_25d_gloss_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "38668a477bd97a2bbccc74e57263710e8235491b1acf11b3659e964231543ef9",
+    "original_sha256": "bfc012809e07b9bc51753aab15ab83e847ca5187a3eaccd8e1411bb3a3baa286",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual1",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "5803bbe4ac1a277446a4bd0a920023a3f8f67ec04173d9dfe60258760e3ce1af",
+    "original_sha256": "cdc070a04c7697fcb0ef3f7791956f062946b1e0e6f46e7d69670885a3bbef44",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual2",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "43b736eb8cac3b464920925062eb1ae89787790a4da57cdb8ff0d3caba8fb684",
+    "original_sha256": "9ef3cc48786637e5bbd4610790f1e7a1e255189660975752c1c179584aec4572",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual3",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "1ee4434cf83a30d7d5425191b3b185cb7b88c6f52c956637205440690915fa09",
+    "original_sha256": "2dff46c09ef57c46dfe6992ffadc87188c53f52c77e5edc712ae14328e131c32",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual4",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual4.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "cb1bb7b5daea9446eaedaaf2e3ab3c702afd812ac2dc71a660014d8f89ebec05",
+    "original_sha256": "f7cf5c94da3594c07376086944dd26330dc538b8ed0adfc211b903beff65d0af",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual5",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual5.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "4c006f9fb44742732b026831ff1c9cd117e409b46614135304edca99e19d6870",
+    "original_sha256": "bc2f53c1622ec7c2ec07350d5863c7f4e8c321d7f4698ffc2002f79e33284f20",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual7",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual7.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "57a9450cfe00971f2ad55048994acc922d5353f0a3bf7aef294ee8f67aa3578f",
+    "original_sha256": "4f4fe7c3ca3d5458cbb81b9ea8fe727ef8539a5492ffb79ff4cc2409bf99c7af",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual8",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual8.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "9c88602f825a8fe32b724145fd4f420325fb9b31352b3da104f4a1b9aa76a70d",
+    "original_sha256": "002f1624d8d232dc5ff7882ec6a1da731fd8432fde167bb83dbc6d17ff9306f2",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual9",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual9.webp",
+    "size": [
+      1536,
+      1024
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "16fed8dc3367516db6237b1ff8c8bdf832072c04b86bcf05c6699a46dc7f1e18",
+    "original_sha256": "8f6670b34b99951bc6b9ffa39ab7fbe42536fc4142b2b50f63ed246019a54fbf",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual10",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual10.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "c3bf03dea4a809849e379e0ffa2f11804ef79d806bd844b262948bf6e6061715",
+    "original_sha256": "dcdf18e978328a1ef086c28a2c0b9bd2211e5bfc78377a862203215a76bb35d7",
+    "original_retention": "session only, not published"
+  },
+  {
+    "slot": "casual90",
+    "card": "플라이곤",
+    "style": "anime_25d_gloss",
+    "basis": "generator planned slot, selected light attached",
+    "file": "플라이곤_anime_25d_gloss_f_casual90.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "quality": 85,
+    "method": 6,
+    "sha256": "51c01d3da939282a6ca931af6a2cf29ecbd7ebe5b47ec96590ab74e42f74e542",
+    "original_sha256": "d1ffbe214425d7c23f7d01dab29d8387baa03c93d912da194e7adb145bac8fe4",
+    "original_retention": "session only, not published"
+  }
+]

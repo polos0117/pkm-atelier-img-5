@@ -1,0 +1,11 @@
+{
+  "design": "generator",
+  "free_prompt": null,
+  "submitted_sha256": "06dceeaa6798ef37c8481f4157a8ce7d3599fb6c1a4034e708f383410700d345",
+  "reference_candidate": 1,
+  "own": {
+    "level": "bold",
+    "tries": 1,
+    "blocked": []
+  }
+}
